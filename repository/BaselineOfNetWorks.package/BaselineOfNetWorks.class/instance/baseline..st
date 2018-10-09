@@ -10,12 +10,8 @@ baseline: spec
               spec
                 loads: #('Core' 'Development' 'Zinc' 'CI');
                 repository: 'github://SeasideSt/Seaside:master/repository' ];
-        configuration: 'HighchartsSt'
-          with: [ 
-              spec
-                version: #'stable';
-                repository:
-                    'filetree:///opt/git/brunobuzzi/HighchartsSt/repository' ];
+        baseline: 'HighchartsSt'
+          with: [ spec repository: 'filetree:///opt/git/brunobuzzi/HighchartsSt/repository' ];
         baseline: 'AbstractApplicationObjects'
           with: [ 
               spec
