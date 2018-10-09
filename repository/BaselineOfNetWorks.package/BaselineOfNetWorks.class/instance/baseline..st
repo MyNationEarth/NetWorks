@@ -1,5 +1,9 @@
 baseline
 baseline: spec
-	<baseline>
-	spec for: #'common' do: [
-		spec package: 'NetWorks-Core'. ].
+  <baseline>
+  spec
+    for: #'common'
+    do: [ 
+      spec
+        package: 'NetWorks-Core';
+        package: 'NetWorks-Core-Tests' ]

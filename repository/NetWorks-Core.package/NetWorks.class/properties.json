@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NetWorks",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
