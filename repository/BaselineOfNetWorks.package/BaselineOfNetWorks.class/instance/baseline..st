@@ -23,6 +23,4 @@ baseline: spec
           with: [ spec repository: 'github://brunobuzzi/OrbeonPersistenceLayer:master/repository' ];
         baseline: 'BpmFlow'
           with: [ spec repository: 'github://MyNationEarth/BpmFlow:master/repository' ].
-      spec
-        package: 'NetWorks-Core';
-        package: 'NetWorks-Core-Tests' ]
+      spec package: 'NetWorks-Core' ]
