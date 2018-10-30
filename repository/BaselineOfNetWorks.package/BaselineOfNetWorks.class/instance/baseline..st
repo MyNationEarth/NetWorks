@@ -22,5 +22,44 @@ baseline: spec
         baseline: 'OrbeonPersistenceLayer'
           with: [ spec repository: 'github://brunobuzzi/OrbeonPersistenceLayer:master/repository' ];
         baseline: 'BpmFlow'
-          with: [ spec repository: 'github://MyNationEarth/BpmFlow:master/repository' ].
+          with: [ spec repository: 'github://MyNationEarth/BpmFlow:master/repository' ];
+        configuration: 'Magritte3'
+          with: [ 
+              spec
+                versionString: '3.5.2';
+                repository:
+                    'http://www.smalltalkhub.com/mc/Magritte/Magritte3/main' ];
+        configuration: 'Magritte3AddOns'
+          with: [ 
+              spec
+                versionString: '3.1.3';
+                repository:
+                    'http://www.smalltalkhub.com/mc/Magritte/Magritte3Addons/main' ];
+        configuration: 'Bootstrap'
+          with: [ 
+              spec
+                versionString: '0.16.0';
+                repository:
+                    'http://smalltalkhub.com/mc/TorstenBergmann/Bootstrap/main' ];
+        configuration: 'BootstrapMagritte'
+          with: [ 
+              spec
+                versionString: '0.2.3';
+                repository:
+                    'http://www.smalltalkhub.com/mc/TorstenBergmann/BootstrapMagritte/main' ];
+        baseline: 'Cryptography'
+          with: [ 
+              spec
+                loads: #('CI');
+                repository: 'github://GsDevKit/Cryptography:master/repository' ];
+        configuration: 'FontAwesome'
+          with: [ 
+              spec
+                versionString: '0.6.0';
+                repository:
+                    'http://www.smalltalkhub.com/mc/TorstenBergmann/FontAwesome/main' ];
+        baseline: 'JQueryWidgetKit'
+          with: [ spec repository: 'github://JQueryWidgetKit/JQueryWidgetKit/repository' ];
+        baseline: 'AdminLTE'
+          with: [ spec repository: 'github//JupiterSmalltalk/AdminLTE/repository' ].
       spec package: 'NetWorks-Core' ]

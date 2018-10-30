@@ -9,4 +9,5 @@ initializeSystem
   WAOrbeonLogin register.
   WABpmProcessCreationStaticMessage register.
   BpmSystemInitialization initializeCurrentSystem.
-  BpmSystemInitialization createSystemDefaultObjects
+  BpmSystemInitialization createSystemDefaultObjects.
+  NetWorks installDatateksEnvironment
