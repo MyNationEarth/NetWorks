@@ -7,6 +7,7 @@ importFormFromXml: formXml
     form: formReader getFormName)
     xmlString: formXml;
     id: UUID new asString;
-    title: 'Test';
+    title: formReader getTitle;
     processXMLDefinitionFor: OrbeonXmlPath2017_2 new;
+    publish;
     yourself

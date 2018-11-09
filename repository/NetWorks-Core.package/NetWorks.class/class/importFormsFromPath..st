@@ -8,4 +8,4 @@ importFormsFromPath: path
       xmlString := (file := GsFile openRead: formPath) contents.
       file close.
       xmlString ].
-  ^ formXmlStrings collect: [ :formXml | self importFormFromXml: formXml ]
+  ^ formXmlStrings collect: [ :formXml | self importFormFromXml2: formXml ]
