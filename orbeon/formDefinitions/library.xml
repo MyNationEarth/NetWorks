@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><xh:html xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xf="http://www.w3.org/2002/xforms" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xxi="http://orbeon.org/oxf/xml/xinclude" xmlns:xxf="http://orbeon.org/oxf/xml/xforms" xmlns:exf="http://www.exforms.org/exf/1-0" xmlns:fr="http://orbeon.org/oxf/xml/form-runner" xmlns:saxon="http://saxon.sf.net/" xmlns:sql="http://orbeon.org/oxf/xml/sql" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:fb="http://orbeon.org/oxf/xml/form-builder">
+    <xh:head>
+        <xh:title>library</xh:title>
+        <xf:model id="fr-form-model" xxf:expose-xpath-types="true">
+
+            <!-- Main instance -->
+            <xf:instance id="fr-form-instance" xxf:exclude-result-prefixes="#all" xxf:index="id">
+                <form>
+                    <section-1>
+                        <s/><k/><oop/><oop2/><assignmentOop/><uuid/><rol/><username/><processId/><token/>
+                    </section-1>
+                </form>
+            </xf:instance>
+
+            <!-- Bindings -->
+            <xf:bind id="fr-form-binds" ref="instance('fr-form-instance')">
+                <xf:bind id="section-1-bind" name="section-1" ref="section-1">
+                    <xf:bind id="s-bind" name="s" ref="s" xxf:whitespace="trim" required="true()"/><xf:bind id="k-bind" ref="k" name="k" xxf:whitespace="trim" required="true()"/><xf:bind id="oop-bind" ref="oop" name="oop" xxf:whitespace="trim"/><xf:bind id="rol-bind" ref="rol" name="rol" xxf:whitespace="trim" required="true()"/><xf:bind id="oop2-bind" ref="oop2" name="oop2" xxf:whitespace="trim"/><xf:bind id="uuid-bind" ref="uuid" name="uuid" xxf:whitespace="trim"/><xf:bind id="assignmentOop-bind" ref="assignmentOop" name="assignmentOop" xxf:whitespace="trim"/><xf:bind id="username-bind" ref="username" name="username" xxf:whitespace="trim" required="true()"/><xf:bind id="processId-bind" ref="processId" name="processId" xxf:whitespace="trim" required="true()"/><xf:bind id="token-bind" ref="token" name="token" xxf:whitespace="trim" required="true()"/>
+                </xf:bind>
+            </xf:bind>
+
+            <!-- Metadata -->
+            <xf:instance xxf:readonly="true" id="fr-form-metadata" xxf:exclude-result-prefixes="#all">
+                <metadata>
+                    <application-name>orbeon</application-name>
+                    <form-name>library</form-name>
+                    <title xml:lang="en">library</title>
+                    <description xml:lang="en"/>
+                </metadata>
+            </xf:instance>
+
+            <!-- Attachments -->
+            <xf:instance id="fr-form-attachments" xxf:exclude-result-prefixes="#all">
+                <attachments>
+                    <css mediatype="text/css" filename="" size=""/>
+                    <pdf mediatype="application/pdf" filename="" size=""/>
+                </attachments>
+            </xf:instance>
+
+            <!-- All form resources -->
+            <xf:instance xxf:readonly="true" id="fr-form-resources" xxf:exclude-result-prefixes="#all">
+                <resources>
+                    <resource xml:lang="en">
+                        <section-1>
+                            <label>Seaside Integration</label>
+                        </section-1>
+                        <s>
+                            <label>s</label>
+                            <hint/>
+                            
+                        </s><k><label>k</label><hint/></k><oop><label>oop</label><hint/></oop><oop2><label>oop2</label><hint/></oop2><assignmentOop><label>assignmentOop</label><hint/></assignmentOop><uuid><label>uuid</label><hint/></uuid><rol><label>rol</label><hint/></rol><username><label>username</label><hint/></username><processId><label>processId</label><hint/></processId><token><label>token</label><hint/></token>
+                    </resource>
+                </resources>
+            </xf:instance>
+
+        </xf:model>
+    </xh:head>
+    <xh:body>
+        <fr:view>
+            <fr:body xmlns:p="http://www.orbeon.com/oxf/pipeline" xmlns:xbl="http://www.w3.org/ns/xbl" xmlns:oxf="http://www.orbeon.com/oxf/processors">
+                <fr:section id="section-1-section" bind="section-1-bind">
+                    <xf:label ref="$form-resources/section-1/label"/>
+                    <fr:grid id="grid-1-grid"><fr:c y="1" x="1" w="6">
+                                <xf:input id="s-control" bind="s-bind">
+                                    <xf:label ref="$form-resources/s/label"/>
+                                    <xf:hint ref="$form-resources/s/hint"/><xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                    
+                                </xf:input>
+                            </fr:c><fr:c y="1" x="7" w="6"><xf:input id="k-control" bind="k-bind">
+                        <xf:label ref="$form-resources/k/label"/>
+                        <xf:hint ref="$form-resources/k/hint"/><xf:alert ref="$fr-resources/detail/labels/alert"/>
+                        
+                        
+                    </xf:input></fr:c><fr:c x="1" y="2" w="3"><xf:input id="oop-control" bind="oop-bind">
+                        <xf:label ref="$form-resources/oop/label"/>
+                        <xf:hint ref="$form-resources/oop/hint"/><xf:alert ref="$fr-resources/detail/labels/alert"/>
+                        
+                        
+                    </xf:input></fr:c><fr:c x="4" y="2" w="3" h="1"><xf:input id="oop2-control" bind="oop2-bind">
+                        <xf:label ref="$form-resources/oop2/label"/>
+                        <xf:hint ref="$form-resources/oop2/hint"/><xf:alert ref="$fr-resources/detail/labels/alert"/>
+                        
+                        
+                    </xf:input></fr:c><fr:c x="7" y="2" w="3" h="1"><xf:input id="assignmentOop-control" bind="assignmentOop-bind">
+                        <xf:label ref="$form-resources/assignmentOop/label"/>
+                        <xf:hint ref="$form-resources/assignmentOop/hint"/><xf:alert ref="$fr-resources/detail/labels/alert"/>
+                        
+                        
+                    </xf:input></fr:c><fr:c x="10" y="2" w="3" h="1"><xf:input id="uuid-control" bind="uuid-bind">
+                        <xf:label ref="$form-resources/uuid/label"/>
+                        <xf:hint ref="$form-resources/uuid/hint"/><xf:alert ref="$fr-resources/detail/labels/alert"/>
+                        
+                        
+                    </xf:input></fr:c><fr:c x="1" y="3" w="3"><xf:input id="rol-control" bind="rol-bind">
+                        <xf:label ref="$form-resources/rol/label"/>
+                        <xf:hint ref="$form-resources/rol/hint"/><xf:alert ref="$fr-resources/detail/labels/alert"/>
+                        
+                        
+                    </xf:input></fr:c><fr:c x="4" y="3" w="3" h="1"><xf:input id="username-control" bind="username-bind">
+                        <xf:label ref="$form-resources/username/label"/>
+                        <xf:hint ref="$form-resources/username/hint"/><xf:alert ref="$fr-resources/detail/labels/alert"/>
+                        
+                        
+                    </xf:input></fr:c><fr:c x="7" y="3" w="3"><xf:input id="processId-control" bind="processId-bind">
+                        <xf:label ref="$form-resources/processId/label"/>
+                        <xf:hint ref="$form-resources/processId/hint"/><xf:alert ref="$fr-resources/detail/labels/alert"/>
+                        
+                        
+                    </xf:input></fr:c><fr:c x="10" y="3" w="3"><xf:input id="token-control" bind="token-bind">
+                        <xf:label ref="$form-resources/token/label"/>
+                        <xf:hint ref="$form-resources/token/hint"/><xf:alert ref="$fr-resources/detail/labels/alert"/>
+                        
+                        
+                    </xf:input></fr:c></fr:grid>
+                </fr:section>
+            </fr:body>
+        </fr:view>
+    </xh:body>
+</xh:html>

@@ -1,6 +1,6 @@
 as yet unclassified
 installDatateksEnvironment
-  | env app a417NewDevs a401RequestForQuote nbnAssurance clientManagement contractorManagement admin |
+  | env app a417NewDevs a401RequestForQuote nbnAssurance clientManagement contractorManagement admin users |
   "Setup the initial Datateks Environment"
   env := (BpmEnvironment newNamed: 'Datateks') addToCache.
   BpmExceptionCalendar addDefaultCalendarIn: env.
@@ -19,4 +19,10 @@ installDatateksEnvironment
     registerApplication: nbnAssurance;
     registerApplication: clientManagement;
     registerApplication: contractorManagement;
-    registerUser: admin
+    registerUser: admin.
+  users := #('damien' 'marshall' 'gilbert').
+  users
+    do: [ :user | 
+      | newUser |
+      newUser := BpmUser getExistingOrNewUserNamed: user password: user.
+      env registerUser: newUser ]

@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initialize" : "jupiter 11/07/2018 19:31",
+		"lockScreenWidget" : "jupiter 11/07/2018 19:17",
+		"loginWidget" : "jupiter 11/07/2018 19:17",
+		"renderContentOn:" : "jupiter 11/07/2018 19:49",
+		"renderLockScreenWidgetOn:" : "jupiter 11/07/2018 19:18",
+		"renderLoginWidgetOn:" : "jupiter 11/07/2018 19:18" } }

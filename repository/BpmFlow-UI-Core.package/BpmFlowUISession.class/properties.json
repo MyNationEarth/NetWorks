@@ -1,0 +1,17 @@
+{
+	"category" : "BpmFlow-UI-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"announcer",
+		"user",
+		"model",
+		"bpmEnvironment" ],
+	"name" : "BpmFlowUISession",
+	"pools" : [
+		 ],
+	"super" : "WASession",
+	"type" : "normal" }
