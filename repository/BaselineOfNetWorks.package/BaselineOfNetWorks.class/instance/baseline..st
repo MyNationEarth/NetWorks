@@ -69,7 +69,13 @@ baseline: spec
           with: [ spec repository: 'filetree:///opt/git/JupiterSmalltalk/AdminLTE/repository' ].
       spec
         package: 'NetWorks-Core';
-        package: 'NetWorks-Core-Tests';
+        package: 'NetWorks-Core-Tests'
+          with: [ spec requires: #('NetWorks-Core') ];
         package: 'BpmFlow-UI-Core';
-        package: 'NetWorks-Model-Rates';
-        package: 'NetWorks-Model-Rates-Tests' ]
+        package: 'NetWorks-Model-Rates'
+          with: [ spec requires: #('NetWorks-Core') ];
+        package: 'NetWorks-Model-Rates-Tests'
+          with: [ spec requires: #('NetWorks-Model-Rates') ];
+        package: 'NetWorks-Model-Core';
+        package: 'NetWorks-Model-Core-Tests'
+          with: [ spec requires: #('NetWorks-Model-Core') ] ]

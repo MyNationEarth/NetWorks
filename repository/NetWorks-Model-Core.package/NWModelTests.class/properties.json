@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Core-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NWModelTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

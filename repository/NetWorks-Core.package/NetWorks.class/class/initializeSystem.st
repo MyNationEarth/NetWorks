@@ -1,4 +1,4 @@
-as yet unclassified
+setup
 initializeSystem
   "Initialize the entire system correcting anything missing while respecting and preserving existing client data"
 
@@ -10,4 +10,5 @@ initializeSystem
   WABpmProcessCreationStaticMessage register.
   BpmSystemInitialization initializeCurrentSystem.
   BpmSystemInitialization createSystemDefaultObjects.
+  NetWorks reset.
   NetWorks installDatateksEnvironment

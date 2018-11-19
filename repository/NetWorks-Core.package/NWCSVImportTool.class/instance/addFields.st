@@ -1,0 +1,3 @@
+Importing
+addFields
+  ^ self subclassResponsibility

@@ -1,0 +1,18 @@
+{
+	"category" : "NetWorks-Model-Rates",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sorCode",
+		"comment",
+		"unitOfMeasure",
+		"unitOfMeasureComment",
+		"valuePerUnit" ],
+	"name" : "NWRate",
+	"pools" : [
+		 ],
+	"super" : "NWModel",
+	"type" : "normal" }

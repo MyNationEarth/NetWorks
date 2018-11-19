@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"filePath" ],
+	"name" : "NWFileImportTool",
+	"pools" : [
+		 ],
+	"super" : "NWImportTool",
+	"type" : "normal" }
