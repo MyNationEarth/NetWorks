@@ -1,15 +1,18 @@
 as yet unclassified
 installDatateksEnvironment
-  | env app a417NewDevs a401RequestForQuote nbnAssurance clientManagement contractorManagement admin users |
+  | env app orbeonLibraryApplication a417NewDevs a401RequestForQuote nbnAssurance contractorManagement admin users |
   "Setup the initial Datateks Environment"
   env := (BpmEnvironment newNamed: 'Datateks') addToCache.
+  env
+    setFrontofficeApplicationName: 'Wotmworth';
+    setBackofficeApplicationName: 'Wotmworth Backoffice';
+    setBIApplicationName: 'Wotmworth BI'.
   BpmExceptionCalendar addDefaultCalendarIn: env.
+  orbeonLibraryApplication := (OrbeonApplication newNamed: 'orbeon') addToCache.
   a417NewDevs := (OrbeonApplication newNamed: 'a417NewDevs') addToCache.
   a401RequestForQuote := (OrbeonApplication newNamed: 'a401RequestForQuote')
     addToCache.
   nbnAssurance := (OrbeonApplication newNamed: 'nbnAssurance') addToCache.
-  clientManagement := (OrbeonApplication newNamed: 'clientManagement')
-    addToCache.
   contractorManagement := (OrbeonApplication newNamed: 'contractorManagement')
     addToCache.
   admin := BpmUser getExistingOrNewUserNamed: 'admin' password: 'admin'.
@@ -17,7 +20,6 @@ installDatateksEnvironment
     registerApplication: a417NewDevs;
     registerApplication: a401RequestForQuote;
     registerApplication: nbnAssurance;
-    registerApplication: clientManagement;
     registerApplication: contractorManagement;
     registerUser: admin.
   users := #('damien' 'marshall' 'gilbert').
@@ -25,4 +27,5 @@ installDatateksEnvironment
     do: [ :user | 
       | newUser |
       newUser := BpmUser getExistingOrNewUserNamed: user password: user.
-      env registerUser: newUser ]
+      env registerUser: newUser ].
+  self importForms

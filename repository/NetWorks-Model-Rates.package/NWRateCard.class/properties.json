@@ -1,0 +1,19 @@
+{
+	"category" : "NetWorks-Model-Rates",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"title",
+		"comment",
+		"startDate",
+		"endDate",
+		"filePath",
+		"rateCategories" ],
+	"name" : "NWRateCard",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

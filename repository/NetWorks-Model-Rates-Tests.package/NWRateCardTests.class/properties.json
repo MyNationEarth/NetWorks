@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Rates-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NWRateCardTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

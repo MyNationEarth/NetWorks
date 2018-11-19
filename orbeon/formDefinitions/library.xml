@@ -6,15 +6,15 @@
             <!-- Main instance -->
             <xf:instance id="fr-form-instance" xxf:exclude-result-prefixes="#all" xxf:index="id">
                 <form>
-                    <section-1>
+                    <seasideIntegrationSection>
                         <s/><k/><oop/><oop2/><assignmentOop/><uuid/><rol/><username/><processId/><token/>
-                    </section-1>
+                    </seasideIntegrationSection>
                 </form>
             </xf:instance>
 
             <!-- Bindings -->
             <xf:bind id="fr-form-binds" ref="instance('fr-form-instance')">
-                <xf:bind id="section-1-bind" name="section-1" ref="section-1">
+                <xf:bind id="seasideIntegrationSection-bind" name="seasideIntegrationSection" ref="seasideIntegrationSection">
                     <xf:bind id="s-bind" name="s" ref="s" xxf:whitespace="trim" required="true()"/><xf:bind id="k-bind" ref="k" name="k" xxf:whitespace="trim" required="true()"/><xf:bind id="oop-bind" ref="oop" name="oop" xxf:whitespace="trim"/><xf:bind id="rol-bind" ref="rol" name="rol" xxf:whitespace="trim" required="true()"/><xf:bind id="oop2-bind" ref="oop2" name="oop2" xxf:whitespace="trim"/><xf:bind id="uuid-bind" ref="uuid" name="uuid" xxf:whitespace="trim"/><xf:bind id="assignmentOop-bind" ref="assignmentOop" name="assignmentOop" xxf:whitespace="trim"/><xf:bind id="username-bind" ref="username" name="username" xxf:whitespace="trim" required="true()"/><xf:bind id="processId-bind" ref="processId" name="processId" xxf:whitespace="trim" required="true()"/><xf:bind id="token-bind" ref="token" name="token" xxf:whitespace="trim" required="true()"/>
                 </xf:bind>
             </xf:bind>
@@ -41,9 +41,9 @@
             <xf:instance xxf:readonly="true" id="fr-form-resources" xxf:exclude-result-prefixes="#all">
                 <resources>
                     <resource xml:lang="en">
-                        <section-1>
+                        <seasideIntegrationSection>
                             <label>Seaside Integration</label>
-                        </section-1>
+                        </seasideIntegrationSection>
                         <s>
                             <label>s</label>
                             <hint/>
@@ -58,8 +58,8 @@
     <xh:body>
         <fr:view>
             <fr:body xmlns:p="http://www.orbeon.com/oxf/pipeline" xmlns:xbl="http://www.w3.org/ns/xbl" xmlns:oxf="http://www.orbeon.com/oxf/processors">
-                <fr:section id="section-1-section" bind="section-1-bind">
-                    <xf:label ref="$form-resources/section-1/label"/>
+                <fr:section open="false" id="seasideIntegrationSection-section" bind="seasideIntegrationSection-bind">
+                    <xf:label ref="$form-resources/seasideIntegrationSection/label"/>
                     <fr:grid id="grid-1-grid"><fr:c y="1" x="1" w="6">
                                 <xf:input id="s-control" bind="s-bind">
                                     <xf:label ref="$form-resources/s/label"/>
