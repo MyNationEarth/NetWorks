@@ -27,6 +27,8 @@ installDatateksProcesses
   users
     do: [ :user | 
       | newUser |
-      newUser := BpmUser getExistingOrNewUserNamed: user password: user.
+      newUser := BpmUser
+        getExistingOrNewUserNamed: user , '@datateks.com.au'
+        password: user.
       env registerUser: newUser ].
   self importForms

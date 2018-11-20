@@ -5,4 +5,6 @@ renderContentOn: canvas
       self userName isNil
         ifTrue: [ self renderLoginWidgetOn: canvas ]
         ifFalse: [ self renderLockScreenWidgetOn: canvas ] ]
-    ifTrue: [ super renderContentOn: canvas ]
+    ifTrue: [ 
+      super renderContentOn: canvas.
+      self renderSupportForAjaxErrorHandlerOn: canvas ]

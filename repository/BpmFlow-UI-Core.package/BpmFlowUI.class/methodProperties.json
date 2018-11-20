@@ -2,9 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
-		"initialize" : "jupiter 11/07/2018 19:31",
+		"ajaxErrorHandler" : "jupiter 11/20/2018 13:50",
+		"initialize" : "jupiter 11/20/2018 13:55",
 		"lockScreenWidget" : "jupiter 11/07/2018 19:17",
 		"loginWidget" : "jupiter 11/20/2018 12:17",
-		"renderContentOn:" : "jupiter 11/07/2018 19:49",
+		"renderContentOn:" : "jupiter 11/20/2018 13:49",
 		"renderLockScreenWidgetOn:" : "jupiter 11/07/2018 19:18",
-		"renderLoginWidgetOn:" : "jupiter 11/07/2018 19:18" } }
+		"renderLoginWidgetOn:" : "jupiter 11/07/2018 19:18",
+		"renderSupportForAjaxErrorHandlerOn:" : "jupiter 11/20/2018 13:52",
+		"userNavbarMenu" : "jupiter 11/20/2018 14:00",
+		"validateUserName:password:" : "jupiter 11/20/2018 13:58" } }
