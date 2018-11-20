@@ -3,6 +3,7 @@ installDatateksProcesses
   | env app orbeonLibraryApplication a417NewDevs a401RequestForQuote nbnAssurance contractorManagement admin users |
   "Setup the initial Datateks Environment"
   env := (BpmEnvironment newNamed: 'Datateks') addToCache.
+  (self instance organisationModels at: #'Datateks') bpmEnvironment: env.
   env
     setFrontofficeApplicationName: 'Wotmworth';
     setBackofficeApplicationName: 'Wotmworth Backoffice';

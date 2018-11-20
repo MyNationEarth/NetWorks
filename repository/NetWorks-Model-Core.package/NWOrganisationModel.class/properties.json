@@ -1,0 +1,15 @@
+{
+	"category" : "NetWorks-Model-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"bpmEnvironment",
+		"rateCards" ],
+	"name" : "NWOrganisationModel",
+	"pools" : [
+		 ],
+	"super" : "NWModel",
+	"type" : "normal" }
