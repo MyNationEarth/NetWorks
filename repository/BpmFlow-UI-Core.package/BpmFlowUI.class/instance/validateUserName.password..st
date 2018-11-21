@@ -7,6 +7,9 @@ validateUserName: aWAEmailAddress password: password
   loginMode := self getGemStoneServerConfiguration
     loginModeFor: 'orbeon-processes-web'.
   (loginMode validateUser: userName password: password)
-    ifFalse: [ ^ Error signal: 'No user found with name "' , userName , '".' ].
+    ifFalse: [ 
+      ^ Error
+        signal:
+          'The user name and password combination you entered was not found.' ].
   logedUser := BpmUser getExistingOrNewUserNamed: userName.
   self session user: logedUser

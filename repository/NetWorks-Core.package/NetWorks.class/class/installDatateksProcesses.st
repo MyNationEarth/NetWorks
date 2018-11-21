@@ -1,6 +1,6 @@
 setup
 installDatateksProcesses
-  | env app orbeonLibraryApplication a417NewDevs a401RequestForQuote nbnAssurance contractorManagement admin users |
+  | env app orbeonLibraryApplication a417NewDevs a401RequestForQuote nbnAssurance contractorManagement admin |
   "Setup the initial Datateks Environment"
   env := (BpmEnvironment newNamed: 'Datateks') addToCache.
   (self instance organisationModels at: #'Datateks') bpmEnvironment: env.
@@ -23,12 +23,14 @@ installDatateksProcesses
     registerApplication: nbnAssurance;
     registerApplication: contractorManagement;
     registerUser: admin.
-  users := #('damien' 'marshall' 'gilbert').
-  users
+  self datateksUserInfo
     do: [ :user | 
       | newUser |
-      newUser := BpmUser
-        getExistingOrNewUserNamed: user , '@datateks.com.au'
-        password: user.
+      newUser := (BpmUser getExistingOrNewUserNamed: (user at: 3))
+        password: (user at: 1) asLowercase;
+        givenName: (user at: 1);
+        familyName: (user at: 2);
+        emailAddress: (user at: 3);
+        yourself.
       env registerUser: newUser ].
   self importForms

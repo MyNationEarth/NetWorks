@@ -3,19 +3,19 @@ userNavbarMenu
   | menu |
   menu := AdminLTEUserNavbarItem new
     icon: #'user';
-    label: [ self session user username ];
+    label: [ self session user displayName ];
     cssClass: 'user user-menu';
     menuHeader: [ :canvas | 
           canvas tbsImage
             beCircle;
             url:
-                (self session user avatar
+                (self session user avatarUrl
                     ifNil: [ AdminLTEFileLibrary / #'imagesuserSvg' ]
-                    ifNotNil: [ :avatar | avatar url ]).
+                    ifNotNil: [ :avatarUrl | avatarUrl ]).
           canvas
             paragraph: [ 
-              canvas text: self session user title.
-              canvas small: 'Comment about the user' ] ];
+              canvas text: self session user displayName.
+              canvas small: self session user emailAddress ] ];
     menuFooter: [ :canvas | 
           canvas
             tbsForm: [ 
