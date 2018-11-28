@@ -1,4 +1,4 @@
-setup
+datateks
 installDatateksProcesses
   | env app orbeonLibraryApplication a417NewDevs a401RequestForQuote nbnAssurance contractorManagement admin |
   "Setup the initial Datateks Environment"

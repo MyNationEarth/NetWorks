@@ -1,4 +1,4 @@
-setup
+datateks
 installDatateksEnvironment
   self
     installDatateksOrganisationModel;

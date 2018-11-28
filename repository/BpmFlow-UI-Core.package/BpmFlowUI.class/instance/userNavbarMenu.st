@@ -10,7 +10,7 @@ userNavbarMenu
             beCircle;
             url:
                 (self session user avatarUrl
-                    ifNil: [ AdminLTEFileLibrary / #'imagesuserSvg' ]
+                    ifNil: [ BpmFlowUIFileLibrary / #'imagesuserPng' ]
                     ifNotNil: [ :avatarUrl | avatarUrl ]).
           canvas
             paragraph: [ 

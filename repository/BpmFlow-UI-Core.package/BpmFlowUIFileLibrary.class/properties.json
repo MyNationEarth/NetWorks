@@ -1,0 +1,14 @@
+{
+	"category" : "BpmFlow-UI-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 11/20/2018 17:56",
+	"instvars" : [
+		 ],
+	"name" : "BpmFlowUIFileLibrary",
+	"pools" : [
+		 ],
+	"super" : "WAFileMetadataLibrary",
+	"type" : "normal" }

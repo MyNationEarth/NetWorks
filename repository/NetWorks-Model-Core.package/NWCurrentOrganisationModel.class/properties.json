@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 11/20/2018 19:02",
+	"instvars" : [
+		 ],
+	"name" : "NWCurrentOrganisationModel",
+	"pools" : [
+		 ],
+	"super" : "WADynamicVariable",
+	"type" : "normal" }

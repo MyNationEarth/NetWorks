@@ -1,4 +1,4 @@
-setup
+datateks
 installDatateksRateCards
   | basePath |
   basePath := '/opt/git/MyNationEarth/NetWorks/documents/Datateks/rateCards/'.
