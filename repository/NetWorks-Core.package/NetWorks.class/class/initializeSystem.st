@@ -10,5 +10,6 @@ initializeSystem
   WABpmProcessCreationStaticMessage register.
   BpmSystemInitialization initializeCurrentSystem.
   BpmSystemInitialization createSystemDefaultObjects.
+  BpmFlowUIAdmin install.
   NetWorks reset.
   NetWorks installDatateksEnvironment

@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"stringDescription" : "jupiter 02/02/2019 14:18",
+		"testBadAttribute" : "jupiter 02/02/2019 14:18",
+		"testNewAttribute" : "jupiter 02/02/2019 14:19",
+		"testNoParentAttribute" : "jupiter 02/02/2019 14:19",
+		"testParentAttribute" : "jupiter 02/02/2019 14:19" } }

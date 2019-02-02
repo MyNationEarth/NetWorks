@@ -5,8 +5,8 @@ importFormFromXml: formXml
   application := OrbeonApplication
     applicationNamed: formReader getApplicationName.
   savedDefinition := OrbeonSavedFormDefinition
-    app: formReader getApplicationName
-    form: formReader getFormName.
+    newNamed: formReader getFormName
+    inAppNamed: formReader getApplicationName.
   savedDefinition
     id: UUID new asString;
     version: 1;

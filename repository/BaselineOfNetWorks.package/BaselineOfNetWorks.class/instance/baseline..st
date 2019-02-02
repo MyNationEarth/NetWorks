@@ -74,10 +74,11 @@ baseline: spec
         package: 'BpmFlow-UI-Core'
           with: [ spec requires: #('NetWorks-Core' 'BpmFlow') ];
         package: 'NetWorks-Model-Core'
-          with: [ spec requires: #('NetWorks-Core') ];
+          with: [ spec requires: #('NetWorks-Core' 'NetWorks-Model-Magritte') ];
         package: 'NetWorks-Model-Core-Tests'
           with: [ spec requires: #('NetWorks-Model-Core') ];
         package: 'NetWorks-Model-Rates'
           with: [ spec requires: #('NetWorks-Model-Core') ];
         package: 'NetWorks-Model-Rates-Tests'
-          with: [ spec requires: #('NetWorks-Model-Rates') ] ]
+          with: [ spec requires: #('NetWorks-Model-Rates') ];
+        package: 'NetWorks-Model-Magritte' ]

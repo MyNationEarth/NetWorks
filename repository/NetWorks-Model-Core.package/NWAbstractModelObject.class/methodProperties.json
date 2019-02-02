@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"attributeAt:" : "jupiter 02/02/2019 14:23",
+		"attributeAt:ifAbsentPut:" : "jupiter 02/02/2019 14:33",
+		"attributeAt:put:" : "jupiter 02/02/2019 14:03",
+		"attributes" : "jupiter 02/02/2019 14:03",
+		"canBeDeleted" : "jupiter 02/02/2019 13:52",
+		"cleanUpAfterDelete" : "jupiter 02/02/2019 13:52",
+		"descriptionContainer" : "jupiter 02/02/2019 13:52",
+		"hasChanged:" : "jupiter 02/02/2019 13:53",
+		"jsonOn:" : "jupiter 02/02/2019 13:53",
+		"mementoClass" : "jupiter 02/02/2019 13:53",
+		"model" : "jupiter 02/02/2019 13:56",
+		"parent" : "jupiter 02/02/2019 14:03",
+		"parent:" : "jupiter 02/02/2019 14:03",
+		"parentDescription" : "jupiter 02/02/2019 14:04",
+		"uriPrefix" : "jupiter 02/02/2019 14:34" } }

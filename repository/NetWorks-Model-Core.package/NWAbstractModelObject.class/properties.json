@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"attributes" ],
+	"name" : "NWAbstractModelObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

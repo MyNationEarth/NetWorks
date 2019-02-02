@@ -4,7 +4,7 @@ install
   application := WAAdmin register: BpmFlowUI asApplicationAt: 'BpmFlowUI'.
   application preferenceAt: #'sessionClass' put: BpmFlowUISession.
   application
-    addLibrary: JQ2DevelopmentLibrary;
+    addLibrary: JQDevelopmentLibrary;
     addLibrary: TBSDevelopmentLibrary;
     addLibrary: TBSJasnyDevelopmentLibrary;
     addLibrary: FAWDevelopmentLibrary;

@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Core-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NWIdentifiableObjectTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

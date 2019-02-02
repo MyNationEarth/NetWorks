@@ -4,10 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "jupiter 02/02/2019 14:17",
 	"instvars" : [
 		 ],
-	"name" : "NWModelTests",
+	"name" : "NWAbstractModelObjectTests",
 	"pools" : [
 		 ],
 	"super" : "TestCase",
