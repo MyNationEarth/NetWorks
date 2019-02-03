@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"label" : "DataCurator 02/02/2019 16:21" },
+	"instance" : {
+		"children" : "DataCurator 02/02/2019 16:21",
+		"componentAt:ifAbsentPut:" : "DataCurator 02/02/2019 16:21",
+		"components" : "DataCurator 02/02/2019 16:21",
+		"doValidateTo:" : "DataCurator 02/02/2019 16:21",
+		"initialize" : "DataCurator 02/02/2019 16:21",
+		"model" : "DataCurator 02/02/2019 16:21" } }

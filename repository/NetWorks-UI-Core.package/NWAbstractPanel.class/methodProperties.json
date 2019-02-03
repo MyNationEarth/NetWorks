@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"canBeAccessedByUser:" : "DataCurator 02/02/2019 16:24",
+		"children" : "DataCurator 02/02/2019 16:24",
+		"componentAt:" : "DataCurator 02/02/2019 16:24",
+		"componentAt:ifAbsentPut:" : "DataCurator 02/02/2019 16:24",
+		"initialize" : "DataCurator 02/02/2019 16:24",
+		"model" : "DataCurator 02/02/2019 16:24",
+		"permissionsRequired" : "DataCurator 02/02/2019 16:24",
+		"renderBreadcrumbOn:" : "DataCurator 02/02/2019 16:24",
+		"renderPresenterBreadcrumbs:on:" : "DataCurator 02/02/2019 16:24" } }

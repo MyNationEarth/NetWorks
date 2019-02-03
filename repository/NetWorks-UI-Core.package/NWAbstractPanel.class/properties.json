@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-UI-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"components" ],
+	"name" : "NWAbstractPanel",
+	"pools" : [
+		 ],
+	"super" : "AdminLTEContentPanel",
+	"type" : "normal" }
