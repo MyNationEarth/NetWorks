@@ -66,7 +66,7 @@ baseline: spec
         baseline: 'JQueryWidgetKit'
           with: [ spec repository: 'github://JQueryWidgetKit/JQueryWidgetKit/repository' ];
         baseline: 'AdminLTE'
-          with: [ spec repository: 'github://JupiterSmalltalk/AdminLTE/repository' ].
+          with: [ spec repository: 'github://JupiterSmalltalk/AdminLTE:seaside/repository' ].
       spec
         package: 'NetWorks-Core';
         package: 'NetWorks-Core-Tests'
