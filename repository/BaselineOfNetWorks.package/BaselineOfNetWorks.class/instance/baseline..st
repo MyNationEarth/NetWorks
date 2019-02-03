@@ -22,7 +22,7 @@ baseline: spec
         baseline: 'OrbeonPersistenceLayer'
           with: [ spec repository: 'github://brunobuzzi/OrbeonPersistenceLayer:master/repository' ];
         baseline: 'BpmFlow'
-          with: [ spec repository: 'filetree:///opt/git/MyNationEarth/BpmFlow/repository' ];
+          with: [ spec repository: 'github://MyNationEarth/BpmFlow/repository' ];
         configuration: 'Magritte3'
           with: [ 
               spec
