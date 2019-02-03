@@ -3,6 +3,7 @@
 		 },
 	"instance" : {
 		"stringDescription" : "jupiter 02/02/2019 14:18",
+		"testAtIfAbsentPutAttribute" : "jupiter 02/02/2019 14:59",
 		"testBadAttribute" : "jupiter 02/02/2019 14:18",
 		"testNewAttribute" : "jupiter 02/02/2019 14:19",
 		"testNoParentAttribute" : "jupiter 02/02/2019 14:19",

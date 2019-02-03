@@ -9,7 +9,8 @@
 		"bpmEnvironment",
 		"dnsName",
 		"branding",
-		"rateCards" ],
+		"rateCards",
+		"contracts" ],
 	"name" : "NWOrganisationModel",
 	"pools" : [
 		 ],

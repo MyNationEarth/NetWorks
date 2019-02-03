@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Contracts-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NWContractTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

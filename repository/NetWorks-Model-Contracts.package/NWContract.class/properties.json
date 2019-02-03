@@ -1,0 +1,16 @@
+{
+	"category" : "NetWorks-Model-Contracts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"client",
+		"bpmProcess",
+		"projects" ],
+	"name" : "NWContract",
+	"pools" : [
+		 ],
+	"super" : "NWObjectWithTitleAndComment",
+	"type" : "normal" }

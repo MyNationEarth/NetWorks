@@ -81,4 +81,11 @@ baseline: spec
           with: [ spec requires: #('NetWorks-Model-Core') ];
         package: 'NetWorks-Model-Rates-Tests'
           with: [ spec requires: #('NetWorks-Model-Rates') ];
-        package: 'NetWorks-Model-Magritte' ]
+        package: 'NetWorks-Model-Magritte';
+        package: 'NetWorks-Model-Contracts'
+          with: [ spec requires: #('NetWorks-Core' 'NetWorks-Model-Projects') ];
+        package: 'NetWorks-Model-Contracts-Tests'
+          with: [ spec requires: #('NetWorks-Model-Contracts') ];
+        package: 'NetWorks-Model-Projects';
+        package: 'NetWorks-Model-Projects-Tests'
+          with: [ spec requires: #('NetWorks-Model-Projects') ] ]
