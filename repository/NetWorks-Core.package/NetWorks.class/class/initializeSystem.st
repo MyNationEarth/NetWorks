@@ -3,9 +3,9 @@ initializeSystem
   "Initialize the entire system correcting anything missing while respecting and preserving existing client data"
 
   WABpmCentralPortal register.
-  WABpmFrontofficePortal register.
-  WABpmFrontofficePortal register.
-  WABpmBIPortal register.
+  WABpmFrontofficeLogin register.
+  WABpmBackofficeLogin register.
+  WABpmBIandChartsLogin register.
   WABpmStartAnonymousProcessPortal register.
   WAOrbeonProcessLayer register.
   WAOrbeonLogin register.
