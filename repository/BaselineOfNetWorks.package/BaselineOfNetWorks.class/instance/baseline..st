@@ -90,4 +90,6 @@ baseline: spec
         package: 'NetWorks-Model-Projects-Tests'
           with: [ spec requires: #('NetWorks-Model-Projects') ];
         package: 'NetWorks-UI-Core'
-          with: [ spec requires: #('NetWorks-Model-Contracts' 'AdminLTE') ] ]
+          with: [ spec requires: #('NetWorks-Model-Contracts' 'NetWorks-UI-Magritte' 'AdminLTE') ];
+        package: 'NetWorks-UI-Magritte'
+          with: [ spec requires: #('NetWorks-Model-Magritte') ] ]
