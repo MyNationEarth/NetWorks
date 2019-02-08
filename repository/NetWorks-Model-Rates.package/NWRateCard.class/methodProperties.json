@@ -2,16 +2,16 @@
 	"class" : {
 		"fromRateCardCSVFileOnPath:" : "jupiter 11/18/2018 23:04" },
 	"instance" : {
-		"comment" : "jupiter 11/18/2018 22:59",
-		"comment:" : "jupiter 11/18/2018 22:59",
+		"descriptionContainer" : "jupiter 02/04/2019 16:21",
 		"endDate" : "jupiter 11/18/2018 22:59",
 		"endDate:" : "jupiter 11/18/2018 22:59",
 		"filePath" : "jupiter 11/18/2018 22:59",
 		"filePath:" : "jupiter 11/18/2018 22:59",
 		"import" : "jupiter 11/18/2018 23:23",
+		"numberOfRateCategories" : "jupiter 02/04/2019 16:44",
+		"numberOfRateCategoriesDescription" : "jupiter 02/04/2019 17:16",
 		"rateCategories" : "jupiter 11/18/2018 22:59",
 		"rateCategories:" : "jupiter 11/18/2018 22:59",
+		"rateCategoriesDescription" : "jupiter 02/04/2019 17:18",
 		"startDate" : "jupiter 11/18/2018 22:59",
-		"startDate:" : "jupiter 11/18/2018 22:59",
-		"title" : "jupiter 11/18/2018 22:59",
-		"title:" : "jupiter 11/18/2018 22:59" } }
+		"startDate:" : "jupiter 11/18/2018 22:59" } }

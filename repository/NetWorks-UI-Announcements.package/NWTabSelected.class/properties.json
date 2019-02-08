@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-UI-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tab" ],
+	"name" : "NWTabSelected",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

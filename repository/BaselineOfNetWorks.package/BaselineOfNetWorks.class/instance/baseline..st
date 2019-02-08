@@ -90,6 +90,12 @@ baseline: spec
         package: 'NetWorks-Model-Projects-Tests'
           with: [ spec requires: #('NetWorks-Model-Projects') ];
         package: 'NetWorks-UI-Core'
-          with: [ spec requires: #('NetWorks-Model-Contracts' 'NetWorks-UI-Magritte' 'AdminLTE') ];
+          with: [ 
+              spec
+                requires:
+                  #('NetWorks-UI-Magritte' 'NetWorks-UI-Announcements' 'FontAwesome' 'AdminLTE') ];
         package: 'NetWorks-UI-Magritte'
-          with: [ spec requires: #('NetWorks-Model-Magritte') ] ]
+          with: [ spec requires: #('NetWorks-Model-Magritte') ];
+        package: 'NetWorks-UI-Rates'
+          with: [ spec requires: #('NetWorks-Model-Rates') ];
+        package: 'NetWorks-UI-Announcements' ]

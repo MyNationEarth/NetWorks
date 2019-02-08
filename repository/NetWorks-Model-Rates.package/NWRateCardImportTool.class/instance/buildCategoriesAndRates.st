@@ -4,7 +4,9 @@ buildCategoriesAndRates
   (rateCategories := OrderedCollection new)
     add:
       (category := NWRateCategory new
-        comment: 'Uncategorised Rates';
+        title: 'Uncategorised Rates';
+        comment:
+            'Rates from impoted rate cards that do not have a defined category.';
         yourself).
   processRow := false.
   rows
@@ -19,10 +21,14 @@ buildCategoriesAndRates
           (row includesKey: #'unitOfMeasurement')
             ifFalse: [ 
               "Add Category"
-              rateCategories add: (category := NWRateCategory new).	"New Rate Category"
+              rateCategories add: (category := NWRateCategory new).	"New Rate Category - ensuer title is not nil"
+              category title: ''.
               row
                 at: #'sorCode'
-                ifPresent: [ :sorCodePrefix | category sorCodePrefix: sorCodePrefix ].
+                ifPresent: [ :sorCodePrefix | 
+                  category
+                    title: sorCodePrefix;
+                    sorCodePrefix: sorCodePrefix ].
               row
                 at: #'sorDescription'
                 ifPresent: [ :sorDescription | category comment: sorDescription ] ]

@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-UI-Rates",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NWRateCardComponent",
+	"pools" : [
+		 ],
+	"super" : "NWTabbedContainerComponent",
+	"type" : "normal" }

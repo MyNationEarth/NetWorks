@@ -6,8 +6,6 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"title",
-		"comment",
 		"startDate",
 		"endDate",
 		"filePath",
@@ -15,5 +13,5 @@
 	"name" : "NWRateCard",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "NWObjectWithTitleAndComment",
 	"type" : "normal" }

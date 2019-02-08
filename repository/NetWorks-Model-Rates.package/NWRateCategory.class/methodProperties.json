@@ -3,8 +3,11 @@
 		 },
 	"instance" : {
 		"addRate:" : "jupiter 11/18/2018 20:59",
-		"comment" : "jupiter 11/18/2018 20:45",
-		"comment:" : "jupiter 11/18/2018 20:45",
+		"descriptionContainer" : "jupiter 02/04/2019 16:21",
 		"initialize" : "jupiter 11/18/2018 20:59",
+		"numberOfRates" : "jupiter 02/04/2019 16:48",
+		"numberOfRatesDescription" : "jupiter 02/04/2019 17:19",
+		"rates" : "jupiter 02/04/2019 17:19",
+		"rates:" : "jupiter 02/04/2019 17:19",
 		"sorCodePrefix" : "jupiter 11/18/2018 20:45",
 		"sorCodePrefix:" : "jupiter 11/18/2018 20:45" } }

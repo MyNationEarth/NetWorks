@@ -7,10 +7,9 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"sorCodePrefix",
-		"comment",
 		"rates" ],
 	"name" : "NWRateCategory",
 	"pools" : [
 		 ],
-	"super" : "NWModel",
+	"super" : "NWObjectWithTitleAndComment",
 	"type" : "normal" }
