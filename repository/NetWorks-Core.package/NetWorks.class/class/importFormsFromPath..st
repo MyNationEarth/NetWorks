@@ -1,7 +1,7 @@
 forms
 importFormsFromPath: path
   | formXmlPaths libraryPaths formXmlStrings |
-  formXmlPaths := (GsFile contentsOfDirectory: path onClient: true)
+  formXmlPaths := (GsFile contentsOfDirectory: path onClient: false)
     select: [ :filePath | filePath endsWith: '.xml' ].
   libraryPaths := formXmlPaths
     removeAllSuchThat: [ :formXmlPath | formXmlPath endsWith: 'library.xml' ].
