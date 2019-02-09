@@ -9,7 +9,7 @@ importFormsFromPath: path
   formXmlStrings := formXmlPaths
     collect: [ :formPath | 
       | file xmlString |
-      xmlString := (file := GsFile openRead: formPath) contents.
+      xmlString := (file := GsFile openReadOnServer: formPath) contents.
       file close.
       xmlString ].
   ^ formXmlStrings collect: [ :formXml | self importFormFromXml: formXml ]
