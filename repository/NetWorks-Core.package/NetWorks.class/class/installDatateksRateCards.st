@@ -1,7 +1,7 @@
 datateks
 installDatateksRateCards
   | basePath |
-  basePath := '/opt/git/MyNationEarth/NetWorks/documents/Datateks/rateCards/'.
+  basePath := self rateCardImportBasePath.
   (NetWorks instance organisationModels at: #'Datateks') rateCards
     add:
         ((NWRateCard fromRateCardCSVFileOnPath: basePath , 'Metro Combined Rates.csv')
