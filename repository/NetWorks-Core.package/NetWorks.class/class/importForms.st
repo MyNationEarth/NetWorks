@@ -2,4 +2,4 @@ forms
 importForms
   ^ self
     importFormsFromPath:
-      '/opt/git/MyNationEarth/NetWorks/orbeon/formDefinitions/'
+      self projectBaseDirectory pathName , '/orbeon/formDefinitions/'
