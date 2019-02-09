@@ -1,3 +1,5 @@
 initialization
 initializePanels
-  self addPanel: (NWRateCardsPanel parent: self)
+  self
+    addPanel: (NWDashboardPanel parent: self);
+    addPanel: (NWRateCardsPanel parent: self)
