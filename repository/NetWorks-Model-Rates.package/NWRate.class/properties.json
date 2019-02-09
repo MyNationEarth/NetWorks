@@ -7,12 +7,11 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"sorCode",
-		"comment",
 		"unitOfMeasure",
 		"unitOfMeasureComment",
 		"valuePerUnit" ],
 	"name" : "NWRate",
 	"pools" : [
 		 ],
-	"super" : "NWModel",
+	"super" : "NWObjectWithTitleAndComment",
 	"type" : "normal" }

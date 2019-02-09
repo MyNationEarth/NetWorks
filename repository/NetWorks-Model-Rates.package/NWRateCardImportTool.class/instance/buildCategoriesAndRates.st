@@ -21,8 +21,7 @@ buildCategoriesAndRates
           (row includesKey: #'unitOfMeasurement')
             ifFalse: [ 
               "Add Category"
-              rateCategories add: (category := NWRateCategory new).	"New Rate Category - ensuer title is not nil"
-              category title: ''.
+              rateCategories add: (category := NWRateCategory new).
               row
                 at: #'sorCode'
                 ifPresent: [ :sorCodePrefix | 
@@ -31,12 +30,19 @@ buildCategoriesAndRates
                     sorCodePrefix: sorCodePrefix ].
               row
                 at: #'sorDescription'
-                ifPresent: [ :sorDescription | category comment: sorDescription ] ]
+                ifPresent: [ :sorDescription | 
+                  category comment: sorDescription.	"If there is no title, use the sorDescription to ensure title is not nil or blank"
+                  category title ifNil: [ category title: sorDescription ] ] ]
             ifTrue: [ 
               | rate |
               "Add Rate"
               category addRate: (rate := NWRate new).
-              row at: #'sorCode' ifPresent: [ :sorCode | rate sorCode: sorCode ].
+              row
+                at: #'sorCode'
+                ifPresent: [ :sorCode | 
+                  rate
+                    title: sorCode;
+                    sorCode: sorCode ].
               row
                 at: #'sorDescription'
                 ifPresent: [ :sorComment | rate comment: sorComment ].
@@ -45,4 +51,6 @@ buildCategoriesAndRates
                 ifPresent: [ :unitOfMeasureComment | rate unitOfMeasureComment: unitOfMeasureComment ].
               row
                 at: #'valuePerUnit'
-                ifPresent: [ :valuePerUnit | rate valuePerUnit: valuePerUnit ] ] ] ]
+                ifPresent: [ :valuePerUnit | rate valuePerUnit: valuePerUnit ].	"Check for nil inst vars and create defaults."
+              rate title ifNil: [ rate title: 'Unititled' ].
+              rate sorCode ifNil: [ rate sorCode: 'Undefined' ] ] ] ]

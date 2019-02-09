@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "jupiter 02/09/2019 09:59",
 	"instvars" : [
 		 ],
-	"name" : "NWRateCategoryComponent",
+	"name" : "NWRateContainer",
 	"pools" : [
 		 ],
-	"super" : "NWTabbedContainerComponent",
+	"super" : "NWContainer",
 	"type" : "normal" }

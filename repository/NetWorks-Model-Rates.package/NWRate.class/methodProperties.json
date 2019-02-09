@@ -2,13 +2,17 @@
 	"class" : {
 		 },
 	"instance" : {
-		"comment" : "jupiter 11/18/2018 20:56",
-		"comment:" : "jupiter 11/18/2018 20:56",
+		"descriptionContainer" : "jupiter 02/09/2019 10:00",
 		"sorCode" : "jupiter 11/18/2018 20:45",
 		"sorCode:" : "jupiter 11/18/2018 20:45",
+		"sorCodeDescription" : "jupiter 02/09/2019 10:02",
 		"unitOfMeasure" : "jupiter 11/18/2018 20:45",
 		"unitOfMeasure:" : "jupiter 11/18/2018 20:45",
 		"unitOfMeasureComment" : "jupiter 11/18/2018 20:55",
 		"unitOfMeasureComment:" : "jupiter 11/18/2018 20:55",
+		"unitOfMeasureCommentDescription" : "jupiter 02/09/2019 10:04",
+		"unitOfMeasureDescription" : "jupiter 02/09/2019 10:03",
 		"valuePerUnit" : "jupiter 11/18/2018 20:45",
-		"valuePerUnit:" : "jupiter 11/18/2018 20:45" } }
+		"valuePerUnit:" : "jupiter 11/18/2018 20:45",
+		"valuePerUnitCommentDescription" : "jupiter 02/09/2019 10:05",
+		"valuePerUnitDescription" : "jupiter 02/09/2019 10:59" } }

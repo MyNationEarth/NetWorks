@@ -2,4 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"icon" : "jupiter 02/04/2019 16:16" } }
+		"icon" : "jupiter 02/09/2019 10:09",
+		"initialize" : "jupiter 02/09/2019 10:10",
+		"newObjectLabel" : "jupiter 02/09/2019 10:11",
+		"renderBasicsOn:" : "jupiter 02/09/2019 10:12",
+		"renderRatesOn:" : "jupiter 02/09/2019 10:12",
+		"tabs" : "jupiter 02/09/2019 10:11" } }
