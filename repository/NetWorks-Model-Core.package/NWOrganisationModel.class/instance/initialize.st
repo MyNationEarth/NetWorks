@@ -3,4 +3,5 @@ initialize
   super initialize.
   rateCards := OrderedCollection new.
   clients := OrderedCollection new.
-  contracts := OrderedCollection new
+  contracts := OrderedCollection new.
+  projects := OrderedCollection new

@@ -1,0 +1,3 @@
+Accessing
+cspoLineItmes
+	^cspoLineItmes

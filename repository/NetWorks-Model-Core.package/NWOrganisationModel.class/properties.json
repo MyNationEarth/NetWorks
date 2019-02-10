@@ -11,7 +11,8 @@
 		"branding",
 		"rateCards",
 		"clients",
-		"contracts" ],
+		"contracts",
+		"projects" ],
 	"name" : "NWOrganisationModel",
 	"pools" : [
 		 ],

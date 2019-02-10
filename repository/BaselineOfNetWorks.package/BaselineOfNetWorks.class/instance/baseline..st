@@ -82,11 +82,18 @@ baseline: spec
         package: 'NetWorks-Model-Rates-Tests'
           with: [ spec requires: #('NetWorks-Model-Rates') ];
         package: 'NetWorks-Model-Magritte';
+        package: 'NetWorks-Model-Clients'
+          with: [ spec requires: #('NetWorks-Model-Core') ];
+        package: 'NetWorks-Model-Clients-Tests';
         package: 'NetWorks-Model-Contracts'
-          with: [ spec requires: #('NetWorks-Core' 'NetWorks-Model-Projects') ];
+          with: [ 
+              spec
+                requires:
+                  #('NetWorks-Core' 'NetWorks-Model-Clients' 'NetWorks-Model-Projects') ];
         package: 'NetWorks-Model-Contracts-Tests'
           with: [ spec requires: #('NetWorks-Model-Contracts') ];
-        package: 'NetWorks-Model-Projects';
+        package: 'NetWorks-Model-Projects'
+          with: [ spec requires: #('NetWorks-Model-Core') ];
         package: 'NetWorks-Model-Projects-Tests'
           with: [ spec requires: #('NetWorks-Model-Projects') ];
         package: 'NetWorks-UI-Core'
@@ -100,9 +107,8 @@ baseline: spec
           with: [ spec requires: #('NetWorks-Model-Rates') ];
         package: 'NetWorks-UI-Announcements';
         package: 'NetWorks-UI-Dashboard';
-        package: 'NetWorks-Model-Clients';
-        package: 'NetWorks-Model-Clients-Tests';
         package: 'NetWorks-UI-Clients'
           with: [ spec requires: #('NetWorks-Model-Clients') ];
         package: 'NetWorks-UI-Contracts'
-          with: [ spec requires: #('NetWorks-Model-Contracts') ] ]
+          with: [ spec requires: #('NetWorks-Model-Contracts') ];
+        package: 'NetWorks-UI-Projects' ]
