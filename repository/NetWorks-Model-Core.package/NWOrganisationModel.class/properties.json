@@ -10,6 +10,7 @@
 		"dnsName",
 		"branding",
 		"rateCards",
+		"clients",
 		"contracts" ],
 	"name" : "NWOrganisationModel",
 	"pools" : [

@@ -1,0 +1,15 @@
+{
+	"category" : "NetWorks-Model-Clients",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mainContactNumber",
+		"contacts" ],
+	"name" : "NWClient",
+	"pools" : [
+		 ],
+	"super" : "NWObjectWithTitleAndComment",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+Accessing
+mainContactNumber
+	^mainContactNumber

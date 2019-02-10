@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-UI-Clients",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 02/09/2019 17:17",
+	"instvars" : [
+		 ],
+	"name" : "NWClientContactComponent",
+	"pools" : [
+		 ],
+	"super" : "NWTabbedContainerComponent",
+	"type" : "normal" }

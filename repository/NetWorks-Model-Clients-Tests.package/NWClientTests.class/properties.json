@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Clients-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NWClientTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
