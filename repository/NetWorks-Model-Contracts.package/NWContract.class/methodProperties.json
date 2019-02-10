@@ -2,10 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"bpmProcess" : "jupiter 02/02/2019 15:39",
-		"bpmProcess:" : "jupiter 02/02/2019 15:39",
+		"bpmApplication" : "jupiter 02/10/2019 09:02",
+		"bpmApplication:" : "jupiter 02/10/2019 09:02",
+		"bpmApplicationDescription" : "jupiter 02/10/2019 09:23",
 		"client" : "jupiter 02/02/2019 15:39",
 		"client:" : "jupiter 02/02/2019 15:39",
+		"clientDescription" : "jupiter 02/10/2019 09:16",
 		"descriptionContainer" : "jupiter 02/09/2019 19:45",
 		"projects" : "jupiter 02/02/2019 16:01",
 		"projects:" : "jupiter 02/02/2019 16:00" } }

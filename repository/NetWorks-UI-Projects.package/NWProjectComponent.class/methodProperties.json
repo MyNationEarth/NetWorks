@@ -5,7 +5,9 @@
 		"icon" : "jupiter 02/09/2019 19:58",
 		"initialize" : "jupiter 02/09/2019 22:45",
 		"newObjectLabel" : "jupiter 02/09/2019 20:07",
-		"renderBasicsOn:" : "jupiter 02/09/2019 22:31",
+		"renderBasicsOn:" : "jupiter 02/10/2019 10:51",
+		"renderContactsOn:" : "jupiter 02/10/2019 10:10",
 		"renderFinancialsOn:" : "jupiter 02/09/2019 23:05",
-		"renderLocationOn:" : "jupiter 02/09/2019 22:42",
-		"tabs" : "jupiter 02/09/2019 23:04" } }
+		"renderLocationOn:" : "jupiter 02/10/2019 08:30",
+		"renderProjectLineItemsOn:" : "jupiter 02/10/2019 10:40",
+		"tabs" : "jupiter 02/10/2019 11:09" } }

@@ -6,9 +6,7 @@ rateCardDescription
     accessor: #'rateCard';
     options: self organisationModel rateCards;
     reference: NWRateCard new titleDescription asContainer;
-    label: 'Rate Card';
-    group: 'Basics';
+    label: 'SOR Rate Card';
     priority: 300;
-    beRequired;
     yourself.
   ^ description

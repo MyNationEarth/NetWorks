@@ -1,0 +1,18 @@
+{
+	"category" : "NetWorks-Model-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project",
+		"rate",
+		"designQuantity",
+		"cspoValue",
+		"note" ],
+	"name" : "NWProjectLineItem",
+	"pools" : [
+		 ],
+	"super" : "NWIdentifiableObject",
+	"type" : "normal" }

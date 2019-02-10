@@ -1,4 +1,5 @@
 initialization
 initialize
   super initialize.
-  contacts := OrderedCollection new
+  contacts := OrderedCollection new.
+  contracts := OrderedCollection new

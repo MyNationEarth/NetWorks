@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-UI-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 02/10/2019 11:23",
+	"instvars" : [
+		 ],
+	"name" : "NWProjectLineItemContainer",
+	"pools" : [
+		 ],
+	"super" : "NWContainer",
+	"type" : "normal" }

@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"<=" : "jupiter 02/10/2019 12:06",
+		"backReference:" : "jupiter 02/10/2019 10:53",
+		"cspoValue" : "jupiter 02/10/2019 11:43",
+		"cspoValue:" : "jupiter 02/10/2019 11:43",
+		"cspoValueDescription" : "jupiter 02/10/2019 11:43",
+		"descriptionContainer" : "jupiter 02/10/2019 11:22",
+		"designQuantity" : "jupiter 02/10/2019 10:35",
+		"designQuantity:" : "jupiter 02/10/2019 10:35",
+		"designQuantityDescription" : "jupiter 02/10/2019 10:42",
+		"note" : "jupiter 02/10/2019 10:33",
+		"note:" : "jupiter 02/10/2019 10:33",
+		"noteDescription" : "jupiter 02/10/2019 10:55",
+		"project" : "jupiter 02/10/2019 10:33",
+		"project:" : "jupiter 02/10/2019 10:33",
+		"rate" : "jupiter 02/10/2019 10:33",
+		"rate:" : "jupiter 02/10/2019 10:33",
+		"rateDescription" : "jupiter 02/10/2019 12:13",
+		"rateTitle" : "jupiter 02/10/2019 11:37",
+		"rateTitleDescription" : "jupiter 02/10/2019 12:16",
+		"titleDescription" : "jupiter 02/10/2019 11:30" } }

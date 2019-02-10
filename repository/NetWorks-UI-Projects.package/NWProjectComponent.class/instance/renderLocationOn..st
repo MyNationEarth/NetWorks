@@ -15,7 +15,7 @@ renderLocationOn: canvas
         with: [ self renderDescriptionsWithLabels: #('Suburb') on: canvas ].
       canvas tbsColumn
         smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('Requires Dial Before You Dig') on: canvas ] ].
+        with: [ self renderDescriptionsWithLabels: #('Requires Dial Before You Dig?') on: canvas ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn

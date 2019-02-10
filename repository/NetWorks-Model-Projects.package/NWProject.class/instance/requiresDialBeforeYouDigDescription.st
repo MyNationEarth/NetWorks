@@ -1,8 +1,8 @@
 descriptions
 requiresDialBeforeYouDigDescription
   <magritteDescription>
-  ^ MANumberDescription new
-    accessor: #'cspoValue';
-    label: 'CSPO Value';
-    priority: 1700;
+  ^ MABooleanDescription new
+    accessor: #'requiresDialBeforeYouDig';
+    label: 'Requires Dial Before You Dig?';
+    priority: 1800;
     yourself

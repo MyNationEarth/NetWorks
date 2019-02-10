@@ -3,4 +3,6 @@ installDatateksEnvironment
   self
     installDatateksOrganisationModel;
     installDatateksProcesses;
-    installDatateksRateCards
+    installDatateksRateCards;
+    installDatateksClients;
+    installDatateksContracts
