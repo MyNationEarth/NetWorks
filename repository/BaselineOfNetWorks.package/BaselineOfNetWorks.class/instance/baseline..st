@@ -72,7 +72,7 @@ baseline: spec
         package: 'NetWorks-Core-Tests'
           with: [ spec requires: #('NetWorks-Core') ];
         package: 'BpmFlow-UI-Core'
-          with: [ spec requires: #('NetWorks-Core' 'BpmFlow') ];
+          with: [ spec requires: #('NetWorks-Core' 'NetWorks-UI-Core' 'BpmFlow') ];
         package: 'NetWorks-Model-Core'
           with: [ spec requires: #('NetWorks-Core' 'NetWorks-Model-Magritte') ];
         package: 'NetWorks-Model-Core-Tests'
@@ -93,7 +93,7 @@ baseline: spec
           with: [ 
               spec
                 requires:
-                  #('NetWorks-UI-Magritte' 'NetWorks-UI-Announcements' 'FontAwesome' 'AdminLTE' 'NetWorks-Model-Clients' 'NetWorks-UI-Rates') ];
+                  #('NetWorks-UI-Magritte' 'NetWorks-UI-Announcements' 'FontAwesome' 'AdminLTE' 'NetWorks-UI-Dashboard' 'NetWorks-Model-Clients' 'NetWorks-UI-Rates' 'NetWorks-UI-Contracts') ];
         package: 'NetWorks-UI-Magritte'
           with: [ spec requires: #('NetWorks-Model-Magritte') ];
         package: 'NetWorks-UI-Rates'
@@ -103,4 +103,6 @@ baseline: spec
         package: 'NetWorks-Model-Clients';
         package: 'NetWorks-Model-Clients-Tests';
         package: 'NetWorks-UI-Clients'
-          with: [ spec requires: #('NetWorks-Model-Clients') ] ]
+          with: [ spec requires: #('NetWorks-Model-Clients') ];
+        package: 'NetWorks-UI-Contracts'
+          with: [ spec requires: #('NetWorks-Model-Contracts') ] ]

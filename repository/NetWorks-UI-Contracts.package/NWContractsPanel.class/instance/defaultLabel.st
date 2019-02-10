@@ -1,0 +1,3 @@
+defaults
+defaultLabel
+  ^ 'Contracts'
