@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"amountPaid" : "jupiter 02/11/2019 19:32",
+		"amountPaid:" : "jupiter 02/11/2019 19:32",
+		"amountPaidDescription" : "jupiter 02/11/2019 20:24",
+		"amountPayable" : "jupiter 02/11/2019 19:32",
+		"amountPayable:" : "jupiter 02/11/2019 19:32",
+		"amountPayableDescription" : "jupiter 02/11/2019 20:24",
+		"clientsComponent" : "jupiter 02/11/2019 20:23",
+		"descriptionContainer" : "jupiter 02/11/2019 20:20",
+		"invoiceNumberDescription" : "jupiter 02/11/2019 21:05",
+		"issueDate" : "jupiter 02/11/2019 19:32",
+		"issueDate:" : "jupiter 02/11/2019 19:32",
+		"issueDateDescription" : "jupiter 02/11/2019 20:51",
+		"paymentDueDate" : "jupiter 02/11/2019 20:57",
+		"paymentDueDate:" : "jupiter 02/11/2019 20:57",
+		"paymentDueDateDescription" : "jupiter 02/11/2019 21:10",
+		"paymentMadeDate" : "jupiter 02/11/2019 19:32",
+		"paymentMadeDate:" : "jupiter 02/11/2019 19:32",
+		"paymentMadeDescription" : "jupiter 02/11/2019 20:51" } }

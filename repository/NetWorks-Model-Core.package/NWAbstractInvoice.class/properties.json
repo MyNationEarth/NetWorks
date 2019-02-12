@@ -1,0 +1,18 @@
+{
+	"category" : "NetWorks-Model-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"issueDate",
+		"paymentDueDate",
+		"paymentMadeDate",
+		"amountPayable",
+		"amountPaid" ],
+	"name" : "NWAbstractInvoice",
+	"pools" : [
+		 ],
+	"super" : "NWObjectWithTitleAndComment",
+	"type" : "normal" }

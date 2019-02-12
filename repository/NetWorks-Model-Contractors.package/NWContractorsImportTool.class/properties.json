@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Contractors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 02/11/2019 00:22",
+	"instvars" : [
+		"rateCategories" ],
+	"name" : "NWContractorsImportTool",
+	"pools" : [
+		 ],
+	"super" : "NWCSVImportTool",
+	"type" : "normal" }

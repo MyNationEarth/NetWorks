@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Contractors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NWContractorInvoice",
+	"pools" : [
+		 ],
+	"super" : "NWAbstractInvoice",
+	"type" : "normal" }

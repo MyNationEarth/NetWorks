@@ -3,6 +3,14 @@ tabs
   ^ OrderedCollection new
     add:
         (Dictionary new
+            at: #'id' put: #'contracts';
+            at: #'label' put: 'Contracts';
+            at: #'icon' put: #'wrench';
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'contracts') ];
+            yourself);
+    add:
+        (Dictionary new
             at: #'id' put: #'contacts';
             at: #'label' put: 'Contacts';
             at: #'icon' put: #'wrench';

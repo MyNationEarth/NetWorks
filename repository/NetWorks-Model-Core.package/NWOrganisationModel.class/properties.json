@@ -12,6 +12,7 @@
 		"rateCards",
 		"clients",
 		"contracts",
+		"contractors",
 		"projects" ],
 	"name" : "NWOrganisationModel",
 	"pools" : [

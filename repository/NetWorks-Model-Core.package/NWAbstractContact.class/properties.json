@@ -1,0 +1,15 @@
+{
+	"category" : "NetWorks-Model-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 02/10/2019 16:41",
+	"instvars" : [
+		"contactNumber",
+		"emailAddress" ],
+	"name" : "NWAbstractContact",
+	"pools" : [
+		 ],
+	"super" : "NWObjectWithTitleAndComment",
+	"type" : "normal" }

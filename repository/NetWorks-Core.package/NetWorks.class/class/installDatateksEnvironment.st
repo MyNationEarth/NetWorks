@@ -5,4 +5,5 @@ installDatateksEnvironment
     installDatateksProcesses;
     installDatateksRateCards;
     installDatateksClients;
-    installDatateksContracts
+    installDatateksContracts;
+    installDatateksContractorsAndInvoices

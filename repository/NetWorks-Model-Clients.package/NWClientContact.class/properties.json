@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"contactNumber",
-		"emailAddress" ],
+		 ],
 	"name" : "NWClientContact",
 	"pools" : [
 		 ],
-	"super" : "NWObjectWithTitleAndComment",
+	"super" : "NWAbstractContact",
 	"type" : "normal" }

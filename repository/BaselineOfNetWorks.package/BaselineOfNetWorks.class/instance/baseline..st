@@ -96,11 +96,15 @@ baseline: spec
           with: [ spec requires: #('NetWorks-Model-Core') ];
         package: 'NetWorks-Model-Projects-Tests'
           with: [ spec requires: #('NetWorks-Model-Projects') ];
+        package: 'NetWorks-Model-Contractors'
+          with: [ spec requires: #('NetWorks-Model-Core') ];
+        package: 'NetWorks-Model-Contractors-Tests';
         package: 'NetWorks-UI-Core'
           with: [ 
               spec
                 requires:
-                  #('NetWorks-UI-Magritte' 'NetWorks-UI-Announcements' 'FontAwesome' 'AdminLTE' 'NetWorks-UI-Dashboard' 'NetWorks-Model-Clients' 'NetWorks-UI-Rates' 'NetWorks-UI-Contracts') ];
+                  #('NetWorks-UI-FileLibraries' 'NetWorks-UI-Magritte' 'NetWorks-UI-Announcements' 'FontAwesome' 'AdminLTE' 'NetWorks-UI-Dashboard' 'NetWorks-Model-Clients' 'NetWorks-Model-Contractors' 'NetWorks-UI-Rates' 'NetWorks-UI-Contracts') ];
+        package: 'NetWorks-UI-FileLibraries';
         package: 'NetWorks-UI-Magritte'
           with: [ spec requires: #('NetWorks-Model-Magritte') ];
         package: 'NetWorks-UI-Rates'
@@ -111,4 +115,10 @@ baseline: spec
           with: [ spec requires: #('NetWorks-Model-Clients') ];
         package: 'NetWorks-UI-Contracts'
           with: [ spec requires: #('NetWorks-Model-Contracts') ];
-        package: 'NetWorks-UI-Projects' ]
+        package: 'NetWorks-UI-Projects'
+          with: [ 
+              spec
+                requires:
+                  #('NetWorks-Model-Projects' 'NetWorks-UI-Contracts' 'NetWorks-UI-Rates' 'NetWorks-UI-Clients') ];
+        package: 'NetWorks-UI-Contractors'
+          with: [ spec requires: #('NetWorks-Model-Contractors') ] ]

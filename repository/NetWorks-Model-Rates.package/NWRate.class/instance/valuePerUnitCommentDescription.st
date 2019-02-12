@@ -1,7 +1,7 @@
 descriptions
 valuePerUnitCommentDescription
   <magritteDescription>
-  ^ MAStringDescription new
+  ^ MANumberDescription new
     accessor: #'valuePerUnit';
     label: 'Value per Unit';
     priority: 400;

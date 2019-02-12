@@ -51,6 +51,6 @@ buildCategoriesAndRates
                 ifPresent: [ :unitOfMeasureComment | rate unitOfMeasureComment: unitOfMeasureComment ].
               row
                 at: #'valuePerUnit'
-                ifPresent: [ :valuePerUnit | rate valuePerUnit: valuePerUnit ].	"Check for nil inst vars and create defaults."
+                ifPresent: [ :valuePerUnit | rate valuePerUnit: (self numberFromString: valuePerUnit) ].	"Check for nil inst vars and create defaults."
               rate title ifNil: [ rate title: 'Unititled' ].
               rate sorCode ifNil: [ rate sorCode: 'Undefined' ] ] ] ]

@@ -1,0 +1,3 @@
+Accessing
+amountPaid
+	^amountPaid
