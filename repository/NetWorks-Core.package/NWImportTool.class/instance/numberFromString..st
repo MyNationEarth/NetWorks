@@ -1,3 +1,6 @@
 conversion
 numberFromString: aString
-  ^ aString select: [ :char | char isDigit or: [ char = $. ] ]
+  | numberString |
+  numberString := (aString select: [ :char | char isDigit or: [ char = $. ] ])
+    ifEmpty: [ '0' ].
+  ^ Number fromString: numberString

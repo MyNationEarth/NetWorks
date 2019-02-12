@@ -1,0 +1,42 @@
+Importing
+buildProjects
+  | projects contracts contractA417 contractA401 contractNBN |
+  projects := (NetWorks instance organisationModels at: #'Datateks') projects.
+  contracts := (NetWorks instance organisationModels at: #'Datateks') contracts.
+  contractA417 := contracts detect: [ :c | c title = 'A417 New Devs' ].
+  contractA401 := contracts detect: [ :c | c title = 'A401 Request for Quote' ].
+  contractNBN := contracts detect: [ :c | c title = 'NBN Assurance' ].
+  (rows copyFrom: 2 to: rows size)
+    do: [ :row | 
+      | temp fsamMps project contract minorWorksNumber aycaNumber fsam address |
+      fsamMps := row at: #'fsamMps'.
+      minorWorksNumber := self
+        stringFrom: fsamMps
+        regex: 'MW([0-9]+)'
+        subexpression: 2.
+      aycaNumber := self
+        stringFrom: fsamMps
+        regex: 'AYCA-([0-9A-Z]+)'
+        subexpression: 2.
+      minorWorksNumber notNil
+        ifTrue: [ 
+          project := projects
+            detect: [ :c | c minorWorksNumber = minorWorksNumber ]
+            ifNone: [ 
+              projects
+                add:
+                  (NWProject new
+                    title: minorWorksNumber;
+                    minorWorksNumber: minorWorksNumber;
+                    aycaNumber: aycaNumber;
+                    yourself) ].
+          row
+            at: #'contract'
+            ifPresent: [ :value | 
+              (value includes: 'A417')
+                ifTrue: [ project contract: contractA417 ].
+              (value includes: 'A401')
+                ifTrue: [ project contract: contractA401 ].
+              (value includes: 'NBN')
+                ifTrue: [ project contract: contractNBN ] ].
+          row at: #'suburb' ifPresent: [ :value | project suburb: value ] ] ]
