@@ -2,26 +2,5 @@
 	"class" : {
 		 },
 	"instance" : {
-		"<=" : "jupiter 02/10/2019 12:06",
-		"backReference:" : "jupiter 02/10/2019 10:53",
 		"descriptionContainer" : "jupiter 02/10/2019 11:22",
-		"extendedValue" : "jupiter 02/17/2019 03:32",
-		"extendedValue:" : "jupiter 02/17/2019 03:32",
-		"extendedValueDescription" : "jupiter 02/17/2019 03:31",
-		"hasChanged:" : "jupiter 02/17/2019 14:57",
-		"note" : "jupiter 02/10/2019 10:33",
-		"note:" : "jupiter 02/10/2019 10:33",
-		"noteDescription" : "jupiter 02/10/2019 10:55",
-		"parentLineItem" : "jupiter 02/17/2019 03:32",
-		"parentLineItem:" : "jupiter 02/17/2019 03:32",
-		"project" : "jupiter 02/10/2019 10:33",
-		"project:" : "jupiter 02/10/2019 10:33",
-		"quantity" : "jupiter 02/17/2019 03:32",
-		"quantity:" : "jupiter 02/17/2019 03:32",
-		"quantityDescription" : "jupiter 02/17/2019 03:33",
-		"rate" : "jupiter 02/10/2019 10:33",
-		"rate:" : "jupiter 02/10/2019 10:33",
-		"rateDescription" : "jupiter 02/10/2019 12:13",
-		"rateTitle" : "jupiter 02/10/2019 11:37",
-		"rateTitleDescription" : "jupiter 02/10/2019 12:16",
-		"titleDescription" : "jupiter 02/10/2019 11:30" } }
+		"extendedValueDescription" : "jupiter 02/17/2019 16:57" } }

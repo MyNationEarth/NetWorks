@@ -6,14 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"project",
-		"rate",
-		"quantity",
-		"parentLineItem",
-		"extendedValue",
-		"note" ],
+		 ],
 	"name" : "NWProjectLineItem",
 	"pools" : [
 		 ],
-	"super" : "NWIdentifiableObject",
+	"super" : "NWAbstractLineItem",
 	"type" : "normal" }

@@ -1,0 +1,19 @@
+{
+	"category" : "NetWorks-Model-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 02/17/2019 16:34",
+	"instvars" : [
+		"project",
+		"rate",
+		"quantity",
+		"parentLineItem",
+		"extendedValue",
+		"note" ],
+	"name" : "NWAbstractLineItem",
+	"pools" : [
+		 ],
+	"super" : "NWIdentifiableObject",
+	"type" : "normal" }

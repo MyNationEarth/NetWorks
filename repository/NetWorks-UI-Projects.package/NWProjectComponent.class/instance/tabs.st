@@ -4,7 +4,7 @@ tabs
     add:
         (Dictionary new
             at: #'id' put: #'projectLineItems';
-            at: #'label' put: 'CSPO Line Items';
+            at: #'label' put: 'CSPO';
             at: #'icon' put: #'list';
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'projectLineItems') ];

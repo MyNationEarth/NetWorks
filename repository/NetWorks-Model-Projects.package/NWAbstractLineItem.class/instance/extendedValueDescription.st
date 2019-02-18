@@ -3,6 +3,6 @@ extendedValueDescription
   <magritteDescription>
   ^ MANumberDescription new
     accessor: #'extendedValue';
-    label: 'CPSO Value';
+    label: 'Extended Value';
     priority: 1600;
     yourself
