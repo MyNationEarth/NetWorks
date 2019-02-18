@@ -20,7 +20,8 @@
 		"rateCard",
 		"clientContact",
 		"projectEngineer",
-		"cspoLineItems" ],
+		"cspoLineItems",
+		"projectLineItems" ],
 	"name" : "NWProject",
 	"pools" : [
 		 ],

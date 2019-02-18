@@ -1,4 +1,5 @@
 initialization
 initialize
   super initialize.
-  cspoLineItems := OrderedCollection new
+  cspoLineItems := OrderedCollection new.
+  projectLineItems := OrderedCollection new

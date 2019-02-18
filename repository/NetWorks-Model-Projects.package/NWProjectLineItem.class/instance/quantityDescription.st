@@ -1,8 +1,8 @@
 descriptions
-designQuantityDescription
+quantityDescription
   <magritteDescription>
   ^ MANumberDescription new
-    accessor: #'designQuantity';
-    label: 'Design Quantity';
+    accessor: #'quantity';
+    label: 'Quantity';
     priority: 1600;
     yourself

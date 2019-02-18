@@ -33,10 +33,16 @@ buildProjects
           row
             at: #'contract'
             ifPresent: [ :value | 
-              (value includes: 'A417')
+              (value includesSubstring: 'A417')
                 ifTrue: [ project contract: contractA417 ].
-              (value includes: 'A401')
+              (value includesSubstring: 'A401')
                 ifTrue: [ project contract: contractA401 ].
-              (value includes: 'NBN')
+              (value includesSubstring: 'NBN')
                 ifTrue: [ project contract: contractNBN ] ].
-          row at: #'suburb' ifPresent: [ :value | project suburb: value ] ] ]
+          row at: #'suburb' ifPresent: [ :value | project suburb: value ].
+          row
+            at: #'cspoAmount'
+            ifPresent: [ :value | project cspoValue: (self numberFromString: value) ].
+          row
+            at: #'nbnContact'
+            ifPresent: [ :value | project clientContact: value ] ] ]

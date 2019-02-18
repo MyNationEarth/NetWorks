@@ -19,6 +19,22 @@ tabs
             yourself);
     add:
         (Dictionary new
+            at: #'id' put: #'agreements';
+            at: #'label' put: 'Agreements';
+            at: #'icon' put: #'wrench';
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'agreements') ];
+            yourself);
+    add:
+        (Dictionary new
+            at: #'id' put: #'insurance';
+            at: #'label' put: 'Insurance';
+            at: #'icon' put: #'wrench';
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'insurance') ];
+            yourself);
+    add:
+        (Dictionary new
             at: #'id' put: #'basics';
             at: #'label' put: 'Basics';
             at: #'icon' put: #'list';

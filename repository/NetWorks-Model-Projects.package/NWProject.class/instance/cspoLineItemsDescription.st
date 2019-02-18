@@ -7,8 +7,8 @@ cspoLineItemsDescription
     accessor: #'cspoLineItems';
     classes: {NWProjectLineItem};
     reference:
-        template rateTitleDescription , template cspoValueDescription
-            , template designQuantityDescription;
+        template rateTitleDescription , template extendedValueDescription
+            , template quantityDescription;
     label: 'CSPO Line Items';
     priority: 400;
     beSorted;

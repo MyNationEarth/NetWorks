@@ -8,8 +8,9 @@
 	"instvars" : [
 		"project",
 		"rate",
-		"designQuantity",
-		"cspoValue",
+		"quantity",
+		"parentLineItem",
+		"extendedValue",
 		"note" ],
 	"name" : "NWProjectLineItem",
 	"pools" : [

@@ -1,8 +1,8 @@
 descriptions
-cspoValueDescription
+extendedValueDescription
   <magritteDescription>
   ^ MANumberDescription new
-    accessor: #'cspoValue';
-    label: 'CSPO Value';
+    accessor: #'extendedValue';
+    label: 'Extended Value';
     priority: 1600;
     yourself

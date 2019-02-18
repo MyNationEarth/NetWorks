@@ -7,7 +7,12 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"contacts",
-		"invoices" ],
+		"invoices",
+		"insuranceStartDate",
+		"insuranceEndDate",
+		"minorWorksAgreementDate",
+		"minorWorksAgreementSignedDate",
+		"minorWorksAddendumDate" ],
 	"name" : "NWContractor",
 	"pools" : [
 		 ],

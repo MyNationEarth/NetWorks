@@ -2,7 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
+		"backReferemce:" : "jupiter 02/14/2019 15:08",
 		"descriptionContainer" : "jupiter 02/09/2019 10:00",
+		"rateCard" : "jupiter 02/14/2019 15:08",
+		"rateCategory" : "jupiter 02/14/2019 15:08",
 		"sorCode" : "jupiter 11/18/2018 20:45",
 		"sorCode:" : "jupiter 11/18/2018 20:45",
 		"sorCodeDescription" : "jupiter 02/09/2019 10:02",

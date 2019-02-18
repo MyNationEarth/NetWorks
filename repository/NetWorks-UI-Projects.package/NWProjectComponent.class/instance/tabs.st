@@ -11,6 +11,14 @@ tabs
             yourself);
     add:
         (Dictionary new
+            at: #'id' put: #'templates';
+            at: #'label' put: 'Templates';
+            at: #'icon' put: #'list';
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'templates') ];
+            yourself);
+    add:
+        (Dictionary new
             at: #'id' put: #'contacts';
             at: #'label' put: 'Contacts';
             at: #'icon' put: #'list';

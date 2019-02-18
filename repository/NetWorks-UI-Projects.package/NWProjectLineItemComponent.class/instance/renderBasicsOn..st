@@ -9,10 +9,10 @@ renderBasicsOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('CSPO Value') on: canvas ].
+        with: [ self renderDescriptionsWithLabels: #('Extended Value') on: canvas ].
       canvas tbsColumn
         smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('Design Quantity') on: canvas ] ].
+        with: [ self renderDescriptionsWithLabels: #('Quantity') on: canvas ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn
