@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Materials",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 02/18/2019 16:19",
+	"instvars" : [
+		 ],
+	"name" : "NWMaterialsImportTool",
+	"pools" : [
+		 ],
+	"super" : "NWCSVImportTool",
+	"type" : "normal" }

@@ -6,4 +6,5 @@ initializePanels
     addPanel: (NWClientsPanel parent: self);
     addPanel: (NWContractorsPanel parent: self);
     addPanel: (NWContractsPanel parent: self);
-    addPanel: (NWRateCardsPanel parent: self)
+    addPanel: (NWRateCardsPanel parent: self);
+    addPanel: (NWMaterialsPanel parent: self)

@@ -1,7 +1,7 @@
 datateks
 installDatateksOrganisationModel
   self instance organisationModels
-    at: #'Datateks'
+    at: #'datateks.com.au'
     put:
       (NWOrganisationModel new
         dnsName: 'wotmworth.datateks.com.au';

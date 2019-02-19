@@ -1,6 +1,6 @@
 datateks
 installDatateksClients
-  (NetWorks instance organisationModels at: #'Datateks') clients
+  (NetWorks instance organisationModels at: #'datateks.com.au') clients
     add:
         (NWClient new
             title: 'NBN Co';

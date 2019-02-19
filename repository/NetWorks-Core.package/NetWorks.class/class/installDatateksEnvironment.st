@@ -4,6 +4,7 @@ installDatateksEnvironment
     installDatateksOrganisationModel;
     installDatateksProcesses;
     installDatateksRateCards;
+    installDatateksMaterials;
     installDatateksClients;
     installDatateksContracts;
     installDatateksContractorsAndInvoices;

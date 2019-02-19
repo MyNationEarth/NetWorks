@@ -2,7 +2,7 @@ datateks
 installDatateksRateCards
   | basePath |
   basePath := self rateCardImportBasePath.
-  (NetWorks instance organisationModels at: #'Datateks') rateCards
+  (NetWorks instance organisationModels at: #'datateks.com.au') rateCards
     add:
         ((NWRateCard fromRateCardCSVFileOnPath: basePath , 'Metro Combined Rates.csv')
             title: 'A417 New Devs Metro Rate Card 2018';

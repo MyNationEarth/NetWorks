@@ -1,7 +1,7 @@
 Importing
 buildContractorsAndInvoices
   | contractors |
-  contractors := (NetWorks instance organisationModels at: #'Datateks')
+  contractors := (NetWorks instance organisationModels at: #'datateks.com.au')
     contractors.
   (rows copyFrom: 2 to: rows size)
     do: [ :row | 

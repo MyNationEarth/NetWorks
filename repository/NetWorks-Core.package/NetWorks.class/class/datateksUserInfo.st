@@ -1,3 +1,3 @@
 datateks
 datateksUserInfo
-  ^ #(#('Damien' 'Marov' 'damienmarov@datateks.com.au') #('Marshell' 'Antonio' 'marshellantonio@datateks.com.au') #('Mickey' 'Tran' 'mickeytran@datateks.com.au') #('Gilbert' 'Cook' 'gilbertcook@datateks.com.au') #('Dane' 'Harrington' 'daneharrington@datateks.com.au') #('Pepe' 'Tiumalu' 'pepetiumalu@datateks.com.au') #('Rob' 'Panovski' 'robpanovski@datateks.com.au') #('Shankar' 'Acharya' 'shankaracharya@datateks.com.au') #('Andrew' 'McPherson' 'andrewmcpherson@datateks.com.au'))
+  ^ #(#('Jupiter' 'Jones' 'jupiter') #('Damien' 'Marov' 'damienmarov') #('Marshell' 'Antonio' 'marshellantonio') #('Mickey' 'Tran' 'mickeytran') #('Gilbert' 'Cook' 'gilbertcook') #('Dane' 'Harrington' 'daneharrington') #('Pepe' 'Tiumalu' 'pepetiumalu') #('Rob' 'Panovski' 'robpanovski') #('Shankar' 'Acharya' 'shankaracharya') #('Andrew' 'McPherson' 'andrewmcpherson'))

@@ -2,8 +2,9 @@ datateks
 installDatateksProcesses
   | env app orbeonLibraryApplication a417NewDevs a401RequestForQuote nbnAssurance contractorManagement admin |
   "Setup the initial Datateks Environment"
-  env := (BpmEnvironment newNamed: 'Datateks') addToCache.
-  (self instance organisationModels at: #'Datateks') bpmEnvironment: env.
+  self defaultEnvironmentClass areUsersMultiEnvironment: false.
+  env := (BpmEnvironment newNamed: 'datateks.com.au') addToCache.
+  (self instance organisationModels at: #'datateks.com.au') bpmEnvironment: env.
   env
     setFrontofficeApplicationName: 'Wotmworth';
     setBackofficeApplicationName: 'Wotmworth Backoffice';
@@ -16,7 +17,10 @@ installDatateksProcesses
   nbnAssurance := (OrbeonApplication newNamed: 'nbnAssurance') addToCache.
   contractorManagement := (OrbeonApplication newNamed: 'contractorManagement')
     addToCache.
-  admin := BpmUser getExistingOrNewUserNamed: 'admin' password: 'admin'.
+  admin := BpmUser
+    getExistingOrNewUserNamed: 'admin'
+    password: 'admin'
+    forEnvironment: env.
   env
     registerApplication: a417NewDevs;
     registerApplication: a401RequestForQuote;
@@ -26,8 +30,10 @@ installDatateksProcesses
   self datateksUserInfo
     do: [ :user | 
       | newUser |
-      newUser := (BpmUser getExistingOrNewUserNamed: (user at: 3))
-        password: (user at: 1) asLowercase;
+      newUser := (BpmUser
+        getExistingOrNewUserNamed: (user at: 3)
+        password: (user at: 1) asLowercase
+        forEnvironment: env)
         givenName: (user at: 1);
         familyName: (user at: 2);
         emailAddress: (user at: 3);

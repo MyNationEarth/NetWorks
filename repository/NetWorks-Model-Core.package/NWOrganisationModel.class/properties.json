@@ -13,7 +13,8 @@
 		"clients",
 		"contracts",
 		"contractors",
-		"projects" ],
+		"projects",
+		"materials" ],
 	"name" : "NWOrganisationModel",
 	"pools" : [
 		 ],

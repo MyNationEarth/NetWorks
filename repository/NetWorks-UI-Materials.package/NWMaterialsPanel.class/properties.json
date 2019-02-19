@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-UI-Materials",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 02/18/2019 17:03",
+	"instvars" : [
+		 ],
+	"name" : "NWMaterialsPanel",
+	"pools" : [
+		 ],
+	"super" : "NWAbstractPanel",
+	"type" : "normal" }

@@ -1,9 +1,10 @@
 datateks
 installDatateksContracts
   | clientNBN contracts |
-  clientNBN := (NetWorks instance organisationModels at: #'Datateks') clients
-    detect: [ :client | client title = 'NBN Co' ].
-  contracts := (NetWorks instance organisationModels at: #'Datateks') contracts.
+  clientNBN := (NetWorks instance organisationModels at: #'datateks.com.au')
+    clients detect: [ :client | client title = 'NBN Co' ].
+  contracts := (NetWorks instance organisationModels at: #'datateks.com.au')
+    contracts.
   contracts
     add:
         (NWContract new

@@ -71,8 +71,6 @@ baseline: spec
         package: 'NetWorks-Core';
         package: 'NetWorks-Core-Tests'
           with: [ spec requires: #('NetWorks-Core') ];
-        package: 'BpmFlow-UI-Core'
-          with: [ spec requires: #('NetWorks-Core' 'NetWorks-UI-Core' 'BpmFlow') ];
         package: 'NetWorks-Model-Core'
           with: [ spec requires: #('NetWorks-Core' 'NetWorks-Model-Magritte') ];
         package: 'NetWorks-Model-Core-Tests'
@@ -99,11 +97,15 @@ baseline: spec
         package: 'NetWorks-Model-Contractors'
           with: [ spec requires: #('NetWorks-Model-Core') ];
         package: 'NetWorks-Model-Contractors-Tests';
+        package: 'NetWorks-Model-Materials'
+          with: [ spec requires: #('NetWorks-Model-Core') ];
+        package: 'BpmFlow-UI-Core'
+          with: [ spec requires: #('NetWorks-Core' 'NetWorks-UI-Core' 'BpmFlow') ];
         package: 'NetWorks-UI-Core'
           with: [ 
               spec
                 requires:
-                  #('NetWorks-UI-FileLibraries' 'NetWorks-UI-Magritte' 'NetWorks-UI-Announcements' 'FontAwesome' 'AdminLTE' 'NetWorks-UI-Dashboard' 'NetWorks-Model-Clients' 'NetWorks-Model-Contractors' 'NetWorks-UI-Rates' 'NetWorks-UI-Contracts') ];
+                  #('NetWorks-UI-FileLibraries' 'NetWorks-UI-Magritte' 'NetWorks-UI-Announcements' 'FontAwesome' 'AdminLTE' 'NetWorks-UI-Dashboard' 'NetWorks-Model-Clients' 'NetWorks-Model-Contractors' 'NetWorks-Model-Materials' 'NetWorks-Model-Projects' 'NetWorks-UI-Rates' 'NetWorks-UI-Contracts') ];
         package: 'NetWorks-UI-FileLibraries';
         package: 'NetWorks-UI-Magritte'
           with: [ spec requires: #('NetWorks-Model-Magritte') ];
@@ -121,4 +123,6 @@ baseline: spec
                 requires:
                   #('NetWorks-Model-Projects' 'NetWorks-UI-Contracts' 'NetWorks-UI-Rates' 'NetWorks-UI-Clients') ];
         package: 'NetWorks-UI-Contractors'
-          with: [ spec requires: #('NetWorks-Model-Contractors') ] ]
+          with: [ spec requires: #('NetWorks-Model-Contractors') ];
+        package: 'NetWorks-UI-Materials'
+          with: [ spec requires: #('NetWorks-Model-Materials') ] ]

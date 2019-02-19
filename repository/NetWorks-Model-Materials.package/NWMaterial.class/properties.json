@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Materials",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NWMaterial",
+	"pools" : [
+		 ],
+	"super" : "NWObjectWithTitleAndComment",
+	"type" : "normal" }
