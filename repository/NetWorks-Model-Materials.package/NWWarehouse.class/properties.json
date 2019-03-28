@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "jupiter 03/27/2019 20:32",
 	"instvars" : [
 		 ],
-	"name" : "NWMaterialsImportTool",
+	"name" : "NWWarehouse",
 	"pools" : [
 		 ],
-	"super" : "NWCSVImportTool",
+	"super" : "NWObjectWithTitleAndComment",
 	"type" : "normal" }

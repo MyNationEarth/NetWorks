@@ -1,10 +1,6 @@
 datateks
 installDatateksProjects
-  | basePath |
+  | basePath fileName |
   basePath := self historicalDataImportBasePath.
-  (NWProjectsImportTool
-    onFileAtPath:
-      basePath
-        ,
-          'Datateks Sydney Financials 2018-19  20181128 Phil 2/NBN_MWI & Pipe Data-Table 1.csv')
-    import
+  fileName := 'Datateks Sydney Financials 2018-19  20190320 Phil.csv'.	"fileName := 'Datateks Sydney Financials 2018-19  20181128 Phil 2/NBN_MWI & Pipe Data-Table 1.csv'."
+  (NWProjectsImportTool onFileAtPath: basePath , fileName) import

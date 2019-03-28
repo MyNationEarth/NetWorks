@@ -2,7 +2,7 @@ descriptions
 materialsDescription
   <magritteDescription>
   | template |
-  template := NWContractor new.
+  template := NWMaterial new.
   ^ NWToManyRelationDescription new
     accessor: #'materials';
     classes: {NWMaterial};

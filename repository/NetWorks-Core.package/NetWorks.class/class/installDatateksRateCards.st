@@ -26,4 +26,12 @@ installDatateksRateCards
               basePath , 'A417 Datateks Sub Contractor Rates - Regional.csv')
             title: 'A417 New Devs Subcontractor Regional Rate Card 2018';
             startDate: Date today;
+            import);
+    add:
+        ((NWRateCard
+            fromRateCardCSVFileOnPath:
+              basePath , 'A401RFQ - 04032019 v13/Total BOQ-Table 1.csv')
+            title: 'A401 Request for Quote Rate Card March 2019';
+            startDate: Date today;
+            setDebug;
             import)

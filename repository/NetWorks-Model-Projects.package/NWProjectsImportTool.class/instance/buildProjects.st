@@ -16,21 +16,38 @@ buildProjects
         stringFrom: fsamMps
         regex: 'MW([0-9]+)'
         subexpression: 2.
+      temp := fsamMps
+        copyReplaceAll: 'MW' , (minorWorksNumber ifNotNil: [ minorWorksNumber ])
+        with: ''.
       aycaNumber := self
-        stringFrom: fsamMps
+        stringFrom: temp
         regex: 'AYCA-([0-9A-Z]+)'
         subexpression: 2.
+      temp := temp
+        copyReplaceAll: 'AYCA-' , (aycaNumber ifNotNil: [ aycaNumber ])
+        with: ''.
+      fsam := self
+        stringFrom: temp
+        regex: '([0-9][A-Z]+-[0-9][0-9])'
+        subexpression: 2.
+      temp := temp copyReplaceAll: fsam with: ''.
+      address := self cleanString: temp.
       minorWorksNumber notNil
         ifTrue: [ 
           project := projects
             detect: [ :c | c minorWorksNumber = minorWorksNumber ]
             ifNone: [ 
+              | title |
+              title := 'MW' , minorWorksNumber asString , '|AYCA-'
+                , aycaNumber asString.
               projects
                 add:
                   (NWProject new
-                    title: minorWorksNumber;
+                    title: title;
                     minorWorksNumber: minorWorksNumber;
                     aycaNumber: aycaNumber;
+                    sam: fsam;
+                    address: address;
                     yourself) ].
           row
             at: #'contract'
@@ -42,6 +59,10 @@ buildProjects
               (value includesSubstring: 'NBN')
                 ifTrue: [ project contract: contractNBN ] ].
           row at: #'suburb' ifPresent: [ :value | project suburb: value ].
+          row
+            at: #'projectEngineer'
+            ifPresent: [ :value | project projectEngineer: value ].
+          row at: #'location' ifPresent: [ :value |  ].
           row
             at: #'cspoAmount'
             ifPresent: [ :value | project cspoValue: (self numberFromString: value) ].

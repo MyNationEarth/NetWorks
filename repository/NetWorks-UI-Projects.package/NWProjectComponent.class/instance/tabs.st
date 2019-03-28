@@ -19,6 +19,22 @@ tabs
             yourself);
     add:
         (Dictionary new
+            at: #'id' put: #'Identifiers';
+            at: #'label' put: 'Identifiers';
+            at: #'icon' put: #'list';
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'Identifiers') ];
+            yourself);
+    add:
+        (Dictionary new
+            at: #'id' put: #'basics';
+            at: #'label' put: 'Basics';
+            at: #'icon' put: #'list';
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'basics') ];
+            yourself);
+    yourself	" add:
+        (Dictionary new
             at: #'id' put: #'contacts';
             at: #'label' put: 'Contacts';
             at: #'icon' put: #'list';
@@ -40,13 +56,4 @@ tabs
             at: #'icon' put: #'list';
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'location') ];
-            yourself);
-    add:
-        (Dictionary new
-            at: #'id' put: #'basics';
-            at: #'label' put: 'Basics';
-            at: #'icon' put: #'list';
-            at: #'callback'
-              put: [ announcer announce: (NWTabSelected tab: #'basics') ];
-            yourself);
-    yourself
+            yourself);"

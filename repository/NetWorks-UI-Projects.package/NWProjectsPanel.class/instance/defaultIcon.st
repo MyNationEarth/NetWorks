@@ -1,3 +1,3 @@
 defaults
 defaultIcon
-  ^ #'buildingOutlined'
+  ^ #'briefcase'

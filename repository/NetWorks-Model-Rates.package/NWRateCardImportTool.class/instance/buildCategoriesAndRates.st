@@ -11,6 +11,8 @@ buildCategoriesAndRates
   processRow := false.
   rows
     do: [ :row | 
+      "self isDebug
+        ifTrue: [ self halt ]."
       processRow
         ifFalse: [ 
           "Is this the header Row? If so set process to true to start processing rows"
@@ -21,7 +23,11 @@ buildCategoriesAndRates
           (row includesKey: #'unitOfMeasurement')
             ifFalse: [ 
               "Add Category"
-              rateCategories add: (category := NWRateCategory new).
+              rateCategories
+                add:
+                  (category := NWRateCategory new
+                    title: 'Untitled';
+                    yourself).
               row
                 at: #'sorCode'
                 ifPresent: [ :sorCodePrefix | 

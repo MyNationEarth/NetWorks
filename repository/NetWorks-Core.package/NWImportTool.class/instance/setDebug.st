@@ -1,0 +1,3 @@
+Updating
+setDebug
+  isDebug := true
