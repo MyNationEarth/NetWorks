@@ -6,11 +6,13 @@
 		"initialize" : "jupiter 02/17/2019 13:48",
 		"newObjectLabel" : "jupiter 02/09/2019 20:07",
 		"renderBasicsDetailsOn:" : "jupiter 03/25/2019 19:48",
-		"renderBasicsOn:" : "jupiter 03/24/2019 16:00",
+		"renderBasicsOn:" : "jupiter 03/31/2019 14:09",
+		"renderCSPODetailsOn:" : "jupiter 03/31/2019 14:08",
 		"renderContactsOn:" : "jupiter 02/10/2019 10:10",
-		"renderFinancialsOn:" : "jupiter 02/09/2019 23:05",
+		"renderFinancialsOn:" : "jupiter 03/31/2019 14:56",
 		"renderIdentifiersOn:" : "jupiter 03/25/2019 19:48",
+		"renderInvoiceOn:" : "jupiter 03/31/2019 15:18",
 		"renderLocationOn:" : "jupiter 02/10/2019 08:30",
 		"renderProjectLineItemsOn:" : "jupiter 02/17/2019 16:21",
 		"renderTemplatesOn:" : "jupiter 02/17/2019 15:57",
-		"tabs" : "jupiter 03/25/2019 19:48" } }
+		"tabs" : "jupiter 03/31/2019 18:13" } }

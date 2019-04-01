@@ -1,6 +1,6 @@
 datateks
 installDatateksProcesses
-  | env app orbeonLibraryApplication a417NewDevs a401RequestForQuote nbnAssurance contractorManagement admin |
+  | env app orbeonLibraryApplication a417NewDevs a401RequestForQuote nbnAssurance minorWorksMaximo contractorManagement admin |
   "Setup the initial Datateks Environment"
   self defaultEnvironmentClass areUsersMultiEnvironment: false.
   env := (BpmEnvironment newNamed: 'datateks.com.au') addToCache.
@@ -17,6 +17,8 @@ installDatateksProcesses
   nbnAssurance := (OrbeonApplication newNamed: 'nbnAssurance') addToCache.
   contractorManagement := (OrbeonApplication newNamed: 'contractorManagement')
     addToCache.
+  minorWorksMaximo := (OrbeonApplication newNamed: 'minorWorksMaximo')
+    addToCache.
   admin := BpmUser
     getExistingOrNewUserNamed: 'admin'
     password: 'admin'
@@ -26,6 +28,7 @@ installDatateksProcesses
     registerApplication: a401RequestForQuote;
     registerApplication: nbnAssurance;
     registerApplication: contractorManagement;
+    registerApplication: minorWorksMaximo;
     registerUser: admin.
   self datateksUserInfo
     do: [ :user | 

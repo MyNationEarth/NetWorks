@@ -10,8 +10,8 @@ renderBasicsOn: canvas
   self renderLocationOn: canvas.
   canvas heading
     level3;
-    with: 'Financials'.
-  self renderFinancialsOn: canvas.
+    with: 'CSPO'.
+  self renderCSPODetailsOn: canvas.
   canvas heading
     level3;
     with: 'Contacts'.

@@ -24,5 +24,12 @@ installDatateksContracts
             bpmApplication: (OrbeonApplication applicationNamed: 'nbnAssurance');
             title: 'NBN Assurance';
             client: clientNBN;
+            yourself);
+    add:
+        (NWContract new
+            bpmApplication:
+                (OrbeonApplication applicationNamed: 'minorWorksMaximo');
+            title: 'Minor Works Maximo';
+            client: clientNBN;
             yourself).
   clientNBN contracts addAll: contracts

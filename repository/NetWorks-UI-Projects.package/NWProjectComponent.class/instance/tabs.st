@@ -12,34 +12,18 @@ tabs
     add:
         (Dictionary new
             at: #'id' put: #'templates';
-            at: #'label' put: 'Templates';
+            at: #'label' put: 'Submission Documents';
             at: #'icon' put: #'list';
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'templates') ];
             yourself);
     add:
         (Dictionary new
-            at: #'id' put: #'Identifiers';
-            at: #'label' put: 'Identifiers';
+            at: #'id' put: #'invoice';
+            at: #'label' put: 'Invoice';
             at: #'icon' put: #'list';
             at: #'callback'
-              put: [ announcer announce: (NWTabSelected tab: #'Identifiers') ];
-            yourself);
-    add:
-        (Dictionary new
-            at: #'id' put: #'basics';
-            at: #'label' put: 'Basics';
-            at: #'icon' put: #'list';
-            at: #'callback'
-              put: [ announcer announce: (NWTabSelected tab: #'basics') ];
-            yourself);
-    yourself	" add:
-        (Dictionary new
-            at: #'id' put: #'contacts';
-            at: #'label' put: 'Contacts';
-            at: #'icon' put: #'list';
-            at: #'callback'
-              put: [ announcer announce: (NWTabSelected tab: #'contacts') ];
+              put: [ announcer announce: (NWTabSelected tab: #'invoice') ];
             yourself);
     add:
         (Dictionary new
@@ -49,6 +33,30 @@ tabs
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'financials') ];
             yourself);
+    add:
+        (Dictionary new
+            at: #'id' put: #'basics';
+            at: #'label' put: 'Project Info';
+            at: #'icon' put: #'list';
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'basics') ];
+            yourself);
+    yourself	"add:
+        (Dictionary new
+            at: #'id' put: #'Identifiers';
+            at: #'label' put: 'Identifiers';
+            at: #'icon' put: #'list';
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'Identifiers') ];
+            yourself);"	" add:
+        (Dictionary new
+            at: #'id' put: #'contacts';
+            at: #'label' put: 'Contacts';
+            at: #'icon' put: #'list';
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'contacts') ];
+            yourself);
+   
     add:
         (Dictionary new
             at: #'id' put: #'location';

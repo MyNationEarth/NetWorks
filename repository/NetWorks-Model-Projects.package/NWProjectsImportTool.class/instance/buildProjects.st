@@ -39,7 +39,8 @@ buildProjects
             ifNone: [ 
               | title |
               title := 'MW' , minorWorksNumber asString , '|AYCA-'
-                , aycaNumber asString.
+                , aycaNumber asString , '|' , fsam asString , '|'
+                , address asString.
               projects
                 add:
                   (NWProject new
@@ -52,6 +53,7 @@ buildProjects
           row
             at: #'contract'
             ifPresent: [ :value | 
+              project attributeAt: project contractDescription put: value.
               (value includesSubstring: 'A417')
                 ifTrue: [ project contract: contractA417 ].
               (value includesSubstring: 'A401')
@@ -62,10 +64,40 @@ buildProjects
           row
             at: #'projectEngineer'
             ifPresent: [ :value | project projectEngineer: value ].
-          row at: #'location' ifPresent: [ :value |  ].
+          row at: #'location' ifPresent: [ :value | project area: value ].
           row
             at: #'cspoAmount'
             ifPresent: [ :value | project cspoValue: (self numberFromString: value) ].
           row
             at: #'nbnContact'
-            ifPresent: [ :value | project clientContact: value ] ] ]
+            ifPresent: [ :value | project clientContact: value ].
+          row
+            at: #'variation'
+            ifPresent: [ :value | project variationValue: (self numberFromString: value) ].
+          row
+            at: #'totalRevenue'
+            ifPresent: [ :value | project totalRevenue: (self numberFromString: value) ].
+          row
+            at: #'gstInc'
+            ifPresent: [ :value | project gstInclusiveValue: (self numberFromString: value) ].
+          row
+            at: #'djcCost'
+            ifPresent: [ :value | project djcCost: (self numberFromString: value) ].
+          row
+            at: #'internalDjcCost'
+            ifPresent: [ :value | project internalDjcCost: (self numberFromString: value) ].
+          row
+            at: #'totalCost'
+            ifPresent: [ :value | project totalCost: (self numberFromString: value) ].
+          row
+            at: #'margin'
+            ifPresent: [ :value | project marginValue: (self numberFromString: value) ].
+          row
+            at: #'percentage'
+            ifPresent: [ :value | project marginPercentage: (self numberFromString: value) ].
+          row
+            at: #'invoiceNumber'
+            ifPresent: [ :value | project invoiceNumber: (self numberFromString: value) ].
+          row
+            at: #'invoiceDate'
+            ifPresent: [ :value | project invoiceCreatedDate: (self dateFromString: value) ] ] ]

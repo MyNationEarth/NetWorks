@@ -38,9 +38,8 @@ baseline: spec
         configuration: 'Bootstrap'
           with: [ 
               spec
-                versionString: '0.16.0';
-                repository:
-                    'http://smalltalkhub.com/mc/TorstenBergmann/Bootstrap/main' ];
+                versionString: '0.18.0';
+                repository: 'github://astares/Seaside-Bootstrap:master/src' ];
         configuration: 'BootstrapMagritte'
           with: [ 
               spec

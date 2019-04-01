@@ -4,7 +4,7 @@ areaDescription
   | description |
   description := MASingleOptionDescription new
     accessor: #'area';
-    options: self areaLocationsList;
+    options: self organisationModel allProjectAreas;
     label: 'Location / Area';
     priority: 1500;
     yourself.
