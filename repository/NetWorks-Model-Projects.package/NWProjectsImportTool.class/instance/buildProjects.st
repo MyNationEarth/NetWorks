@@ -53,7 +53,7 @@ buildProjects
           row
             at: #'contract'
             ifPresent: [ :value | 
-              project attributeAt: project contractDescription put: value.
+              "project attributeAt: project contractDescription put: value."
               (value includesSubstring: 'A417')
                 ifTrue: [ project contract: contractA417 ].
               (value includesSubstring: 'A401')
