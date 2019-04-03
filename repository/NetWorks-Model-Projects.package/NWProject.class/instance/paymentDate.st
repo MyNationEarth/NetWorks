@@ -1,0 +1,3 @@
+Accessing
+paymentDate
+	^paymentDate

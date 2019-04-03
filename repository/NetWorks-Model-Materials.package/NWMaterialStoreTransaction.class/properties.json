@@ -1,0 +1,17 @@
+{
+	"category" : "NetWorks-Model-Materials",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dateAndTime",
+		"payload",
+		"sourceStore",
+		"destinationStore" ],
+	"name" : "NWMaterialStoreTransaction",
+	"pools" : [
+		 ],
+	"super" : "NWObjectWithTitleAndComment",
+	"type" : "normal" }

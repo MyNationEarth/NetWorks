@@ -1,13 +1,13 @@
 {
-	"category" : "NetWorks-Model-Materials",
+	"category" : "NetWorks-Model-Core",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "jupiter 03/27/2019 20:32",
+	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "NWWarehouse",
+		"dateAndTime" ],
+	"name" : "NWNote",
 	"pools" : [
 		 ],
 	"super" : "NWObjectWithTitleAndComment",

@@ -31,7 +31,11 @@
 		"marginValue",
 		"marginPercentage",
 		"invoiceNumber",
-		"invoiceCreatedDate" ],
+		"invoiceCreatedDate",
+		"variationApprovedDate",
+		"pcDueDate",
+		"paymentDate",
+		"notes" ],
 	"name" : "NWProject",
 	"pools" : [
 		 ],
