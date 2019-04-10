@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-UI-FileLibraries",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NWTBSDevelopmentLibraryRTL",
+	"pools" : [
+		 ],
+	"super" : "NWTBSDevelopmentLibrary",
+	"type" : "normal" }

@@ -5,7 +5,9 @@ install
   application preferenceAt: #'sessionClass' put: BpmFlowUISession.
   application
     addLibrary: JQDevelopmentLibrary;
-    addLibrary: TBSDevelopmentLibrary;
+    addLibrary: NWTBSDevelopmentLibrary;
+    addLibrary: JQUiDevelopmentLibrary;
+    addLibrary: JQOvercastTheme;
     addLibrary: TBSJasnyDevelopmentLibrary;
     addLibrary: FAWDevelopmentLibrary;
     addLibrary: JQSlimScrollLibrary;
