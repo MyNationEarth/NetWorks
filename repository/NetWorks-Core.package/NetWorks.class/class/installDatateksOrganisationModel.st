@@ -5,5 +5,5 @@ installDatateksOrganisationModel
     put:
       (NWOrganisationModel new
         dnsName: 'wotmworth.datateks.com.au';
-        logoLarge: BpmFlowUIFileLibrary / #'branddatatekslogoTransparentPng';
+        logoLarge: BpmFlowUIFileLibrary / #'branddatatekslogoColourPng';
         yourself)
