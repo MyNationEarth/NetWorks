@@ -11,6 +11,8 @@ renderSearchOn: canvas
             style: 'color: black;';
             value: searchText;
             placeholder: 'Search…';
+            onKeyPress:
+                (JSStream on: 'if(event.which=="13"){event.preventDefault()}');
             script:
                 (canvas jQuery this autocomplete
                     autoFocus: true;
