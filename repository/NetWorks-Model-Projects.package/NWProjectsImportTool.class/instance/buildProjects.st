@@ -81,6 +81,9 @@ buildProjects
         at: #'invoiceDate'
         ifPresent: [ :value | project invoiceCreatedDate: (self dateFromString: value) ].
       row
+        at: #'variationRequestSubmittedDate'
+        ifPresent: [ :value | project variationRequestSubmittedDate: (self dateFromString: value) ].
+      row
         at: #'variationApprovedDate'
         ifPresent: [ :value | project variationApprovedDate: (self dateFromString: value) ].
       row
@@ -88,4 +91,31 @@ buildProjects
         ifPresent: [ :value | project pcDueDate: (self dateFromString: value) ].
       row
         at: #'paymentDate'
-        ifPresent: [ :value | project paymentDate: (self dateFromString: value) ] ]
+        ifPresent: [ :value | project paymentDate: (self dateFromString: value) ].
+      row
+        at: #'expectedPaymentDate'
+        ifPresent: [ :value | project expectedPaymentDate: (self dateFromString: value) ].
+      row
+        at: #'projectCompletionsHandedOverDate'
+        ifPresent: [ :value | project pcHandedOverDate: (self dateFromString: value) ].
+      row
+        at: #'pcRequestSubmittedDate'
+        ifPresent: [ :value | project pcRequestSubmittedDate: (self dateFromString: value) ].
+      row
+        at: #'paymentDueDate'
+        ifPresent: [ :value | project paymentDueDate: (self dateFromString: value) ].
+      row
+        at: #'projectQuoteSubmittedDate'
+        ifPresent: [ :value | project projectQuoteSubmittedDate: (self dateFromString: value) ].
+      row
+        at: #'projectAwardedDate'
+        ifPresent: [ :value | project projectAwardedDate: (self dateFromString: value) ].
+      row
+        at: #'customerRequiredDate'
+        ifPresent: [ :value | project customerRequiredDate: (self dateFromString: value) ].
+      row
+        at: #'monthClaimed'
+        ifPresent: [ :value | project monthClaimed: (self dateFromMonthAbbreviationAndYearString: value) ].
+      row
+        at: #'actualPaymentDate'
+        ifPresent: [ :value | project monthPaid: (self dateFromMonthAbbreviationAndYearString: value) ] ]

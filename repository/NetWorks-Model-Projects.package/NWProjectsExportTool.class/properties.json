@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"contents" ],
+	"name" : "NWProjectsExportTool",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

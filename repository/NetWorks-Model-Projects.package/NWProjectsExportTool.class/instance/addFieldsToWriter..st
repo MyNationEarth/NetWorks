@@ -1,0 +1,37 @@
+export file
+addFieldsToWriter: csvWriter
+  csvWriter
+    addField: #'contractTitle';
+    addField: #'area';
+    addField: #'projectEngineer';
+    addField: #'invoiceNumber';
+    addField: #'invoiceCreatedDate';
+    addField: #'pcHandedOverDate';
+    addField: #'pcRequestSubmittedDate';
+    addField: #'variationRequestSubmittedDate';
+    addField: #'variationApprovedDate';
+    addField: #'pcDueDate';
+    addField: #'paymentDate';
+    addField: #'variationComment';
+    addField: #'monthClaimed';
+    addField: #'monthPaid';
+    addField: #'title';
+    addField: #'suburb';
+    addField: #'cspoValue';
+    addField: #'variationValue';
+    addField: #'totalRevenue';
+    addField: #'gstInclusiveValue';
+    addField: #'djcCost';
+    addField: #'internalDjcCost';
+    addField: #'totalCost';
+    addField: #'marginValue';
+    addField: #'marginPercentage';
+    addField: #'status';
+    addField: #'expectedPaymentDate';
+    addField: #'comments';
+    addField: #'clientContact';
+    addField: #'projectQuoteSubmittedDate';
+    addField: #'projectAwardedDate';
+    addField: #'daysToAward';
+    addField: #'customerRequiredDate';
+    addField: #'daysfromAwardToCustomerRequired'

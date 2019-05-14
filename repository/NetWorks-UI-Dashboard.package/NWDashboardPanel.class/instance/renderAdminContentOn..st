@@ -1,3 +1,14 @@
 rendering
 renderAdminContentOn: canvas
-  canvas text: 'Dashboard Content'
+  canvas heading
+    level4;
+    with: 'Statistics'.
+  canvas tbsRow
+    with: [ 
+      self
+        renderClientsInfoBoxOn: canvas;
+        renderProjectsInfoBoxOn: canvas ].
+  canvas heading
+    level4;
+    with: 'Exporting Data'.
+  canvas tbsRow with: [ self renderExportProjectsOn: canvas ]
