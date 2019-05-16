@@ -7,7 +7,7 @@ initializeSystem
   WABpmBackofficeLogin register.
   WABpmBIandChartsLogin register.
   WABpmStartAnonymousProcessPortal register.
-  WAOrbeonProcessLayer register.
+  WAOrbeonPersistenceLayer register.
   WAOrbeonLogin register.
   WABpmProcessCreationStaticMessage register.
   BpmSystemInitialization initializeCurrentSystem.

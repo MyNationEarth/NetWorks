@@ -62,6 +62,11 @@ baseline: spec
               spec
                 loads: #('Core');
                 repository: 'github://glassdb/NeoCVS:master/repository' ];
+        baseline: 'Mustache'
+          with: [ 
+              spec
+                loads: #('Core');
+                repository: 'github://noha/mustache:master/repository' ];
         baseline: 'JQueryWidgetKit'
           with: [ spec repository: 'github://JQueryWidgetKit/JQueryWidgetKit/repository' ];
         baseline: 'AdminLTE'
