@@ -6,5 +6,5 @@ installDatateksContractorsAndInvoices
     onFileAtPath:
       basePath
         ,
-          'Datateks Sydney Financials 2018-19  20181128 Phil 2/Invoices-Table 1.csv')
+          'Datateks Sydney Financials 2018-19 20181128 Phil/Invoices-Table 1.csv')
     import
