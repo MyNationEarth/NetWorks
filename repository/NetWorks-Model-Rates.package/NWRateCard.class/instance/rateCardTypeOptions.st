@@ -1,0 +1,4 @@
+descriptions
+rateCardTypeOptions
+  ^ {#'Client'.
+  #'Subcontractor'}

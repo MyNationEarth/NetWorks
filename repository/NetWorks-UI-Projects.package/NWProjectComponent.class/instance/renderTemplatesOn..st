@@ -67,4 +67,4 @@ renderTemplatesOn: canvas
         with: [ 
               canvas tbsButton
                 callback: [  ];
-                with: 'Generate Subcontractor Stateement' ] ]
+                with: 'Generate Subcontractor Statement' ] ]

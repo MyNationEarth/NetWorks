@@ -78,7 +78,7 @@ buildProjects
         at: #'invoiceNumber'
         ifPresent: [ :value | project invoiceNumber: value ].
       row
-        at: #'invoiceDate'
+        at: #'invoiceCreatedDate'
         ifPresent: [ :value | project invoiceCreatedDate: (self dateFromString: value) ].
       row
         at: #'variationRequestSubmittedDate'

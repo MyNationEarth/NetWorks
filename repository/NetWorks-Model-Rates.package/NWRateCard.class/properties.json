@@ -8,6 +8,7 @@
 	"instvars" : [
 		"startDate",
 		"endDate",
+		"rateCardType",
 		"filePath",
 		"rateCategories" ],
 	"name" : "NWRateCard",

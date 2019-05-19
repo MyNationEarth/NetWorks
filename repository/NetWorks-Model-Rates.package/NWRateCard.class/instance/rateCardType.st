@@ -1,0 +1,3 @@
+Accessing
+rateCardType
+	^rateCardType

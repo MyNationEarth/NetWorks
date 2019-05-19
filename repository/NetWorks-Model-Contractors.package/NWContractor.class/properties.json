@@ -8,11 +8,15 @@
 	"instvars" : [
 		"contacts",
 		"invoices",
-		"insuranceStartDate",
-		"insuranceEndDate",
 		"minorWorksAgreementDate",
 		"minorWorksAgreementSignedDate",
-		"minorWorksAddendumDate" ],
+		"minorWorksAddendumDate",
+		"publicLiabilityStartDate",
+		"publicLiabilityEndDate",
+		"workersCompStartDate",
+		"workersCompEndDate",
+		"publicIndemnityInsuranceStartDate",
+		"publicIndemnityInsuranceEndDate" ],
 	"name" : "NWContractor",
 	"pools" : [
 		 ],
