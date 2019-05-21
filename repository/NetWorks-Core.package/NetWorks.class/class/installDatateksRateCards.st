@@ -38,5 +38,20 @@ installDatateksRateCards
             title: 'A401 Request for Quote Rate Card March 2019';
             startDate: Date today;
             rateCardType: #'Client';
-            setDebug;
+            import);
+    add:
+        ((NWRateCard
+            fromRateCardCSVFileOnPath:
+              basePath , 'Datateks Maximo Metro North.csv')
+            title: 'Minor Works Metro North';
+            startDate: Date today;
+            rateCardType: #'Client';
+            import);
+    add:
+        ((NWRateCard
+            fromRateCardCSVFileOnPath:
+              basePath , 'Datateks Maximo Regional South.csv')
+            title: 'Minor Works Regional South';
+            startDate: Date today;
+            rateCardType: #'Client';
             import)

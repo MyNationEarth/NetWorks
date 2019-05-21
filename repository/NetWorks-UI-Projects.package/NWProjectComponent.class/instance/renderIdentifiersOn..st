@@ -12,4 +12,7 @@ renderIdentifiersOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('AYCA Number') on: canvas ] ]
+        with: [ self renderDescriptionsWithLabels: #('AYCA Number') on: canvas ].
+      canvas tbsColumn
+        smallSize: 6;
+        with: [ self renderDescriptionsWithLabels: #('Order Number') on: canvas ] ]

@@ -32,7 +32,7 @@ buildProjects
       project := projects
         add:
           (NWProject new
-            title: title;
+            title: fsamMps;
             minorWorksNumber: minorWorksNumber;
             aycaNumber: aycaNumber;
             sam: fsam;
@@ -42,6 +42,9 @@ buildProjects
         at: #'contract'
         ifPresent: [ :value | project contract: (self contractFromString: value) ].
       row at: #'suburb' ifPresent: [ :value | project suburb: value ].
+      row
+        at: #'maximoOrderNumber'
+        ifPresent: [ :value | project orderNumber: value ].
       row
         at: #'projectEngineer'
         ifPresent: [ :value | project projectEngineer: value ].

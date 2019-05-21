@@ -43,6 +43,14 @@ tabs
             yourself);
     add:
         (Dictionary new
+            at: #'id' put: #'identifiers';
+            at: #'label' put: 'Identifiers';
+            at: #'icon' put: #'list';
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'identifiers') ];
+            yourself);
+    add:
+        (Dictionary new
             at: #'id' put: #'notes';
             at: #'label' put: 'Notes';
             at: #'icon' put: #'list';

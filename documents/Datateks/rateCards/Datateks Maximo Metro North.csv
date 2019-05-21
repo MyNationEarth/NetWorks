@@ -1,0 +1,509 @@
+Schedule of Rates Pricing,,,
+Respondent,Datateks,,
+Note:,,,
+"1.   Where the Delivery Partner intends to provide pricing, the Delivery Partner must price in all Regions within the State & sectioned columns",,,
+2.   All Schedule of Rates items are to be priced where the Delivery Partner intends to provide Region & State pricing,,,
+3.  The SOR item shall be quoted exclusive of margin and a value shall be stated in all yellow cells with the exception of Quotable items and provisional sums,,,
+,,Regions >>>,NSW Metro North
+Item ID,Item Description,Unit of Measure (UoM),Total per Unit ($/UOM)
+PD,PLANNING & DESIGN,,
+PD-01-01,FTTP Planning,,
+PD-01-01-01,Provision for planning for a FTTP design,Per Work Order," $	1,560.30 "
+PD-01-02,FTTN Planning,,
+PD-01-02-01,Provision for planning for a FTTN design,Per Work Order," $	1,560.30 "
+PD-01-03,FTTB Planning,,
+PD-01-03-01,Provision for planning for a FTTB design,Per Work Order," $	1,224.30 "
+PD-01-04,HFC Planning,,
+PD-01-04-01,Provision for planning for a HFC design,Per Work Order," $	1,560.30 "
+PD-01-05,FTTC Planning,,
+PD-01-05-01,Provision for planning for a FTTC design,Per Work Order," $	1,560.30 "
+PD-01-06,Point to Point Planning,,
+PD-01-06-01,Provision for planning for a Point to Point design,Per Work Order," $	1,392.30 "
+PD-02,Design - Construction/New Build,,
+PD-02-02,For Construction Design,,
+PD-02-02-01,Pre-Work Order release survey,Per Work Order, $	846.72 
+PD-02-02-02,"Provision for design services for Work Orders less than or equal to $2,000",Per Work Order, $	947.62 
+PD-02-02-03,"Provision for design services for Work Orders greater than $2,000 and less than or equal to $5,000",Per Work Order," $	1,456.07 "
+PD-02-02-04,"Provision for design services for Work Orders greater than $5,000 and less than or equal to $10,000",Per Work Order," $	2,416.67 "
+PD-02-02-05,"Provision for design services for Work Orders greater than $10,000 and less than or equal to $20,000",Per Work Order," $	3,724.14 "
+PD-02-02-06,"Provision for design services for Work Orders greater than $20,000 and less than or equal to $50,000",Per Work Order," $	7,019.70 "
+PD-02-02-07,"Provision for design services for Work Orders greater than $50,000",Per Work Order," $	9,573.89 "
+PD-05,Pre-Construction Review,,
+PD-05-01,Pit & Pipe Inspection,,
+PD-05-01-01,Pit and Pipe inspection for certification of Third Party Works,Per Pit, $	81.96 
+CW,CIVIL WORKS,,
+CW-01,Conduit,,
+CW-01-01,Install Conduit,,
+CW-01-01-01,Supply and install underground pipe with an internal diameter of more than 25mm and equal to or less than 50mm by any means in other than Rock,Per linear metre, $	81.96 
+CW-01-01-02,Supply and install underground pipe with an internal diameter of greater than 50mm by any means in other than Rock,Per linear metre, $	106.02 
+CW-01-01-03,Extra over for supply and install an additional underground pipe in an existing trench with an internal diameter of greater than 25mm,Per linear metre, $	23.82 
+CW-01-01-04,Extra over for supply and install an additional underground pipe by boring technique with an internal diameter of greater than 25mm,Per linear metre, $	65.96 
+CW-01-01-05,Supply and install riser on pole or building,Per riser, $	195.50 
+CW-01-02,Rock,,
+CW-01-02-01,Extra over rate for the supply and install of pipe in Rock by any means,Per linear metre, $	305.82 
+CW-02,Pits,,
+CW-02-01,Install Pits,,
+CW-02-01-01,Supply and installation of small pits (P2) at any locations in other than Rock,Per pit, $	399.71 
+CW-02-01-02,Supply and installation of medium pits (P4 and P5) at any locations in other than Rock,Per pit, $	728.90 
+CW-02-01-03,Supply and installation of large pits (P6 and P8) at any locations in other than Rock,Per pit," $	1,694.01 "
+CW-02-01-04,Supply and installation of extra-large (P9) pits at any locations in other than Rock,Per pit," $	2,498.27 "
+CW-02-01-05,Supply and install pit riser,Each pit riser, $	297.46 
+CW-02-01-06,Supply and install pit lids,Each pit lids, $	77.04 
+CW-02-01-07,Extra over flagfall for composite pit lid replacements in trafficable locations,Per Work Order, $	114.35 
+CW-02-02,Rock,,
+CW-02-02-01,Extra over rate for the supply and installation of a pit in Rock,Per cubic metre, $	379.50 
+CW-02-03,Remove & Dispose Asbestos Contaminated Material (ACM) Pits,,
+CW-02-03-01,Removal and disposal of small (P2) ACM Pit,Each ACM Pit, $	907.69 
+CW-02-03-02,Removal and disposal of medium (P4 or P5) ACM Pit,Each ACM Pit," $	1,143.13 "
+CW-02-03-03,Removal and disposal of large (P6 or P8) ACM Pit,Each ACM Pit," $	1,815.38 "
+CW-02-03-04,Removal and disposal of extra large (P9) ACM Pit,Each ACM Pit," $	2,212.50 "
+CW-03,Core bore,,
+CW-03-01,Core bore,,
+CW-03-01-01,Core bore,Each core bore, $	251.19 
+CW-04,Direct Buried Cable,,
+CW-04-01,Cable Install,,
+CW-04-01-01,Installation only of single cable by direct buried techniques by any means,Per linear metre, $	20.90 
+CW-04-02,Rock,,
+CW-04-02-01,Extra over for the installation of a single cable by direct buried techniques in Rock,Per linear metre, $	71.50 
+CW-04-03,Infrastructure Install,,
+CW-04-03-01,Supply and install marker posts for buried underground cable,Per marker post, $	167.36 
+CW-05,Blockages,,
+CW-05-01,Blockages,,
+CW-05-01-01,Identify and repair a damaged and blocked duct in any surface,Per blockage repaired, $	557.38 
+CW-05-01-02,Clear pipe blockage using high pressure water,Per blockage cleared, $	263.12 
+CW-06,Surface Works,,
+CW-06-01,Breakout Surface Works,,
+CW-06-01-01,Breakout concrete surface material,Per linear metre, $	106.46 
+CW-06-01-02,Breakout asphalt or bitumen,Per linear metre, $	99.00 
+CW-06-01-03,Breakout paving material in CBD areas,Per linear metre, $	145.35 
+CW-06-01-04,Breakout paving material in all areas other than CBD,Per linear metre, $	84.95 
+CW-06-02,Reinstate Surface Works,,
+CW-06-02-01,Reinstate concrete surface material,Per linear metre, $	190.51 
+CW-06-02-02,Reinstate asphalt or bitumen,Per linear metre, $	113.40 
+CW-06-02-03,Reinstate paving material in CBD areas,Per linear metre, $	504.18 
+CW-06-02-04,Reinstate paving material in all areas other than CBD,Per linear metre, $	121.10 
+CI,CABLE INSTALL,,
+CI-01,Pipe Proving,,
+CI-01-01,Conduit,,
+CI-01-01-01,Pipe Proving in existing duct,Per linear metre, $	2.54 
+CI-01-02,Riser,,
+CI-01-02-01,Pipe Proving in existing riser on a pole or in existing riser on the external face of a building,Per existing riser on a pole or existing riser on the external face of a building, $	42.75 
+CI-02,Underground Install,,
+CI-02-01,Fibre,,
+CI-02-01-01,Installation of a cable sheath greater than 144 fibre in underground duct by any means,Per linear metre, $	4.98 
+CI-02-01-02,Installation of a cable sheath greater than 12 fibre and up to and including 144 fibre in underground duct by any means,Per linear metre, $	4.98 
+CI-02-01-03,Installation of 12 fibre fibre cable sheath in underground duct by any means,Per linear metre, $	4.98 
+CI-02-01-04,Installation of single fibre cable sheath in underground duct by any means,Per linear metre, $	4.98 
+CI-02-01-05,Installation of a cable sheath in existing riser on a pole or in existing riser on the external face of a building,Per cable sheath, $	50.42 
+CI-02-02,Copper,,
+CI-02-02-01,Installation of copper cable of up to including 100 pair in underground duct,Per linear metre, $	4.98 
+CI-02-02-02,Installation of copper cable of greater than 100 pair in underground duct,Per linear metre, $	5.10 
+CI-03,Aerial Install,,
+CI-03-01,Fibre,,
+CI-03-01-01,Installation of cable sheath and all NBN Co infrastructure on timber poles in the communications corridor,Per Span, $	493.94 
+CI-03-01-02,Installation of cable sheath and all NBN Co infrastructure on stobie poles in the communications corridor,Per Span, $	677.36 
+CI-03-01-03,Installation of cable sheath and all NBN Co infrastructure on concrete or steel poles in the communications corridor,Per Span, $	677.36 
+CI-03-01-04,Installation of cable sheath and all NBN Co infrastructure on timber poles in the power corridor,Per Span, $	673.55 
+CI-03-01-05,Installation of cable sheath and all NBN Co infrastructure on stobie poles in the power corridor,Per Span, $	745.09 
+CI-03-01-06,Installation of cable sheath and all NBN Co infrastructure on concrete or steel poles in the power corridor,Per Span, $	745.09 
+CI-03-02,Copper,,
+CI-03-02-01,Installation of copper cable sheath and all NBN Co infrastructure on timber poles in the communications corridor up to 100 pair,Per Span, $	472.83 
+CI-03-02-02,Installation of copper cable sheath and all NBN Co infrastructure on stobie poles in the communications corridor up to 100 pair,Per Span, $	548.10 
+CI-03-02-03,Installation of copper cable sheath and all NBN Co infrastructure on concrete or steel poles in the communications corridor up to 100 pair,Per Span, $	685.13 
+CI-03-02-04,Installation of copper cable sheath and all NBN Co infrastructure on timber poles in the power corridor up to 100 pair,Per Span, $	851.10 
+CI-03-02-05,Installation of copper cable sheath and all NBN Co infrastructure on stobie poles in the power corridor up to 100 pair,Per Span, $	778.56 
+CI-03-02-06,Installation of copper cable sheath and all NBN Co infrastructure on concrete or steel poles in the power corridor up to 100 pair,Per Span, $	778.56 
+CI-04,In Building,,
+CI-04-01,Fibre,,
+CI-04-01-01,Installation of cable sheath within a cable chamber,Per linear metre,8.54
+CI-04-01-02,Installation of cable sheath via riser shaft/cable tray,Per linear metre, $	14.78 
+CI-04-01-03,Installation of cable sheath via ceiling space/floor cavity or crawl space,Per linear metre, $	14.71 
+CI-04-01-04,Installation of cable sheath via existing or new conduit,Per linear metre, $	6.88 
+CI-04-02,Copper,,
+CI-04-02-01,Extra over rate for supply and install AC power cable for FTTB Cabinet,Per linear metre, $	19.92 
+CI-04-02-02,Extra over rate for supply and install earth cable for FTTB Cabinet,Per linear metre, $	21.71 
+CI-04-02-03,"Extra over rate for the installation of a copper cable sheaths from main distribution frame to FTTB Cabinet, via riser, shaft or cable tray",Per linear metre, $	15.13 
+CI-04-02-04,"Extra over rate for the installation of copper cable sheaths via ceiling space, floor cavity or crawl space",Per linear metre, $	12.72 
+CI-05,Cable Recovery,,
+CI-05-01,Cable Recovery,,
+CI-05-01-01,Removal and disposal of cable in distribution aerial Network,Per Span, $	258.50 
+CI-05-01-02,Removal and disposal of cable in local aerial Network,Per Span, $	258.50 
+CI-05-01-03,Removal and disposal of catenary wire in aerial Network,Per Span, $	258.50 
+CI-05-01-04,Removal and disposal of cable in distribution underground Network,Per metre, $	4.29 
+CI-05-01-05,Removal and disposal of cable in local underground Network,Per metre, $	3.64 
+CI-05-01-06,Removal and disposal of cable in buildings,Per metre, $	5.55 
+CB,CABINETS,,
+CB-01,FTTP Cabinets,,
+CB-01-01,Cabinet Install,,
+CB-01-01-01,Installation of an external FDH Cabinet,Per FDH Cabinet," $	2,562.87 "
+CB-02,FTTN Cabinets,,
+CB-02-01,Cabinet Install,,
+CB-02-01-01,Installation only of an external small port Node Cabinet,Per external Node Cabinet," $	2,715.33 "
+CB-02-01-02,Installation only of an external medium port Node Cabinet,Per external Node Cabinet," $	5,874.66 "
+CB-02-01-03,Installation only of an external large port Node cabinet,Per external Node Cabinet," $	6,301.60 "
+CB-02-02,Infrastructure Install,,
+CB-02-02-01,Installation of service jumpering in a FTTN/FTTB Node Cabinet,Per 48 Port Line Card, $	394.30 
+CB-02-02-02,Cable layup within CJL for external small port CSD node,Per CJL, $	227.39 
+CB-03,FTTB Cabinets,,
+CB-03-01,Cabinet Install,,
+CB-03-01-01,Installation of an internal small FTTB Cabinet,Per FTTB Cabinet," $	3,258.45 "
+CB-03-01-02,Installation of an internal medium FTTB Cabinet,Per FTTB Cabinet," $	4,117.82 "
+CB-03-01-03,Installation of an internal large FTTB Cabinet (greater than 192 up to 384 port),Per FTTB Cabinet," $	5,000.78 "
+CB-03-02,Infrastructure Install,,
+CB-03-02-01,Supply and install new service earth bar,Per service earth bar, $	150.22 
+CB-03-02-02,Supply and install new service earth stake,Per service earth stake, $	168.28 
+CB-03-02-03,Install a 10 pair MDF terminal block,Per 10 pair MDF terminal block, $	49.19 
+CB-03-02-04,Install a 100 pair MDF terminal frame,Per 100 pair MDF terminal frame, $	103.31 
+CB-04,Maintenance,,
+CB-04-01,Cabinet Maintenance,,
+CB-04-01-01,Removal and disposal of a cabinet,Per Cabinet, $	934.48 
+CB-04-01-02,Repair of a cabinet panel,Per Cabinet, $	189.63 
+CB-04-01-03,Removal of graffiti from a cabinet,Per Cabinet, $	193.70 
+CB-04-01-04,Replacement of a cabinet lock,Per Cabinet, $	118.82 
+FB,FIBRE,,
+FB-01,Fibre Joints,,
+FB-01-01,Joint Install,,
+FB-01-01-01,Installation and preparation of a new fibre joint enclosure greater than 144 fibres,Per fibre joint enclosure, $	932.24 
+FB-01-01-02,Installation and preparation of a new fibre joint enclosure greater than 12 fibres and up to and including 144 fibres,Per fibre joint enclosure, $	596.00 
+FB-01-01-03,Installation and preparation of a fibre joint enclosure up to and including 12 fibres,Per fibre joint enclosure, $	468.60 
+FB-01-01-04,Installation and preparation of Gator fibre joint enclosure,Per Gator fibre joint enclosure, $	178.31 
+FB-01-02,Cable Preparation,,
+FB-01-02-01,Prepare a fibre cable sheath greater than 144 fibres  to be connected to fibre joint enclosures,Per cable sheath, $	436.46 
+FB-01-02-02,Prepare a fibre cable sheath greater 12 fibres and up to and including 144 fibres to be connected to fibre joint enclosures,Per cable sheath, $	234.65 
+FB-01-02-03,Prepare a 12 fibre cable to be connected to fibre joint enclosures,Per cable sheath, $	106.14 
+FB-01-02-04,Prepare Single fibre cable sheath to be connected to fibre joint enclosures,Per cable sheath, $	87.12 
+FB-01-02-05,Lay up of cable sheaths,Per cable sheath, $	100.80 
+FB-01-02-06,Prepare a loose tube fibre cable sheath greater than 144 fibres  to be connected to fibre joint enclosures,Per cable sheath, $	436.87 
+FB-01-02-07,Prepare a loose tube fibre cable sheath greater 12 fibres and up to and including 144 fibres to be connected to fibre joint enclosures,Per cable sheath, $	306.85 
+FB-01-02-08,Prepare a loose tube 12 fibre cable to be connected to fibre joint enclosures,Per cable sheath, $	153.97 
+FB-01-02-09,Prepare a loose tube Single fibre cable sheath to be connected to fibre joint enclosures,Per cable sheath, $	87.12 
+FB-01-03,Cable Re-entry,,
+FB-01-03-01,Re-entry into a fibre joint enclosure,Per fibre joint enclosure, $	132.92 
+FB-01-04,Splitters,,
+FB-01-04-01,Installation of splitter within existing FDH / PDH cabinet,Per splitter, $	79.08 
+FB-01-04-02,Installation of splitter within an existing BJL enclosure,Per splitter, $	70.75 
+FB-01-04-03,Installation of splitter within an existing FJL enclosure,Per splitter, $	70.75 
+FB-01-04-04,Installation of a splitter card output fibres to LFN ports within and existing FDH cabinet,Per Fibre, $	17.94 
+FB-01-04-05,Installation of a Fibre TV Splitter (TVS) within an FDH Cabinet,Per device, $	68.77 
+FB-01-04-06,Installation of a Fibre TV Splitter within a PDH enclosure,Per device, $	68.77 
+FB-02,Multiports,,
+FB-02-01,Multiport Install,,
+FB-02-01-01,Installation of multiport or splitter multiport in underground pit or manhole,Per multiport, $	41.89 
+FB-02-01-02,Installation of multiport or splitter multiport on any pole,Per multiport, $	187.77 
+FB-03,Splicing,,
+FB-03-01,Fibre Splicing,,
+FB-03-01-01,Splicing of optic fibre ribbons,Per Ribbon Splice, $	23.00 
+FB-03-01-02,Splicing of single fibre,Per Fibre Splice, $	19.67 
+FB-03-01-03,Splicing of loose tube fibre,Per Fibre Splice, $	27.04 
+FB-03-01-04,De ribbonise 12 fibre ribbon,Per ribbon, $	18.10 
+FB-04,Fibre Testing,,
+FB-04-01,Network Testing,,
+FB-04-01-01,Uni-directional OTDR Testing,Per fibre, $	32.29 
+FB-04-01-03,Insertion loss testing,Per fibre, $	39.87 
+FB-04-01-04,End to end connectivity testing to the GPON NTD at customer premises,Per fibre, $	52.35 
+FB-04-01-05,End to end connectivity testing to SASK NTD at customer premises,Per fibre, $	54.97 
+FB-04-01-06,Extra over rate for LFN / MTLFN insertion loss testing to the PCD,Per fibre, $	29.90 
+FB-04-01-07,PON Power Meter Test,Per fibre, $	27.50 
+FB-04-01-08,Point to point bi-directional testing,Per fibre, $	52.24 
+FB-05,Fibre Termination,,
+FB-05-01,Termination & Patching,,
+FB-05-01-01,Installation of a 72 way HDODF patch panel within an existing HDODF or equivalent environments,Per patch panel, $	281.60 
+FB-05-01-02,Installation of a 24 way HDODF patch panel within an existing HDODF or equivalent environments,Per patch panel, $	208.59 
+FB-05-01-03,Installation of a 12/24 way fibre patch panel within a customer premise environment,Per patch panel, $	314.16 
+FB-05-01-04,Prepare and splice a fibre cable sheath greater than 144 fibres to be connected within a HDODF environment,Per cable sheath," $	2,529.56 "
+FB-05-01-05,Prepare and splice a fibre cable sheath greater 12 fibres and up to and including 144 fibres to be connected within a HDODF environment,Per cable sheath, $	869.54 
+FB-05-01-06,Prepare and splice of a 12 fibre sheath within a customer premises environment,Per cable sheath, $	182.63 
+FB-05-01-07,Prepare and splice of a single fibre at a NTD,Per Fibre, $	51.89 
+FB-05-01-08,Supply and install patching cable,Per patching cable, $	117.23 
+FB-06,Fibre Maintenance,,
+FB-06-01,Fibre Maintenance,,
+FB-06-01-01,Removal of existing fibre joint enclosure,Per fibre joint enclosure, $	171.33 
+CP,COPPER,,
+CP-01,Copper Augment - CCU,,
+CP-01-01,Install CCU,,
+CP-01-01-01,Installation of a new 900 type CCU,Per new 900 type CCU," $	1,185.80 "
+CP-01-01-02,Installation of a new 1800 type CCU,Per new 1800 type CCU," $	1,283.33 "
+CP-01-01-03,"Installation of 10 cable pair bundles between two copper cable insulation displacement modules (Connection Modules), including the termination of the bundle on each Connection Module",Per 10 cable pair bundle, $	62.80 
+CP-01-01-04,Cutting over existing services from an existing Connection Module to a new Connection Module,Per 10 cable pairs, $	142.59 
+CP-01-01-05,Installation of service jumpering in a cross connect unit,Per Service, $	26.15 
+CP-01-02,Rehabilitate CCU,,
+CP-01-02-01,Upgrading of an existing CCU from 900 type to 1800 type,Per CCU required to be upgraded from 900 type to 1800 type, $	307.55 
+CP-01-02-02,Augmentation of an existing 900 type CCU (Pillar Expansion Option 1),Per Expansion CCU," $	1,603.27 "
+CP-01-02-03,Augmentation of an existing 900 type CCU (Pillar Expansion Option 2),Per Expansion CCU," $	2,353.37 "
+CP-01-03,Remove CCU,,
+CP-01-03-01,Removal and disposal of an existing CCU,Per existing CCU, $	500.34 
+CP-01-04,CCU Maintenance,,
+CP-01-04-01,Replacement of Pillar Lid Lock or Pillar Cap,Per existing CCU, $	78.22 
+CP-01-04-02,Installation of 2-piece Pillar Base Repair Kit,Per existing CCU, $	140.80 
+CP-01-04-03,Replace Cover Lightweight (1800 Type),Per existing CCU, $	66.49 
+CP-01-04-04,Replacement of copper cable insulation displacement connection module (Connection Module) and termination of cable,Per existing module, $	111.04 
+CP-02,Copper Augment - Joints,,
+CP-02-01,Install Joint,,
+CP-02-01-01,Installation of a new Distribution extra large copper joint,Per new Distribution extra large copper joint," $	1,695.72 "
+CP-02-01-02,Installation of a new Distribution large copper joint,Per new Distribution large copper joint, $	799.31 
+CP-02-01-03,Installation of a new Distribution small copper joint,Per new Distribution small copper joint, $	515.87 
+CP-02-01-04,Installation of a new Main Cable small copper joint,Per new Main Cable small copper joint, $	804.76 
+CP-02-01-05,Installation of a new Main Cable medium copper joint,Per new Main Cable medium Copper joint," $	1,678.55 "
+CP-02-01-06,Installation of a new Main Cable large copper joint enclosure,Per new Main Cable large Copper joint enclosure," $	2,368.08 "
+CP-02-01-07,Installation of a new Main Cable extra large copper joint enclosure,Per new Main Cable extra large Copper joint enclosure," $	3,967.98 "
+CP-02-01-08,Installation of a new aerial large copper joint,Per new Distribution large copper joint," $	1,357.69 "
+CP-02-01-09,Installation of a new aerial small copper joint,Per new Distribution small copper joint,924.53
+CP-02-02,Rehabilitate Joint,,
+CP-02-02-01,Rehabilitate existing Distribution large openable copper joint,Per large openable copper joint, $	459.64 
+CP-02-02-02,Rehabilitate existing Distribution small openable copper joint,Per small openable copper joint, $	288.91 
+CP-02-02-03,Replacement of existing Distribution in-line copper joint with a new in-line large copper joint,Per existing copper joint replaced, $	812.14 
+CP-02-02-04,Replacement of existing Distribution in-line copper joint with a new in-line small copper joint,Per existing copper joint replaced, $	503.99 
+CP-02-02-05,Cutting over existing services from an existing copper joint to a new large copper joint,Per existing copper joint replaced, $	810.73 
+CP-02-02-06,Cutting over existing services from an existing copper joint to a new small copper joint,Per existing copper joint replaced, $	503.11 
+CP-02-02-07,Rehabilitate existing aerial large copper joint,Per existing copper joint replaced, $	862.88 
+CP-02-02-08,Rehabilitate existing aerial small copper joint,Per existing copper joint replaced, $	621.28 
+CP-02-03,Remove Joint,,
+CP-02-03-01,Removal of existing copper joint,Per existing copper joint, $	78.22 
+CP-02-03-02,Removal of existing aerial copper joint,Per existing copper joint, $	166.32 
+CP-02-03-03,Remove a existing elevated joint,Per existing copper joint, $	147.84 
+CP-02-04,Joint Maintenance,,
+CP-02-04-01,Joint sealing maintenance task (add Dexbond 10B Sealant),Per existing copper joint, $	104.50 
+CP-02-04-02,"Replace joint lid, clamp, or Support Bar   (HSOJ or Dexgreen Joint)",Per existing copper joint, $	74.25 
+CP-02-04-03,Replace or install 2-5pr Snap Enclosure,Per existing copper joint, $	49.50 
+CP-02-04-04,Replace or install 10pr Snap Enclosure,Per existing copper joint, $	100.24 
+CP-02-04-05,Replace connectors in an openable joint,Per existing copper joint, $	126.72 
+CP-02-04-06,Replace Bandit Strap,Per existing copper joint, $	41.58 
+CP-03,Copper Maintenance,,
+CP-03-01,Network Maintenance,,
+CP-03-01-01,Removal of a pair gain system,Per pair gain system, $	319.00 
+CP-03-01-02,Migration of an existing service from a pair gain system to a dedicated copper circuit,Per existing service, $	167.71 
+CP-03-01-03,Single service active migration in a CSD including service jumpering in the pillar,Per service, $	137.15 
+CP-03-01-04,Removal of existing line conditioning equipment,Per existing line conditioning equipment, $	188.72 
+CP-03-01-05,Removal of an existing bridge tap,Per existing bridge tap, $	141.54 
+CP-03-01-06,Install earth bonding cable between cable sections,Per linear metre, $	15.38 
+CP-04,Exchange Activities,,
+CP-04-01,Exchange Works,,
+CP-04-01-01,Installation of service jumpering in an Exchange,Per Service, $	38.88 
+CP-04-01-02,Existing service transfer jumpering in an MDF and termination end point,Per existing service, $	58.68 
+CP-04-02,Testing,,
+CP-04-02-01,Copper performance line testing,Per cable pair, $	110.88 
+CP-04-02-02,Line Testing Vacant Pairs,Per cable pair, $	36.96 
+FC,FTTC,,
+FC-01,DPU Install,,
+FC-01-01,Install DPU,,
+FC-01-01-01,Installation and commissioning of a non-aerial DPU terminal device,Per DPU, $	170.78 
+FC-01-01-02,Installation and commissioning of an aerial DPU terminal device,Per DPU, $	201.84 
+FC-01-01-03,Installation and commissioning of a wall mounted DPU terminal device,Per DPU, $	176.28 
+FC-02,DPU Jointing,,
+FC-02-01,DPU Termination,,
+FC-02-01-01,Installation of a new non-aerial openable joint enclosure,Per new non-aerial openable joint enclosure, $	217.80 
+FC-02-01-02,Jointing of an aerial copper drop sheath to aerial DPU copper lead in a new or existing openable joint enclosure,Per aerial DPU copper lead jointed, $	112.01 
+FC-02-01-03,Jointing of copper drop sheath to DPU copper lead using a copper interconnect unit,Per DPU copper lead jointed, $	42.67 
+FC-02-01-04,Jointing of copper drop sheath to DPU copper lead in a new or existing openable joint enclosure,Per DPU copper lead jointed, $	60.48 
+FC-02-01-05,Supply and installation of a DPU copper lead extension from DPU copper lead to a new or existing aerial mounted openable joint enclosure or to an existing aerial mounted terminal box joint enclosure,Per DPU copper lead extension, $	201.52 
+FC-02-01-06,Supply and installation of DPU copper lead extension from DPU copper lead to a new or existing non-aerial mounted openable joint enclosure,Per DPU copper lead extension, $	145.31 
+FC-02-01-07,Supply and installation of a DPU copper lead extension from DPU copper lead to a non-aerial copper interconnect unit,Per DPU copper lead extension, $	156.18 
+FC-02-01-08,Installation of a copper tie cable for interconnection between two new or existing openable joint enclosures or terminal box joint enclosures,Per copper tie cable, $	352.27 
+FC-02-01-09,Extra over for the Installation of a 2 pair copper cut-in loop to existing lead sheath copper lead-in,Per 2pair loop, $	55.44 
+FC-02-01-10,Removal of an existing terminal box joint enclosure or existing openable joint and installation of a new replacement openable joint enclosure,Per replaced enclosure, $	294.98 
+FC-02-01-11,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a non-aerial copper interconnect unit,Per DPU copper lead high twist extension, $	170.50 
+FC-02-01-12,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing aerial mounted openable joint enclosure or to an existing aerial mounted terminal box joint enclosure,Per DPU copper lead high twist extension, $	186.00 
+FC-02-01-13,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing non-aerial mounted openable joint enclosure,Per DPU copper lead high twist extension, $	170.50 
+FC-03,DPU Validation,,
+FC-03-01,DPU Validation,,
+FC-03-01-01,Existing copper drop sheath validation,Per existing copper drop sheath validated, $	68.91 
+FC-03-01-02,Existing Copper drop sheath validation for Serviceability for Missed Lead-ins,Per existing copper drop sheath validated, $	88.54 
+MD,Multi Dwelling Units,,
+MD-01,Building Infrastructure,,
+MD-01-01,Cable Pathway Infrastructure,,
+MD-01-01-01,Supply & Installation of catenary wire system in buildings,Per linear metre, $	25.39 
+MD-01-01-02,Supply & Installation of cable tray in buildings,Per linear metre, $	59.05 
+MD-01-01-03,Supply and installation of ducting <30mm width,Per linear metre, $	22.54 
+MD-01-01-04,Supply and installation of ducting >30mm width,Per linear metre, $	44.44 
+MD-01-01-05,Supply and installation of conduit,Per linear metre, $	27.72 
+MD-01-01-06,Installation of One Pass Fibre Pathway in buildings,Per linear metre, $	26.16 
+MD-01-01-07,Connecting One Pass Fibre Pathway to ICD or PCD,Each ICD or PCD, $	36.47 
+MD-01-07,Building Equipment,,
+MD-01-07-01,Installation of Fibre Collector Distributor (FCD) or Fibre Distribution Terminal (FDT) or Cable Transition Location (CTL) within buildings,"Each FCD, FDT or CTL", $	147.84 
+MD-01-07-02,Installation of Premises Distribution Hub (PDH),Each PDH, $	295.68 
+MD-01-07-03,Installation of Internal Connection Device (ICD) or Premises Connection Device (PCD),Each ICD or PCD, $	54.60 
+MD-01-07-04,Installation of a fibre wall outlet,Per outlet, $	52.23 
+MD-01-08,Building Construction Works,,
+MD-01-08-01,Provide a wall penetration in brick or concrete wall only,Each wall penetration, $	172.48 
+MD-01-08-01-AH,Provide a wall penetration in brick or concrete wall only outside working hours,Each wall penetration, $	241.47 
+MD-01-08-02,Provide a wall penetration in a plasterboard wall only,Each wall penetration, $	36.96 
+MD-01-08-02-AH,Provide a wall penetration in a plasterboard wall only outside working hours,Each wall penetration, $	51.75 
+MD-01-08-03,Provide a floor penetration above 50mm diameter,Each floor penetration, $	458.85 
+MD-01-08-03-AH,Provide a floor penetration above 50mm diameter outside working hours,Each floor penetration, $	701.05 
+MD-01-08-04,Provide a floor penetration up to and including 50mm diameter,Each floor penetration, $	363.52 
+MD-01-08-04-AH,Provide a floor penetration up to and including 50mm diameter outside working hours,Each floor penetration, $	508.92 
+MD-01-08-05,Supply and installation of appropriate fire stopping method as required,Per Penetration, $	123.20 
+MD-01-08-05-AH,Supply and installation of appropriate fire stopping method as required outside working hours,Per Penetration, $	172.48 
+MD-02,Service Drops,,
+MD-02-01,Fibre Drops,,
+MD-02-01-01,Installation of a single service drop sheath (SDS) on a single span to a multi dwelling unit,Per aerial service drop, $	339.02 
+MD-02-01-02,Extra over rate for additional spans for an aerial service drop to a multi dwelling unit,Each additional Span, $	178.86 
+MD-02-01-03,Extra over rate for supply and installation of an raiser pole on a building.,Each raiser pole installed, $	105.42 
+MD-02-01-04,Installation of service drop sheath underground to a multi dwelling unit,Per service drop, $	324.42 
+MD-02-01-05,Installation of direct service drop sheath underground to a multi dwelling unit,Per direct service drop, $	439.03 
+MD-02-02,Copper Drops,,
+MD-02-02-01,Replace existing copper aerial lead-in with new copper aerial lead-in to a multi dwelling unit,Per existing copper aerial lead- in replaced. Per Span, $	423.78 
+MD-02-02-02,Installation of aerial copper service drop to a multi dwelling unit,Per aerial copper service drop, $	339.02 
+MD-02-02-03,Installation of non-aerial copper service drop to a multi dwelling unit,Per non-aerial copper service drop, $	205.33 
+MD-03,New Development MDU,,
+MD-03-01,FTTP,,
+MD-03-01-01,FTTP MDU In-building Cabling (1-10 Premises),Per EUP, $	265.00 
+MD-03-01-02,FTTP MDU In-building Cabling (11- 30 Premises),Per EUP, $	248.87 
+MD-03-01-03,FTTP MDU In-building Cabling (31- 60 Premises),Per EUP, $	234.66 
+MD-03-01-04,FTTP MDU In-building Cabling (61- 100 Premises),Per EUP, $	222.05 
+MD-03-01-05,FTTP MDU In-building Cabling (101- 150 Premises),Per EUP, $	211.78 
+MD-03-01-06,FTTP MDU In-building Cabling (151- 200 Premises),Per EUP, $	195.65 
+MD-03-01-07,FTTP MDU In-building Cabling (200+ Premises),Per EUP, $	179.51 
+MD-03-02,FTTP Optional Requirement,,
+MD-03-02-01,Separable Portion Documentation Fee,Per Separable Portion, $	787.61 
+MD-03-02-02,Installation of Splitter for RF / Wired TV,Per EUP, $	55.35 
+MD-03-02-03,Extra-over for Installation of Fibre TV receiver co-located with an ntd,Per EUP, $	36.96 
+SD,Single Dwelling Units,,
+SD-01,Single Dwelling Unit Infrastructure,,
+SD-01-01,Install Conduit,,
+SD-01-01-01,"Extra over rate for the supply and install of new lead-in pipe, minimum charge 6 metres route length, by any means",Per linear metre, $	65.24 
+SD-01-01-03,Supply and install of Y connectors,Per Y connector, $	158.30 
+SD-01-01-04,Supply and install new lead-in starter pipe,Per Starter Pipe, $	57.50 
+SD-01-02,Repair Conduit,,
+SD-01-02-01,Extra over rate to repair lead-in conduit,Per repaired lead-in conduit, $	116.61 
+SD-02,Service Drops,,
+SD-02-01,Fibre Drops,,
+SD-02-01-01,Installation of a single service drop sheath on a single span to a single dwelling unit,Per aerial service drop, $	271.22 
+SD-02-01-02,Extra over rate for additional spans for an aerial service drop to a single dwelling unit,Each additional Span, $	203.26 
+SD-02-01-03,Installation of service drop sheath underground to a single dwelling unit,Per service drop, $	340.30 
+SD-02-01-04,Installation of direct service drop sheath underground to a single dwelling unit,Per direct service drop, $	318.51 
+SD-02-02,Copper Drops,,
+SD-02-02-01,Replace existing copper aerial lead-in with new copper aerial lead-in to a single dwelling unit,Per existing copper aerial lead- in replaced. Per Span, $	282.52 
+SD-02-02-02,Installation of aerial copper service drop to a single dwelling unit,Per aerial copper service drop, $	282.52 
+SD-02-02-03,Installation of non-aerial copper service drop to a single dwelling unit,Per non-aerial copper service drop, $	442.39 
+CC,CUSTOMER CONNECTIONS,,
+CC-01,Customer Premise Equipment,,
+CC-01-01,Install Equipment,,
+CC-01-01-01,"Installation, commissioning and integration of a Enterprise Ethernet B-NTD in a wall mounted environment",Per B-NTD, $	276.26 
+CC-01-01-02,"Installation, commissioning and integration of a Enterprise Ethernet B-NTD in a rack mounted environment",Per B-NTD, $	305.92 
+CC-01-01-03,"Installation, commissioning and activation of a GPON B-NTD in a wall mounted environment",Per B-NTD, $	210.81 
+CC-01-01-04,"Installation, commissioning and activation of a GPON B-NTD in a rack mounted environment",Per B-NTD, $	210.81 
+CC-01-01-05,Installation of battery back-up unit in conjunction with BNTD installation,Per Battery Backup Device, $	75.95 
+CC-01-01-06,Installation of a Fibre TV Receiver (TVR) co-located with an NTD,Per device, $	80.64 
+CC-02-01,Replace Equipment,,
+CC-02-01-01,Replace existing lead in termination enclosure,Per enclosure, $	110.88 
+CC-03-01,Remove Equipment,,
+CC-03-01-01,Remove existing aerial lead in equipment from lead-in termination enclosure to NTD,Per NTD, $	110.88 
+CC-03-01-02,Remove existing non-aerial lead in equipment from lead-in termination enclosure to NTD,Per NTD, $	138.60 
+AA,Activations and Assurance,,
+AA-01,Activations,,
+AA-01-01,FTTP,,
+AA-01-01-01,Installation of NTD including fibre tail from PCD to NTD,Per NTD Installed, $	258.72 
+AA-01-01-03,"Installation of optional Battery Backup - whilst on site performing SC1, SC2, or SC3 Installation",Per Battery Backup Installed, $	75.60 
+AA-01-01-04,Installation of Battery Backup as a separate Work Order,Per Battery Backup Installed, $	80.46 
+AA-01-02,FTTN,,
+AA-01-02-01,Service jumpering at Pillar and Node,Per Service, $	41.62 
+AA-01-02-02,Installation of Central Splitters,Per Central Splitter, $	93.87 
+AA-01-02-03,Resolve Distribution & Lead-in Shortfalls and test at customer premises,Per Work Order, $	221.76 
+AA-01-02-04,Joint pair connection at Compact Sealed DSLAM (CSD),Per Pair Connection, $	32.85 
+AA-01-02-05,Attend EUP and Test,Per Work Order, $	110.88 
+AA-01-02-06,Installation of internal wiring from wall box to wall plate,Per Installed Wall Plate, $	116.11 
+AA-01-03,FTTB,,
+AA-01-03-01,Service jumpering at the MDF,Per Service, $	49.94 
+AA-01-03-02,Installation of Central Splitter,Per Central Splitter, $	93.87 
+AA-01-03-03,Resolve shortfall from the MDF to EUP,Per Work Order, $	221.76 
+AA-01-04,HFC,,
+AA-01-04-04,Installation of HFC Modem as part of another Work Order Conduct relevant testing as required by the Activity Scope,Per HFC Modem, $	79.05 
+AA-01-04-06,Resolve Distribution & Lead-in Shortfalls and test,Per Work Order, $	221.76 
+AA-01-05,FTTC,,
+AA-01-05-01,Resolve Distribution & Lead-in Shortfalls and test,Per Work Order, $	221.76 
+AA-01-05-02,Attend EUP and Test,Per Work Order, $	110.88 
+AA-01-05-03,Installation of NCD and verification testing,Per Installed NCD, $	70.96 
+AA-01-05-04,Wiring isolation at the first TO,Per Work Order, $	44.36 
+AA-02,Service Assurance,,
+AA-02-01,FTTP,,
+AA-02-01-01,FTTP Service Assurance,Per Work Order, $	239.01 
+AA-02-02,FTTN,,
+AA-02-02-01,FTTN Service Assurance,Per Work Order, $	239.01 
+AA-02-03,FTTB,,
+AA-02-03-01,FTTB Service Assurance,Per Work Order, $	274.49 
+AA-02-04,HFC,,
+AA-02-04-01,HFC Service Assurance,Per Work Order, $	346.50 
+AA-02-05,FTTC,,
+AA-02-05-01,FTTC Service Assurance,Per Work Order, $	256.75 
+AA-05,Miscellaneous,,
+AA-05-01-01,Extra over After hours,Per Work Order, $	166.32 
+AA-05-01-02,Pre-Scoping of lead-in prior to the Appointment Day,Per Work Order, $	83.94 
+CF,Contractor Fees,,
+CF-01,Project Management Fees,,
+CF-01-02,Minor Works,,
+CF-01-02-01,"Project management fees for design management for Work Orders less than or equal to $2,000",Per Work Order, $	125.00 
+CF-01-02-02,"Project management fees for Construction management for Work Orders less than or equal to $2,000",Per Work Order, $	250.00 
+CF-01-02-03,"Project management fees for design management for Work Orders greater than $2,000 and less than or equal to
+$5,000",Per Work Order, $	312.50 
+CF-01-02-04,"Project management fees for Construction management for Work Orders greater than $2,000 and less than or equal to $5,000",Per Work Order, $	625.00 
+CF-01-02-05,"Project management fees for design management for Work Orders greater than $5,000 and less than or equal to
+$10,000",Per Work Order, $	593.75 
+CF-01-02-06,"Project management fees for Construction management for Work Orders greater than $5,000 less than or equal to
+$10,000",Per Work Order," $	1,187.50 "
+CF-01-02-07,"Project management fees for design management for Work Orders greater than $10,000 and less than or equal to
+$50,000",Per Work Order," $	2,125.00 "
+CF-01-02-08,"Project management fees for Construction management for Work Orders greater than $10,000 and less than or equal to $50,000",Per Work Order," $	4,250.00 "
+CF-01-02-09,"Project management fees for design management for Work Orders greater than $50,000 and less than or equal to
+$100,000",Per Work Order," $	4,000.00 "
+CF-01-02-10,"Project management fees for Construction management for Work Orders greater than $50,000 and less than or equal to $100,000",Per Work Order," $	8,000.00 "
+CF-01-02-11,"Project management fees for design management for Work Orders greater than $100,000",Per Quote,Quote
+CF-01-02-12,"Project management fees for Construction management for Work Orders greater than $100,000",Per Quote,Quote
+CF-02,Mobilisation,,
+CF-02-02,Minor Works,,
+CF-02-02-01,Mobilisation Fee for Planning and Design Works for a Work Order located in Zone 2,Per Work Order," $	1,492.46 "
+CF-02-02-02,Mobilisation Fee for Planning and Design Works for a Work Order located in Zone 3,Per Work Order," $	2,170.82 "
+CF-02-02-03,Mobilisation Fee for Planning and Design Works for a Work Order located in Zone 4,Quote,Quote
+CF-02-02-04,Mobilisation Fee for Construction Works for a Work Order located in Zone 2,Per Work Order," $	2,857.14 "
+CF-02-02-05,Mobilisation Fee for Construction Works for a Work Order located in Zone 3,Per Work Order," $	4,118.19 "
+CF-02-02-06,Mobilisation Fee for Construction Works for a Work Order located in Zone 4,Quote,Quote
+CF-03,LAFHA,,
+CF-03-02,Minor Works,,
+CF-03-02-01,LAFHA for Planning and Design or Construction Works for a Work Order located in Zone 2,per day / per person, $	215.00 
+CF-03-02-02,LAFHA for Planning and Design or Construction Works for a Work Order located in Zone 3,per day / per person, $	215.00 
+CF-03-02-03,LAFHA for Planning and Design or Construction Works for a Work Order located in Zone 4,Quote,Quote
+PS,PROVISIONAL SUMS,,
+PS-01,Provisional Sums,,
+PS-01-01,Provisional Sums,,
+PS-01-01-01,Telecommunications service provider fees,Amount of the fee,Quote
+PS-01-01-02,Pole make ready works,Cost of pole make ready works,Quote
+PS-01-01-03,Supply and install standard GPO as per design,Cost of GPO installation,Quote
+PS-01-01-04,Certification and professional services fees associated with activities not otherwise specified in Activity Scope,Amount of the fee,Quote
+PS-01-01-05,Registered Surveyor Works,Amount of the fee,Quote
+PS-01-01-06,Contaminated Waste Material Removal,Amount of the fee,Quote
+PS-01-01-07,Traffic Control - All costs associated with the hire of professional traffic control units,Amount of the fee,Quote
+PS-01-01-08,Local Authority Charges,Amount of the fee,Quote
+PS-01-01-09,Council breakout and reinstatement,Amount of the fee,Quote
+PS-01-01-10,Construction works in building not contained within the Activity Scope,Cost of the works and fees,Quote
+PS-01-01-11,Aerial pole replacement,Amount of the fee,Quote
+PS-01-01-12,Third party aerial design management fees,Amount of the fee,Quote
+PS-01-01-13,Supply and install electricity connection as per design,Amount of the fee,Quote
+TB,Time Based Rates,,
+TB-01,Hourly Rates,,
+TB-01-01,Labour,,
+TB-01-01-01,Electrician (inclusive equipment),Per hour, $	182.66 
+TB-01-01-02,Electrician (inclusive equipment) – outside working hours,Per hour, $	321.30 
+TB-01-01-03,Fibre Technician (inclusive equipment),Per hour, $	140.96 
+TB-01-01-04,Fibre Technician (inclusive equipment) – outside working hours,Per hour, $	206.02 
+TB-01-01-05,Labourer,Per hour, $	71.50 
+TB-01-01-06,Labourer - outside working hours,Per hour, $	130.12 
+TB-01-01-07,Plant Operator,Per hour, $	88.00 
+TB-01-01-08,Plant Operator – outside working hours,Per hour, $	150.57 
+TB-01-02,Miscellaneous,,
+TB-01-02-01,Third party damage report,Per hour, $	125.55 
+TB-02,Day Rates,,
+TB-02-02,Equipment,,
+TB-02-02-01,Provision of float charges for the movement of large plant and equipment between work sites,Per km, $	8.91 
+TB-02-02-02,Single-axle tipper truck 5 tonne load,Per Day, $	387.20 
+TB-02-02-03,EWP truck mounted up to 12m,Per Day," $	1,848.00 "
+TB-02-02-04,Fully equipped vehicle for electrical technician,Per Day, $	334.40 
+TB-02-02-05,Fully equipped vehicle for fibre technician,Per Day, $	334.40 
+TB-02-02-06,Bobcat with 4-in-1 bucket,Per Day, $	343.20 
+TB-02-02-07,"Backhoe, JCB3CX or equivalent",Per Day, $	352.00 
+TB-02-02-08,Excavators up to 10 tonnes,Per Day, $	352.00 
+TB-02-02-09,Excavators 10 to 15 tonnes,Per Day, $	572.00 
+TB-02-02-10,Excavators up to 10 tonnes fitted with rock breaker,Per Day, $	624.80 
+TB-02-02-11,Double-axle tipper truck 9 tonne load,Per Day," $	1,381.60 "
+TB-02-02-12,Dozer (306 - 400 kw),Per Day," $	4,337.17 "
+TB-02-02-13,Scissor Lift,Per Day, $	461.73 
+TB-02-02-14,Vac Truck,Per Day," $	1,196.00 "
