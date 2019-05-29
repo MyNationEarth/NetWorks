@@ -14,7 +14,8 @@
 		"contracts",
 		"contractors",
 		"projects",
-		"materials" ],
+		"materials",
+		"materialStores" ],
 	"name" : "NWOrganisationModel",
 	"pools" : [
 		 ],

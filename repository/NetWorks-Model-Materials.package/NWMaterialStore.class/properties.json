@@ -4,9 +4,12 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "jupiter 04/01/2019 14:58",
+	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"locationSuburb",
+		"locationState",
+		"materialsOnHand",
+		"stockMovements" ],
 	"name" : "NWMaterialStore",
 	"pools" : [
 		 ],

@@ -2,4 +2,16 @@
 	"class" : {
 		 },
 	"instance" : {
-		 } }
+		"descriptionContainer" : "jupiter 05/28/2019 17:03",
+		"initialize" : "jupiter 05/28/2019 17:05",
+		"locationState" : "jupiter 05/28/2019 16:51",
+		"locationState:" : "jupiter 05/28/2019 16:51",
+		"locationStateDescription" : "jupiter 05/28/2019 17:05",
+		"locationSuburb" : "jupiter 05/28/2019 16:51",
+		"locationSuburb:" : "jupiter 05/28/2019 16:51",
+		"locationSuburbDescription" : "jupiter 05/28/2019 17:05",
+		"materialsOnHand" : "jupiter 05/28/2019 16:51",
+		"materialsOnHand:" : "jupiter 05/28/2019 16:51",
+		"materialsOnHandDescription" : "jupiter 05/28/2019 17:50",
+		"stockMovements" : "jupiter 05/28/2019 16:51",
+		"stockMovements:" : "jupiter 05/28/2019 16:51" } }

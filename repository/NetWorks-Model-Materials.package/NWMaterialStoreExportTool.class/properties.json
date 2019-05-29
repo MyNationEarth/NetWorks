@@ -1,0 +1,15 @@
+{
+	"category" : "NetWorks-Model-Materials",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"contents",
+		"materialStore" ],
+	"name" : "NWMaterialStoreExportTool",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

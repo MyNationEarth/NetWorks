@@ -12,7 +12,7 @@ renderTemplatesOn: canvas
         smallSize: 6;
         with: [ 
               canvas tbsButton
-                callback: [  ];
+                callback: [ self respondWithCompletionCertificate ];
                 with: 'Generate Certificate 1' ] ].
   canvas
     tbsRow: [ 

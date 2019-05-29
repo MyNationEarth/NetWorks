@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"icon" : "jupiter 05/28/2019 16:47",
+		"initialize" : "jupiter 05/28/2019 16:47",
+		"newObjectLabel" : "jupiter 05/28/2019 16:48",
+		"renderBasicsOn:" : "jupiter 05/28/2019 20:04",
+		"renderMaterialsOn:" : "jupiter 05/28/2019 17:14",
+		"respondWithStockOnHandSpreadsheet" : "jupiter 05/28/2019 20:47",
+		"tabs" : "jupiter 05/28/2019 16:49" } }

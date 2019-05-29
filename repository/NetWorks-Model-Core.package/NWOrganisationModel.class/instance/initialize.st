@@ -6,4 +6,5 @@ initialize
   contracts := OrderedCollection new.
   contractors := OrderedCollection new.
   projects := OrderedCollection new.
-  materials := OrderedCollection new
+  materials := OrderedCollection new.
+  materialStores := OrderedCollection new

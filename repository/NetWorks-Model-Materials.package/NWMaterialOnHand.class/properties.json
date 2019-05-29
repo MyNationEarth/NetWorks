@@ -1,0 +1,17 @@
+{
+	"category" : "NetWorks-Model-Materials",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"materialStore",
+		"material",
+		"quantity",
+		"faultyQuantity" ],
+	"name" : "NWMaterialOnHand",
+	"pools" : [
+		 ],
+	"super" : "NWIdentifiableObject",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-UI-Materials",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 05/28/2019 16:47",
+	"instvars" : [
+		 ],
+	"name" : "NWMaterialStoreContainer",
+	"pools" : [
+		 ],
+	"super" : "NWContainer",
+	"type" : "normal" }
