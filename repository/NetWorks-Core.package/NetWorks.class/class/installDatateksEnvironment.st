@@ -8,4 +8,5 @@ installDatateksEnvironment
     installDatateksClients;
     installDatateksContracts;
     installDatateksContractorsAndInvoices;
-    installDatateksProjects
+    installDatateksProjects;
+    installDatateksWarehouses
