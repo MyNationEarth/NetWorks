@@ -1,3 +1,3 @@
 export fields
 materialUnitOfMeasure
-  ^ material unitOfMeasure
+  ^ 'Each'
