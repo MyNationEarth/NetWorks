@@ -24,7 +24,8 @@
 		"materialsImportBasePath" : "jupiter 02/18/2019 16:43",
 		"projectBaseDirectory" : "jupiter 02/09/2019 14:38",
 		"rateCardImportBasePath" : "jupiter 02/09/2019 14:39",
-		"reset" : "jupiter 11/19/2018 00:28" },
+		"reset" : "jupiter 11/19/2018 00:28",
+		"setTimeZoneToMatchOS" : "jupiter 05/29/2019 16:32" },
 	"instance" : {
 		"initialize" : "jupiter 11/19/2018 00:25",
 		"organisationModels" : "jupiter 11/19/2018 01:29",
