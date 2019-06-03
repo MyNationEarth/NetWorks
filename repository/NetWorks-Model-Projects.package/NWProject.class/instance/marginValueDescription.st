@@ -5,4 +5,5 @@ marginValueDescription
     accessor: #'marginValue';
     label: 'Margin Value';
     priority: 3000;
+    beReadonly;
     yourself

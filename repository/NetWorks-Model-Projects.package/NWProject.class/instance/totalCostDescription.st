@@ -5,4 +5,5 @@ totalCostDescription
     accessor: #'totalCost';
     label: 'Total Cost';
     priority: 3000;
+    beReadonly;
     yourself

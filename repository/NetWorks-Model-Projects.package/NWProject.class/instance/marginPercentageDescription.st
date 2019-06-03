@@ -5,4 +5,5 @@ marginPercentageDescription
     accessor: #'marginPercentage';
     label: 'Margin Percentage';
     priority: 3000;
+    beReadonly;
     yourself

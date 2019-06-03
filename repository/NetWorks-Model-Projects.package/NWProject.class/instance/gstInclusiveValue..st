@@ -1,3 +1,3 @@
 Updating
 gstInclusiveValue: newValue
-	gstInclusiveValue := newValue
+  "NoOp"

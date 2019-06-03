@@ -13,8 +13,7 @@ decodeNotes: notes forProject: project
                   | newComment |
                   newComment := (lastNote comment ifNil: [ '' ])
                     , (self cleanString: note) , Character cr.
-                  lastNote comment: newComment.
-                  Transcript show: newComment ] ]
+                  lastNote comment: newComment ] ]
             ifTrue: [ 
               day := self numberFromString: (note trimBoth copyFrom: 1 to: 2).
               month := self numberFromString: (note trimBoth copyFrom: 4 to: 5).

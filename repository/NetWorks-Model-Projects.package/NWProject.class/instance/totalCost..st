@@ -1,3 +1,3 @@
 Updating
 totalCost: newValue
-	totalCost := newValue
+  "NoOp"

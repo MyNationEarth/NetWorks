@@ -5,4 +5,5 @@ totalRevenueDescription
     accessor: #'totalRevenue';
     label: 'Total Revenue';
     priority: 3000;
+    beReadonly;
     yourself

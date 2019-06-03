@@ -5,4 +5,5 @@ gstInclusiveValueDescription
     accessor: #'gstInclusiveValue';
     label: 'GST Inclusive';
     priority: 3000;
+    beReadonly;
     yourself
