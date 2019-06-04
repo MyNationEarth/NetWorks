@@ -43,7 +43,7 @@ installDatateksRateCards
         ((NWRateCard
             fromRateCardCSVFileOnPath:
               basePath , 'Datateks Maximo Metro North.csv')
-            title: 'Minor Works Metro North';
+            title: 'Minor Works Metro';
             startDate: Date today;
             rateCardType: #'Client';
             import);
@@ -51,7 +51,7 @@ installDatateksRateCards
         ((NWRateCard
             fromRateCardCSVFileOnPath:
               basePath , 'Datateks Maximo Regional South.csv')
-            title: 'Minor Works Regional South';
+            title: 'Minor Works Regional';
             startDate: Date today;
             rateCardType: #'Client';
             import)

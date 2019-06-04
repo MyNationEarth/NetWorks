@@ -27,12 +27,6 @@ renderDatesOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('Payment Due Date') on: canvas ].
-      canvas tbsColumn
-        smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('Expected Payment Date') on: canvas ].
-      canvas tbsColumn
-        smallSize: 3;
         with: [ self renderDescriptionsWithLabels: #('Payment Date') on: canvas ] ].
   canvas
     tbsRow: [ 
