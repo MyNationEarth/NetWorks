@@ -11,7 +11,7 @@ renderBasicsDetailsOn: canvas
         smallSize: 4;
         with: [ self renderDescriptionsWithLabels: #('Project Name') on: canvas ].
       canvas tbsColumn
-        smallSize: 6;
+        smallSize: 4;
         with: [ self renderDescriptionsWithLabels: #('Order Number') on: canvas ].
       canvas tbsColumn
         smallSize: 4;
