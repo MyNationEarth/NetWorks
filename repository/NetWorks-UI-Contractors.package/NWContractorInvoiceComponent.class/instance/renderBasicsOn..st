@@ -3,6 +3,16 @@ renderBasicsOn: canvas
   canvas
     tbsRow: [ 
       canvas tbsColumn
+        smallSize: 12;
+        with: [ self renderDescriptionsWithLabels: #('Project') on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 12;
+        with: [ self renderDescriptionsWithLabels: #('Contractor') on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
         smallSize: 4;
         with: [ self renderDescriptionsWithLabels: #('Invoice Number') on: canvas ].
       canvas tbsColumn

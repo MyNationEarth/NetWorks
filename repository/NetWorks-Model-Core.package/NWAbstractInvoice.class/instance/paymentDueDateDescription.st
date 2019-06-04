@@ -4,5 +4,5 @@ paymentDueDateDescription
   ^ MADateDescription new
     accessor: #'paymentDueDate';
     label: 'Payment Due Date';
-    priority: 400;
+    priority: 650;
     yourself

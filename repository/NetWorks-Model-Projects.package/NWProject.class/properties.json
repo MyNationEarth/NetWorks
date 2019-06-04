@@ -41,7 +41,8 @@
 		"projectQuoteSubmittedDate",
 		"projectAwardedDate",
 		"customerRequiredDate",
-		"notes" ],
+		"notes",
+		"contractorInvoices" ],
 	"name" : "NWProject",
 	"pools" : [
 		 ],

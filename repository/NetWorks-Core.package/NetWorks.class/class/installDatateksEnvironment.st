@@ -7,6 +7,6 @@ installDatateksEnvironment
     installDatateksMaterials;
     installDatateksClients;
     installDatateksContracts;
-    installDatateksContractorsAndInvoices;
     installDatateksProjects;
+    installDatateksContractorsAndInvoices;
     installDatateksWarehouses

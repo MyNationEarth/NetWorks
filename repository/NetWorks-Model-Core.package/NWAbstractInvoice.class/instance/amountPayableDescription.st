@@ -4,5 +4,5 @@ amountPayableDescription
   ^ MANumberDescription new
     accessor: #'amountPayable';
     label: 'Amount Payable';
-    priority: 400;
+    priority: 1600;
     yourself

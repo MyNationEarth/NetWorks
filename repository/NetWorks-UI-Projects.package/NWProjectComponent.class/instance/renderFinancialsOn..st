@@ -27,4 +27,9 @@ renderFinancialsOn: canvas
         with: [ self renderDescriptionsWithLabels: #('Margin Value') on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('Margin Percentage') on: canvas ] ]
+        with: [ self renderDescriptionsWithLabels: #('Margin Percentage') on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 12;
+        with: [ self renderDescriptionsWithLabels: #('Contractor Invoices') on: canvas ] ]

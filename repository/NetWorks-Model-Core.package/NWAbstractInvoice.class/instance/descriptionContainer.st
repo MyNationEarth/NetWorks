@@ -1,3 +1,0 @@
-descriptions
-descriptionContainer
-  ^ self subclassResponsibility

@@ -4,5 +4,5 @@ issueDateDescription
   ^ MADateDescription new
     accessor: #'issueDate';
     label: 'Issue Date';
-    priority: 400;
+    priority: 650;
     yourself

@@ -13,4 +13,6 @@ add
           self
             value: (self value copyWith: result);
             refresh.
-          self memento commit ] ]
+          self memento commit.
+          (newObject respondsTo: #'backReferenceAfterCommit:')
+            ifTrue: [ newObject backReferenceAfterCommit: self memento model ] ] ]
