@@ -17,5 +17,11 @@ buildProjects
                 ifNone: [ nil ])
                 ifNotNil: [ :project | 
                   row
+                    at: #'efscd'
+                    ifPresent: [ :value | project efscdDate: (self dateFromString: value) ].
+                  row
+                    at: #'status'
+                    ifPresent: [ :value | project status: value asTitlecase ].
+                  row
                     at: #'notes'
                     ifPresent: [ :value | self decodeNotes: value forProject: project ] ] ] ] ]

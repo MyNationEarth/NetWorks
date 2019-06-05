@@ -1,3 +1,3 @@
 Accessing
 status
-  ^ nil
+  ^ status

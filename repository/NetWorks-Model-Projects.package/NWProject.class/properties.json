@@ -12,6 +12,7 @@
 		"minorWorksNumber",
 		"aycaNumber",
 		"orderNumber",
+		"status",
 		"address",
 		"suburb",
 		"sam",

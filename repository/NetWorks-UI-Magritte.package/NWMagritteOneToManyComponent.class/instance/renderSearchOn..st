@@ -32,5 +32,10 @@ renderSearchOn: canvas
                                             startingAt: 1) > 0 ] ].
                                   script
                                     << (script jQuery id: self report ajaxId)
-                                    html: [ :html | html render: self report ] ])
+                                    html: [ :html | 
+                                      html
+                                        render:
+                                          (self report
+                                            batchPage: 1;
+                                            yourself) ] ])
                             , (canvas javascript return: false)) ]

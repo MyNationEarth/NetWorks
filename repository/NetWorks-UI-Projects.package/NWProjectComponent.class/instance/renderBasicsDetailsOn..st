@@ -3,8 +3,11 @@ renderBasicsDetailsOn: canvas
   canvas
     tbsRow: [ 
       canvas tbsColumn
-        smallSize: 12;
-        with: [ self renderDescriptionsWithLabels: #('Contract') on: canvas ] ].
+        smallSize: 6;
+        with: [ self renderDescriptionsWithLabels: #('Contract') on: canvas ].
+      canvas tbsColumn
+        smallSize: 6;
+        with: [ self renderDescriptionsWithLabels: #('Status') on: canvas ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn
