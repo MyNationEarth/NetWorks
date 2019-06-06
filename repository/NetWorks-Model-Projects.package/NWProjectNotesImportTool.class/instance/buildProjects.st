@@ -24,4 +24,6 @@ buildProjects
                     ifPresent: [ :value | project status: value asTitlecase ].
                   row
                     at: #'notes'
-                    ifPresent: [ :value | self decodeNotes: value forProject: project ] ] ] ] ]
+                    ifPresent: [ :value | 
+                      "self decodeNotes: value forProject: project"
+                       ] ] ] ] ]
