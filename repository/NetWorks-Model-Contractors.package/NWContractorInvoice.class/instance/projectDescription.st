@@ -6,8 +6,10 @@ projectDescription
     accessor: #'project';
     options: self organisationModel projects;
     reference: NWContract new titleDescription asContainer;
+    componentClass: NWAutoCompleteSelectListComponent;
     label: 'Project';
     priority: 100;
+    beSorted;
     beRequired;
     yourself.
   ^ description
