@@ -10,9 +10,9 @@ renderBasicsOn: canvas
   self renderLocationOn: canvas.
   canvas heading
     level3;
-    with: 'CSPO'.
-  self renderCSPODetailsOn: canvas.
+    with: 'Contacts'.
+  self renderContactsOn: canvas.
   canvas heading
     level3;
-    with: 'Contacts'.
-  self renderContactsOn: canvas
+    with: 'CSPO'.
+  self renderCSPODetailsOn: canvas

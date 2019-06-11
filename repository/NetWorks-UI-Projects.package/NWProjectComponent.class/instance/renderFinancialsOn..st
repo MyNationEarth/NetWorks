@@ -28,6 +28,13 @@ renderFinancialsOn: canvas
       canvas tbsColumn
         smallSize: 3;
         with: [ self renderDescriptionsWithLabels: #('Margin Percentage') on: canvas ] ].
+  canvas heading
+    level3;
+    with: 'Datateks Invoices'.
+  self renderInvoiceOn: canvas.
+  canvas heading
+    level3;
+    with: 'Contractor Invoices'.
   canvas
     tbsRow: [ 
       canvas tbsColumn

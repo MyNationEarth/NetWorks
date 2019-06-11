@@ -11,4 +11,7 @@ renderAdminContentOn: canvas
   canvas heading
     level4;
     with: 'Exporting Data'.
-  canvas tbsRow with: [ self renderExportProjectsOn: canvas ]
+  canvas tbsRow
+    with: [ 
+      self renderExportProjectsOn: canvas.
+      self renderExportInsurancesOn: canvas ]

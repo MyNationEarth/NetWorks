@@ -4,9 +4,12 @@
 	"instance" : {
 		"amountPaid" : "jupiter 06/04/2019 11:53",
 		"amountPaid:" : "jupiter 06/04/2019 11:53",
+		"amountPaidDescription" : "jupiter 06/11/2019 06:15",
 		"amountPayable" : "jupiter 06/04/2019 11:53",
 		"amountPayable:" : "jupiter 06/04/2019 11:53",
-		"amountPayableDescription" : "jupiter 06/04/2019 13:43",
+		"amountPayableDescription" : "jupiter 06/11/2019 06:09",
+		"amountPayableGstInclusive" : "jupiter 06/11/2019 06:13",
+		"amountPayableGstInclusiveDescription" : "jupiter 06/11/2019 06:13",
 		"invoiceNumberDescription" : "jupiter 06/04/2019 12:30",
 		"issueDate" : "jupiter 06/04/2019 11:53",
 		"issueDate:" : "jupiter 06/04/2019 11:53",

@@ -1,8 +1,8 @@
 descriptions
-amountPayableDescription
+amountPaidDescription
   <magritteDescription>
   ^ MANumberDescription new
-    accessor: #'amountPayable';
-    label: 'Amount Payable ex GST';
+    accessor: #'amountPaid';
+    label: 'Amount Paid';
     priority: 1600;
     yourself

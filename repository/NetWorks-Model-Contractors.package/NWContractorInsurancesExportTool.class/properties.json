@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Contractors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 06/11/2019 08:31",
+	"instvars" : [
+		"contents" ],
+	"name" : "NWContractorInsurancesExportTool",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

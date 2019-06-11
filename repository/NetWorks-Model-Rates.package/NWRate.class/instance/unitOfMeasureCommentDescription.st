@@ -5,4 +5,5 @@ unitOfMeasureCommentDescription
     accessor: #'unitOfMeasureComment';
     label: 'Unit of Measure Comment';
     priority: 350;
+    beReadonly;
     yourself

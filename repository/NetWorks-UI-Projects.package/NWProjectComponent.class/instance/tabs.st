@@ -27,14 +27,6 @@ tabs
             yourself);
     add:
         (Dictionary new
-            at: #'id' put: #'invoice';
-            at: #'label' put: 'Invoice';
-            at: #'icon' put: #'list';
-            at: #'callback'
-              put: [ announcer announce: (NWTabSelected tab: #'invoice') ];
-            yourself);
-    add:
-        (Dictionary new
             at: #'id' put: #'financials';
             at: #'label' put: 'Financials';
             at: #'icon' put: #'list';
@@ -57,4 +49,11 @@ tabs
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'basics') ];
             yourself);
-    yourself
+    yourself	"add:
+        (Dictionary new
+            at: #'id' put: #'invoice';
+            at: #'label' put: 'Invoice';
+            at: #'icon' put: #'list';
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'invoice') ];
+            yourself);"

@@ -12,4 +12,5 @@ rateCardsDescription
     label: 'Rate Cards';
     priority: 100;
     beSorted;
+    beDefinitive;
     yourself

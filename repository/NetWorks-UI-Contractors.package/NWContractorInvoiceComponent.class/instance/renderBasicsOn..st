@@ -25,10 +25,15 @@ renderBasicsOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 4;
-        with: [ self renderDescriptionsWithLabels: #('Amount Payable') on: canvas ].
+        with: [ self renderDescriptionsWithLabels: #('Amount Payable ex GST') on: canvas ].
       canvas tbsColumn
         smallSize: 4;
         with: [ self renderDescriptionsWithLabels: #('Amount Paid') on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 4;
+        with: [ self renderDescriptionsWithLabels: #('Amount Payable inc GST') on: canvas ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn

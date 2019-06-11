@@ -12,4 +12,5 @@ rateCategoriesDescription
     label: 'Rate Categories';
     priority: 200;
     beSorted;
+    beDefinitive;
     yourself

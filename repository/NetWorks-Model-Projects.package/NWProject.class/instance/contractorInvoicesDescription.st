@@ -8,7 +8,8 @@ contractorInvoicesDescription
     classes: {NWContractorInvoice};
     reference:
         template invoiceNumberDescription , template contractorTitleDescription
-            , template amountPayableDescription;
+            , template amountPayableDescription
+            , template paymentMadeDateDescription;
     label: 'Contractor Invoices';
     priority: 400;
     beSorted;

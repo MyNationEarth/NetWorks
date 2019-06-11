@@ -5,4 +5,5 @@ sorCodeDescription
     accessor: #'sorCode';
     label: 'SOR Code';
     priority: 200;
+    beReadonly;
     yourself

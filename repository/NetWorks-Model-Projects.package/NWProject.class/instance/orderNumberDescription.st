@@ -3,6 +3,6 @@ orderNumberDescription
   <magritteDescription>
   ^ MAStringDescription new
     accessor: #'orderNumber';
-    label: 'Order Number';
+    label: 'Work Order Number';
     priority: 1200;
     yourself

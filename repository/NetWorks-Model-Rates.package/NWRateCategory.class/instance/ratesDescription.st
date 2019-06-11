@@ -12,4 +12,5 @@ ratesDescription
     label: 'Rates';
     priority: 200;
     beSorted;
+    beDefinitive;
     yourself

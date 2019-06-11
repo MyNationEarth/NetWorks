@@ -6,8 +6,10 @@
 		"defaultIcon" : "jupiter 02/09/2019 11:43",
 		"defaultLabel" : "jupiter 02/09/2019 11:44",
 		"defaultSubHeading" : "jupiter 02/09/2019 11:45",
-		"renderAdminContentOn:" : "jupiter 05/12/2019 13:14",
+		"renderAdminContentOn:" : "jupiter 06/11/2019 08:46",
 		"renderClientsInfoBoxOn:" : "jupiter 05/12/2019 13:06",
+		"renderExportInsurancesOn:" : "jupiter 06/11/2019 08:46",
 		"renderExportProjectsOn:" : "jupiter 05/13/2019 16:29",
 		"renderProjectsInfoBoxOn:" : "jupiter 05/12/2019 13:10",
+		"respondWithContractorInsurancesSpreadsheet" : "jupiter 06/11/2019 08:47",
 		"respondWithProjectsSpreadsheet" : "jupiter 05/13/2019 16:37" } }

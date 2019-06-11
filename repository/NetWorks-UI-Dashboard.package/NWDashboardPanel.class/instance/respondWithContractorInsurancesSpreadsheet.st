@@ -1,11 +1,12 @@
 responders
-respondWithProjectsSpreadsheet
+respondWithContractorInsurancesSpreadsheet
   | file |
   file := WAFile new
-    fileName: 'ProjectSpreadsheet-' , DateAndTime now asRFC1123String , '.csv';
+    fileName:
+        'ContractorInsurancesSpreadsheet-' , DateAndTime now asRFC1123String , '.csv';
     contentType: (WAMimeType fromString: 'application/vnd.ms-excel');
     contents:
-        (NWProjectsExportTool new
+        (NWContractorInsurancesExportTool new
             exportFile;
             contents);
     yourself.
