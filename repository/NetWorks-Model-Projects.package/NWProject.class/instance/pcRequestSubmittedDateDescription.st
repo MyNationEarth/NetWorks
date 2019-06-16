@@ -3,6 +3,6 @@ pcRequestSubmittedDateDescription
   <magritteDescription>
   ^ MADateDescription new
     accessor: #'pcRequestSubmittedDate';
-    label: 'PC Request Submitted Date';
+    label: 'PC Submitted Date';
     priority: 4000;
     yourself

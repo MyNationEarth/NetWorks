@@ -7,22 +7,28 @@ renderDatesOn: canvas
         with: [ self renderDescriptionsWithLabels: #('PC Pack Hand Over Date') on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('PC Request Submitted Date') on: canvas ].
+        with: [ self renderDescriptionsWithLabels: #('PC Submitted Date') on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('PC Due Date') on: canvas ] ].
+        with: [ self renderDescriptionsWithLabels: #('PC Award Date') on: canvas ].
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ self renderDescriptionsWithLabels: #('PC Submitted -> Award (Days)') on: canvas ] ].
   canvas
     tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ self renderDescriptionsWithLabels: #('Variation Submitted Date') on: canvas ].
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ self renderDescriptionsWithLabels: #('Variation Approved Date') on: canvas ].
       canvas tbsColumn
         smallSize: 3;
         with: [ 
               self
                 renderDescriptionsWithLabels:
-                  #('Variation Request Submitted Date')
-                on: canvas ].
-      canvas tbsColumn
-        smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('Variation Approved Date') on: canvas ] ].
+                  #('Variation Submitted -> Approved (Days)')
+                on: canvas ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn
@@ -30,7 +36,4 @@ renderDatesOn: canvas
         with: [ self renderDescriptionsWithLabels: #('Payment Date') on: canvas ].
       canvas tbsColumn
         smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('Month Paid') on: canvas ].
-      canvas tbsColumn
-        smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('Month Claimed') on: canvas ] ]
+        with: [ self renderDescriptionsWithLabels: #('Month Paid') on: canvas ] ]

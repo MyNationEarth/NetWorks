@@ -3,6 +3,6 @@ pcDueDateDescription
   <magritteDescription>
   ^ MADateDescription new
     accessor: #'pcDueDate';
-    label: 'PC Due Date';
+    label: 'PC Award Date';
     priority: 4000;
     yourself

@@ -1,6 +1,9 @@
 Accessing
 monthClaimedDescription
-  <magritteDescription>
+  "<magritteDescription>"
+
+  "No longer used"
+
   ^ MADateDescription new
     accessor: #'monthClaimed';
     label: 'Month Claimed';
