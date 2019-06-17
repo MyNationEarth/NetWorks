@@ -8,6 +8,9 @@ invoicesDescription
     classes: {NWContractorInvoice};
     reference:
         template invoiceNumberDescription , template projectTitleDescription
+            , template issueDateDescription
+            , template expectedPaymentDateDescription
+            , template contractTitleDescription
             , template amountPayableDescription;
     label: 'Invoices';
     priority: 400;
