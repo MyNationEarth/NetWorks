@@ -1,10 +1,13 @@
 export file
 addFieldsToWriter: csvWriter
   csvWriter
+    addField: #'contractorTitle';
     addField: #'title';
-    addField: #'publicLiabilityStartDate';
-    addField: #'publicLiabilityEndDate';
-    addField: #'publicIndemnityInsuranceStartDate';
-    addField: #'publicIndemnityInsuranceEndDate';
-    addField: #'workersCompStartDate';
-    addField: #'workersCompEndDate'
+    addField: #'provider';
+    addField: #'policyNumber';
+    addField: #'expiryDate';
+    addField: #'expiryWarning';
+    addField: #'comment';
+    addField: #'contactTitle';
+    addField: #'contactNumber';
+    addField: #'contactEmailAddress'

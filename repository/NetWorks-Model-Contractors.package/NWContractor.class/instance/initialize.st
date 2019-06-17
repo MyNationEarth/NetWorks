@@ -2,4 +2,5 @@ initialization
 initialize
   super initialize.
   contacts := OrderedCollection new.
-  invoices := OrderedCollection new
+  invoices := OrderedCollection new.
+  insurances := OrderedCollection new

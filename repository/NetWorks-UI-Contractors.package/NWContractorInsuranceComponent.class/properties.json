@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-UI-Contractors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 06/18/2019 07:54",
+	"instvars" : [
+		 ],
+	"name" : "NWContractorInsuranceComponent",
+	"pools" : [
+		 ],
+	"super" : "NWTabbedContainerComponent",
+	"type" : "normal" }
