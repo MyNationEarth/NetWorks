@@ -5,7 +5,7 @@ materialDescription
   description := MASingleOptionDescription new
     accessor: #'material';
     options: self organisationModel materials;
-    componentClass: TBSMagritteSelectListComponent;
+    componentClass: NWAutoCompleteSelectListComponent;
     reference: NWMaterial new titleAndCommentDescription asContainer;
     label: 'Material';
     priority: 300;
