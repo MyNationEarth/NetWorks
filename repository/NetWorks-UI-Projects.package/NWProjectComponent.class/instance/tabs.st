@@ -3,22 +3,6 @@ tabs
   ^ OrderedCollection new
     add:
         (Dictionary new
-            at: #'id' put: #'projectLineItems';
-            at: #'label' put: 'CSPO';
-            at: #'icon' put: #'list';
-            at: #'callback'
-              put: [ announcer announce: (NWTabSelected tab: #'projectLineItems') ];
-            yourself);
-    add:
-        (Dictionary new
-            at: #'id' put: #'dates';
-            at: #'label' put: 'Dates';
-            at: #'icon' put: #'calendar';
-            at: #'callback'
-              put: [ announcer announce: (NWTabSelected tab: #'dates') ];
-            yourself);
-    add:
-        (Dictionary new
             at: #'id' put: #'templates';
             at: #'label' put: 'Submission Documents';
             at: #'icon' put: #'list';
@@ -50,6 +34,20 @@ tabs
               put: [ announcer announce: (NWTabSelected tab: #'basics') ];
             yourself);
     yourself	"add:
+        (Dictionary new
+            at: #'id' put: #'dates';
+            at: #'label' put: 'Dates';
+            at: #'icon' put: #'calendar';
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'dates') ];
+            yourself);"	"add:
+        (Dictionary new
+            at: #'id' put: #'projectLineItems';
+            at: #'label' put: 'CSPO';
+            at: #'icon' put: #'list';
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'projectLineItems') ];
+            yourself);"	"add:
         (Dictionary new
             at: #'id' put: #'invoice';
             at: #'label' put: 'Invoice';
