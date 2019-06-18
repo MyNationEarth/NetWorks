@@ -1,9 +1,9 @@
 descriptions
-invoiceNumberDescription
+commencementInvoiceNumberDescription
   <magritteDescription>
   ^ MAStringDescription new
-    accessor: #'invoiceNumber';
-    label: 'Final Invoice Number';
+    accessor: #'commencementInvoiceNumber';
+    label: 'Commencement Invoice Number';
     priority: 4000;
     componentClass: TBSMagritteTextInputComponent;
     yourself

@@ -1,0 +1,3 @@
+Updating
+commencementInvoiceCreatedDate: newValue
+	commencementInvoiceCreatedDate := newValue
