@@ -1,3 +1,3 @@
 accessing
 newObjectLabel
-  ^ 'New Client'
+  ^ 'New Material'
