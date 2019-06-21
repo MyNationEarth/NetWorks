@@ -39,6 +39,7 @@
 		"pcDueDate",
 		"paymentDueDate",
 		"paymentDate",
+		"paymentComments",
 		"expectedPaymentDate",
 		"monthClaimed",
 		"monthPaid",

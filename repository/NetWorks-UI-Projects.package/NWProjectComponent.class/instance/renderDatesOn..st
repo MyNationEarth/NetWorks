@@ -4,6 +4,17 @@ renderDatesOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 3;
+        with: [ self renderDescriptionsWithLabels: #('Project Quote Submitted Date') on: canvas ].
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ self renderDescriptionsWithLabels: #('Project Awarded Date') on: canvas ].
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ self renderDescriptionsWithLabels: #('Customer Required Date') on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 3;
         with: [ self renderDescriptionsWithLabels: #('PC Pack Hand Over Date') on: canvas ].
       canvas tbsColumn
         smallSize: 3;
@@ -28,6 +39,15 @@ renderDatesOn: canvas
               self
                 renderDescriptionsWithLabels:
                   #('Variation Submitted -> Approved (Days)')
+                on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 12;
+        with: [ 
+              self
+                renderDescriptionsWithLabels:
+                  #('PC, Variation & Payment Comments')
                 on: canvas ] ].
   canvas
     tbsRow: [ 

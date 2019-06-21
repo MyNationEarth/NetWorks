@@ -12,7 +12,7 @@ addFieldsToWriter: csvWriter
     addField: #'variationApprovedDate';
     addField: #'pcDueDate';
     addField: #'paymentDate';
-    addField: #'variationComment';
+    addField: #'paymentComments';
     addField: #'monthClaimed';
     addField: #'monthPaid';
     addField: #'title';
@@ -27,8 +27,6 @@ addFieldsToWriter: csvWriter
     addField: #'marginValue';
     addField: #'marginPercentage';
     addField: #'status';
-    addField: #'expectedPaymentDate';
-    addField: #'comments';
     addField: #'clientContact';
     addField: #'projectQuoteSubmittedDate';
     addField: #'projectAwardedDate';

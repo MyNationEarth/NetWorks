@@ -14,7 +14,7 @@ headerRow
   'PC, Variation & Payment Comments'.
   'Month Claimed'.
   'Actual Payment Date'.
-  'FSAM/MPS'.
+  'Project Description'.
   'Suburb'.
   'CSPO Amount'.
   'Variation'.
@@ -26,8 +26,6 @@ headerRow
   'Margin'.
   '%'.
   'Status'.
-  'Date Expected Payment'.
-  'Comments'.
   'NBN PO/PM'.
   'Project Quote Submitted'.
   'Project Award Date'.

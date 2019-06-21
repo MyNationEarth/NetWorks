@@ -28,6 +28,11 @@ renderFinancialsOn: canvas
       canvas tbsColumn
         smallSize: 3;
         with: [ self renderDescriptionsWithLabels: #('Margin Percentage') on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 6;
+        with: [ self renderDescriptionsWithLabels: #('CSPO Value') on: canvas ] ].
   canvas heading
     level3;
     with: 'Datateks Invoices'.

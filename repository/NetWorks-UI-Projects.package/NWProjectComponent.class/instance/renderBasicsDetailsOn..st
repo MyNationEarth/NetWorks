@@ -23,16 +23,4 @@ renderBasicsDetailsOn: canvas
         with: [ self renderDescriptionsWithLabels: #('Project Name') on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('Work Order Number') on: canvas ] ].
-  canvas
-    tbsRow: [ 
-      canvas tbsColumn
-        smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('Project Quote Submitted Date') on: canvas ].
-      canvas tbsColumn
-        smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('Project Awarded Date') on: canvas ].
-      canvas tbsColumn
-        smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('Customer Required Date') on: canvas ] ].
-  self renderDatesOn: canvas
+        with: [ self renderDescriptionsWithLabels: #('Work Order Number') on: canvas ] ]

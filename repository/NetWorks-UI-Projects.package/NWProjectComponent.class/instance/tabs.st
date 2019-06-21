@@ -19,11 +19,27 @@ tabs
             yourself);
     add:
         (Dictionary new
+            at: #'id' put: #'lasa';
+            at: #'label' put: 'LASA';
+            at: #'icon' put: #'list';
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'lasa') ];
+            yourself);
+    add:
+        (Dictionary new
             at: #'id' put: #'notes';
             at: #'label' put: 'Notes';
             at: #'icon' put: #'list';
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'notes') ];
+            yourself);
+    add:
+        (Dictionary new
+            at: #'id' put: #'design';
+            at: #'label' put: 'Design';
+            at: #'icon' put: #'list';
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'design') ];
             yourself);
     add:
         (Dictionary new
