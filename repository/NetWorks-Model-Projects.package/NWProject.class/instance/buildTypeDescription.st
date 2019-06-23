@@ -1,10 +1,9 @@
 descriptions
-aycaNumberDescription
+buildTypeDescription
   <magritteDescription>
   ^ MAStringDescription new
-    accessor: #'aycaNumber';
-    label: 'AYCA Number';
+    accessor: #'buildType';
+    label: 'Build Type';
     priority: 1200;
     componentClass: TBSMagritteTextInputComponent;
-    beReadonly;
     yourself

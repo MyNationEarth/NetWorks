@@ -1,0 +1,3 @@
+Accessing
+hecsNotes
+	^hecsNotes

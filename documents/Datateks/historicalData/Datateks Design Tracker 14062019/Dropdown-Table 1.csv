@@ -1,0 +1,10 @@
+NDD/DDD Status,Build Type,10.1.1 GML Required?,PON Patching Required?,Type
+Not Started,B+C,YES,YES,MDU
+Started,B+D,NO,NO,MDU TFL
+Submitted,B+E,,,SDU
+Fixing Defects,C,,,SDU TFL
+Resubmitted,D,,,
+Approved,E,,,
+,MDU Internal,,,
+RFI,Copper,,,
+,FTTB,,,
