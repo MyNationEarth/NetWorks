@@ -55,7 +55,8 @@
 		"hecsNotes",
 		"isHeritageIssue",
 		"buildType",
-		"buildSubType" ],
+		"buildSubType",
+		"designStatus" ],
 	"name" : "NWProject",
 	"pools" : [
 		 ],

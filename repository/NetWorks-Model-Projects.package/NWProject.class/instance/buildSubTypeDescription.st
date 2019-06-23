@@ -1,9 +1,9 @@
 descriptions
 buildSubTypeDescription
   <magritteDescription>
-  ^ MAStringDescription new
+  ^ MASingleOptionDescription new
     accessor: #'buildSubType';
+    options: self buildSubTypeOptions;
     label: 'Build Sub-Type';
     priority: 1200;
-    componentClass: TBSMagritteTextInputComponent;
     yourself
