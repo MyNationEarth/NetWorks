@@ -1,10 +1,10 @@
-initialization
+magritte hooks
 pullIdentifiersFromTitle: aTitleString
   | temp identifiers mw ayca fsam |
   identifiers := aTitleString copy.
   mw := self stringFrom: identifiers regex: '(MW[0-9A-Z]+)' subexpression: 2.
   temp := identifiers copyReplaceAll: '' , (mw ifNotNil: [ mw ]) with: ''.
-  ayca := self stringFrom: temp regex: 'AYCA-([0-9A-Z]+)' subexpression: 2.
+  ayca := self stringFrom: temp regex: '(AYCA-[0-9A-Z]+)' subexpression: 2.
   temp := temp copyReplaceAll: 'AYCA-' , (ayca ifNotNil: [ ayca ]) with: ''.
   fsam := self
     stringFrom: temp
