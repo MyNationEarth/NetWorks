@@ -39,21 +39,4 @@ renderDatesOn: canvas
               self
                 renderDescriptionsWithLabels:
                   #('Variation Submitted -> Approved (Days)')
-                on: canvas ] ].
-  canvas
-    tbsRow: [ 
-      canvas tbsColumn
-        smallSize: 12;
-        with: [ 
-              self
-                renderDescriptionsWithLabels:
-                  #('PC, Variation & Payment Comments')
-                on: canvas ] ].
-  canvas
-    tbsRow: [ 
-      canvas tbsColumn
-        smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('Payment Date') on: canvas ].
-      canvas tbsColumn
-        smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('Month Paid') on: canvas ] ]
+                on: canvas ] ]

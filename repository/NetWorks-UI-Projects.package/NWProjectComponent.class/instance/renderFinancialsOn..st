@@ -37,6 +37,23 @@ renderFinancialsOn: canvas
     level3;
     with: 'Datateks Invoices'.
   self renderInvoiceOn: canvas.
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 12;
+        with: [ 
+              self
+                renderDescriptionsWithLabels:
+                  #('PC, Variation & Payment Comments')
+                on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ self renderDescriptionsWithLabels: #('Payment Date') on: canvas ].
+      canvas tbsColumn
+        smallSize: 6;
+        with: [ self renderDescriptionsWithLabels: #('Month Paid') on: canvas ] ].
   canvas heading
     level3;
     with: 'Contractor Invoices'.
