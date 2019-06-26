@@ -62,17 +62,14 @@ buildProjects
                         at: #'designSowReceivedDate'
                         ifPresent: [ :value | project designSowReceivedDate: (self dateFromString: value) ].
                       row
-                        at: #'designSowReceivedDate'
-                        ifPresent: [ :value | project designSowReceivedDate: (self dateFromString: value) ].
-                      row
                         at: #'designGMLSubmissionDate'
-                        ifPresent: [ :value | project designSowReceivedDate: (self dateFromString: value) ].
+                        ifPresent: [ :value | project designGMLSubmissionDate: (self dateFromString: value) ].
                       row
                         at: #'designPONPatchingRequestDate'
-                        ifPresent: [ :value | project designSowReceivedDate: (self dateFromString: value) ].
+                        ifPresent: [ :value | project designPONPatchingRequestDate: (self dateFromString: value) ].
                       row
                         at: #'designPONSOWReceivedDate'
-                        ifPresent: [ :value | project designSowReceivedDate: (self dateFromString: value) ].
+                        ifPresent: [ :value | project designPONSOWReceivedDate: (self dateFromString: value) ].
                       row
                         at: #'designDDDSubmissionForecastDate'
                         ifPresent: [ :value | project designDDDSubmissionForecastDate: (self dateFromString: value) ].
