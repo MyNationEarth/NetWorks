@@ -1,0 +1,3 @@
+Accessing
+designGMLSubmissionDate
+	^designGMLSubmissionDate

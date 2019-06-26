@@ -1,7 +1,7 @@
 {
 	"class" : {
 		"datateks" : "jupiter 06/11/2019 07:48",
-		"datateksUserInfo" : "jupiter 05/29/2019 14:55",
+		"datateksUserInfo" : "jupiter 06/26/2019 12:39",
 		"exportForms" : "jupiter 11/08/2018 15:58",
 		"exportFormsOnPath:" : "jupiter 11/08/2018 15:59",
 		"fiveSmithsUserInfo" : "jupiter 11/24/2018 02:19",
@@ -16,10 +16,11 @@
 		"installDatateksEnvironment" : "jupiter 06/04/2019 12:16",
 		"installDatateksMaterials" : "jupiter 02/18/2019 16:44",
 		"installDatateksOrganisationModel" : "jupiter 04/13/2019 06:11",
-		"installDatateksProcesses" : "jupiter 03/31/2019 14:06",
-		"installDatateksProjectDesign" : "jupiter 06/24/2019 09:16",
+		"installDatateksProcesses" : "jupiter 06/26/2019 12:40",
+		"installDatateksProjectDesign" : "jupiter 06/26/2019 13:50",
 		"installDatateksProjects" : "jupiter 06/03/2019 09:11",
 		"installDatateksRateCards" : "jupiter 06/05/2019 09:05",
+		"installDatateksUsers" : "jupiter 06/26/2019 12:45",
 		"installDatateksWarehouses" : "jupiter 05/28/2019 21:52",
 		"installUI" : "jupiter 11/20/2018 12:06",
 		"instance" : "jupiter 11/19/2018 00:26",

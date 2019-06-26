@@ -30,16 +30,5 @@ installDatateksProcesses
     registerApplication: contractorManagement;
     registerApplication: minorWorksMaximo;
     registerUser: admin.
-  self datateksUserInfo
-    do: [ :user | 
-      | newUser |
-      newUser := (BpmUser
-        getExistingOrNewUserNamed: (user at: 3)
-        password: (user at: 1) asLowercase
-        forEnvironment: env)
-        givenName: (user at: 1);
-        familyName: (user at: 2);
-        emailAddress: (user at: 3);
-        yourself.
-      env registerUser: newUser ].
+  self installDatateksUsers.
   self importForms

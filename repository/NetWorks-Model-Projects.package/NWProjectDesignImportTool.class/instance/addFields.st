@@ -5,27 +5,23 @@ addFields
     addFieldAt: #'ayca';
     addFieldAt: #'designAssignedTo';
     addFieldAt: #'designAssignmentDate';
-    addFieldAt: #'designETA';
+    addFieldAt: #'designETADate';
+    addFieldAt: #'designStatus';
     addFieldAt: #'sam';
     addFieldAt: #'buildType';
     addFieldAt: #'buildSubType';
     addFieldAt: #'designSowReceivedDate';
-    addIgnoredField;
-    addIgnoredField;
-    addIgnoredField;
-    addIgnoredField;
-    addIgnoredField;
-    addIgnoredField;
-    addIgnoredField;
-    addIgnoredField;
+    addFieldAt: #'designGMLSubmissionDate';
+    addFieldAt: #'designPONPatchingRequestDate';
+    addFieldAt: #'designPONSOWReceivedDate';
     addFieldAt: #'designDDDSubmissionForecastDate';
     addFieldAt: #'designDDDActualSubmissionDate';
     addFieldAt: #'designDDDResubmissionDate';
-    addFieldAt: #'designStatus';
+    addFieldAt: #'designDDDStatus';
     addFieldAt: #'designDDDApprovedDate';
     addFieldAt: #'designLAANSubmissionDate';
     addFieldAt: #'designHECSubmissionDate';
     addFieldAt: #'designHECApprovalDate';
     addFieldAt: #'designLAANStartDate';
     addFieldAt: #'designNotes';
-    addIgnoredField
+    addFieldAt: #'designNBNComments'

@@ -3,6 +3,14 @@ renderDesignOn: canvas
   canvas
     tbsRow: [ 
       canvas tbsColumn
+        smallSize: 6;
+        with: [ self renderDescriptionsWithLabels: #('AYCA Number') on: canvas ].
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ self renderDescriptionsWithLabels: #('SAM') on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
         smallSize: 3;
         with: [ self renderDescriptionsWithLabels: #('Build Type') on: canvas ].
       canvas tbsColumn
@@ -14,8 +22,33 @@ renderDesignOn: canvas
   canvas
     tbsRow: [ 
       canvas tbsColumn
+        smallSize: 6;
+        with: [ self renderDescriptionsWithLabels: #('Assigned To') on: canvas ].
+      canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('SOW Received Date') on: canvas ] ].
+        with: [ self renderDescriptionsWithLabels: #('Assignment Date') on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ self renderDescriptionsWithLabels: #('SOW Received Date') on: canvas ].
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ self renderDescriptionsWithLabels: #('GML Submission Date') on: canvas ].
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ self renderDescriptionsWithLabels: #('PON Patching Request Date') on: canvas ].
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ self renderDescriptionsWithLabels: #('PON SOW Received Date') on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ self renderDescriptionsWithLabels: #('DDD Status') on: canvas ].
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ self renderDescriptionsWithLabels: #('ETA Date') on: canvas ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn
@@ -48,4 +81,9 @@ renderDesignOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 12;
-        with: [ self renderDescriptionsWithLabels: #('Design Notes') on: canvas ] ]
+        with: [ self renderDescriptionsWithLabels: #('Design Notes') on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 12;
+        with: [ self renderDescriptionsWithLabels: #('NBN Comments') on: canvas ] ]

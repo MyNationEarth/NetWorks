@@ -1,0 +1,3 @@
+Accessing
+designPONSOWReceivedDate
+	^designPONSOWReceivedDate
