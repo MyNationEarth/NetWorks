@@ -1,9 +1,9 @@
 descriptions
 designStatusDescription
   <magritteDescription>
-  ^ MASingleOptionDescription new
+  ^ MAStringDescription new
     accessor: #'designStatus';
-    options: self designStatusOptions;
     label: 'Design Status';
+    componentClass: TBSMagritteTextInputComponent;
     priority: 1200;
     yourself
