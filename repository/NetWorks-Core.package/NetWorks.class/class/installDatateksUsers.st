@@ -16,5 +16,4 @@ installDatateksUsers
             familyName: (user at: 2);
             emailAddress: (user at: 3);
             yourself.
-          env registerUser: newUser ] ].
-  self importForms
+          env registerUser: newUser ] ]

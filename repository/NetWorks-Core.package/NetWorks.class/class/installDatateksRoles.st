@@ -1,10 +1,12 @@
 datateks
 installDatateksRoles
   | env |
+  "Create Roles in each application and add all roles to all users"
   env := NetWorks datateks bpmEnvironment.
-  {'Project Management'.
-  'Design'.
-  'Finance'}
+  {'Project Administrator'.
+  'Project Manager'.
+  'Project Design'.
+  'Accounts'}
     do: [ :rolePrefix | 
       env applications
         do: [ :bpmApplication | 
