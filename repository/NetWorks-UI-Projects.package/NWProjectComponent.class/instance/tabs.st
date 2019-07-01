@@ -23,16 +23,6 @@ tabs
             yourself);
     add:
         (Dictionary new
-            at: #'id' put: #'lasa';
-            at: #'label' put: 'LASA';
-            at: #'icon' put: #'list';
-            at: #'accessRoleNames'
-              put: #('Project Administrator' 'Project Manager' 'Project Design');
-            at: #'callback'
-              put: [ announcer announce: (NWTabSelected tab: #'lasa') ];
-            yourself);
-    add:
-        (Dictionary new
             at: #'id' put: #'notes';
             at: #'label' put: 'Notes';
             at: #'icon' put: #'list';
