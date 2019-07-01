@@ -6,6 +6,8 @@ tabs
             at: #'id' put: #'templates';
             at: #'label' put: 'Submission Documents';
             at: #'icon' put: #'list';
+            at: #'accessRoleNames'
+              put: #('Project Administrator' 'Project Manager');
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'templates') ];
             yourself);
@@ -14,6 +16,8 @@ tabs
             at: #'id' put: #'financials';
             at: #'label' put: 'Financials';
             at: #'icon' put: #'list';
+            at: #'accessRoleNames'
+              put: #('Project Administrator' 'Project Manager');
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'financials') ];
             yourself);
@@ -22,6 +26,8 @@ tabs
             at: #'id' put: #'lasa';
             at: #'label' put: 'LASA';
             at: #'icon' put: #'list';
+            at: #'accessRoleNames'
+              put: #('Project Administrator' 'Project Manager' 'Project Design');
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'lasa') ];
             yourself);
@@ -30,6 +36,8 @@ tabs
             at: #'id' put: #'notes';
             at: #'label' put: 'Notes';
             at: #'icon' put: #'list';
+            at: #'accessRoleNames'
+              put: #('Project Administrator' 'Project Manager');
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'notes') ];
             yourself);
@@ -38,6 +46,8 @@ tabs
             at: #'id' put: #'design';
             at: #'label' put: 'Design';
             at: #'icon' put: #'list';
+            at: #'accessRoleNames'
+              put: #('Project Administrator' 'Project Manager' 'Project Design');
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'design') ];
             yourself);
@@ -49,25 +59,4 @@ tabs
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'basics') ];
             yourself);
-    yourself	"add:
-        (Dictionary new
-            at: #'id' put: #'dates';
-            at: #'label' put: 'Dates';
-            at: #'icon' put: #'calendar';
-            at: #'callback'
-              put: [ announcer announce: (NWTabSelected tab: #'dates') ];
-            yourself);"	"add:
-        (Dictionary new
-            at: #'id' put: #'projectLineItems';
-            at: #'label' put: 'CSPO';
-            at: #'icon' put: #'list';
-            at: #'callback'
-              put: [ announcer announce: (NWTabSelected tab: #'projectLineItems') ];
-            yourself);"	"add:
-        (Dictionary new
-            at: #'id' put: #'invoice';
-            at: #'label' put: 'Invoice';
-            at: #'icon' put: #'list';
-            at: #'callback'
-              put: [ announcer announce: (NWTabSelected tab: #'invoice') ];
-            yourself);"
+    yourself

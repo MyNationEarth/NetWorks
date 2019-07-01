@@ -2,13 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
-		"canBeAccessedByUser:" : "DataCurator 02/02/2019 16:24",
+		"accessRoleNames" : "jupiter 07/01/2019 09:02",
+		"accessRoles" : "jupiter 07/01/2019 09:00",
+		"canBeAccessedByUser:" : "jupiter 07/01/2019 08:50",
 		"children" : "DataCurator 02/02/2019 16:24",
 		"componentAt:" : "DataCurator 02/02/2019 16:24",
 		"componentAt:ifAbsentPut:" : "DataCurator 02/02/2019 16:24",
 		"crumbs" : "jupiter 02/04/2019 15:11",
 		"initialize" : "DataCurator 02/02/2019 16:24",
+		"modelViewApplication" : "jupiter 07/01/2019 09:01",
 		"organisationModel" : "jupiter 02/04/2019 15:22",
-		"permissionsRequired" : "DataCurator 02/02/2019 16:24",
 		"renderBreadcrumbOn:" : "DataCurator 02/02/2019 16:24",
 		"renderPresenterBreadcrumbs:on:" : "jupiter 02/09/2019 11:24" } }
