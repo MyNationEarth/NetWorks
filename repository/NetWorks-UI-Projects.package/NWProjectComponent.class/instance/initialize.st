@@ -1,4 +1,4 @@
 initialization
 initialize
   super initialize.
-  selectedTab := #'basics'
+  selectedTab := self tabsToDisplay last at: #'id'

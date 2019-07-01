@@ -5,7 +5,7 @@ tabsToDisplay
   ^ self tabs
     select: [ :tabData | 
       tabData
-        at: #'accessRoles'
+        at: #'accessRoleNames'
         ifPresent: [ :accessRoles | 
           self session user
             includesAnyRoleOf:

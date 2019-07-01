@@ -56,6 +56,8 @@ tabs
             at: #'id' put: #'basics';
             at: #'label' put: 'Project Info';
             at: #'icon' put: #'list';
+            at: #'accessRoleNames'
+              put: #('Project Administrator' 'Project Manager');
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'basics') ];
             yourself);
