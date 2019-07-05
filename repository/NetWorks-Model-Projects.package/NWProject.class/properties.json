@@ -73,7 +73,8 @@
 		"designHECApprovalDate",
 		"designLAANStartDate",
 		"designNotes",
-		"designNBNComments" ],
+		"designNBNComments",
+		"designTimeLogs" ],
 	"name" : "NWProject",
 	"pools" : [
 		 ],

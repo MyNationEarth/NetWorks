@@ -1,0 +1,16 @@
+{
+	"category" : "NetWorks-Model-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project",
+		"user",
+		"hours" ],
+	"name" : "NWDesignTimeLog",
+	"pools" : [
+		 ],
+	"super" : "NWObjectWithTitleAndComment",
+	"type" : "normal" }
