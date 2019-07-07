@@ -4,7 +4,9 @@ userDescription
   | description |
   description := MASingleOptionDescription new
     accessor: #'user';
-    options: BpmUser getFrontofficeUsers;
+    options:
+        (BpmUser getFrontofficeUsers
+            select: [ :user | user includesRoleNamed: 'Project Design' ]);
     reference:
         (MAStringDescription new
             selectorAccessor: #'displayName';

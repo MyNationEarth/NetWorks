@@ -3,16 +3,18 @@ renderBasicsOn: canvas
   canvas
     tbsRow: [ 
       canvas tbsColumn
-        smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('Designer') on: canvas ].
+        smallSize: 12;
+        with: [ self renderDescriptionsWithLabels: #('Title') on: canvas ] ].
+  canvas
+    tbsRow: [ 
       canvas tbsColumn
-        smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('Hours') on: canvas ] ].
+        smallSize: 12;
+        with: [ self renderDescriptionsWithLabels: #('Comment') on: canvas ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('Title') on: canvas ].
+        with: [ self renderDescriptionsWithLabels: #('Designer') on: canvas ].
       canvas tbsColumn
         smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('Comment') on: canvas ] ]
+        with: [ self renderDescriptionsWithLabels: #('Hours') on: canvas ] ]
