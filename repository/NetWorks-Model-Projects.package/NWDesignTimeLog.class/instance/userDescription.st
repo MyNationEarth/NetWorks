@@ -4,14 +4,12 @@ userDescription
   | description |
   description := MASingleOptionDescription new
     accessor: #'user';
-    options:
-        (BpmUser getFrontofficeUsers
-            select: [ :user | user rolesIn: self organisationModel bpmApplication ]);
+    options: BpmUser getFrontofficeUsers;
     reference:
         (MAStringDescription new
-            selectorAccessor: #'userName';
+            selectorAccessor: #'displayName';
             yourself) asContainer;
-    label: 'Contractor';
+    label: 'Designer';
     priority: 100;
     beRequired;
     beSorted;

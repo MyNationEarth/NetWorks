@@ -86,4 +86,9 @@ renderDesignOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 12;
-        with: [ self renderDescriptionsWithLabels: #('NBN Comments') on: canvas ] ]
+        with: [ self renderDescriptionsWithLabels: #('NBN Comments') on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 12;
+        with: [ self renderDescriptionsWithLabels: #('Design Time Logs') on: canvas ] ]

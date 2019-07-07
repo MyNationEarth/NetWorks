@@ -5,8 +5,8 @@ designTimeLogsDescription
   template := NWDesignTimeLog new.
   ^ NWToManyRelationDescription new
     accessor: #'designTimeLogs';
-    classes: {NWContractorInvoice};
-    reference: template userNameDescription , template hoursDescription;
+    classes: {NWDesignTimeLog};
+    reference: template userDescription , template hoursDescription;
     label: 'Design Time Logs';
     priority: 400;
     beSorted;
