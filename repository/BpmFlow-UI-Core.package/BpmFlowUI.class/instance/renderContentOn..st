@@ -7,4 +7,6 @@ renderContentOn: canvas
         ifFalse: [ self renderLockScreenWidgetOn: canvas ] ]
     ifTrue: [ 
       super renderContentOn: canvas.
-      self renderSupportForAjaxErrorHandlerOn: canvas ]
+      self
+        renderSupportForAjaxErrorHandlerOn: canvas;
+        renderPatchToTestDelayIssueOn: canvas ]
