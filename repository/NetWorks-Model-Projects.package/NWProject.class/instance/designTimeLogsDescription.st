@@ -9,5 +9,4 @@ designTimeLogsDescription
     reference: template userDescription , template hoursDescription;
     label: 'Design Time Logs';
     priority: 400;
-    beSorted;
     yourself
