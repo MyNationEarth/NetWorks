@@ -14,4 +14,7 @@ renderAdminContentOn: canvas
   canvas tbsRow
     with: [ 
       self renderExportProjectsOn: canvas.
-      self renderExportInsurancesOn: canvas ]
+      self renderExportInsurancesOn: canvas ].
+  canvas tbsRow
+    style: 'padding-top: 24px;';
+    with: [ self renderExportDesignSummaryOn: canvas ]

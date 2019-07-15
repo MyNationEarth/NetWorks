@@ -33,6 +33,16 @@ tabs
             yourself);
     add:
         (Dictionary new
+            at: #'id' put: #'construction';
+            at: #'label' put: 'Construction';
+            at: #'icon' put: #'list';
+            at: #'accessRoleNames'
+              put: #('Project Administrator' 'Project Manager');
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'construction') ];
+            yourself);
+    add:
+        (Dictionary new
             at: #'id' put: #'design';
             at: #'label' put: 'Design';
             at: #'icon' put: #'list';

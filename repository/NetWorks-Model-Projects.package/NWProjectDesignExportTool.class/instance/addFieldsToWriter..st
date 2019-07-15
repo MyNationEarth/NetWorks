@@ -1,0 +1,26 @@
+export file
+addFieldsToWriter: csvWriter
+  csvWriter
+    addField: #'aycaNumber';
+    addField: #'designAssignedTo';
+    addField: #'designAssignmentDate';
+    addField: #'designETADate';
+    addField: #'designStatus';
+    addField: #'sam';
+    addField: #'buildType';
+    addField: #'buildSubType';
+    addField: #'designSowReceivedDate';
+    addField: #'designGMLSubmissionDate';
+    addField: #'designPONPatchingRequestDate';
+    addField: #'designPONSOWReceivedDate';
+    addField: #'designDDDSubmissionForecastDate';
+    addField: #'designDDDActualSubmissionDate';
+    addField: #'designDDDResubmissionDate';
+    addField: #'designDDDStatus';
+    addField: #'designDDDApprovedDate';
+    addField: #'designLAANSubmissionDate';
+    addField: #'designHECSubmissionDate';
+    addField: #'designHECApprovalDate';
+    addField: #'designLAANStartDate';
+    addField: #'designNotes';
+    addField: #'designNBNComments'

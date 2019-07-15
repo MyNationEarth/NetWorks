@@ -3,9 +3,11 @@
 		 },
 	"instance" : {
 		"icon" : "jupiter 05/28/2019 16:47",
+		"importStockOnHandFromFile:" : "jupiter 07/16/2019 06:47",
 		"initialize" : "jupiter 05/28/2019 16:47",
 		"newObjectLabel" : "jupiter 05/28/2019 16:48",
-		"renderBasicsOn:" : "jupiter 06/18/2019 14:35",
+		"renderBasicsOn:" : "jupiter 07/16/2019 07:01",
 		"renderMaterialsOn:" : "jupiter 05/28/2019 17:14",
+		"renderMaterialsOnHandImportOn:" : "jupiter 07/16/2019 07:12",
 		"respondWithStockOnHandSpreadsheet" : "jupiter 05/28/2019 20:47",
 		"tabs" : "jupiter 05/28/2019 16:49" } }

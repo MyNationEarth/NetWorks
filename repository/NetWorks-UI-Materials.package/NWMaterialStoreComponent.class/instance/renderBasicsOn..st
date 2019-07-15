@@ -12,10 +12,11 @@ renderBasicsOn: canvas
         with: [ self renderDescriptionsWithLabels: #('Location Suburb') on: canvas ].
       canvas tbsColumn
         smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('Location State') on: canvas ] ]	"canvas
+        with: [ self renderDescriptionsWithLabels: #('Location State') on: canvas ] ].
+  canvas
     tbsRow: [ 
       canvas tbsColumn
-        smallSize: 12;
+        smallSize: 6;
         with: [ 
               canvas heading
                 level4;
@@ -33,4 +34,7 @@ renderBasicsOn: canvas
                               (canvas tag: 'i')
                                 fontAwesome;
                                 fontAwesomeFileIcon ].
-                          canvas text: 'Export Stock on Hand Spreadsheet' ] ] ] ]"
+                          canvas text: 'Export Stock on Hand Spreadsheet' ] ] ].
+      canvas tbsColumn
+        smallSize: 6;
+        with: [ self renderMaterialsOnHandImportOn: canvas ] ]

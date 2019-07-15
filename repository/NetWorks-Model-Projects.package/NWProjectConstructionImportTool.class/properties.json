@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 07/15/2019 19:40",
+	"instvars" : [
+		 ],
+	"name" : "NWProjectConstructionImportTool",
+	"pools" : [
+		 ],
+	"super" : "NWCSVImportTool",
+	"type" : "normal" }

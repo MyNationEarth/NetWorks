@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Materials",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"materialStore" ],
+	"name" : "NWMaterialStoreImportTool",
+	"pools" : [
+		 ],
+	"super" : "NWCSVImportTool",
+	"type" : "normal" }

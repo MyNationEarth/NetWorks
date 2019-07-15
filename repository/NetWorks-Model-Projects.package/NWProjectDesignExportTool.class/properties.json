@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 07/15/2019 13:10",
+	"instvars" : [
+		"contents" ],
+	"name" : "NWProjectDesignExportTool",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

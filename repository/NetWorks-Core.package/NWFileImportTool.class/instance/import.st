@@ -1,3 +1,3 @@
 Importing
 import
-  self loadRawDataFromFile
+  rawData ifNil: [ self loadRawDataFromFile ]
