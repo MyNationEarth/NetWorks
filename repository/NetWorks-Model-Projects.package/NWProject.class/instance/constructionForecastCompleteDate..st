@@ -1,0 +1,3 @@
+Updating
+constructionForecastCompleteDate: newValue
+	constructionForecastCompleteDate := newValue

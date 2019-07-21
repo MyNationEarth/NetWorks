@@ -1,0 +1,3 @@
+Updating
+constructionActualCompleteDate: newValue
+	constructionActualCompleteDate := newValue

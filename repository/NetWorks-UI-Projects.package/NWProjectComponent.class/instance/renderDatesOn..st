@@ -10,7 +10,7 @@ renderDatesOn: canvas
         with: [ self renderDescriptionsWithLabels: #('Project Awarded Date') on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('Customer Required Date') on: canvas ] ].
+        with: [ self renderDescriptionsWithLabels: #('Project Completion Date') on: canvas ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn

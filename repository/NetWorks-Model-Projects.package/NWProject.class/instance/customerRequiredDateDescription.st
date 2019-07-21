@@ -3,6 +3,6 @@ customerRequiredDateDescription
   <magritteDescription>
   ^ MADateDescription new
     accessor: #'customerRequiredDate';
-    label: 'Customer Required Date';
+    label: 'Project Completion Date';
     priority: 4000;
     yourself

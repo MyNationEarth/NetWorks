@@ -3,92 +3,117 @@ renderConstructionOn: canvas
   canvas
     tbsRow: [ 
       canvas tbsColumn
-        smallSize: 6;
+        smallSize: 3;
         with: [ self renderDescriptionsWithLabels: #('AYCA Number') on: canvas ].
       canvas tbsColumn
-        smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('SAM') on: canvas ] ].
+        smallSize: 9;
+        with: [ self renderDescriptionsWithLabels: #('Address') on: canvas ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('Build Type') on: canvas ].
+        with: [ self renderDescriptionsWithLabels: #('Construction Project Type') on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('Build Sub-Type') on: canvas ].
+        with: [ self renderDescriptionsWithLabels: #('Construction Build Type') on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('Design Status') on: canvas ] ].
-  canvas
-    tbsRow: [ 
-      canvas tbsColumn
-        smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('Assigned To') on: canvas ].
-      canvas tbsColumn
-        smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('Assignment Date') on: canvas ] ].
+        with: [ self renderDescriptionsWithLabels: #(#'constructionStatus') on: canvas ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('SOW Received Date') on: canvas ].
+        with: [ self renderDescriptionsWithLabels: #('SAM') on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('GML Submission Date') on: canvas ].
+        with: [ self renderDescriptionsWithLabels: #('Client Contact') on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('PON Patching Request Date') on: canvas ].
-      canvas tbsColumn
-        smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('PON SOW Received Date') on: canvas ] ].
+        with: [ self renderDescriptionsWithLabels: #('Site Contact') on: canvas ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('DDD Status') on: canvas ].
+        with: [ self renderDescriptionsWithLabels: #('EFSCD Date') on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('ETA Date') on: canvas ] ].
+        with: [ self renderDescriptionsWithLabels: #('Construction Project Lead') on: canvas ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('DDD Submission Forecast Date') on: canvas ].
+        with: [ self renderDescriptionsWithLabels: #('Lead In Ready') on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('DDD Actual Submission Date') on: canvas ].
+        with: [ self renderDescriptionsWithLabels: #('Comms Room Ready') on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('DDD Resubmission Date') on: canvas ].
+        with: [ self renderDescriptionsWithLabels: #('Internal Pathway Ready') on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('DDD Approved Date') on: canvas ] ].
+        with: [ self renderDescriptionsWithLabels: #('Test And Coiled') on: canvas ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('LAAN Submission Date') on: canvas ].
+        with: [ 
+              self
+                renderDescriptionsWithLabels:
+                  #('Construction Design Forecast Submission Date')
+                on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('HEC Submission Date') on: canvas ].
+        with: [ 
+              self
+                renderDescriptionsWithLabels:
+                  #('Construction Design Actual Submission Date')
+                on: canvas ] ].
+  canvas
+    tbsRow: [ 
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('HEC Approval Date') on: canvas ].
+        with: [ 
+              self
+                renderDescriptionsWithLabels:
+                  #('Construction Forecast Start Date')
+                on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('LAAN Start Date') on: canvas ] ].
+        with: [ 
+              self
+                renderDescriptionsWithLabels:
+                  #('Construction Actual Start Date')
+                on: canvas ].
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ 
+              self
+                renderDescriptionsWithLabels:
+                  #('Construction Forecast Complete Date')
+                on: canvas ].
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ 
+              self
+                renderDescriptionsWithLabels:
+                  #('Construction Actual Complete Date')
+                on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ self renderDescriptionsWithLabels: #('Construction Follow Up Date') on: canvas ].
+      canvas tbsColumn
+        smallSize: 3;
+        with: [  ].
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ self renderDescriptionsWithLabels: #('Forecast PC Submit Date') on: canvas ].
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ self renderDescriptionsWithLabels: #('Actual PC Submit Date') on: canvas ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 12;
-        with: [ self renderDescriptionsWithLabels: #('Design Notes') on: canvas ] ].
-  canvas
-    tbsRow: [ 
-      canvas tbsColumn
-        smallSize: 12;
-        with: [ self renderDescriptionsWithLabels: #('NBN Comments') on: canvas ] ].
-  canvas
-    tbsRow: [ 
-      canvas tbsColumn
-        smallSize: 12;
-        with: [ self renderDescriptionsWithLabels: #('Design Time Logs') on: canvas ] ]
+        with: [ self renderDescriptionsWithLabels: #('Construction Comments') on: canvas ] ]

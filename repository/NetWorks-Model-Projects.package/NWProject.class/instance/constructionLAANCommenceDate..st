@@ -1,0 +1,3 @@
+Updating
+constructionLAANCommenceDate: newValue
+	constructionLAANCommenceDate := newValue

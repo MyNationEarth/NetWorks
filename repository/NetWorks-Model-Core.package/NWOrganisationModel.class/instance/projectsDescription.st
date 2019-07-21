@@ -7,7 +7,7 @@ projectsDescription
     accessor: #'projects';
     classes: {NWProject};
     reference:
-        template titleDescription , template efscdDateDescription
+        template titleAndWorkOrderDescription , template efscdDateDescription
             , template projectEngineerDescription , template statusDescription;
     label: 'Projects';
     priority: 100;
