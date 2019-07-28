@@ -4,7 +4,7 @@ statusDescription
   | description |
   description := MASingleOptionDescription new
     accessor: #'status';
-    options: self organisationModel allProjectStatus;
+    options: self statusOptions;
     label: 'Status';
     priority: 1500;
     yourself.

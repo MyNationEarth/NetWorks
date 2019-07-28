@@ -38,72 +38,74 @@ buildProjects
                             'Successful import of Project with ' , aycaNumber asString;
                         cr.
                       row
-                        at: #'designAssignedTo'
-                        ifPresent: [ :value | project designAssignedTo: (self cleanString: value) ].
+                        at: #'constructionProjectType'
+                        ifPresent: [ :value | project constructionProjectType: (self cleanString: value) ].
                       row
-                        at: #'designAssignmentDate'
-                        ifPresent: [ :value | project designAssignmentDate: (self dateFromString: value) ].
-                      row
-                        at: #'designETADate'
-                        ifPresent: [ :value | project designETADate: (self dateFromString: value) ].
-                      row
-                        at: #'designStatus'
-                        ifPresent: [ :value | project designStatus: (self cleanString: value) ].
+                        at: #'constructionBuildType'
+                        ifPresent: [ :value | project constructionBuildType: (self cleanString: value) ].
                       row
                         at: #'sam'
                         ifPresent: [ :value | project sam: (self cleanString: value) ].
                       row
-                        at: #'buildType'
-                        ifPresent: [ :value | project buildType: (self cleanString: value) ].
+                        at: #'clientContact'
+                        ifPresent: [ :value | project clientContact: (self cleanString: value) ].
                       row
-                        at: #'buildSubType'
-                        ifPresent: [ :value | project buildSubType: (self cleanString: value) ].
+                        at: #'efscdDate'
+                        ifPresent: [ :value | project efscdDate: (self dateFromString: value) ].
                       row
-                        at: #'designSowReceivedDate'
-                        ifPresent: [ :value | project designSowReceivedDate: (self dateFromString: value) ].
+                        at: #'constructionProjectLead'
+                        ifPresent: [ :value | project constructionProjectLead: (self cleanString: value) ].
                       row
-                        at: #'designGMLSubmissionDate'
-                        ifPresent: [ :value | project designGMLSubmissionDate: (self dateFromString: value) ].
+                        at: #'constructionStatus'
+                        ifPresent: [ :value | project constructionStatus: (self cleanString: value) ].
                       row
-                        at: #'designPONPatchingRequestDate'
-                        ifPresent: [ :value | project designPONPatchingRequestDate: (self dateFromString: value) ].
+                        at: #'constructionSiteContact'
+                        ifPresent: [ :value | project constructionSiteContact: (self cleanString: value) ].
                       row
-                        at: #'designPONSOWReceivedDate'
-                        ifPresent: [ :value | project designPONSOWReceivedDate: (self dateFromString: value) ].
+                        at: #'constructionLeadInReady'
+                        ifPresent: [ :value | project constructionCommsRoomReady: (self booleanFromString: value) ].
                       row
-                        at: #'designDDDSubmissionForecastDate'
-                        ifPresent: [ :value | project designDDDSubmissionForecastDate: (self dateFromString: value) ].
+                        at: #'constructionCommsRoomReady'
+                        ifPresent: [ :value | project constructionCommsRoomReady: (self booleanFromString: value) ].
                       row
-                        at: #'designDDDActualSubmissionDate'
-                        ifPresent: [ :value | project designDDDActualSubmissionDate: (self dateFromString: value) ].
+                        at: #'constructionInternalPathwayReady'
+                        ifPresent: [ :value | project constructionInternalPathwayReady: (self booleanFromString: value) ].
                       row
-                        at: #'designDDDResubmissionDate'
-                        ifPresent: [ :value | project designDDDResubmissionDate: (self dateFromString: value) ].
+                        at: #'constructionTestAndCoiled'
+                        ifPresent: [ :value | project constructionTestAndCoiled: (self booleanFromString: value) ].
                       row
-                        at: #'designDDDStatus'
-                        ifPresent: [ :value | project designDDDStatus: (self cleanString: value) ].
+                        at: #'constructionLAANCommenceDate'
+                        ifPresent: [ :value | project constructionLAANCommenceDate: (self dateFromString: value) ].
                       row
-                        at: #'designDDDApprovedDate'
-                        ifPresent: [ :value | project designDDDApprovedDate: (self dateFromString: value) ].
+                        at: #'constructionDesignForecastSubmissionDate'
+                        ifPresent: [ :value | project constructionDesignForecastSubmissionDate: (self dateFromString: value) ].
                       row
-                        at: #'designLAANSubmissionDate'
-                        ifPresent: [ :value | project designLAANSubmissionDate: (self dateFromString: value) ].
+                        at: #'constructionDesignActualSubmissionDate'
+                        ifPresent: [ :value | project constructionDesignActualSubmissionDate: (self dateFromString: value) ].
                       row
-                        at: #'designHECSubmissionDate'
-                        ifPresent: [ :value | project designHECSubmissionDate: (self dateFromString: value) ].
+                        at: #'constructionForecastStartDate'
+                        ifPresent: [ :value | project constructionForecastStartDate: (self dateFromString: value) ].
                       row
-                        at: #'designHECApprovalDate'
-                        ifPresent: [ :value | project designHECApprovalDate: (self dateFromString: value) ].
+                        at: #'constructionActualStartDate'
+                        ifPresent: [ :value | project constructionActualStartDate: (self dateFromString: value) ].
                       row
-                        at: #'designLAANStartDate'
-                        ifPresent: [ :value | project designLAANStartDate: (self dateFromString: value) ].
+                        at: #'constructionForecastCompleteDate'
+                        ifPresent: [ :value | project constructionForecastCompleteDate: (self dateFromString: value) ].
                       row
-                        at: #'designNotes'
+                        at: #'constructionActualCompleteDate'
+                        ifPresent: [ :value | project constructionActualCompleteDate: (self dateFromString: value) ].
+                      row
+                        at: #'constructionFollowUpDate'
+                        ifPresent: [ :value | project constructionFollowUpDate: (self dateFromString: value) ].
+                      row
+                        at: #'constructionForecastPCSubmitDate'
+                        ifPresent: [ :value | project constructionForecastPCSubmitDate: (self dateFromString: value) ].
+                      row
+                        at: #'constructionActualPCSubmitDate'
+                        ifPresent: [ :value | project constructionActualPCSubmitDate: (self dateFromString: value) ].
+                      row
+                        at: #'constructionComments'
                         ifPresent: [ :value | 
                           "self decodeNotes: value forProject: project"
-                          project designNotes: (self cleanString: value) ].
-                      row
-                        at: #'designNBNComments'
-                        ifPresent: [ :value | 
-                          "self decodeNotes: value forProject: project"
-                          project designNBNComments: (self cleanString: value) ] ] ] ] ] ]
+                          project
+                            constructionComments: (self cleanString: value) ] ] ] ] ] ]
