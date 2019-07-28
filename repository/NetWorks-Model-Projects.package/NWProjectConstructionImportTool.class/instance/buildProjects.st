@@ -63,7 +63,7 @@ buildProjects
                         ifPresent: [ :value | project constructionSiteContact: (self cleanString: value) ].
                       row
                         at: #'constructionLeadInReady'
-                        ifPresent: [ :value | project constructionCommsRoomReady: (self booleanFromString: value) ].
+                        ifPresent: [ :value | project constructionLeadInReady: (self booleanFromString: value) ].
                       row
                         at: #'constructionCommsRoomReady'
                         ifPresent: [ :value | project constructionCommsRoomReady: (self booleanFromString: value) ].
