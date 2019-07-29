@@ -3,6 +3,6 @@ internalDjcCostDescription
   <magritteDescription>
   ^ MANumberDescription new
     accessor: #'internalDjcCost';
-    label: 'Internal DJC Cost';
+    label: 'Internal Design Cost';
     priority: 3000;
     yourself

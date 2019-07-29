@@ -1,0 +1,3 @@
+Updating
+nbnAdvancePaymentInvoiceNumber: newValue
+	nbnAdvancePaymentInvoiceNumber := newValue
