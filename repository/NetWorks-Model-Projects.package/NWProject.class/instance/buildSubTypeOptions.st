@@ -1,6 +1,7 @@
 descriptions
 buildSubTypeOptions
-  ^ {'MDU'.
+  ^ {'DFN'.
+  'MDU'.
   'MDU TFL'.
   'SDU'.
   'SDU TFL'}

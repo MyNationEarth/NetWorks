@@ -3,13 +3,13 @@ tabs
   ^ OrderedCollection new
     add:
         (Dictionary new
-            at: #'id' put: #'templates';
-            at: #'label' put: 'Submission Documents';
+            at: #'id' put: #'contractorInvoices';
+            at: #'label' put: 'Contractor Invoices';
             at: #'icon' put: #'list';
             at: #'accessRoleNames'
               put: #('Project Administrator' 'Project Manager');
             at: #'callback'
-              put: [ announcer announce: (NWTabSelected tab: #'templates') ];
+              put: [ announcer announce: (NWTabSelected tab: #'contractorInvoices') ];
             yourself);
     add:
         (Dictionary new
@@ -61,4 +61,13 @@ tabs
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'basics') ];
             yourself);
-    yourself
+    yourself	"add:
+        (Dictionary new
+            at: #'id' put: #'templates';
+            at: #'label' put: 'Submission Documents';
+            at: #'icon' put: #'list';
+            at: #'accessRoleNames'
+              put: #('Project Administrator' 'Project Manager');
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'templates') ];
+            yourself);"

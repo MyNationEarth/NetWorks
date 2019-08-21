@@ -4,8 +4,13 @@ buildTypeOptions
   'B+D'.
   'B+E'.
   'C'.
+  'Copper'.
   'D'.
   'E'.
+  'FTTB'.
+  'Held Orders'.
+  'HFC DFN'.
   'MDU Internal'.
-  'Copper'.
-  'FTTB'}
+  'Node Splits HFC DFN'.
+  'RW'.
+  'SC-32'}

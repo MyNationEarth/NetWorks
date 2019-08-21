@@ -64,15 +64,4 @@ renderFinancialsOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('Payment Date') on: canvas ].
-      canvas tbsColumn
-        smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('Month Paid') on: canvas ] ].
-  canvas heading
-    level3;
-    with: 'Contractor Invoices'.
-  canvas
-    tbsRow: [ 
-      canvas tbsColumn
-        smallSize: 12;
-        with: [ self renderDescriptionsWithLabels: #('Contractor Invoices') on: canvas ] ]
+        with: [ self renderDescriptionsWithLabels: #('Payment Date') on: canvas ] ]
