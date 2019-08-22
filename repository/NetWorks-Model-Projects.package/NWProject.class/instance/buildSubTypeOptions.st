@@ -1,7 +1,11 @@
 descriptions
 buildSubTypeOptions
-  ^ {'DFN'.
+  ^ {'Copper'.
+  'DFN'.
   'MDU'.
   'MDU TFL'.
   'SDU'.
-  'SDU TFL'}
+  'SDU TFL'.
+  'Type 1'.
+  'Type 2'.
+  'Type 3'}

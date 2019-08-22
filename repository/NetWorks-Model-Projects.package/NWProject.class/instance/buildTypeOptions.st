@@ -12,5 +12,7 @@ buildTypeOptions
   'HFC DFN'.
   'MDU Internal'.
   'Node Splits HFC DFN'.
+  'Non Standard Build'.
   'RW'.
-  'SC-32'}
+  'SC-32'.
+  'Tech Choice'}
