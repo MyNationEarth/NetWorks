@@ -17,8 +17,8 @@ renderConstructionOn: canvas
         smallSize: 3;
         with: [ self renderDescriptionsWithLabels: #('Construction Build Type') on: canvas ].
       canvas tbsColumn
-        smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #(#'constructionStatus') on: canvas ] ].
+        smallSize: 6;
+        with: [ self renderDescriptionsWithLabels: #('Status') on: canvas ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn
