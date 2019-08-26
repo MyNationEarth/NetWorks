@@ -5,17 +5,19 @@ renderExportInsurancesOn: canvas
     smallSize: 6;
     extraSmallSize: 12;
     with: [ 
-          canvas form
-            with: [ 
-              canvas tbsButton
-                beLabeled;
-                beSubmit;
-                bePrimary;
-                callback: [ self respondWithContractorInsurancesSpreadsheet ];
+          (self userHasRoleNamed: 'Contractor Exporter')
+            ifTrue: [ 
+              canvas form
                 with: [ 
-                      canvas
-                        tbsButtonLabel: [ 
-                          (canvas tag: 'i')
-                            fontAwesome;
-                            fontAwesomeFileIcon ].
-                      canvas text: 'Export Insurances Spreadsheet' ] ] ]
+                  canvas tbsButton
+                    beLabeled;
+                    beSubmit;
+                    bePrimary;
+                    callback: [ self respondWithContractorInsurancesSpreadsheet ];
+                    with: [ 
+                          canvas
+                            tbsButtonLabel: [ 
+                              (canvas tag: 'i')
+                                fontAwesome;
+                                fontAwesomeFileIcon ].
+                          canvas text: 'Export Insurances Spreadsheet' ] ] ] ]

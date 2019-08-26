@@ -2,6 +2,7 @@
 	"class" : {
 		"datateks" : "jupiter 06/11/2019 07:48",
 		"datateksUserInfo" : "jupiter 06/26/2019 12:39",
+		"enableAllUsersInRoleNamed:" : "jupiter 08/26/2019 10:04",
 		"exportForms" : "jupiter 11/08/2018 15:58",
 		"exportFormsOnPath:" : "jupiter 11/08/2018 15:59",
 		"fiveSmithsUserInfo" : "jupiter 11/24/2018 02:19",
@@ -15,7 +16,7 @@
 		"installDatateksContracts" : "jupiter 03/31/2019 14:02",
 		"installDatateksEnvironment" : "jupiter 06/04/2019 12:16",
 		"installDatateksMaterials" : "jupiter 02/18/2019 16:44",
-		"installDatateksModelViewRoles" : "jupiter 07/01/2019 07:04",
+		"installDatateksModelViewRoles" : "jupiter 08/27/2019 06:28",
 		"installDatateksOrganisationModel" : "jupiter 04/13/2019 06:11",
 		"installDatateksProcesses" : "jupiter 06/26/2019 12:40",
 		"installDatateksProjectConstruction" : "jupiter 07/29/2019 05:47",
