@@ -14,5 +14,5 @@ respondWithContractorInsurancesSpreadsheet
     respond: [ :response | 
       response
         contentType: file contentType;
-        document: file rawContents asString;
+        document: file rawContents encodeAsUTF8IntoString;
         attachmentWithFileName: file fileName ]
