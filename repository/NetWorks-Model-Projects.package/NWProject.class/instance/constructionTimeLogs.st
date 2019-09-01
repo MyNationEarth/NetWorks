@@ -1,3 +1,4 @@
 Accessing
 constructionTimeLogs
-	^constructionTimeLogs
+  ^ constructionTimeLogs
+    ifNil: [ constructionTimeLogs := OrderedCollection new ]

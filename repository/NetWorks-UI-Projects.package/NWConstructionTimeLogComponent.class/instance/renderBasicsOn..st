@@ -20,4 +20,12 @@ renderBasicsOn: canvas
         with: [ self renderDescriptionsWithLabels: #('Designer') on: canvas ].
       canvas tbsColumn
         smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('Hours') on: canvas ] ]
+        with: [ self renderDescriptionsWithLabels: #('Hours') on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 6;
+        with: [ self renderDescriptionsWithLabels: #('Start Time') on: canvas ].
+      canvas tbsColumn
+        smallSize: 6;
+        with: [ self renderDescriptionsWithLabels: #('End Time') on: canvas ] ]
