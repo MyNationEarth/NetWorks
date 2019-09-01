@@ -57,7 +57,7 @@ tabs
             at: #'label' put: 'Project Info';
             at: #'icon' put: #'list';
             at: #'accessRoleNames'
-              put: #('Project Administrator' 'Project Manager');
+              put: #('Project Administrator' 'Project Manager' 'Design Manager');
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'basics') ];
             yourself);
