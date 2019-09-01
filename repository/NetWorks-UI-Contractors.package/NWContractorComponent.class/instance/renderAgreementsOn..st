@@ -16,4 +16,9 @@ renderAgreementsOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('Minor Works Addendum Date') on: canvas ] ]
+        with: [ self renderDescriptionsWithLabels: #('Minor Works Addendum Date') on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 12;
+        with: [ self renderDescriptionsWithLabels: #('Agreement Notes') on: canvas ] ]

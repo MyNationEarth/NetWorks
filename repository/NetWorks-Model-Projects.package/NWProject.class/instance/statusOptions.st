@@ -13,4 +13,5 @@ statusOptions
   'Site Visit'.
   'Survey and Design'.
   'Complete'.
-  'Council Delay'}
+  'Council Delay'.
+  'Project Cancelled'}

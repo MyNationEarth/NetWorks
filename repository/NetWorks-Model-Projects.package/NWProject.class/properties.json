@@ -97,7 +97,8 @@
 		"constructionFollowUpDate",
 		"constructionForecastPCSubmitDate",
 		"constructionActualPCSubmitDate",
-		"constructionComments" ],
+		"constructionComments",
+		"constructionTimeLogs" ],
 	"name" : "NWProject",
 	"pools" : [
 		 ],

@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-UI-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 09/02/2019 06:27",
+	"instvars" : [
+		 ],
+	"name" : "NWConstructionTimeLogContainer",
+	"pools" : [
+		 ],
+	"super" : "NWContainer",
+	"type" : "normal" }

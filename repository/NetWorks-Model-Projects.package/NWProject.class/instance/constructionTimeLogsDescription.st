@@ -1,15 +1,15 @@
 descriptions
-designTimeLogsDescription
+constructionTimeLogsDescription
   <magritteDescription>
   | template |
   template := NWDesignTimeLog new.
   ^ NWToManyRelationDescription new
-    accessor: #'designTimeLogs';
-    classes: {NWDesignTimeLog};
+    accessor: #'constructionTimeLogs';
+    classes: {NWConstructionTimeLog};
     reference:
         template titleDescription , template userDescription
             , template commentDescription , template hoursDescription
             , template dateDescription;
-    label: 'Design Time Logs';
+    label: 'Construction Time Logs';
     priority: 400;
     yourself

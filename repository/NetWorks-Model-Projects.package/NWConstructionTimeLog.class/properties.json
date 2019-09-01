@@ -6,12 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"project",
-		"user",
-		"hours",
-		"date" ],
-	"name" : "NWDesignTimeLog",
+		"startTime",
+		"endTime" ],
+	"name" : "NWConstructionTimeLog",
 	"pools" : [
 		 ],
-	"super" : "NWObjectWithTitleAndComment",
+	"super" : "NWDesignTimeLog",
 	"type" : "normal" }
