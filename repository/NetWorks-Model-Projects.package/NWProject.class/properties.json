@@ -98,6 +98,7 @@
 		"constructionForecastPCSubmitDate",
 		"constructionActualPCSubmitDate",
 		"constructionComments",
+		"constructionNbnComments",
 		"constructionTimeLogs" ],
 	"name" : "NWProject",
 	"pools" : [

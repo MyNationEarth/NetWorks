@@ -121,4 +121,9 @@ renderConstructionOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 12;
+        with: [ self renderDescriptionsWithLabels: #('Construction NBN Comments') on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 12;
         with: [ self renderDescriptionsWithLabels: #('Construction Time Logs') on: canvas ] ]
