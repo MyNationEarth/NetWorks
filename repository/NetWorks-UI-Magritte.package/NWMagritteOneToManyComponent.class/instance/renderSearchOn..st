@@ -26,10 +26,7 @@ renderSearchOn: canvas
                                   self report
                                     rowFilter: [ :row | 
                                       searchText isEmpty
-                                        or: [ 
-                                          ((row readUsing: self magritteDescription reference children first)
-                                            findStringNoCase: searchText
-                                            startingAt: 1) > 0 ] ].
+                                        or: [ (row searchString findStringNoCase: searchText startingAt: 1) > 0 ] ].
                                   script
                                     << (script jQuery id: self report ajaxId)
                                     html: [ :html | 

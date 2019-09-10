@@ -2,7 +2,7 @@ descriptions
 constructionTimeLogsDescription
   <magritteDescription>
   | template |
-  template := NWDesignTimeLog new.
+  template := NWConstructionTimeLog new.
   ^ NWToManyRelationDescription new
     accessor: #'constructionTimeLogs';
     classes: {NWConstructionTimeLog};

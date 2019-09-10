@@ -17,7 +17,7 @@ renderBasicsOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('Designer') on: canvas ].
+        with: [ self renderDescriptionsWithLabels: #('Construction Staff') on: canvas ].
       canvas tbsColumn
         smallSize: 6;
         with: [ self renderDescriptionsWithLabels: #('Hours') on: canvas ] ].
