@@ -6,7 +6,7 @@ userDescription
     accessor: #'user';
     options:
         (BpmUser getFrontofficeUsers
-            select: [ :user | user includesRoleNamed: 'Project Design' ]);
+            select: [ :user | user includesRoleNamed: 'Construction Staff' ]);
     reference:
         (MAStringDescription new
             selectorAccessor: #'displayName';
