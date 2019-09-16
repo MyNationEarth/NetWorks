@@ -10,6 +10,10 @@ renderAdminContentOn: canvas
       self renderProjectsCompletedThisMonthBoxOn: canvas ].
   canvas heading
     level4;
+    with: 'Charts'.
+  canvas tbsRow with: [  ].
+  canvas heading
+    level4;
     with: 'Exporting Data'.
   canvas tbsRow
     with: [ 

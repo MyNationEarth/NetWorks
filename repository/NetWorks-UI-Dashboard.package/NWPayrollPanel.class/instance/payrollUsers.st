@@ -1,7 +1,8 @@
 accessing
 payrollUsers
-  ^ BpmUser getFrontofficeUsers
+  ^ (BpmUser getFrontofficeUsers
     select: [ :user | 
       user
         includesAnyRoleOf:
-          (self rolesWithNames: #('Project Manager' 'Project Design' 'Construction Staff')) ]
+          (self rolesWithNames: #('Project Manager' 'Project Design' 'Construction Staff')) ])
+    asSortedCollection: [ :a :b | a givenName < b givenName ]

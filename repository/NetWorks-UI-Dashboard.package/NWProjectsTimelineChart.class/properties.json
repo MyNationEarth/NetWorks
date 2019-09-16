@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-UI-Dashboard",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NWProjectsTimelineChart",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }
