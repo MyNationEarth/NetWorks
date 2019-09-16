@@ -4,4 +4,5 @@
 	"instance" : {
 		"componentAt:ifAbsentPut:" : "jupiter 04/06/2017 21:31",
 		"initialize" : "jupiter 04/06/2017 21:33",
-		"renderDescriptionsWithLabels:on:" : "jupiter 07/22/2019 06:15" } }
+		"renderDescriptionsWithLabels:on:" : "jupiter 07/22/2019 06:15",
+		"saveAndRemainOpen" : "jupiter 09/13/2019 14:14" } }

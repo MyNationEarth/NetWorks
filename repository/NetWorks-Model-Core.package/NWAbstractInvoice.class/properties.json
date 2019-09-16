@@ -10,6 +10,7 @@
 		"paymentDueDate",
 		"paymentMadeDate",
 		"amountPayable",
+		"isTaxExempt",
 		"amountPaid" ],
 	"name" : "NWAbstractInvoice",
 	"pools" : [

@@ -3,11 +3,11 @@ renderAdminContentOn: canvas
   canvas heading
     level4;
     with: 'Statistics'.
+  canvas tbsRow with: [ self renderClientsInfoBoxOn: canvas ].
   canvas tbsRow
     with: [ 
-      self
-        renderClientsInfoBoxOn: canvas;
-        renderProjectsInfoBoxOn: canvas ].
+      self renderProjectsInfoBoxOn: canvas.
+      self renderProjectsCompletedThisMonthBoxOn: canvas ].
   canvas heading
     level4;
     with: 'Exporting Data'.

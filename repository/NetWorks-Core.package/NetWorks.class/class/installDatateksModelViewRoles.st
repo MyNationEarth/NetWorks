@@ -9,6 +9,7 @@ installDatateksModelViewRoles
   'Project Manager'.
   'Project Design'.
   'Design Manager'.
+  'Construction Staff'.
   'Accounts'.
   'Payroll'.
   'Project Exporter'.

@@ -28,6 +28,9 @@ renderBasicsOn: canvas
         with: [ self renderDescriptionsWithLabels: #('Amount Payable ex GST') on: canvas ].
       canvas tbsColumn
         smallSize: 4;
+        with: [ self renderDescriptionsWithLabels: #('GST Exempt') on: canvas ].
+      canvas tbsColumn
+        smallSize: 4;
         with: [ self renderDescriptionsWithLabels: #('Amount Paid') on: canvas ] ].
   canvas
     tbsRow: [ 

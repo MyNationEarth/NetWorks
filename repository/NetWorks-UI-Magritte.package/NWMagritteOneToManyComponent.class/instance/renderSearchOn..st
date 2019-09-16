@@ -20,12 +20,7 @@ renderSearchOn: canvas
                     delay: 500;
                     onSearch:
                         (canvas jQuery ajax
-                            callback: [ :value | 
-                                  searchText := value.
-                                  (ObjectLogEntry
-                                    debug:
-                                      'Searching for "' , value asString , '"'
-                                    object: value) addToLog ]
+                            callback: [ :value | searchText := value ]
                               json: (JSStream on: 'this.value');
                             script: [ :script | 
                                   self report
