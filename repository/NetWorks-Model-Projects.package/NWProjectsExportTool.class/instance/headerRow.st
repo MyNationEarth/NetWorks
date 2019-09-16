@@ -3,6 +3,8 @@ headerRow
   ^ {'Contract'.
   'Location'.
   'PE'.
+  'Advance Payment'.
+  'Advance Payment Date'.
   'Inv No.'.
   'Date Invoice Created'.
   'Date Project Completions handed over'.
@@ -26,9 +28,4 @@ headerRow
   'Margin'.
   '%'.
   'Status'.
-  'NBN PO/PM'.
-  'Project Quote Submitted'.
-  'Project Award Date'.
-  'Days to Award'.
-  'Customer required date'.
-  'Difference CRD to Award'}
+  'NBN PO/PM'}
