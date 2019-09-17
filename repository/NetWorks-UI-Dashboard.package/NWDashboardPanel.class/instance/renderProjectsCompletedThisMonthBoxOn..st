@@ -1,5 +1,8 @@
 rendering
 renderProjectsCompletedThisMonthBoxOn: canvas
+  | year month |
+  year := Date today year.
+  month := Date today monthIndex.
   canvas tbsColumn
     mediumSize: 3;
     smallSize: 6;
@@ -14,7 +17,9 @@ renderProjectsCompletedThisMonthBoxOn: canvas
                     (self organisationModel projects
                         select: [ :project | 
                           project pcHandedOverDate notNil
-                            and: [ project pcHandedOverDate monthIndex = Date today monthIndex ] ])
+                            and: [ 
+                              project pcHandedOverDate year = year
+                                and: [ project pcHandedOverDate monthIndex = month ] ] ])
                         size;
                 widgetColor: 'aqua';
                 yourself) ]
