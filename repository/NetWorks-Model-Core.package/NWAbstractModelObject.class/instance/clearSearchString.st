@@ -1,3 +1,3 @@
 searching
 clearSearchString
-  ^ self attributes values removeKey: #'searchString'
+  ^ self attributes values removeKey: #'searchString' ifAbsent: [  ]

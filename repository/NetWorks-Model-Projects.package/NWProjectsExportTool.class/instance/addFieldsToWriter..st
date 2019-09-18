@@ -4,8 +4,6 @@ addFieldsToWriter: csvWriter
     addField: #'contractTitle';
     addField: #'area';
     addField: #'projectEngineer';
-    addField: #'commencementPayment';
-    addField: #'commencementInvoiceCreatedDate';
     addField: #'invoiceNumber';
     addField: #'invoiceCreatedDate';
     addField: #'pcHandedOverDate';
@@ -14,8 +12,6 @@ addFieldsToWriter: csvWriter
     addField: #'variationApprovedDate';
     addField: #'pcDueDate';
     addField: #'paymentDate';
-    addField: #'paymentComments';
-    addField: #'monthClaimed';
     addField: #'monthPaid';
     addField: #'title';
     addField: #'suburb';
@@ -29,4 +25,6 @@ addFieldsToWriter: csvWriter
     addField: #'marginValue';
     addField: #'marginPercentage';
     addField: #'status';
-    addField: #'clientContact'
+    addField: #'clientContact';
+    addField: #'commencementPayment';
+    addField: #'commencementInvoiceCreatedDate'

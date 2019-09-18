@@ -2,8 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
+		"addColumnDescription:" : "jupiter 09/17/2019 15:00",
 		"defaultBatchSize" : "jupiter 04/10/2017 04:24",
-		"defaultShowFilter" : "jupiter 06/05/2019 12:40",
+		"defaultShowFilter" : "jupiter 09/17/2019 11:19",
 		"defaultSortColumn" : "jupiter 04/10/2017 18:24",
 		"initialize" : "jupiter 03/14/2017 23:31",
 		"refresh" : "jupiter 05/20/2019 20:22" } }

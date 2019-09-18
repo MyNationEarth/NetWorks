@@ -11,7 +11,7 @@ renderAdminContentOn: canvas
   canvas heading
     level4;
     with: 'Charts'.
-  canvas tbsRow with: [  ].
+  canvas tbsRow with: [ self renderChartsOn: canvas ].
   canvas heading
     level4;
     with: 'Exporting Data'.

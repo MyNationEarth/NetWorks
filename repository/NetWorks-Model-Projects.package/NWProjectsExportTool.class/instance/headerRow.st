@@ -3,8 +3,6 @@ headerRow
   ^ {'Contract'.
   'Location'.
   'PE'.
-  'Advance Payment'.
-  'Advance Payment Date'.
   'Inv No.'.
   'Date Invoice Created'.
   'Date Project Completions handed over'.
@@ -13,8 +11,6 @@ headerRow
   'Variation Approval'.
   'PC Due'.
   'Payment Date'.
-  'PC, Variation & Payment Comments'.
-  'Month Claimed'.
   'Actual Payment Date'.
   'Project Description'.
   'Suburb'.
@@ -28,4 +24,6 @@ headerRow
   'Margin'.
   '%'.
   'Status'.
-  'NBN PO/PM'}
+  'NBN PO/PM'.
+  'Advance Payment'.
+  'Advance Payment Date'}

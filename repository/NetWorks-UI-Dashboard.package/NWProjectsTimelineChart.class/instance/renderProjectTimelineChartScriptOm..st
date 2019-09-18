@@ -1,15 +1,14 @@
 chart
-projectTimelineChartScriptOm: canvas
+renderProjectTimelineChartScriptOm: canvas
   | chart allSeries |
-  allSeries := self goldPricesSeries.
+  allSeries := self projectsSeries.
   chart := canvas highcharts newChart.
   chart addYAxis title text: 'Total'.
-  chart title text: 'Project Timeline'.
-  chart subtitle text: 'Projects over the last year'.
+  chart title text: 'Project History'.
+  chart subtitle text: 'All Projects'.
   chart xAxis title text: nil.
   chart xAxis labels rotation: nil.
-  chart xAxis type: 'datetime'.
-  chart chart width: 922.
+  chart xAxis type: 'datetime'.	"chart chart width: 100."
   chart chart backgroundColor: '#fff'.
   chart chart type: 'line'.
   chart legend x: 10.

@@ -2,7 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
-		"projectTimelineChartScriptOm:" : "jupiter 09/16/2019 15:36",
-		"projectsCompletedSeries" : "jupiter 09/16/2019 15:50",
-		"projectsSeries" : "jupiter 09/16/2019 15:49",
-		"projectsStartedSeries" : "jupiter 09/16/2019 15:50" } }
+		"generateProjectsAwardedSeries" : "jupiter 09/17/2019 19:51",
+		"generateProjectsCompletedSeries" : "jupiter 09/17/2019 20:06",
+		"generateProjectsPCHandedOverSeries" : "jupiter 09/17/2019 20:04",
+		"initialize" : "jupiter 09/17/2019 20:56",
+		"projectsAwardedSeries" : "jupiter 09/17/2019 19:51",
+		"projectsCompletedSeries" : "jupiter 09/17/2019 18:41",
+		"projectsPCHandedOverSeries" : "jupiter 09/17/2019 20:05",
+		"projectsSeries" : "jupiter 09/17/2019 20:25",
+		"renderContentOn:" : "jupiter 09/17/2019 18:14",
+		"renderProjectTimelineChartScriptOm:" : "jupiter 09/17/2019 19:56" } }

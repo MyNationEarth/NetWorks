@@ -1,3 +1,3 @@
 defaults
 defaultShowFilter
-  ^ false
+  ^ true

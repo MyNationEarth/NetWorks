@@ -6,4 +6,5 @@ searchDescription
     select: [ :desc | 
       {MAStringDescription.
       MAMemoDescription.
-      MADateDescription} includes: desc class ]
+      MADateDescription.
+      MANumberDescription} includes: desc class ]

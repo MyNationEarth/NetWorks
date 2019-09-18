@@ -1,3 +1,3 @@
 chart
 projectsSeries
-  ^ Array with: self projectsStartedSeries with: self projectsCompletedSeries
+  ^ Array with: self projectsAwardedSeries with: self projectsPCHandedOverSeries

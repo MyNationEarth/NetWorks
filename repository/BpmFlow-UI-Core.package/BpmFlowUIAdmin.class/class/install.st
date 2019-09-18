@@ -11,4 +11,5 @@ install
     addLibrary: TBSJasnyDevelopmentLibrary;
     addLibrary: FAWDevelopmentLibrary;
     addLibrary: JQSlimScrollLibrary;
-    addLibrary: AdminLTEFileLibrary
+    addLibrary: AdminLTEFileLibrary;
+    addLibrary: Highcharts6DevelopmentMetadataLibrary

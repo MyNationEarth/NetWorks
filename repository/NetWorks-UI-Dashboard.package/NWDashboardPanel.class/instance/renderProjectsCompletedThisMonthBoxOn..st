@@ -12,7 +12,7 @@ renderProjectsCompletedThisMonthBoxOn: canvas
             render:
               (AdminLTEInfoBoxWidget new
                 icon: #'briefcase';
-                label: 'Projects Completed This Month';
+                label: 'Completed This Month';
                 number:
                     (self organisationModel projects
                         select: [ :project | 
