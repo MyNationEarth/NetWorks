@@ -9,4 +9,5 @@ addFieldsToWriter: csvWriter
     addField: #'paymentMadeDate';
     addField: #'amountPayable';
     addField: #'isTaxExempt';
-    addField: #'amountPaid'
+    addField: #'amountPaid';
+    addField: #'projectTitle'

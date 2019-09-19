@@ -8,4 +8,5 @@ headerRow
   'Payment Made Date'.
   'Amount Payable'.
   'is Tax Exempt'.
-  'Amount Paid'}
+  'Amount Paid'.
+  'Project Title'}
