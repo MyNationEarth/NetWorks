@@ -26,7 +26,7 @@ renderInvoiceOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 3;
-        with: [  ].
+        with: [ self renderDescriptionsWithLabels: #('Final Payment') on: canvas ].
       canvas tbsColumn
         smallSize: 3;
         with: [ self renderDescriptionsWithLabels: #('Datateks Final Invoice Number') on: canvas ].

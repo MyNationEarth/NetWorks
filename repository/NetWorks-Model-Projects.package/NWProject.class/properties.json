@@ -96,7 +96,6 @@
 		"constructionActualCompleteDate",
 		"constructionFollowUpDate",
 		"constructionForecastPCSubmitDate",
-		"constructionActualPCSubmitDate",
 		"constructionComments",
 		"constructionNbnComments",
 		"constructionTimeLogs" ],

@@ -111,7 +111,7 @@ renderConstructionOn: canvas
         with: [ self renderDescriptionsWithLabels: #('Forecast PC Submit Date') on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('Actual PC Submit Date') on: canvas ] ].
+        with: [ self renderDescriptionsWithLabels: #('PC Pack Hand Over Date') on: canvas ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn

@@ -1,4 +1,4 @@
-datateks
+model viwer application
 installDatateksModelViewRoles
   | application env |
   "Create Roles in each application and add all roles to all users"
