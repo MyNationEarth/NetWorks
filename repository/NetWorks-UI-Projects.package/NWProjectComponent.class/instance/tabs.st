@@ -37,7 +37,8 @@ tabs
             at: #'label' put: 'Construction';
             at: #'icon' put: #'list';
             at: #'accessRoleNames'
-              put: #('Project Administrator' 'Project Manager');
+              put:
+                #('Project Administrator' 'Project Manager' 'Construction Staff');
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'construction') ];
             yourself);
