@@ -26,4 +26,5 @@ headerRow
   'Status'.
   'NBN PO/PM'.
   'Advance Payment'.
-  'Advance Payment Date'}
+  'Advance Payment Date'.
+  'Final Payment'}

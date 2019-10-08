@@ -37,8 +37,7 @@ renderConstructionOn: canvas
         with: [ self renderDescriptionsWithLabels: #('EFSCD Date') on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('Construction Project Lead') on: canvas ] ].
-  canvas
+        with: [ self renderDescriptionsWithLabels: #('Construction Project Lead') on: canvas ] ].	"canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 3;
@@ -51,8 +50,7 @@ renderConstructionOn: canvas
         with: [ self renderDescriptionsWithLabels: #('Internal Pathway Ready') on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('Test And Coiled') on: canvas ] ].
-  canvas
+        with: [ self renderDescriptionsWithLabels: #('Test And Coiled') on: canvas ] ]."	"canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 3;
@@ -67,16 +65,17 @@ renderConstructionOn: canvas
               self
                 renderDescriptionsWithLabels:
                   #('Construction Design Actual Submission Date')
-                on: canvas ] ].
+                on: canvas ] ]."
   canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 3;
         with: [ 
-              self
+              "self
                 renderDescriptionsWithLabels:
                   #('Construction Forecast Start Date')
-                on: canvas ].
+                on: canvas"
+               ].
       canvas tbsColumn
         smallSize: 3;
         with: [ 
@@ -116,12 +115,11 @@ renderConstructionOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 12;
-        with: [ self renderDescriptionsWithLabels: #('Construction Comments') on: canvas ] ].
-  canvas
+        with: [ self renderDescriptionsWithLabels: #('Construction Comments') on: canvas ] ].	"canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 12;
-        with: [ self renderDescriptionsWithLabels: #('Construction NBN Comments') on: canvas ] ].
+        with: [ self renderDescriptionsWithLabels: #('Construction NBN Comments') on: canvas ] ]."
   canvas
     tbsRow: [ 
       canvas tbsColumn

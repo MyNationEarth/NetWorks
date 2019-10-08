@@ -4,7 +4,9 @@ renderDatesOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('Project Quote Submitted Date') on: canvas ].
+        with: [ 
+              "self renderDescriptionsWithLabels: #('Project Quote Submitted Date') on: canvas"
+               ].
       canvas tbsColumn
         smallSize: 3;
         with: [ self renderDescriptionsWithLabels: #('Project Awarded Date') on: canvas ].

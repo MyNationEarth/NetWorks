@@ -18,6 +18,7 @@ renderAdminContentOn: canvas
   canvas tbsRow
     with: [ 
       self renderExportProjectsOn: canvas.
+      self renderExportProjectsForecastOn: canvas.
       self renderExportInsurancesOn: canvas.
       self renderExportInvoicesOn: canvas ].
   canvas tbsRow

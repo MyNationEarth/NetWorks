@@ -27,4 +27,5 @@ addFieldsToWriter: csvWriter
     addField: #'status';
     addField: #'clientContact';
     addField: #'commencementPayment';
-    addField: #'commencementInvoiceCreatedDate'
+    addField: #'commencementInvoiceCreatedDate';
+    addField: #'finalPayment'

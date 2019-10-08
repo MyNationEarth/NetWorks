@@ -23,8 +23,9 @@ renderLocationOn: canvas
         with: [ self renderDescriptionsWithLabels: #('Location / Area') on: canvas ].
       canvas tbsColumn
         smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('Traffic Control Company') on: canvas ] ].
-  canvas
+        with: [ 
+              "self renderDescriptionsWithLabels: #('Traffic Control Company') on: canvas"
+               ] ]	"canvas
     tbsRow: [ 
       canvas tbsColumn
         smallOffset: 3;
@@ -35,4 +36,4 @@ renderLocationOn: canvas
         with: [ self renderDescriptionsWithLabels: #('ROL Commencement Date') on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('ROL Finish Date') on: canvas ] ]
+        with: [ self renderDescriptionsWithLabels: #('ROL Finish Date') on: canvas ] ]"
