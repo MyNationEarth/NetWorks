@@ -1,0 +1,3 @@
+Accessing
+projectType
+	^projectType

@@ -1,6 +1,7 @@
 descriptions
 buildSubTypeOptions
-  ^ {'Copper'.
+  ^ {'BSOD'.
+  'Copper'.
   'DFN'.
   'MDU'.
   'MDU TFL'.

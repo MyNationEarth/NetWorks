@@ -12,22 +12,13 @@ addFieldsToWriter: csvWriter
     addField: #'constructionProjectLead';
     addField: #'constructionStatus';
     addField: #'constructionSiteContact';
-    addField: #'constructionLeadInReady';
-    addField: #'constructionCommsRoomReady';
-    addField: #'constructionInternalPathwayReady';
-    addField: #'constructionTestAndCoiled';
     addField: #'constructionLAANCommenceDate';
     addField: #'constructionDesignForecastSubmissionDate';
     addField: #'constructionDesignActualSubmissionDate';
     addField: #'constructionForecastStartDate';
     addField: #'constructionActualStartDate';
     addField: #'constructionForecastCompleteDate';
-    addEmptyField;
-    addEmptyField;
-    addEmptyField;
-    addEmptyField;
     addField: #'constructionActualCompleteDate';
     addEmptyField;
     addField: #'constructionFollowUpDate';
-    addField: #'constructionComments';
-    addField: #'constructionForecastPCSubmitDate'
+    addField: #'constructionComments'
