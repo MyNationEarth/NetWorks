@@ -24,7 +24,7 @@ addFields20190520
     addFieldAt: #'totalRevenue';
     addFieldAt: #'gstInc';
     addFieldAt: #'djcCost';
-    addFieldAt: #'internalDjcCost';
+    addFieldAt: #'internalTotalCost';
     addFieldAt: #'totalCost';
     addFieldAt: #'margin';
     addFieldAt: #'percentage';
