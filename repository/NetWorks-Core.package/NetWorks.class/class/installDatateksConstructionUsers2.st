@@ -7,7 +7,7 @@ installDatateksConstructionUsers2
   role := self defaultFrontOfficeRoleClass
     getRoleNamed: 'Construction Staff'
     in: application applicationName.
-  self datateksConstructionUserInfo
+  self datateksConstructionUserInfo2
     do: [ :user | 
       | bpmUser email |
       email := (user first , user second) asLowercase , '@datateks.com.au'.
