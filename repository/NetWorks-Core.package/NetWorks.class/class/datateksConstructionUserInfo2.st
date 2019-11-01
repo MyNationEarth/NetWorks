@@ -1,0 +1,44 @@
+datateks
+datateksConstructionUserInfo2
+  ^ {{'Alexander'.
+  'Crawford'.
+  35.68}.
+  {'Andrew'.
+  'Strijland'.
+  30.10}.
+  {'Andrew'.
+  'McPherson'.
+  60.08}.
+  {'Arron'.
+  'Cannon'.
+  30.10}.
+  {'Benjamin'.
+  'Herrick'.
+  25.10}.
+  {'Chris'.
+  'McGregor'.
+  37.85}.
+  {'Daniel'.
+  'Angus'.
+  21.72}.
+  {'Gilbert'.
+  'Cook'.
+  44.52}.
+  {'Jordan'.
+  'Williams'.
+  25.00}.
+  {'Luke'.
+  'Loneragan'.
+  24.10}.
+  {'Todd'.
+  'Neeves'.
+  31.54}.
+  {'Peter'.
+  'Breed'.
+  24.67}.
+  {'Peter'.
+  'Crawford'.
+  25.74}.
+  {'Warren'.
+  'O''Halloran'.
+  28.91}}
