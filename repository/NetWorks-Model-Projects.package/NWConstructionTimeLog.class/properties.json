@@ -7,7 +7,9 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"startTime",
-		"endTime" ],
+		"endTime",
+		"includeFixedCost",
+		"fixedCost" ],
 	"name" : "NWConstructionTimeLog",
 	"pools" : [
 		 ],
