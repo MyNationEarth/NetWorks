@@ -10,7 +10,10 @@ paymentForHours: numberOfHours
   hoursToPay := numberOfHours.
   hoursPaid := 0.
   ^ (hoursAndRates
-    inject: (self includeFixedCost ifTrue: [ self fixedCost ] ifFlase: [ 0 ])
+    inject:
+      (self includeFixedCost
+        ifTrue: [ self fixedCost ]
+        ifFalse: [ 0 ])
     into: [ :paymentDue :hoursAndRate | 
       | hours rate |
       hours := hoursAndRate first.
