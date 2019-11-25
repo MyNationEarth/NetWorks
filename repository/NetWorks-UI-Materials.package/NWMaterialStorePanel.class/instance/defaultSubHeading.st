@@ -1,3 +1,3 @@
 defaults
 defaultSubHeading
-  ^ 'Material Warewouse Management'
+  ^ 'Material Warehouse Management'
