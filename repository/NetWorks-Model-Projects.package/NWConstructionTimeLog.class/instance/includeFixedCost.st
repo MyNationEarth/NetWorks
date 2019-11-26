@@ -1,3 +1,3 @@
 Accessing
 includeFixedCost
-	^includeFixedCost
+  ^ includeFixedCost ifNil: [ includeFixedCost := false ]
