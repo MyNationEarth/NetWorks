@@ -11,6 +11,7 @@ headerRow
   'Variation Approval'.
   'PC Due'.
   'Payment Date'.
+  'EFSCD Date'.
   'Actual Payment Date'.
   'Project Description'.
   'Suburb'.

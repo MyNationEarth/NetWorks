@@ -12,6 +12,7 @@ addFieldsToWriter: csvWriter
     addField: #'variationApprovedDate';
     addField: #'pcDueDate';
     addField: #'paymentDate';
+    addField: #'efscdDate';
     addField: #'monthPaid';
     addField: #'title';
     addField: #'suburb';
