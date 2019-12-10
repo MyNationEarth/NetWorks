@@ -14,6 +14,7 @@
 		"contracts",
 		"contractors",
 		"projects",
+		"deletedProjects",
 		"materials",
 		"materialStores" ],
 	"name" : "NWOrganisationModel",
