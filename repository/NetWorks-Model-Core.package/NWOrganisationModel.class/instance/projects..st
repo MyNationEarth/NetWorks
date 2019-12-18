@@ -1,6 +1,8 @@
 Updating
 projects: newValue
-  | newProjects |
-  "Find any new projects and add them to the list"
+  | newProjects removedProjects |
+  "Find any new projects"
   newProjects := newValue difference: projects.
-  projects addAll: newProjects
+  removedProjects := projects difference: newValue.
+  projects addAll: newProjects.
+  projects removeAll: removedProjects
