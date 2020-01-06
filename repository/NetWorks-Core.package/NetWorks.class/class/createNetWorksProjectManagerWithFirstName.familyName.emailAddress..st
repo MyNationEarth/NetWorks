@@ -21,4 +21,4 @@ createNetWorksProjectManagerWithFirstName: firstName familyName: familyName emai
         payRate: 0.0;
         yourself.
       env registerUser: newUser.
-      role grantUser: bpmUser ifPresent: [  ] ]
+      role grantUser: newUser ifPresent: [  ] ]
