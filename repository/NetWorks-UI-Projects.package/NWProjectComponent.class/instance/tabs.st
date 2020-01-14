@@ -7,7 +7,8 @@ tabs
             at: #'label' put: 'Contractor Invoices';
             at: #'icon' put: #'list';
             at: #'accessRoleNames'
-              put: #('Project Administrator' 'Project Manager');
+              put:
+                #('Project Administrator' 'Project Manager' 'Contractor Invoices');
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'contractorInvoices') ];
             yourself);

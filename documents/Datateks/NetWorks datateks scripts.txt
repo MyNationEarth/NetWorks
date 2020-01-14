@@ -1,0 +1,76 @@
+Metacello new
+	baseline: 'NetWorks';
+	repository: 'github://MyNationEarth/NetWorks/repository';
+	get.
+
+NetWorks initializeSystem.
+
+| path |
+path := (BaselineOfNetWorks project currentVersion packages first workingCopy repositoryGroup repositories last directory containingDirectory) pathName, '/documents/Datateks/historicalDataJune/projectNotes.csv'.
+(NWProjectNotesImportTool onFileAtPath: path) import
+
+
+
+
+| newMaterials |
+newMaterials := OrderedCollection new.
+NetWorks datateks materials do: [ :material | newMaterials detect: [ :m | m title = material title ] ifNone: [ newMaterials add: material ] ].
+NetWorks datateks materials: newMaterials.
+
+
+NetWorks datateks materialStores first materialsOnHand do: [ :moh | 
+	moh material: (NetWorks datateks materials detect: [ :material | material title = moh material title ] )
+]
+
+
+(NetWorks datateks materialStores first materialsOnHand  removeAll:
+(NetWorks datateks materialStores first materialsOnHand select: [ :moh | 
+	moh material isNil 
+])
+
+
+
+
+(NetWorks datateks projects select: [ :p | p aycaNumber notEmpty ]) do: [ :p | (p aycaNumber startsWith: 'AYCA-') ifFalse: [ p aycaNumber: 'AYCA-', p aycaNumber ] ]
+
+
+NWProject compileMissingAccessingMethods.
+NetWorks installDatateksProjectDesign
+NetWorks datateks projects detect: [ :p | p aycaNumber = 'AYCA-3G1TZ6' ]
+
+
+(NetWorks datateks projects select: [ :p | p aycaNumber notEmpty ]) do: [ :p | (p aycaNumber startsWith: 'AYCA-') ifFalse: [ p aycaNumber: 'AYCA-', p aycaNumber ] ]
+
+
+
+NetWorks datateks projects do: [ :p | p buildType ifNotNil: [ p buildType: p buildType trimBoth ] ].
+
+
+
+
+(NetWorks datateks projects select: [ :p | p constructionStatus notNil and: [ p constructionStatus notEmpty ] ]) size. 535 
+(NetWorks datateks projects select: [ :p |  p status isNil or: [ p status isEmpty ] ]) size 149
+(NetWorks datateks projects select: [ :p |  p constructionStatus isNil or: [ p constructionStatus isEmpty ] ]) size 527
+NetWorks datateks projects size 1062
+
+
+NetWorks installDatateksModelViewRoles.
+{'Project Exporter'.
+  'Design Exporter'.
+  'Contractor Exporter'} do: [ :r | NetWorks enableAllUsersInRoleNamed: r].
+  
+  NetWorks datateks contractors do: 
+	[ :c | c insurances do: 
+		[ :i | c contacts ifNotEmpty: [ :co | 
+			i contact: co first copy ] 
+		]
+	]
+	
+	
+
+
+(NetWorks datateks projects select: [ :p |
+p constructionActualPCSubmitDate notNil & p pcHandedOverDate notNil and: [p constructionActualPCSubmitDate ~= p pcHandedOverDate]])
+
+collect: [ :p |
+p constructionActualPCSubmitDate asString, ' -> ', p pcHandedOverDate asString, ' -> ', p title ]

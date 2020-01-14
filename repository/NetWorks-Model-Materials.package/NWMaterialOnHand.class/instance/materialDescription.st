@@ -9,5 +9,6 @@ materialDescription
     reference: NWMaterial new titleAndCommentDescription asContainer;
     label: 'Material';
     priority: 300;
+    beRequired;
     yourself.
   ^ description
