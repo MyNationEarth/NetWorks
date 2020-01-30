@@ -35,11 +35,8 @@ baseline: spec
                 versionString: '3.1.3';
                 repository:
                     'http://www.smalltalkhub.com/mc/Magritte/Magritte3Addons/main' ];
-        configuration: 'Bootstrap'
-          with: [ 
-              spec
-                versionString: '0.18.0';
-                repository: 'github://astares/Seaside-Bootstrap:master/src' ];
+        baseline: 'Bootstrap'
+          with: [ spec repository: 'github://astares/Seaside-Bootstrap:0.18.0/src' ];
         configuration: 'BootstrapMagritte'
           with: [ 
               spec
