@@ -1,4 +1,4 @@
-*BpmFlow-UI-Core
+convenience
 addField: accessor
   "WARNING: OVERRIDEN BY BPMFLOW UI TO REPLACE nil WITH EMPTY STRING.
     WARNAdd a field based on an accessor to be written using fieldWriter.

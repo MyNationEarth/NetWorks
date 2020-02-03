@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NWCSVWriter",
+	"pools" : [
+		 ],
+	"super" : "NeoCSVWriter",
+	"type" : "normal" }

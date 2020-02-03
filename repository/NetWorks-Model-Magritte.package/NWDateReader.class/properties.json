@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Magritte",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 01/31/2020 07:49",
+	"instvars" : [
+		 ],
+	"name" : "NWDateReader",
+	"pools" : [
+		 ],
+	"super" : "MAStringReader",
+	"type" : "normal" }
