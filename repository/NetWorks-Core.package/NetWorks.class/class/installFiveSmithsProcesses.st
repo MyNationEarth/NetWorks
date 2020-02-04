@@ -11,8 +11,7 @@ installFiveSmithsProcesses
     setBIApplicationName: 'Networks BI'.
   BpmExceptionCalendar addDefaultCalendarIn: env.
   orbeonLibraryApplication := (OrbeonApplication newNamed: 'orbeon') addToCache.
-  minorWorksMaximo := (OrbeonApplication newNamed: 'minorWorksMaximo')
-    addToCache.
+  minorWorksMaximo := (OrbeonApplication newNamed: 'minorWorks') addToCache.
   admin := BpmUser
     getExistingOrNewUserNamed: 'admin'
     password: 'admin'

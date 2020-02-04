@@ -3,7 +3,7 @@ installDatateksConstructionUsers2
   | env application role |
   env := NetWorks datateks bpmEnvironment.
   application := BpmApplication
-    getExistingApplicationOrCreateNewNamed: 'datateksModelView'.
+    getExistingApplicationOrCreateNewNamed: 'modelViewApplicaton'.
   role := self defaultFrontOfficeRoleClass
     getRoleNamed: 'Construction Staff'
     in: application applicationName.

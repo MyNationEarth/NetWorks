@@ -3,7 +3,7 @@ createNetWorksProjectManagerWithFirstName: firstName familyName: familyName emai
   | env application role bpmUser |
   env := NetWorks datateks bpmEnvironment.
   application := BpmApplication
-    getExistingApplicationOrCreateNewNamed: 'datateksModelView'.
+    getExistingApplicationOrCreateNewNamed: 'modelViewApplicaton'.
   role := self defaultFrontOfficeRoleClass
     getRoleNamed: 'Project Manager'
     in: application applicationName.

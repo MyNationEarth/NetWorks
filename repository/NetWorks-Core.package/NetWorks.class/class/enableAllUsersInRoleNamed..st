@@ -4,7 +4,7 @@ enableAllUsersInRoleNamed: roleName
   "Create Roles in each application and add all roles to all users"
   env := NetWorks datateks bpmEnvironment.
   application := BpmApplication
-    getExistingApplicationOrCreateNewNamed: 'datateksModelView'.
+    getExistingApplicationOrCreateNewNamed: 'modelViewApplicaton'.
   role := self defaultFrontOfficeRoleClass
     getRoleNamed: roleName
     in: application applicationName.

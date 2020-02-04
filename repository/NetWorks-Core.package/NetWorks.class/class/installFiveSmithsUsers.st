@@ -1,7 +1,12 @@
 5smiths
 installFiveSmithsUsers
-  | env |
+  | env application initialRole |
   env := NetWorks fiveSmiths bpmEnvironment.
+  application := BpmApplication
+    getExistingApplicationOrCreateNewNamed: 'modelViewApplicaton'.
+  initialRole := self defaultFrontOfficeRoleClass
+    getRoleNamed: 'Project Administrator'
+    in: application applicationName.
   #(#('Craig' 'Smith' 'craig'))
     do: [ :user | 
       | newUser |
@@ -16,4 +21,5 @@ installFiveSmithsUsers
             familyName: (user at: 2);
             emailAddress: (user at: 3);
             yourself.
-          env registerUser: newUser ] ]
+          env registerUser: newUser.
+          initialRole grantUser: newUser ] ]

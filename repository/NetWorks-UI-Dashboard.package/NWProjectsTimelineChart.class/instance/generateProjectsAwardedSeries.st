@@ -2,7 +2,7 @@ chart
 generateProjectsAwardedSeries
   | months data |
   months := Dictionary new.
-  NetWorks datateks projects
+  self organisationModel projects
     do: [ :project | 
       project projectAwardedDate
         ifNotNil: [ :chartDate | 

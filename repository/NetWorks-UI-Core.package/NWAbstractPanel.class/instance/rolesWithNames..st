@@ -2,6 +2,6 @@ testing
 rolesWithNames: roleNameCollection
   ^ roleNameCollection
     collect: [ :accessRoleName | 
-      BpmFrontOfficeRole
+      self defaultFrontOfficeRoleClass
         getRoleNamed: accessRoleName
         in: self modelViewApplication applicationName ]

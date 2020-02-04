@@ -10,5 +10,5 @@ tabsToDisplay
           self session user
             includesAnyRoleOf:
               (accessRoles
-                collect: [ :accessRoleName | BpmFrontOfficeRole getRoleNamed: accessRoleName in: 'datateksModelView' ]) ]
+                collect: [ :accessRoleName | BpmFrontOfficeRole getRoleNamed: accessRoleName in: 'modelViewApplicaton' ]) ]
         ifAbsent: [ true ] ]

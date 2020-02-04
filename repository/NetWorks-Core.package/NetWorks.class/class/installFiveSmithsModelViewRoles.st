@@ -4,8 +4,8 @@ installFiveSmithsModelViewRoles
   "Create Roles in each application and add all roles to all users"
   env := NetWorks fiveSmiths bpmEnvironment.
   application := BpmApplication
-    getExistingApplicationOrCreateNewNamed: 'modelViewer-fiveSmiths'.
-  env registerApplication: application ifPresent: [  ] ifTaken: [  ].
+    getExistingApplicationOrCreateNewNamed: 'modelViewApplicaton'.
+  env registerApplication: application.
   {'Project Administrator'.
   'Project Manager'.
   'Project Design'.

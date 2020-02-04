@@ -4,7 +4,7 @@ installDatateksModelViewRoles
   "Create Roles in each application and add all roles to all users"
   env := NetWorks datateks bpmEnvironment.
   application := BpmApplication
-    getExistingApplicationOrCreateNewNamed: 'datateksModelView'.	"env registerApplication: application"
+    getExistingApplicationOrCreateNewNamed: 'modelViewApplicaton'.	"env registerApplication: application"
   {'Project Administrator'.
   'Project Manager'.
   'Project Design'.

@@ -7,11 +7,10 @@ initializeSystem
   WABpmBackofficeLogin register.
   WABpmBIandChartsLogin register.
   WABpmStartAnonymousProcessPortal register.
-  WAOrbeonPersistenceLayer register.
+  WABpmPersistenceOrbeonLayer register.
   WAOrbeonLogin register.
   WABpmProcessCreationStaticMessage register.
   BpmSystemInitialization initializeCurrentSystem.
   BpmSystemInitialization createSystemDefaultObjects.
   BpmFlowUIAdmin install.
-  NetWorks reset.
-  NetWorks installDatateksEnvironment
+  NetWorks reset
