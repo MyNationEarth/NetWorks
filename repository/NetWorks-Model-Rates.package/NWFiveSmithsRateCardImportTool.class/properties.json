@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Rates",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NWFiveSmithsRateCardImportTool",
+	"pools" : [
+		 ],
+	"super" : "NWRateCardImportTool",
+	"type" : "normal" }

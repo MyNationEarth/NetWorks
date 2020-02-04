@@ -1,10 +1,11 @@
-datateks
-installDatateksModelViewRoles
+5smiths
+installFiveSmithsModelViewRoles
   | application env |
   "Create Roles in each application and add all roles to all users"
-  env := NetWorks datateks bpmEnvironment.
+  env := NetWorks fiveSmiths bpmEnvironment.
   application := BpmApplication
-    getExistingApplicationOrCreateNewNamed: 'datateksModelView'.	"env registerApplication: application"
+    getExistingApplicationOrCreateNewNamed: 'modelViewer-fiveSmiths'.
+  env registerApplication: application ifPresent: [  ] ifTaken: [  ].
   {'Project Administrator'.
   'Project Manager'.
   'Project Design'.

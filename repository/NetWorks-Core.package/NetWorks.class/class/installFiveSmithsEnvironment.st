@@ -1,7 +1,8 @@
 5smiths
 installFiveSmithsEnvironment
+  "NetWorks installFiveSmithsEnvironment"
+
   self
     installFiveSmithsOrganisationModel;
-    installFiveSmithsRateCards;
     installFiveSmithsProcesses;
-    installFiveSmithsUsers
+    installFiveSmithsUsers	"installFiveSmithsRateCards;"
