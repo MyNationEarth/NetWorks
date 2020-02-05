@@ -1,14 +1,15 @@
 descriptions
 userDescription
   <magritteDescription>
-  | description |
+  | description roles |
+  roles := NetWorks
+    rolesNamed: #('Construction Staff' 'Project Design')
+    in: self modelViewApplication.
   description := MASingleOptionDescription new
     accessor: #'user';
     options:
-        (BpmUser getFrontofficeUsers
-            select: [ :user | 
-              (user includesRoleNamed: 'Construction Staff')
-                or: [ user includesRoleNamed: 'Project Design' ] ]);
+        ((BpmUser getFrontofficeUsersIn: self organisationModel bpmEnvironment)
+            select: [ :user | user includesAnyRoleOf: roles in: self modelViewApplication ]);
     reference:
         (MAStringDescription new
             selectorAccessor: #'displayName';

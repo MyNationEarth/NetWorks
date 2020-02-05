@@ -9,6 +9,6 @@ tabsToDisplay
         ifPresent: [ :accessRoles | 
           self session user
             includesAnyRoleOf:
-              (accessRoles
-                collect: [ :accessRoleName | BpmFrontOfficeRole getRoleNamed: accessRoleName in: 'modelViewApplicaton' ]) ]
+              (NetWorks rolesNamed: accessRoles in: self modelViewApplication)
+            in: self organisationModel bpmEnvironment ]
         ifAbsent: [ true ] ]
