@@ -2,18 +2,13 @@ Importing
 buildCategoriesAndRates
   "Add or update customers, contracts and rates"
 
-  | orgModel category processRow |
-  orgModel := NetWorks fiveSmiths organisationModel.
-  (rateCategories := OrderedCollection new)
-    add:
-      (category := NWRateCategory new
-        title: 'Uncategorised Rates';
-        comment:
-            'Rates from impoted rate cards that do not have a defined category.';
-        yourself).
+  | rateCards orgModel category processRow |
+  orgModel := NetWorks fiveSmiths.
+  rateCards := Dictionary new.
   processRow := false.
   rows
     do: [ :row | 
+      | client contract rate |
       "self isDebug
         ifTrue: [ self halt ]."
       processRow
@@ -23,43 +18,62 @@ buildCategoriesAndRates
             at: #'sorCode'
             ifPresent: [ :sorCode | processRow := sorCode = 'Item Code' ] ]
         ifTrue: [ 
-          (row includesKey: #'unitOfMeasurement')
-            ifFalse: [ 
-              "Add Category"
-              rateCategories
-                add:
-                  (category := NWRateCategory new
-                    title: 'Untitled';
-                    yourself).
-              row
-                at: #'sorCode'
-                ifPresent: [ :sorCodePrefix | 
-                  category
-                    title: sorCodePrefix;
-                    sorCodePrefix: sorCodePrefix ].
-              row
-                at: #'sorDescription'
-                ifPresent: [ :sorDescription | 
-                  category comment: sorDescription.	"If there is no title, use the sorDescription to ensure title is not nil or blank"
-                  category title ifNil: [ category title: sorDescription ] ] ]
-            ifTrue: [ 
-              | rate |
-              "Add Rate"
-              category addRate: (rate := NWRate new).
-              row
-                at: #'sorCode'
-                ifPresent: [ :sorCode | 
-                  rate
-                    title: sorCode;
-                    sorCode: sorCode ].
-              row
-                at: #'sorDescription'
-                ifPresent: [ :sorComment | rate comment: sorComment ].
-              row
-                at: #'unitOfMeasurement'
-                ifPresent: [ :unitOfMeasureComment | rate unitOfMeasureComment: unitOfMeasureComment ].
-              row
-                at: #'valuePerUnit'
-                ifPresent: [ :valuePerUnit | rate valuePerUnit: (self numberFromString: valuePerUnit) ].	"Check for nil inst vars and create defaults."
-              rate title ifNil: [ rate title: 'Unititled' ].
-              rate sorCode ifNil: [ rate sorCode: 'Undefined' ] ] ] ]
+          row
+            at: #'client'
+            ifPresent: [ :clientTitle | 
+              client := orgModel clients
+                detect: [ :c | c title = clientTitle ]
+                ifNone: [ 
+                  orgModel clients
+                    add:
+                      (NWClient new
+                        title: clientTitle;
+                        yourself) ] ].
+          row
+            at: #'contract'
+            ifPresent: [ :contractTitle | 
+              contract := orgModel contracts
+                detect: [ :c | c title = contractTitle ]
+                ifNone: [ 
+                  | newContract |
+                  orgModel contracts
+                    add:
+                      (newContract := NWContract new
+                        title: contractTitle;
+                        client: client;
+                        yourself).
+                  (client contracts includes: contract)
+                    ifFalse: [ client contracts add: contract ].
+                  newContract ] ].
+          category := (rateCards
+            at: contract
+            ifAbsent: [ 
+              | newRateCard |
+              newRateCard := self newRateCardWithDefaultCategory.
+              newRateCard title: contract title , ' Rate Card'.
+              newRateCard
+                comment:
+                  'Rate card imported on ' , Date today AustralianDateFormat.
+              rateCards at: contract put: newRateCard ])
+            rateCategories first.	"Add Rate"
+          category addRate: (rate := NWRate new).
+          row
+            at: #'sorCode'
+            ifPresent: [ :sc | 
+              | sorCode |
+              sorCode := (sc copyReplaceChar: $‐ with: $-) asString.
+              rate
+                title: sorCode;
+                sorCode: sorCode ].
+          row
+            at: #'sorDescription'
+            ifPresent: [ :sorComment | rate comment: sorComment ].
+          row
+            at: #'unitOfMeasurement'
+            ifPresent: [ :unitOfMeasureComment | rate unitOfMeasureComment: unitOfMeasureComment ].
+          row
+            at: #'valuePerUnit'
+            ifPresent: [ :valuePerUnit | rate valuePerUnit: (self numberFromString: valuePerUnit) ].	"Check for nil inst vars and create defaults."
+          rate title ifNil: [ rate title: 'Unititled' ].
+          rate sorCode ifNil: [ rate sorCode: 'Undefined' ] ] ].
+  ^ rateCards
