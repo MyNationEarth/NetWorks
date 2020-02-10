@@ -42,8 +42,7 @@ buildCategoriesAndRates
                         title: contractTitle;
                         client: client;
                         yourself).
-                  (client contracts includes: contract)
-                    ifFalse: [ client contracts add: contract ].
+                  client contracts add: newContract.
                   newContract ] ].
           category := (rateCards
             at: contract
@@ -56,12 +55,18 @@ buildCategoriesAndRates
                   'Rate card imported on ' , Date today AustralianDateFormat.
               rateCards at: contract put: newRateCard ])
             rateCategories first.	"Add Rate"
-          category addRate: (rate := NWRate new).
+          category
+            addRate:
+              (rate := NWRate new
+                rateCategory: category;
+                yourself).
           row
             at: #'sorCode'
             ifPresent: [ :sc | 
               | sorCode |
-              sorCode := (sc copyReplaceChar: $‐ with: $-) asString.
+              sorCode := self stringRemovingDoubleByteCharacters: sc.
+              (sorCode isKindOf: DoubleByteString)
+                ifTrue: [ self error: 'SOR still contains DoubleByteCharacters' ].
               rate
                 title: sorCode;
                 sorCode: sorCode ].
