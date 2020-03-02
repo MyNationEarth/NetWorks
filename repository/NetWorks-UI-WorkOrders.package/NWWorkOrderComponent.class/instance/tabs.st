@@ -3,14 +3,6 @@ tabs
   ^ OrderedCollection new
     add:
         (Dictionary new
-            at: #'id' put: #'workOrders';
-            at: #'label' put: 'Work Orders';
-            at: #'icon' put: #'wrench';
-            at: #'callback'
-              put: [ announcer announce: (NWTabSelected tab: #'workOrders') ];
-            yourself);
-    add:
-        (Dictionary new
             at: #'id' put: #'lineItems';
             at: #'label' put: 'Line Items';
             at: #'icon' put: #'user';
@@ -25,4 +17,11 @@ tabs
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'basics') ];
             yourself);
-    yourself
+    yourself	"add:
+        (Dictionary new
+            at: #'id' put: #'workOrders';
+            at: #'label' put: 'Work Orders';
+            at: #'icon' put: #'wrench';
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'workOrders') ];
+            yourself);"

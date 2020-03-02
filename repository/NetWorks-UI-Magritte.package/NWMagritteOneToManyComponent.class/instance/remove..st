@@ -1,19 +1,12 @@
 actions
 remove: anObject
+  | errorMessage |
+  errorMessage := 'Are you sure you want to remove '
+    , (anObject readUsing: description reference children first) asString , '?'.
   anObject canBeDeleted
-    ifFalse: [ 
-      (self
-        confirmError:
-          anObject canNotBeDeletedErrorMessage , ' Do you really want to remove it?')
-        ifFalse: [ ^ self ] ].
+    ifFalse: [ errorMessage := anObject canNotBeDeletedErrorMessage , ' ' , errorMessage ].
   self
-    show:
-      (TBSConfirmer
-        dangerOn:
-          'Are you sure you want to remove '
-            ,
-              (anObject readUsing: description reference children first) asString
-            , '?')
+    call: (TBSConfirmer dangerOn: errorMessage)
     onAnswer: [ :answer | 
       answer
         ifTrue: [ 
