@@ -2,10 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"icon" : "jupiter 02/23/2020 14:07",
+		"icon" : "jupiter 03/01/2020 17:46",
 		"initialize" : "jupiter 02/23/2020 14:07",
 		"newObjectLabel" : "jupiter 02/23/2020 14:11",
-		"renderBasicsOn:" : "jupiter 02/23/2020 14:11",
-		"renderContactsOn:" : "jupiter 02/23/2020 14:07",
-		"renderContractsOn:" : "jupiter 02/23/2020 14:07",
-		"tabs" : "jupiter 02/23/2020 14:07" } }
+		"renderBasicsOn:" : "jupiter 03/01/2020 17:33",
+		"renderLineItemsOn:" : "jupiter 02/26/2020 21:58",
+		"renderWorkOrdersOn:" : "jupiter 02/26/2020 21:58",
+		"tabs" : "jupiter 03/01/2020 17:11" } }

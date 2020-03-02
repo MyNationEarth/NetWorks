@@ -15,7 +15,8 @@ installDatateksModelViewRoles
   'Project Exporter'.
   'Design Exporter'.
   'Contractor Exporter'.
-  'Contractor Invoices'}
+  'Contractor Invoices'.
+  'Jobs Access'}
     do: [ :rolePrefix | 
       | role |
       role := self defaultFrontOfficeRoleClass

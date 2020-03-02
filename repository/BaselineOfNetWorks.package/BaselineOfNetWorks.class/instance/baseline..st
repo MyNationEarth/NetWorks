@@ -94,9 +94,8 @@ baseline: spec
         package: 'NetWorks-Model-Projects'
           with: [ spec requires: #('NetWorks-Model-Core') ];
         package: 'NetWorks-Model-Jobs'
-          with: [ spec requires: #('NetWorks-Model-Projects') ];
-        package: 'NetWorks-Model-WorkOrders'
-          with: [ spec requires: #('NetWorks-Model-Jobs') ];
+          with: [ spec requires: #('NetWorks-Model-Projects' 'NetWorks-Model-WorkOrders') ];
+        package: 'NetWorks-Model-WorkOrders' with: [ spec requires: #() ];
         package: 'NetWorks-Model-Projects-Tests'
           with: [ spec requires: #('NetWorks-Model-Projects') ];
         package: 'NetWorks-Model-Contractors'
@@ -128,9 +127,12 @@ baseline: spec
                 requires:
                   #('NetWorks-Model-Projects' 'NetWorks-UI-Contracts' 'NetWorks-UI-Rates' 'NetWorks-UI-Clients') ];
         package: 'NetWorks-UI-Jobs'
-          with: [ spec requires: #('NetWorks-Model-Jobs' 'NetWorks-UI-Projects') ];
+          with: [ 
+              spec
+                requires:
+                  #('NetWorks-Model-Jobs' 'NetWorks-UI-Projects' 'NetWorks-UI-WorkOrders') ];
         package: 'NetWorks-UI-WorkOrders'
-          with: [ spec requires: #('NetWorks-Model-WorkOrders' 'NetWorks-UI-Jobs') ];
+          with: [ spec requires: #('NetWorks-Model-WorkOrders') ];
         package: 'NetWorks-UI-Contractors'
           with: [ spec requires: #('NetWorks-Model-Contractors') ];
         package: 'NetWorks-UI-Materials'

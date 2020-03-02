@@ -1,0 +1,3 @@
+Accessing
+lineItemType
+	^lineItemType

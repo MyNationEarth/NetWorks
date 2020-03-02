@@ -34,6 +34,15 @@ tabs
             yourself);
     add:
         (Dictionary new
+            at: #'id' put: #'jobs';
+            at: #'label' put: 'Jobs';
+            at: #'icon' put: #'wrench';
+            at: #'accessRoleNames' put: #('Jobs Access');
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'jobs') ];
+            yourself);
+    add:
+        (Dictionary new
             at: #'id' put: #'construction';
             at: #'label' put: 'Construction';
             at: #'icon' put: #'list';

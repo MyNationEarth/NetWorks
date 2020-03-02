@@ -1,0 +1,3 @@
+Accessing
+lineItems
+	^lineItems

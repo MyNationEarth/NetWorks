@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"jobType",
+		"rateCard",
 		"project",
 		"asset",
 		"location",

@@ -13,6 +13,9 @@ renderProjectTimelineChartScriptOm: canvas
   chart chart type: 'line'.
   chart legend x: 10.
   chart exporting enabled: false.
+  chart plotOptions line point events
+    click:
+      ((canvas javascript callback: [ :seriesKey |  ]) asFunction: #('event')).
   allSeries
     doWithIndex: [ :series :index | 
       (chart addSeriesOf: HighchartsSeriesLine)

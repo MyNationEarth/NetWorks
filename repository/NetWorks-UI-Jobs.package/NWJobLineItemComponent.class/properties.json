@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-UI-Jobs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NWJobLineItemComponent",
+	"pools" : [
+		 ],
+	"super" : "NWAbstractContainerComponent",
+	"type" : "normal" }

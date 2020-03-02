@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"announcer" : "jupiter 03/01/2020 16:56",
+		"buildWorkOrderComponentFor:" : "jupiter 03/01/2020 16:58",
+		"calendarEventsFromStartDate:to:" : "jupiter 03/01/2020 16:58",
+		"changedEventProperties" : "jupiter 03/01/2020 16:58",
+		"eventEditor" : "jupiter 03/01/2020 16:58",
+		"eventEditor:" : "jupiter 03/01/2020 16:56",
+		"events" : "jupiter 03/01/2020 16:56",
+		"events:" : "jupiter 03/01/2020 16:56",
+		"header" : "jupiter 03/01/2020 16:57",
+		"initialize" : "jupiter 03/01/2020 17:00",
+		"renderCalendar:" : "jupiter 03/01/2020 16:57",
+		"renderContentOn:" : "jupiter 03/01/2020 16:57",
+		"renderEventEditorDialog:" : "jupiter 03/01/2020 16:58",
+		"setEventToCreate:" : "jupiter 03/01/2020 16:59",
+		"setEventToEdit:" : "jupiter 03/01/2020 16:59",
+		"subscribe:do:for:" : "jupiter 03/01/2020 16:57",
+		"updateEventColorsScript:" : "jupiter 03/01/2020 16:59",
+		"updateEventEnd:" : "jupiter 03/01/2020 16:59",
+		"updateEventStart:" : "jupiter 03/01/2020 16:59",
+		"viewUserClasses" : "jupiter 03/01/2020 16:57",
+		"workOrderComponent" : "jupiter 03/01/2020 16:59" } }

@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"calendar" : "jupiter 03/01/2020 17:00",
+		"calendar:" : "jupiter 03/01/2020 17:00",
+		"delete:" : "jupiter 03/01/2020 17:01",
+		"edit" : "jupiter 03/01/2020 17:00",
+		"edit:" : "jupiter 03/01/2020 17:00",
+		"editedEvent" : "jupiter 03/01/2020 17:00",
+		"editedEvent:" : "jupiter 03/01/2020 17:00",
+		"event" : "jupiter 03/01/2020 17:00",
+		"event:" : "jupiter 03/01/2020 17:00",
+		"events" : "jupiter 03/01/2020 17:00",
+		"events:" : "jupiter 03/01/2020 17:00",
+		"renderContentOn:" : "jupiter 03/01/2020 17:01",
+		"renderCopy:" : "jupiter 03/01/2020 17:01",
+		"renderCreateForm:" : "jupiter 03/01/2020 17:02",
+		"renderDelete:" : "jupiter 03/01/2020 17:02",
+		"renderEditForm:" : "jupiter 03/01/2020 17:02",
+		"renderEndTime:" : "jupiter 03/01/2020 17:02",
+		"replace" : "jupiter 03/01/2020 17:02",
+		"saveNew" : "jupiter 03/01/2020 17:02",
+		"timeList" : "jupiter 03/01/2020 17:02",
+		"timeList:" : "jupiter 03/01/2020 17:00" } }
