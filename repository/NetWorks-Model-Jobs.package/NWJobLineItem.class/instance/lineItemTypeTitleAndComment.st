@@ -1,4 +1,4 @@
-descriptions
+Accessing
 lineItemTypeTitleAndComment
   ^ self lineItemType
     ifNil: [ 'Error: No Line ItemType. Please select one to continue.' ]

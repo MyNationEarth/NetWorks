@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-UI-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NWAssignmentComponent",
+	"pools" : [
+		 ],
+	"super" : "NWScriptPanelComponent",
+	"type" : "normal" }

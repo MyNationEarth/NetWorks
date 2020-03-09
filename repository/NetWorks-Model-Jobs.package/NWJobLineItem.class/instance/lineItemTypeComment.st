@@ -1,0 +1,3 @@
+Accessing
+lineItemTypeComment
+  ^ lineItemType comment

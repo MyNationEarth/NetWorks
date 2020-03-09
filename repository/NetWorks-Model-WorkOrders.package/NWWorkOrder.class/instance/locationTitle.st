@@ -1,3 +1,3 @@
 Accessing
 locationTitle
-  ^ job location locationTitle
+  ^ job location

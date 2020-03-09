@@ -4,6 +4,7 @@ titleDescription
   ^ MAStringDescription new
     accessor: #'title';
     label: 'Contractor Name';
+    propertyAt: #'icon' put: #'user';
     priority: 100;
     beRequired;
     componentClass: TBSMagritteTextInputComponent;

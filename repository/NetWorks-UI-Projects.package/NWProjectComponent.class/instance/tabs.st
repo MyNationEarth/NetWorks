@@ -34,6 +34,22 @@ tabs
             yourself);
     add:
         (Dictionary new
+            at: #'id' put: #'scheduling';
+            at: #'label' put: 'Scheduling';
+            at: #'icon' put: #'calendar';
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'scheduling') ];
+            yourself);
+    add:
+        (Dictionary new
+            at: #'id' put: #'assignment';
+            at: #'label' put: 'Assignment';
+            at: #'icon' put: #'user';
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'assignment') ];
+            yourself);
+    add:
+        (Dictionary new
             at: #'id' put: #'jobs';
             at: #'label' put: 'Jobs';
             at: #'icon' put: #'wrench';

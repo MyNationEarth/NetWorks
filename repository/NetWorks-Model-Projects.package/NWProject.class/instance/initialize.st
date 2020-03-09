@@ -5,4 +5,5 @@ initialize
   projectLineItems := OrderedCollection new.
   notes := OrderedCollection new.
   contractorInvoices := OrderedCollection new.
-  designTimeLogs := OrderedCollection new
+  designTimeLogs := OrderedCollection new.
+  jobs := OrderedCollection new

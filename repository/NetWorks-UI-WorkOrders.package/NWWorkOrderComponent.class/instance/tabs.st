@@ -4,7 +4,7 @@ tabs
     add:
         (Dictionary new
             at: #'id' put: #'lineItems';
-            at: #'label' put: 'Line Items';
+            at: #'label' put: 'Work Order Line Items';
             at: #'icon' put: #'user';
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'lineItems') ];

@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"parent:rows:description:" : "jupiter 03/08/2020 21:56" },
+	"instance" : {
+		"batchSize" : "jupiter 03/08/2020 20:22",
+		"defaultShowBordered" : "jupiter 03/08/2020 20:22",
+		"defaultShowHeader" : "jupiter 03/08/2020 20:22",
+		"defaultShowStriped" : "jupiter 03/08/2020 20:22",
+		"defaultSortColumn" : "jupiter 03/08/2020 20:22",
+		"iconSelectorForDescription:" : "jupiter 03/08/2020 20:23",
+		"initialize" : "jupiter 03/08/2020 20:23",
+		"parent" : "jupiter 03/08/2020 20:21",
+		"parent:" : "jupiter 03/08/2020 20:21",
+		"renderColumnsForRow:index:on:" : "jupiter 03/08/2020 20:23",
+		"renderContentOn:" : "jupiter 03/08/2020 20:23",
+		"renderIconForRow:index:on:" : "jupiter 03/08/2020 20:23",
+		"renderItem:index:on:" : "jupiter 03/08/2020 20:23",
+		"renderLabelsForRow:index:on:" : "jupiter 03/08/2020 20:23",
+		"renderTableBodyOn:" : "jupiter 03/08/2020 20:24",
+		"renderTableOn:" : "jupiter 03/08/2020 20:24",
+		"rowClass" : "jupiter 03/08/2020 20:21",
+		"rows:" : "jupiter 03/08/2020 20:21",
+		"selectedItems" : "jupiter 03/08/2020 20:21",
+		"selectedItems:" : "jupiter 03/08/2020 20:22" } }

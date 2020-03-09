@@ -7,4 +7,5 @@ searchDescription
       {MAStringDescription.
       MAMemoDescription.
       MADateDescription.
+      NWDateDescription.
       MANumberDescription} includes: desc class ]

@@ -8,5 +8,6 @@ rateCardDescription
     reference: NWRateCard new titleDescription asContainer;
     label: 'Rate Card';
     priority: 300;
+    beRequired;
     yourself.
   ^ description

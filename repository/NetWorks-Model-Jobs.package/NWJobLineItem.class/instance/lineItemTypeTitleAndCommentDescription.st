@@ -1,7 +1,6 @@
 descriptions
 lineItemTypeTitleAndCommentDescription
-  "<magritteDescription>"
-
+  <magritteDescription>
   ^ MAStringDescription new
     accessor: #'lineItemTypeTitleAndComment';
     label: 'Type';

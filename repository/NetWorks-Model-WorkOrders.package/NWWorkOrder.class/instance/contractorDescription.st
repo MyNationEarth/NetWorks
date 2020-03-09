@@ -4,20 +4,16 @@ contractorDescription
   | description |
   description := MASingleOptionDescription new
     accessor: #'contractor';
-    options:
-        (self model contractors
-            select: [ :contractor | 
-              (contractor jobTypes includes: job jobType)
-                and: [ contractor clients includes: job project client ] ]);
+    options: self organisationModel contractors;
     reference: NWContractor new titleDescription asContainer;
     label: 'Contractor';
-    comment:
-        'Select a contractor available on ' , job jobType title , ' jobs for '
-            , job project client title;
+    comment: 'Select a contractor';
     priority: 300;
-    yourself.
-  self user isAdmin
-    ifFalse: [ description beReadonly ].
+    beRequired;
+    yourself.	"NOTE: contractors used to be tied to clients and job types... select: [ :contractor | 
+              (contractor jobTypes includes: job jobType)
+                and: [ contractor clients includes: job project client ] ]"	"self user isAdmin
+    ifFalse: [ description beReadonly ]."
   self percentageComplete > 0
     ifTrue: [ description beReadonly ].
   ^ description

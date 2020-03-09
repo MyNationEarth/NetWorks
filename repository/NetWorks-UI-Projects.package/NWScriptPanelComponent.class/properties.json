@@ -1,0 +1,16 @@
+{
+	"category" : "NetWorks-UI-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 03/08/2020 22:39",
+	"instvars" : [
+		"project",
+		"focus",
+		"workOrderFocus" ],
+	"name" : "NWScriptPanelComponent",
+	"pools" : [
+		 ],
+	"super" : "NWAbstractComponent",
+	"type" : "normal" }
