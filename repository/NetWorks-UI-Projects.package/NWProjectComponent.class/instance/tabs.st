@@ -45,6 +45,7 @@ tabs
             at: #'id' put: #'assignment';
             at: #'label' put: 'Assignment';
             at: #'icon' put: #'user';
+            at: #'accessRoleNames' put: #('Jobs Access');
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'assignment') ];
             yourself);

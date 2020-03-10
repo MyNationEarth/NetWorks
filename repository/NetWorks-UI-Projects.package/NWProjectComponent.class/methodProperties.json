@@ -2,8 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
+		"children" : "jupiter 03/10/2020 13:24",
+		"components" : "jupiter 03/10/2020 13:26",
 		"icon" : "jupiter 03/14/2019 17:34",
-		"initialize" : "jupiter 07/01/2019 14:00",
+		"initialize" : "jupiter 03/10/2020 13:30",
 		"newObjectLabel" : "jupiter 02/09/2019 20:07",
 		"projectBaseDirectory" : "jupiter 05/28/2019 18:32",
 		"renderAssignmentOn:" : "jupiter 03/08/2020 22:42",
@@ -26,6 +28,6 @@
 		"renderSchedulingOn:" : "jupiter 03/08/2020 20:28",
 		"renderTemplatesOn:" : "jupiter 05/28/2019 18:23",
 		"respondWithCompletionCertificate" : "jupiter 05/28/2019 19:53",
-		"tabs" : "jupiter 03/08/2020 22:03",
+		"tabs" : "jupiter 03/09/2020 17:10",
 		"tabs2" : "jupiter 04/01/2019 18:55",
 		"templateBasePath" : "jupiter 05/28/2019 18:33" } }

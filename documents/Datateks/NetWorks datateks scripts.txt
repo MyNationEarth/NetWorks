@@ -3,6 +3,12 @@ Metacello new
 	repository: 'github://MyNationEarth/NetWorks/repository';
 	get.
 
+Metacello new
+	baseline: 'AdminLTE';
+	repository: 'github://JupiterSmalltalk/AdminLTE:seaside/repository';
+	get.
+	
+	
 NetWorks initializeSystem.
 
 | path |

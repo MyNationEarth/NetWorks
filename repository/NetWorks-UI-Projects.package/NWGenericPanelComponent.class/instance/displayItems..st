@@ -1,3 +1,4 @@
 Updating
-displayItems: newValue
-	displayItems := newValue
+displayItems: anObject
+  displayItems := anObject.
+  self reportComponent rows: displayItems
