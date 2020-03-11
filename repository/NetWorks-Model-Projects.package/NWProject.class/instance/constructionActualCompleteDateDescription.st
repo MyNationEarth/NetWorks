@@ -1,7 +1,7 @@
 descriptions
 constructionActualCompleteDateDescription
   <magritteDescription>
-  ^ MADateDescription new
+  ^ NWDateDescription new
     accessor: #'constructionActualCompleteDate';
     label: 'Construction Actual Complete Date';
     priority: 4000;

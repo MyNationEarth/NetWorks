@@ -1,7 +1,7 @@
 descriptions
 rolCommencementDateDescription
   <magritteDescription>
-  ^ MADateDescription new
+  ^ NWDateDescription new
     accessor: #'rolCommencementDate';
     label: 'ROL Commencement Date';
     priority: 4000;

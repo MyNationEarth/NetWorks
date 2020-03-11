@@ -1,7 +1,7 @@
 descriptions
 designETADateDescription
   <magritteDescription>
-  ^ MADateDescription new
+  ^ NWDateDescription new
     accessor: #'designETADate';
     label: 'ETA Date';
     priority: 650;

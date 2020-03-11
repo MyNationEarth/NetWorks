@@ -1,7 +1,7 @@
 descriptions
 invoiceCreatedDateDescription
   <magritteDescription>
-  ^ MADateDescription new
+  ^ NWDateDescription new
     accessor: #'invoiceCreatedDate';
     label: 'Final Invoice Date';
     priority: 4000;

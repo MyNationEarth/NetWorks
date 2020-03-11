@@ -1,7 +1,7 @@
 descriptions
 designDDDResubmissionDateDescription
   <magritteDescription>
-  ^ MADateDescription new
+  ^ NWDateDescription new
     accessor: #'designDDDResubmissionDate';
     label: 'DDD Resubmission Date';
     priority: 650;

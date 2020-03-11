@@ -7,4 +7,4 @@ visitDateDescription: aDescription
     ifFalse: [ MAReadError signal ].
   self
     object:
-      (self fromStream: string readStream usingFormat: #(1 2 3 $/ 1 1 $: false))
+      (Date fromStream: string readStream usingFormat: #(1 2 3 $/ 1 1 $: false))

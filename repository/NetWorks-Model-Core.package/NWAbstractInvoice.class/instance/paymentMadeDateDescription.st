@@ -1,7 +1,7 @@
 descriptions
 paymentMadeDateDescription
   <magritteDescription>
-  ^ MADateDescription new
+  ^ NWDateDescription new
     accessor: #'paymentMadeDate';
     label: 'Payment Made Date';
     priority: 650;

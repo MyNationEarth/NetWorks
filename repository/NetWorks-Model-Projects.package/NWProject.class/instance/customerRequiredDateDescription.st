@@ -1,7 +1,7 @@
 descriptions
 customerRequiredDateDescription
   <magritteDescription>
-  ^ MADateDescription new
+  ^ NWDateDescription new
     accessor: #'customerRequiredDate';
     label: 'Project Completion Date';
     priority: 4000;

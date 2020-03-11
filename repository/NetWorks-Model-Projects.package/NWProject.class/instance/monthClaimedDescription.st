@@ -4,7 +4,7 @@ monthClaimedDescription
 
   "No longer used"
 
-  ^ MADateDescription new
+  ^ NWDateDescription new
     accessor: #'monthClaimed';
     label: 'Month Claimed';
     priority: 4000;

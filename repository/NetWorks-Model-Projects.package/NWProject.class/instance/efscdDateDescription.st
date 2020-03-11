@@ -1,7 +1,7 @@
 descriptions
 efscdDateDescription
   <magritteDescription>
-  ^ MADateDescription new
+  ^ NWDateDescription new
     accessor: #'efscdDate';
     label: 'EFSCD Date';
     priority: 650;

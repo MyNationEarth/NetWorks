@@ -1,7 +1,7 @@
 descriptions
 designPONPatchingRequestDateDescription
   <magritteDescription>
-  ^ MADateDescription new
+  ^ NWDateDescription new
     accessor: #'designPONPatchingRequestDate';
     label: 'PON Patching Request Date';
     priority: 650;

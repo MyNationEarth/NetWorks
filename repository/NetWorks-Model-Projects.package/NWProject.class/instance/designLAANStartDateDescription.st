@@ -1,7 +1,7 @@
 descriptions
 designLAANStartDateDescription
   <magritteDescription>
-  ^ MADateDescription new
+  ^ NWDateDescription new
     accessor: #'designLAANStartDate';
     label: 'LAAN Start Date';
     priority: 650;

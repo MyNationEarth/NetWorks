@@ -1,7 +1,7 @@
 Accessing
 variationApprovedDateDescription
   <magritteDescription>
-  ^ MADateDescription new
+  ^ NWDateDescription new
     accessor: #'variationApprovedDate';
     label: 'Variation Approved Date';
     priority: 4000;

@@ -1,7 +1,7 @@
 Accessing
 monthPaidDescription
   <magritteDescription>
-  ^ MADateDescription new
+  ^ NWDateDescription new
     accessor: #'monthPaid';
     label: 'Month Paid';
     priority: 4000;

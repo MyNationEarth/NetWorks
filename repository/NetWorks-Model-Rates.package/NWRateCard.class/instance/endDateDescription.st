@@ -1,7 +1,7 @@
 descriptions
 endDateDescription
   <magritteDescription>
-  ^ MADateDescription new
+  ^ NWDateDescription new
     accessor: #'endDate';
     label: 'End Date';
     priority: 100;

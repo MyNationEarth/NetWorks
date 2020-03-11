@@ -1,7 +1,7 @@
 Accessing
 pcDueDateDescription
   <magritteDescription>
-  ^ MADateDescription new
+  ^ NWDateDescription new
     accessor: #'pcDueDate';
     label: 'PC Award Date';
     priority: 4000;

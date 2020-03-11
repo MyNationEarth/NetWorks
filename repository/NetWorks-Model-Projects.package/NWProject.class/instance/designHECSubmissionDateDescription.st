@@ -1,7 +1,7 @@
 descriptions
 designHECSubmissionDateDescription
   <magritteDescription>
-  ^ MADateDescription new
+  ^ NWDateDescription new
     accessor: #'designHECSubmissionDate';
     label: 'HEC Submission Date';
     priority: 650;

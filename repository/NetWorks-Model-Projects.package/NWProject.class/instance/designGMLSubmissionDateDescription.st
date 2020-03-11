@@ -1,7 +1,7 @@
 descriptions
 designGMLSubmissionDateDescription
   <magritteDescription>
-  ^ MADateDescription new
+  ^ NWDateDescription new
     accessor: #'designGMLSubmissionDate';
     label: 'GML Submission Date';
     priority: 650;

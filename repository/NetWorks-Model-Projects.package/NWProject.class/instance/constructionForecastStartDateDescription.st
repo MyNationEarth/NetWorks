@@ -1,7 +1,7 @@
 descriptions
 constructionForecastStartDateDescription
   <magritteDescription>
-  ^ MADateDescription new
+  ^ NWDateDescription new
     accessor: #'constructionForecastStartDate';
     label: 'Construction Forecast Start Date';
     priority: 4000;

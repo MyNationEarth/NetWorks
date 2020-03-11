@@ -1,7 +1,7 @@
 descriptions
 expiryDateDescription
   <magritteDescription>
-  ^ MADateDescription new
+  ^ NWDateDescription new
     accessor: #'expiryDate';
     label: 'Expiry Date';
     priority: 4000;

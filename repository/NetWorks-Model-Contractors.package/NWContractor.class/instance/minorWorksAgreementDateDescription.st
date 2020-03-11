@@ -1,7 +1,7 @@
 descriptions
 minorWorksAgreementDateDescription
   <magritteDescription>
-  ^ MADateDescription new
+  ^ NWDateDescription new
     accessor: #'minorWorksAgreementDate';
     label: 'Minor Works Agreement Date';
     priority: 650;
