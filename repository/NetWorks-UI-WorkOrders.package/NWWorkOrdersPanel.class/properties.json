@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-UI-WorkOrders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 03/12/2020 14:39",
+	"instvars" : [
+		 ],
+	"name" : "NWWorkOrdersPanel",
+	"pools" : [
+		 ],
+	"super" : "NWAbstractPanel",
+	"type" : "normal" }

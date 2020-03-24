@@ -8,6 +8,22 @@ Metacello new
 	repository: 'github://JupiterSmalltalk/AdminLTE:seaside/repository';
 	get.
 	
+Metacello new
+	baseline: 'AbstractApplicationObjects';
+	repository: 'github://brunobuzzi/AbstractApplicationObjects:master/repository';
+	get.
+
+Metacello new
+	baseline: 'Sewaf';
+	repository: 'github://brunobuzzi/SEWAF:master/repository';
+	get.
+
+Metacello new
+	baseline: 'OrbeonPersistenceLayer';
+	repository: 'github://brunobuzzi/OrbeonPersistenceLayer:master/repository';
+	get.
+
+	
 	
 NetWorks initializeSystem.
 

@@ -16,7 +16,9 @@ installFiveSmithsModelViewRoles
   'Design Exporter'.
   'Contractor Exporter'.
   'Contractor Invoices'.
-  'Jobs Access'}
+  'Jobs Access'.
+  'Client'.
+  'Contractor'}
     do: [ :rolePrefix | 
       | role |
       role := self defaultFrontOfficeRoleClass

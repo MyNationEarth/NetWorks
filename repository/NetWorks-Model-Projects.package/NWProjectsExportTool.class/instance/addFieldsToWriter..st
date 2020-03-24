@@ -22,6 +22,7 @@ addFieldsToWriter: csvWriter
     addField: #'gstInclusiveValue';
     addField: #'djcCost';
     addField: #'internalDjcCost';
+    addField: #'internalConstructionCost';
     addField: #'totalCost';
     addField: #'marginValue';
     addField: #'marginPercentage';

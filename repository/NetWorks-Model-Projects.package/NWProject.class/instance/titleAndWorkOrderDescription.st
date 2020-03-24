@@ -4,7 +4,7 @@ titleAndWorkOrderDescription
 
   ^ MAStringDescription new
     accessor: #'titleAndWorkOrder';
-    label: 'Work Order & Title';
+    label: 'Project Title';
     priority: 100;
     beReadonly;
     beRequired;

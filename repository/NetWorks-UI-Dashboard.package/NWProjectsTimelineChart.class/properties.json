@@ -6,6 +6,7 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
+		"parent",
 		"chartData",
 		"callbackData",
 		"organisationModel" ],

@@ -1,7 +1,6 @@
 descriptions
 statusOptions
-  ^ {'Completed'.
-  'Developer Delay'.
+  ^ {'Developer Delay'.
   'Heritage Delay'.
   'In Construction'.
   'In Design'.

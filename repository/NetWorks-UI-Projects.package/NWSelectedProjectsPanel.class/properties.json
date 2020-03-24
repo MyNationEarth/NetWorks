@@ -1,0 +1,16 @@
+{
+	"category" : "NetWorks-UI-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"criteriaLabel",
+		"searchSelector",
+		"searchValue" ],
+	"name" : "NWSelectedProjectsPanel",
+	"pools" : [
+		 ],
+	"super" : "NWProjectsPanel",
+	"type" : "normal" }

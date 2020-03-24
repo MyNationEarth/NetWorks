@@ -1,5 +1,5 @@
 chart
-renderProjectTimelineChartScriptOm: canvas
+renderProjectTimelineChartScriptOn: canvas
   | chart allSeries |
   allSeries := self projectsSeries.
   chart := canvas highcharts newChart.
@@ -15,7 +15,19 @@ renderProjectTimelineChartScriptOm: canvas
   chart exporting enabled: false.
   chart plotOptions line point events
     click:
-      ((canvas javascript callback: [ :seriesKey |  ]) asFunction: #('event')).
+      ((canvas javascript
+        callback: [ :seriesKey | 
+          parent rootAnnouncer
+            announce:
+              (AdminLTEPanelSelected
+                panel:
+                  (NWSelectedProjectsPanel new
+                    parent: parent;
+                    criteriaLabel: seriesKey asString;
+                    searchSelector: #'projectAwardedDate';
+                    searchValue: seriesKey;
+                    yourself)) ])
+        asFunction: #('event')).
   allSeries
     doWithIndex: [ :series :index | 
       (chart addSeriesOf: HighchartsSeriesLine)
