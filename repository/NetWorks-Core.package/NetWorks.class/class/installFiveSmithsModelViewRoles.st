@@ -28,12 +28,19 @@ installFiveSmithsModelViewRoles
   'projectTabNotes'.
   'projectTabFinancials'.
   'projectTabContractorInvoices'.
+  'featureAddProjects'.
+  'featureDeleteProjects'.
   'exportProjects'.
   'exportForecast'.
   'exportDesign'.
   'exportDesignLogs'.
   'exportInsurances'.
-  'exportContractorInvoices'}
+  'exportContractorInvoices'.
+  'Project Manager'.
+  'Project Designer'.
+  'Project Construction'.
+  'Contractor'.
+  'Field Supervisor'}
     do: [ :rolePrefix | 
       | role |
       role := self defaultFrontOfficeRoleClass

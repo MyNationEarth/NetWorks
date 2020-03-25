@@ -9,6 +9,7 @@ installFiveSmithsBpmEnvironment
 	6- Grant 'admin' User with 'admin' Role."
 
   | defaultEnvironment adminUser application role |
+  self defaultEnvironmentClass areUsersMultiEnvironment: false.
   defaultEnvironment := (self defaultEnvironmentClass newNamed: '5smiths.com.au')
     addToCache.
   defaultEnvironment addDefaultCalendar.
