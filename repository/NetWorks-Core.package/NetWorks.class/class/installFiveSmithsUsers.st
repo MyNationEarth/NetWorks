@@ -7,7 +7,7 @@ installFiveSmithsUsers
   application := BpmApplication
     applicationNamed: 'modelViewApplication'
     ifNone: [  ].
-  initialRole := self defaultFrontOfficeRoleClass
+  initialRole := self defaultBackOfficeRoleClass
     getRoleNamed: 'modelViewAdmin'
     in: application applicationName.
   #(#('Craig' 'Smith' 'craig'))
