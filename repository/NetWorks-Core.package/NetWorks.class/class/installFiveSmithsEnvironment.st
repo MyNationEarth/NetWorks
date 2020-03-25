@@ -4,6 +4,7 @@ installFiveSmithsEnvironment
 
   self
     installFiveSmithsOrganisationModel;
-    installFiveSmithsProcesses;
+    installFiveSmithsBpmEnvironment;
+    installFiveSmithsModelViewApplication;
     installFiveSmithsModelViewRoles;
     installFiveSmithsUsers	"installFiveSmithsRateCards;"

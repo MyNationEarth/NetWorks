@@ -6,4 +6,6 @@ installFiveSmithsOrganisationModel
       NWOrganisationModel new
         dnsName: 'networks.5smiths.com.au';
         logoLarge: BpmFlowUIFileLibrary / #'brand5smithsBlackPng';
+        bpmEnvironment:
+            (self defaultEnvironmentClass getEnvironmentNamed: '5smiths.com.au' ifNone: [  ]);
         yourself ]

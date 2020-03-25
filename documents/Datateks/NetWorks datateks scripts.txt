@@ -1,3 +1,11 @@
+GsDeployer deploy: [
+	Metacello new
+		baseline: 'Bootstrap';
+		repository: 'github://astares/Seaside-Bootstrap:0.18.0/src';
+		load;
+		lock
+]
+
 Metacello new
 	baseline: 'NetWorks';
 	repository: 'github://MyNationEarth/NetWorks/repository';

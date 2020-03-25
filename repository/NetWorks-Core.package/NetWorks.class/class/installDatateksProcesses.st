@@ -9,7 +9,6 @@ installDatateksProcesses
     setFrontofficeApplicationName: 'Wotmworth';
     setBackofficeApplicationName: 'Wotmworth Backoffice';
     setBIApplicationName: 'Wotmworth BI'.
-  BpmExceptionCalendar addDefaultCalendarIn: env.
   orbeonLibraryApplication := (OrbeonApplication newNamed: 'orbeon') addToCache.
   a417NewDevs := (OrbeonApplication newNamed: 'a417NewDevs') addToCache.
   a401RequestForQuote := (OrbeonApplication newNamed: 'a401RequestForQuote')

@@ -1,24 +1,39 @@
-5smiths
+datateks
 installFiveSmithsModelViewRoles
   | application env |
   "Create Roles in each application and add all roles to all users"
-  env := NetWorks fiveSmiths bpmEnvironment.
+  env := self defaultEnvironmentClass
+    getEnvironmentNamed: '5smiths.com.au'
+    ifNone: [  ].
   application := BpmApplication
-    getExistingApplicationOrCreateNewNamed: 'modelViewApplicaton'.	"env registerApplication: application."
-  {'Project Administrator'.
-  'Project Manager'.
-  'Project Design'.
-  'Design Manager'.
-  'Construction Staff'.
-  'Accounts'.
-  'Payroll'.
-  'Project Exporter'.
-  'Design Exporter'.
-  'Contractor Exporter'.
-  'Contractor Invoices'.
-  'Jobs Access'.
-  'Client'.
-  'Contractor'}
+    applicationNamed: 'modelViewApplication'
+    ifNone: [  ].
+  {'menuDashboard'.
+  'menuProjects'.
+  'menuOpenProjects'.
+  'menuClients'.
+  'menuContractors'.
+  'menuContracts'.
+  'menuRateCards'.
+  'menuMaterials'.
+  'menuWarehouse'.
+  'menuPayroll'.
+  'menuWorkOrders'.
+  'projectTabProjectInfo'.
+  'projectTabDesign'.
+  'projectTabConstruction'.
+  'projectTabJobs'.
+  'projectTabAssignment'.
+  'projectTabScheduling'.
+  'projectTabNotes'.
+  'projectTabFinancials'.
+  'projectTabContractorInvoices'.
+  'exportProjects'.
+  'exportForecast'.
+  'exportDesign'.
+  'exportDesignLogs'.
+  'exportInsurances'.
+  'exportContractorInvoices'}
     do: [ :rolePrefix | 
       | role |
       role := self defaultFrontOfficeRoleClass

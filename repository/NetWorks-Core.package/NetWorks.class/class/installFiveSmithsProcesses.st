@@ -9,7 +9,6 @@ installFiveSmithsProcesses
     setFrontofficeApplicationName: 'Networks';
     setBackofficeApplicationName: 'Networks Backoffice';
     setBIApplicationName: 'Networks BI'.
-  BpmExceptionCalendar addDefaultCalendarIn: env.
   orbeonLibraryApplication := (OrbeonApplication newNamed: 'orbeon') addToCache.
   minorWorksMaximo := (OrbeonApplication newNamed: 'minorWorks') addToCache.
   admin := BpmUser

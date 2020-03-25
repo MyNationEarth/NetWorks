@@ -1,11 +1,14 @@
 5smiths
 installFiveSmithsUsers
   | env application initialRole |
-  env := NetWorks fiveSmiths bpmEnvironment.
+  env := self defaultEnvironmentClass
+    getEnvironmentNamed: '5smiths.com.au'
+    ifNone: [  ].
   application := BpmApplication
-    getExistingApplicationOrCreateNewNamed: 'modelViewApplicaton'.
+    applicationNamed: 'modelViewApplication'
+    ifNone: [  ].
   initialRole := self defaultFrontOfficeRoleClass
-    getRoleNamed: 'Project Administrator'
+    getRoleNamed: 'modelViewAdmin'
     in: application applicationName.
   #(#('Craig' 'Smith' 'craig'))
     do: [ :user | 
