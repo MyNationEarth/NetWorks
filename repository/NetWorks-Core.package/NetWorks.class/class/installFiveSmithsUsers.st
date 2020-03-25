@@ -12,17 +12,18 @@ installFiveSmithsUsers
     in: application applicationName.
   #(#('Craig' 'Smith' 'craig'))
     do: [ :user | 
-      | newUser |
+      | newUser loginName |
+      loginName := (user at: 3) , '@5smiths.com.au'.
       env users
-        at: (user at: 3) , '@5smiths.com.au'
+        at: loginName
         ifAbsent: [ 
           newUser := (BpmUser
-            getExistingOrNewUserNamed: (user at: 3)
+            getExistingOrNewUserNamed: loginName
             password: (user at: 1) asLowercase
             forEnvironment: env)
             givenName: (user at: 1);
             familyName: (user at: 2);
-            emailAddress: (user at: 3);
+            emailAddress: loginName;
             yourself.
           env registerUser: newUser.
           initialRole grantUser: newUser ] ]

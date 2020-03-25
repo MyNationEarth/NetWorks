@@ -16,6 +16,7 @@ installFiveSmithsBpmEnvironment
     setFrontofficeApplicationName: 'Networks';
     setBackofficeApplicationName: 'Networks Backoffice';
     setBIApplicationName: 'Networks BI'.
+  self fiveSmiths bpmEnvironment: defaultEnvironment.
   self defaultBpmApplicationClass initializeCache.
   application := (BpmApplication newNamed: 'backOfficeAdmin') addToCache.
   adminUser := self defaultBpmUserClass addAdminUser.

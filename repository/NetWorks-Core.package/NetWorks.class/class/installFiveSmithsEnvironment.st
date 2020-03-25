@@ -2,6 +2,9 @@
 installFiveSmithsEnvironment
   "NetWorks installFiveSmithsEnvironment"
 
+  BpmSystemInitialization
+    initializeCurrentSystem;
+    createSystemDefaultObjects.
   self
     installFiveSmithsOrganisationModel;
     installFiveSmithsBpmEnvironment;
