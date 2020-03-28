@@ -6,5 +6,4 @@ aycaNumberDescription
     label: 'AYCA Number';
     priority: 1200;
     componentClass: TBSMagritteTextInputComponent;
-    beReadonly;
     yourself

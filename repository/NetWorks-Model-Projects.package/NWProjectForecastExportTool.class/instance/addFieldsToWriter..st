@@ -10,7 +10,7 @@ addFieldsToWriter: csvWriter
     addField: #'efscdDate';
     addEmptyField;
     addField: #'constructionProjectLead';
-    addField: #'constructionStatus';
+    addField: #'status';
     addField: #'constructionSiteContact';
     addField: #'constructionLAANCommenceDate';
     addField: #'constructionDesignForecastSubmissionDate';
