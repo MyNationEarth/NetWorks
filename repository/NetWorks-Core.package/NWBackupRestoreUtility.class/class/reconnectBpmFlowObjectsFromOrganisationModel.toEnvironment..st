@@ -33,5 +33,5 @@ reconnectBpmFlowObjectsFromOrganisationModel: importedOrganisationModel toEnviro
     into: [ :roles :sourceRole | 
       "Reference / recreate roles"
       self defaultFrontOfficeRoleClass ].
-  self halt.
-  importedOrganisationModel bpmEnvironment: targetEnvironment
+  importedOrganisationModel bpmEnvironment: targetEnvironment.
+  ^ importedOrganisationModel

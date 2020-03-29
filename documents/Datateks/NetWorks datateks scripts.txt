@@ -31,6 +31,17 @@ Metacello new
 	repository: 'github://brunobuzzi/OrbeonPersistenceLayer:master/repository';
 	get.
 
+
+
+NetWorks insstance organisationModels at: #'5smiths.com.au' put:
+(NetWorks fiveSmiths restoreFromBackup: 'NWModelRoot-28Mar2020-123146.nwb').
+
+
+	
+BpmSystemInitialization initializeCurrentSystem; createSystemDefaultObjects.
+NetWorks installFiveSmithsBpmEnvironment; installFiveSmithsModelViewApplication; installFiveSmithsModelViewRoles; installFiveSmithsUsers
+
+
 	
 	
 NetWorks initializeSystem.
