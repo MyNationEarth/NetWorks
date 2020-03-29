@@ -4,6 +4,6 @@ restoreFromBackup: backupName
   "Restore the entire model from a disc backup"
   restoredOrganisationModel := (NWBackupRestoreUtility
     restoreBackupNamed: backupName) object.
-  NWBackupRestoreUtility
+  ^ NWBackupRestoreUtility
     reconnectBpmFlowObjectsFromOrganisationModel: restoredOrganisationModel
     toEnvironment: self bpmEnvironment
