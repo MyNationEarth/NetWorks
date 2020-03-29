@@ -19,7 +19,7 @@ reconnectBpmFlowObjectsFromOrganisationModel: importedOrganisationModel toEnviro
             emailAddress: importedUser centralUser username;
             yourself.
           newUser centralUser
-            encryptedPasssword: importedUser centralUser password.
+            encryptedPassword: importedUser centralUser password.
           targetEnvironment registerUser: newUser.
           newUser ] ].
   sourceRoles := importedOrganisationModel bpmEnvironment users
