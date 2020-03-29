@@ -8,8 +8,19 @@ reconnectBpmFlowObjectsFromOrganisationModel: importedOrganisationModel toEnviro
       targetEnvironment users
         at: importedUser centralUser username
         ifAbsent: [ 
+          | newUser |
           "Create a new user "
-          nil ] ].
+          newUser := (BpmUser
+            getExistingOrNewUserNamed: importedUser centralUser username
+            password: 'initialPassword'
+            forEnvironment: targetEnvironment)
+            givenName: importedUser givenName;
+            familyName: importedUser familyName;
+            emailAddress: importedUser centralUser username;
+            yourself.
+          newUser encryptedPasssword: importedUser centralUser password.
+          targetEnvironment registerUser: newUser.
+          newUser ] ].
   sourceRoles := importedOrganisationModel bpmEnvironment users
     inject: Set new
     into: [ :roles :user | 
@@ -21,4 +32,5 @@ reconnectBpmFlowObjectsFromOrganisationModel: importedOrganisationModel toEnviro
     into: [ :roles :sourceRole | 
       "Reference / recreate roles"
       self defaultFrontOfficeRoleClass ].
-  self halt
+  self halt.
+  importedOrganisationModel bpmEnvironment: targetEnvironment
