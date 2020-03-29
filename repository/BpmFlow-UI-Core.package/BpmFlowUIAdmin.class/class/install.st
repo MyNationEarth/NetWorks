@@ -12,6 +12,6 @@ install
     addLibrary: FAWDevelopmentLibrary;
     addLibrary: JQSlimScrollLibrary;
     addLibrary: AdminLTEFileLibrary;
-    addLibrary: Highcharts6DevelopmentMetadataLibrary;
+    addLibrary: Highcharts6DeploymentMetadataLibrary;
     addLibrary: JQFullCalendarFileLibrary;
     addLibrary: BpmFlowUIFileLibrary
