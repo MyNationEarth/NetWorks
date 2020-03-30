@@ -8,7 +8,7 @@ pullIdentifiersFromTitle: aTitleString
     ifNotEmpty: [ :value | ayca := value ].
   (self stringFrom: temp regex: '(ND[0-9]+)' subexpression: 2)
     ifNotEmpty: [ :value | ayca := value ].
-  (self stringFrom: temp regex: '(TC[0-9]+)' subexpression: 2)
+  (self stringFrom: temp regex: '(TC[-]?[0-9]+)' subexpression: 2)
     ifNotEmpty: [ :value | ayca := value ].
   temp := temp copyReplaceAll: '' , (ayca ifNotNil: [ ayca ]) with: ''.
   fsam := self
