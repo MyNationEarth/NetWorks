@@ -37,7 +37,7 @@ renderConstructionOn: canvas
         with: [ self renderDescriptionsWithLabels: #('EFSCD Date') on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('Construction Project Lead') on: canvas ] ].	"canvas
+        with: [ self renderDescriptionsWithLabels: #('Project Engineer / Owner') on: canvas ] ].	"canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 3;

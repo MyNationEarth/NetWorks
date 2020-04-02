@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 03/31/2020 17:21",
+	"instvars" : [
+		"contents" ],
+	"name" : "NWCSVExportTool",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

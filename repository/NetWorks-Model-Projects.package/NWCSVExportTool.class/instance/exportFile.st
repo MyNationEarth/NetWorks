@@ -1,4 +1,4 @@
-export file
+exporting
 exportFile
   "Answer the project export file"
 
@@ -10,8 +10,8 @@ exportFile
   descriptionContainer
     do: [ :description | csvWriter nextPut: description label ]
     separatedBy: [ csvWriter nextPut: $, ].
-  self
-    addFieldsToWriter:
+  csvWriter
+    addField:
       (descriptionContainer
         inject: OrderedCollection new
         into: [ :result :desc | 

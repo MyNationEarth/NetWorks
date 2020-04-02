@@ -10,16 +10,14 @@ addFieldsToWriter: csvWriter
     addField: #'pcRequestSubmittedDate';
     addField: #'variationRequestSubmittedDate';
     addField: #'variationApprovedDate';
-    addField: #'pcDueDate';
+    addField: #'projectAwardedDate';
     addField: #'paymentDate';
     addField: #'efscdDate';
-    addField: #'monthPaid';
     addField: #'title';
     addField: #'suburb';
     addField: #'cspoValue';
     addField: #'variationValue';
     addField: #'totalRevenue';
-    addField: #'gstInclusiveValue';
     addField: #'djcCost';
     addField: #'internalDjcCost';
     addField: #'internalConstructionCost';

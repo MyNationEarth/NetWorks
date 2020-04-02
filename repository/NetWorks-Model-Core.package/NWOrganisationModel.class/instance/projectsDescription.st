@@ -8,7 +8,8 @@ projectsDescription
     classes: {NWProject};
     reference:
         template titleAndWorkOrderDescription , template efscdDateDescription
-            , template projectEngineerDescription , template statusDescription;
+            , template projectEngineerDescription
+            , template clientContactDescription , template statusDescription;
     label: 'Projects';
     priority: 100;
     beSorted;

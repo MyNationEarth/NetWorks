@@ -6,10 +6,22 @@ GsDeployer deploy: [
 		lock
 ]
 
+"Production"
 Metacello new
 	baseline: 'NetWorks';
 	repository: 'github://MyNationEarth/NetWorks/repository';
 	get.
+	
+	
+"Development"	
+Metacello new
+	baseline: 'NetWorks';
+	repository: 'filetree:///opt/git/MyNationEarth/NetWorks/repository';
+	get.
+
+
+	
+	
 
 Metacello new
 	baseline: 'AdminLTE';
@@ -33,7 +45,7 @@ Metacello new
 
 
 
-NetWorks insstance organisationModels at: #'5smiths.com.au' put:
+NetWorks instance organisationModels at: #'5smiths.com.au' put:
 (NetWorks fiveSmiths restoreFromBackup: 'NWModelRoot-28Mar2020-123146.nwb').
 
 

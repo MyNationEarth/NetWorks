@@ -5,7 +5,7 @@ createUser
   application := BpmApplication
     getExistingApplicationOrCreateNewNamed: 'modelViewApplicaton'.
   role := self defaultFrontOfficeRoleClass
-    getRoleNamed: 'Contractor'
+    getRoleNamed: self roleName
     in: application applicationName.
   bpmUser := env users
     at: 'emailAddress'

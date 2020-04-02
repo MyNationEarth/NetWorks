@@ -9,18 +9,17 @@ headerRow
   'PC Request Date Submitted'.
   'Variation Request submitted'.
   'Variation Approval'.
-  'PC Due'.
+  'Project Awarded Date'.
   'Payment Date'.
   'EFSCD Date'.
-  'Actual Payment Date'.
   'Project Description'.
   'Suburb'.
   'CSPO Amount'.
   'Variation'.
   'Total Revenue'.
-  'GST Inc'.
   'DJC Cost'.
-  'Internal DJC Cost'.
+  'Internal Design Cost'.
+  'Internal Construction Cost'.
   'Total Cost'.
   'Margin'.
   '%'.
