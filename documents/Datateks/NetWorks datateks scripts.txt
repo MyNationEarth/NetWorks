@@ -1,3 +1,8 @@
+project install --url=http://gsdevkit.github.io/GsDevKit_home/Seaside32.ston
+project load --loads=`#('Welcome' 'Development' 'Zinc Project' 'Email' 'CI')` Seaside3
+mount @/sys/stone/dirs/Seaside3/tode /home seaside
+
+
 GsDeployer deploy: [
 	Metacello new
 		baseline: 'Bootstrap';
@@ -7,17 +12,21 @@ GsDeployer deploy: [
 ]
 
 "Production"
+GsDeployer deploy: [
 Metacello new
 	baseline: 'NetWorks';
 	repository: 'github://MyNationEarth/NetWorks/repository';
 	get.
+]
 	
 	
-"Development"	
+"Development"
+GsDeployer deploy: [
 Metacello new
 	baseline: 'NetWorks';
 	repository: 'filetree:///opt/git/MyNationEarth/NetWorks/repository';
 	get.
+]
 
 
 	
