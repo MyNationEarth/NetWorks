@@ -8,7 +8,9 @@ variationConfirmedOrAbsent
     ifTrue: [ 
       self
         call:
-          (NWVariationConfirmation new
+          ((self
+            componentAt: #'variationConfirmation'
+            ifAbsentPut: [ NWVariationConfirmation new ])
             requestedQuantity: qty;
             completedQuantity: qtyComplete;
             yourself)
