@@ -2,7 +2,7 @@ private
 writeQuotedField: object
   | string |
   string := (object isKindOf: Date)
-    ifTrue: [ object AustralianDateString ]
+    ifTrue: [ object AustralianDateFormat ]
     ifFalse: [ object asString ].
   writeStream nextPut: $".
   string

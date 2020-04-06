@@ -21,7 +21,7 @@ renderBasicsOn: canvas
               canvas heading
                 level4;
                 with: 'Export Stock on Hand'.
-              canvas form
+              canvas anchor
                 with: [ 
                   canvas tbsButton
                     beLabeled;

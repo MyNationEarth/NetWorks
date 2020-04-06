@@ -1,3 +1,3 @@
 defaults
 defaultComponentClasses
-  ^ Array with: NWWorkOrderComponent
+  ^ Array with: NWWorkOrderLineItemComponent

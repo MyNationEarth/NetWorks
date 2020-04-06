@@ -2,7 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
+		"children" : "jupiter 04/06/2020 03:42",
 		"componentAt:ifAbsentPut:" : "jupiter 04/06/2017 21:31",
+		"components" : "jupiter 04/06/2020 03:42",
 		"initialize" : "jupiter 04/06/2017 21:33",
 		"modelViewApplication" : "jupiter 03/25/2020 05:28",
 		"organisationModel" : "jupiter 02/04/2020 17:03",

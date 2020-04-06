@@ -1,7 +1,7 @@
 descriptions
 scheduleDateDescription
   <magritteDescription>
-  ^ NWDateDescription new
+  ^ MADateAndTimeDescription new
     accessor: #'scheduleDate';
     label: 'Date Scheduled';
     priority: 600;
