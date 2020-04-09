@@ -11,6 +11,7 @@ GsDeployer deploy: [
 	Metacello new
 		baseline: 'Bootstrap';
 		repository: 'github://astares/Seaside-Bootstrap:0.18.0/src';
+		get;
 		load;
 		lock
 ]
