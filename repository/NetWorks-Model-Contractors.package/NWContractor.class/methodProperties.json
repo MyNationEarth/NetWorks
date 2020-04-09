@@ -9,7 +9,7 @@
 		"contacts:" : "jupiter 02/10/2019 17:12",
 		"contactsDescription" : "jupiter 02/10/2019 17:04",
 		"descriptionContainer" : "jupiter 02/10/2019 13:06",
-		"initialize" : "jupiter 06/18/2019 07:37",
+		"initialize" : "jupiter 04/06/2020 17:11",
 		"insurances" : "jupiter 06/18/2019 07:38",
 		"insurances:" : "jupiter 06/18/2019 07:37",
 		"insurancesDescription" : "jupiter 06/18/2019 08:40",
@@ -25,6 +25,9 @@
 		"minorWorksAgreementSignedDate" : "jupiter 02/17/2019 12:37",
 		"minorWorksAgreementSignedDate:" : "jupiter 02/17/2019 12:37",
 		"minorWorksAgreementSignedDateDescription" : "jupiter 03/10/2020 17:41",
+		"subContractors" : "jupiter 04/06/2020 17:12",
+		"subContractors:" : "jupiter 04/06/2020 17:12",
+		"subContractorsDescription" : "jupiter 04/06/2020 17:13",
 		"titleDescription" : "jupiter 03/08/2020 22:00",
 		"workOrders" : "jupiter 03/10/2020 13:53",
 		"workOrdersDescription" : "jupiter 03/12/2020 22:55" } }

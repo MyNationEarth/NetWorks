@@ -12,7 +12,8 @@
 		"minorWorksAgreementSignedDate",
 		"minorWorksAddendumDate",
 		"insurances",
-		"agreementNotes" ],
+		"agreementNotes",
+		"subContractors" ],
 	"name" : "NWContractor",
 	"pools" : [
 		 ],

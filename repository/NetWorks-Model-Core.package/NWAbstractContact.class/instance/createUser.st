@@ -8,16 +8,16 @@ createUser
     getRoleNamed: self roleName
     in: application applicationName.
   bpmUser := env users
-    at: 'emailAddress'
+    at: self emailAddress
     ifAbsent: [ 
       | newUser |
       newUser := (BpmUser
-        getExistingOrNewUserNamed: 'emailAddress'
-        password: 'contactTitle' asLowercase
+        getExistingOrNewUserNamed: self emailAddress
+        password: (self emailAddress asLowercase findTokens: $@) first
         forEnvironment: env)
-        givenName: 'contactTitle first work all lowercase';
+        givenName: self title;
         familyName: '';
-        emailAddress: 'emailAddress';
+        emailAddress: self emailAddress;
         payRate: 0.0;
         yourself.
       env registerUser: newUser.

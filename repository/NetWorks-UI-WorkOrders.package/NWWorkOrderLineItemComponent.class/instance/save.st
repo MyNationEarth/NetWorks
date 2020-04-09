@@ -1,4 +1,7 @@
 actions
 save
-  self variationConfirmedOrAbsent
-    ifTrue: [ super save ]
+  self memento hasChanged
+    ifTrue: [ 
+      self variationConfirmedOrAbsent
+        ifFalse: [ ^ self ] ].
+  super save
