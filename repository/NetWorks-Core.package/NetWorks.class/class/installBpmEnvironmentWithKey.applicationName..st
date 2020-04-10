@@ -17,7 +17,8 @@ installBpmEnvironmentWithKey: modelKey applicationName: applicationName
     setFrontofficeApplicationName: applicationName;
     setBackofficeApplicationName: applicationName , ' Backoffice';
     setBIApplicationName: applicationName , 'BI'.
-  (self instance models at: modelKey) bpmEnvironment: defaultEnvironment.
+  (self instance organisationModels at: modelKey)
+    bpmEnvironment: defaultEnvironment.
   self defaultBpmApplicationClass initializeCache.
   application := (BpmApplication newNamed: 'backOfficeAdmin') addToCache.
   adminUser := self defaultBpmUserClass addAdminUser.
