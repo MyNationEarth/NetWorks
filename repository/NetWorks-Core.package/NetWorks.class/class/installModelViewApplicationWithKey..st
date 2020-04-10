@@ -1,8 +1,8 @@
-datateks
-installFiveSmithsModelViewApplication
+setup
+installModelViewApplicationWithKey: modelKey
   | defaultEnvironment adminUser application role |
   defaultEnvironment := self defaultEnvironmentClass
-    getEnvironmentNamed: '5smiths.com.au'
+    getEnvironmentNamed: modelKey asString
     ifNone: [  ].
   application := (BpmApplication newNamed: 'modelViewApplication') addToCache.
   adminUser := self defaultBpmUserClass addAdminUser.
@@ -11,4 +11,5 @@ installFiveSmithsModelViewApplication
     createNewOrGetExisting: 'modelViewAdmin'
     in: 'modelViewApplication'.
   role isAdmin: true.
-  role grantUser: adminUser
+  role grantUser: adminUser.
+  self installModelViewRolesWithKey: modelKey

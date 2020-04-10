@@ -1,3 +1,14 @@
+"Installation Process"
+createStone networks 3.5.1
+cd $GS_HOME/shared/repos
+git clone https://github.com/brunobuzzi/BpmFlow.git
+
+"Copy the NetWorks version of the scripts director - install-all, ports-all. ports"
+cd $GS_HOME/shared/repos/BpmFlow/scripts
+sh install-all.sh networks
+
+
+
 project install --url=http://gsdevkit.github.io/GsDevKit_home/Seaside32.ston
 project load --loads=`#('Welcome' 'Development' 'Zinc Project' 'Email' 'CI')` Seaside3
 mount @/sys/stone/dirs/Seaside3/tode /home seaside
@@ -60,7 +71,7 @@ Metacello new
 
 
 NetWorks instance organisationModels at: #'5smiths.com.au' put:
-(NetWorks fiveSmiths restoreFromBackup: 'NWModelRoot-28Mar2020-123146.nwb').
+(NetWorks fiveSmiths restoreFromBackup: 'NWModelRoot-9Apr2020-143701.nwb').
 
 
 	

@@ -1,5 +1,5 @@
-datateks
-installFiveSmithsBpmEnvironment
+setup
+installBpmEnvironmentWithKey: modelKey applicationName: applicationName
   "The receiver create the minimal objects to allow the BPM System to start:
 	1- Create a default Environment <BpmEnvironment>.
 	2- Create an 'admins' Application <BpmApplication>.
@@ -10,14 +10,14 @@ installFiveSmithsBpmEnvironment
 
   | defaultEnvironment adminUser application role |
   "self defaultEnvironmentClass areUsersMultiEnvironment: false."
-  defaultEnvironment := (self defaultEnvironmentClass newNamed: '5smiths.com.au')
-    addToCache.
+  defaultEnvironment := (self defaultEnvironmentClass
+    newNamed: modelKey asString) addToCache.
   defaultEnvironment addDefaultCalendar.
   defaultEnvironment
-    setFrontofficeApplicationName: 'Networks';
-    setBackofficeApplicationName: 'Networks Backoffice';
-    setBIApplicationName: 'Networks BI'.
-  self fiveSmiths bpmEnvironment: defaultEnvironment.
+    setFrontofficeApplicationName: applicationName;
+    setBackofficeApplicationName: applicationName , ' Backoffice';
+    setBIApplicationName: applicationName , 'BI'.
+  (self instance models at: modelKey) bpmEnvironment: defaultEnvironment.
   self defaultBpmApplicationClass initializeCache.
   application := (BpmApplication newNamed: 'backOfficeAdmin') addToCache.
   adminUser := self defaultBpmUserClass addAdminUser.

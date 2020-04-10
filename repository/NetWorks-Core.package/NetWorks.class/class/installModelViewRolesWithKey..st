@@ -1,9 +1,9 @@
-datateks
-installFiveSmithsModelViewRoles
+setup
+installModelViewRolesWithKey: modelKey
   | application env |
   "Create Roles in each application and add all roles to all users"
   env := self defaultEnvironmentClass
-    getEnvironmentNamed: '5smiths.com.au'
+    getEnvironmentNamed: modelKey asString
     ifNone: [  ].
   application := BpmApplication
     applicationNamed: 'modelViewApplication'
