@@ -5,7 +5,7 @@ renderExportProjectDesignLogsOn: canvas
     smallSize: 6;
     extraSmallSize: 12;
     with: [ 
-          (self userHasRoleNamed: 'Design Exporter')
+          (self userHasRoleNamed: 'exportDesignLogs')
             ifTrue: [ 
               canvas form
                 with: [ 

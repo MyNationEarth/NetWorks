@@ -5,7 +5,7 @@ renderExportProjectsOn: canvas
     smallSize: 6;
     extraSmallSize: 12;
     with: [ 
-          (self userHasRoleNamed: 'Project Exporter')
+          (self userHasRoleNamed: 'exportProjects')
             ifTrue: [ 
               canvas form
                 with: [ 

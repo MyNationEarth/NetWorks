@@ -5,7 +5,7 @@ renderExportInvoicesOn: canvas
     smallSize: 6;
     extraSmallSize: 12;
     with: [ 
-          (self userHasRoleNamed: 'Contractor Exporter')
+          (self userHasRoleNamed: 'exportContractorInvoices')
             ifTrue: [ 
               canvas form
                 with: [ 

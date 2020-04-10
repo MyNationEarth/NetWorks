@@ -5,7 +5,7 @@ renderExportDesignSummaryOn: canvas
     smallSize: 6;
     extraSmallSize: 12;
     with: [ 
-          (self userHasRoleNamed: 'Design Exporter')
+          (self userHasRoleNamed: 'exportDesign')
             ifTrue: [ 
               canvas form
                 with: [ 

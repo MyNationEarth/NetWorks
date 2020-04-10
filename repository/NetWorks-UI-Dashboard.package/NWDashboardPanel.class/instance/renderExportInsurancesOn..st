@@ -5,7 +5,7 @@ renderExportInsurancesOn: canvas
     smallSize: 6;
     extraSmallSize: 12;
     with: [ 
-          (self userHasRoleNamed: 'Contractor Exporter')
+          (self userHasRoleNamed: 'exportInsurances')
             ifTrue: [ 
               canvas form
                 with: [ 
