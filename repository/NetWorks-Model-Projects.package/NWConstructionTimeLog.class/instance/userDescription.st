@@ -3,7 +3,7 @@ userDescription
   <magritteDescription>
   | description roles |
   roles := NetWorks
-    rolesNamed: #('Construction Staff' 'Project Design')
+    rolesNamed: #('Project Construction' 'Project Designer')
     in: self modelViewApplication.
   description := MASingleOptionDescription new
     accessor: #'user';
