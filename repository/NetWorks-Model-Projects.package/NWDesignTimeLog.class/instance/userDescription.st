@@ -8,7 +8,7 @@ userDescription
   description := MASingleOptionDescription new
     accessor: #'user';
     options:
-        ((BpmUser getFrontofficeUsersIn: self modelViewApplication)
+        ((BpmUser getFrontofficeUsersIn: self organisationModel bpmEnvironment)
             select: [ :user | user includesAnyRoleOf: roles in: self organisationModel bpmEnvironment ]);
     reference:
         (MAStringDescription new

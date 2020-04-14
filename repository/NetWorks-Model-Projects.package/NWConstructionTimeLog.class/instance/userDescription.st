@@ -9,7 +9,7 @@ userDescription
     accessor: #'user';
     options:
         ((BpmUser getFrontofficeUsersIn: self organisationModel bpmEnvironment)
-            select: [ :user | user includesAnyRoleOf: roles in: self modelViewApplication ]);
+            select: [ :user | user includesAnyRoleOf: roles in: self organisationModel bpmEnvironment ]);
     reference:
         (MAStringDescription new
             selectorAccessor: #'displayName';
