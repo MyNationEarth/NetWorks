@@ -8,7 +8,7 @@ renderSearchOn: canvas
             fontAwesomeSearchIcon.
           canvas space.
           canvas searchInput
-            style: 'color: black;';
+            style: 'color: black;width:90%;';
             value: searchText;
             placeholder: 'Search…';
             onKeyPress:

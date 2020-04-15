@@ -7,10 +7,12 @@ git clone https://github.com/brunobuzzi/BpmFlow.git
 cd $GS_HOME/shared/repos/BpmFlow/scripts
 sh install-all.sh networks
 
+mount @/sys/stone/dirs/Seaside3/tode /home seaside
+
 
 
 project install --url=http://gsdevkit.github.io/GsDevKit_home/Seaside32.ston
-project load --loads=`#('Welcome' 'Development' 'Zinc Project' 'Email' 'CI')` Seaside3
+project load --loads=`#('CI')` Seaside3
 mount @/sys/stone/dirs/Seaside3/tode /home seaside
 
 "Install BpmFlow"
@@ -79,6 +81,14 @@ BpmSystemInitialization initializeCurrentSystem; createSystemDefaultObjects.
 NetWorks installFiveSmithsBpmEnvironment; installFiveSmithsModelViewApplication; installFiveSmithsModelViewRoles; installFiveSmithsUsers
 
 
+
+
+(NWBackupRestoreUtility restoreBackupNamed: 'NWModelRoot-10Apr2020-082100.nwb') 
+	object bpmEnvironment users keysAndValuesDo: [ :userKey :user |
+		user userOptions applicationOptions at: #'bpmflow-ui.payRate' ifPresent: [ :payRate |
+			BpmUser cache at: userKey ifPresent: [ :u | u userOptions applicationOptions at: #'bpmflow-ui.payRate' put: payRate ]
+		]
+	]
 	
 	
 NetWorks initializeSystem.
