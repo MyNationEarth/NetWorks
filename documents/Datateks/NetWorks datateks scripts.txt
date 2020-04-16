@@ -82,6 +82,7 @@ NetWorks installFiveSmithsBpmEnvironment; installFiveSmithsModelViewApplication;
 
 
 
+(NetWorks datateks projects select: [ :p | p status = 'Complete' ]) do: [ :p | p status: 'Completed' ].
 
 (NWBackupRestoreUtility restoreBackupNamed: 'NWModelRoot-10Apr2020-082100.nwb') 
 	object bpmEnvironment users keysAndValuesDo: [ :userKey :user |
