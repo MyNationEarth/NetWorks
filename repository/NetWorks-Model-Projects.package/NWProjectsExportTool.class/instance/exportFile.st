@@ -9,7 +9,8 @@ exportFile
   csvWriter := NWCSVWriter on: fileStream.
   descriptionContainer
     do: [ :description | csvWriter nextPut: description label ]
-    separatedBy: [ csvWriter nextPut: $, ].
+    separatedBy: [ contents nextPut: $, ].
+  contents nextPut: Character cr.
   self
     addFieldsToWriter:
       (descriptionContainer

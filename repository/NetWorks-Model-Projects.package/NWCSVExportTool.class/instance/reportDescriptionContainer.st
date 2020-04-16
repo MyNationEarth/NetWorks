@@ -1,3 +1,3 @@
 description
-descriptionContainer
+reportDescriptionContainer
   ^ self subclassResponsibility
