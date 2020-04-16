@@ -2,11 +2,21 @@ export file
 exportFile
   "Answer the project export file"
 
-  | csvWriter fileStream file |
+  | descriptionContainer csvWriter fileStream file |
   file := WAFile new.
   fileStream := WriteStream on: (contents := String new).
+  descriptionContainer := self reportDescriptionContainer.
   csvWriter := NWCSVWriter on: fileStream.
-  csvWriter nextPut: self headerRow.
-  self addFieldsToWriter: csvWriter.
+  descriptionContainer
+    do: [ :description | csvWriter nextPut: description label ]
+    separatedBy: [ csvWriter nextPut: $, ].
+  self
+    addFieldsToWriter:
+      (descriptionContainer
+        inject: OrderedCollection new
+        into: [ :result :desc | 
+          result
+            add: desc accessor readSelector;
+            yourself ]).
   csvWriter nextPutAll: self projects.
   ^ contents

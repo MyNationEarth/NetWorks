@@ -6,7 +6,7 @@ reportDescriptionContainer
     , template projectEngineerDescription , template invoiceNumberDescription
     , template invoiceCreatedDateDescription
     , template pcHandedOverDateDescription
-    , template pcRequestSubmittedDateDescription
+    , template pcRequestSubmittedDateDescription , template pcDueDateDescription
     , template variationRequestSubmittedDateDescription
     , template variationApprovedDateDescription
     , template projectAwardedDateDescription , template paymentDateDescription
