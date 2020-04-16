@@ -11,6 +11,6 @@ statusOptions
   'Pre-construction'.
   'Site Visit'.
   'Survey and Design'.
-  'Complete'.
+  'Completed'.
   'Council Delay'.
   'Project Cancelled'}
