@@ -1,5 +1,5 @@
 Accessing
-variationRequestSubmittedDescription
+variationRequestSubmittedDateDescription
   <magritteDescription>
   ^ NWDateDescription new
     accessor: #'variationRequestSubmittedDate';
