@@ -1,6 +1,5 @@
 descriptions
 contractTitleDescription
-  <magritteDescription>
   ^ MAStringDescription new
     accessor: #'contractTitle';
     label: 'Contract';
