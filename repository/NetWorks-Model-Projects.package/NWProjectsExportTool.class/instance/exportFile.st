@@ -8,11 +8,11 @@ exportFile
   descriptionContainer := self reportDescriptionContainer.
   csvWriter := NWCSVWriter on: fileStream.
   descriptionContainer
-    do: [ :description | csvWriter nextPut: description label ]
-    separatedBy: [ contents nextPut: $, ].
-  contents nextPut: Character cr.
-  self
-    addFieldsToWriter:
+    do: [ :description | fileStream nextPut: description label ]
+    separatedBy: [ fileStream nextPut: $, ].
+  fileStream nextPut: Character cr.
+  csvWriter
+    addField:
       (descriptionContainer
         inject: OrderedCollection new
         into: [ :result :desc | 
