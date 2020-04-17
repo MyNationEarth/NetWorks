@@ -11,13 +11,7 @@ exportFile
     do: [ :description | fileStream nextPutAll: description label ]
     separatedBy: [ fileStream nextPut: $, ].
   fileStream nextPut: Character cr.
-  csvWriter
-    addField:
-      (descriptionContainer
-        inject: OrderedCollection new
-        into: [ :result :desc | 
-          result
-            add: desc accessor readSelector;
-            yourself ]).
+  descriptionContainer
+    do: [ :description | csvWriter addField: description accessor readSelector ].
   csvWriter nextPutAll: self projects.
   ^ contents
