@@ -101,7 +101,8 @@
 		"constructionForecastPCSubmitDate",
 		"constructionComments",
 		"constructionNbnComments",
-		"constructionTimeLogs" ],
+		"constructionTimeLogs",
+		"defects" ],
 	"name" : "NWProject",
 	"pools" : [
 		 ],

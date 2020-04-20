@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"defectCounter" : "jupiter 04/19/2020 14:00",
+		"initializeDefectCounter" : "jupiter 04/19/2020 14:04" },
+	"instance" : {
+		"backReference:" : "jupiter 04/19/2020 14:10",
+		"closedDate" : "jupiter 04/19/2020 13:53",
+		"closedDate:" : "jupiter 04/19/2020 13:53",
+		"closedDateDescription" : "jupiter 04/19/2020 14:24",
+		"contractor" : "jupiter 04/19/2020 13:53",
+		"contractor:" : "jupiter 04/19/2020 13:53",
+		"contractorDescription" : "jupiter 04/19/2020 14:26",
+		"descriptionContainer" : "jupiter 04/19/2020 15:10",
+		"initialize" : "jupiter 04/19/2020 13:59",
+		"nextDefectNumber" : "jupiter 04/19/2020 14:06",
+		"parent" : "jupiter 04/19/2020 13:53",
+		"parent:" : "jupiter 04/19/2020 13:53",
+		"raisedBy" : "jupiter 04/19/2020 13:53",
+		"raisedBy:" : "jupiter 04/19/2020 13:53",
+		"raisedByDescription" : "jupiter 04/19/2020 14:28",
+		"raisedDate" : "jupiter 04/19/2020 13:53",
+		"raisedDate:" : "jupiter 04/19/2020 13:53",
+		"raisedDateDescription" : "jupiter 04/19/2020 14:24",
+		"titleDescription" : "jupiter 04/19/2020 13:55",
+		"type" : "jupiter 04/19/2020 13:53",
+		"type:" : "jupiter 04/19/2020 13:53",
+		"typeDescription" : "jupiter 04/19/2020 14:07",
+		"typeOptions" : "jupiter 04/19/2020 14:09" } }

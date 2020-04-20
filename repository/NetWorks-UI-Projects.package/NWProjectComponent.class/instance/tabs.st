@@ -3,6 +3,15 @@ tabs
   ^ OrderedCollection new
     add:
         (Dictionary new
+            at: #'id' put: #'defects';
+            at: #'label' put: 'Defects';
+            at: #'icon' put: #'exclamationTriangle';
+            at: #'accessRoleNames' put: #('projectTabDefects');
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'defects') ];
+            yourself);
+    add:
+        (Dictionary new
             at: #'id' put: #'contractorInvoices';
             at: #'label' put: 'Contractor Invoices';
             at: #'icon' put: #'list';

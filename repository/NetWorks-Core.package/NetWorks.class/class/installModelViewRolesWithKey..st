@@ -29,6 +29,7 @@ installModelViewRolesWithKey: modelKey
   'projectTabFinancials'.
   'projectTabContractorInvoices'.
   'projectTabDefects'.
+  'contractorContactTabAccess'.
   'featureAddProjects'.
   'featureDeleteProjects'.
   'exportProjects'.

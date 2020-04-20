@@ -7,7 +7,9 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"contactNumber",
-		"emailAddress" ],
+		"emailAddress",
+		"canLogin",
+		"userName" ],
 	"name" : "NWAbstractContact",
 	"pools" : [
 		 ],

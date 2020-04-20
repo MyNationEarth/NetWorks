@@ -16,6 +16,7 @@
 		"renderContactsOn:" : "jupiter 02/10/2019 10:10",
 		"renderContractorInvoicesOn:" : "jupiter 08/21/2019 11:43",
 		"renderDatesOn:" : "jupiter 10/08/2019 20:21",
+		"renderDefectsOn:" : "jupiter 04/19/2020 14:50",
 		"renderDesignOn:" : "jupiter 07/08/2019 07:46",
 		"renderFinancialsOn:" : "jupiter 08/21/2019 12:15",
 		"renderIdentifiersOn:" : "jupiter 05/20/2019 16:03",
@@ -28,6 +29,6 @@
 		"renderSchedulingOn:" : "jupiter 03/08/2020 20:28",
 		"renderTemplatesOn:" : "jupiter 05/28/2019 18:23",
 		"respondWithCompletionCertificate" : "jupiter 05/28/2019 19:53",
-		"tabs" : "jupiter 03/24/2020 18:45",
+		"tabs" : "jupiter 04/19/2020 14:49",
 		"tabs2" : "jupiter 04/01/2019 18:55",
 		"templateBasePath" : "jupiter 05/28/2019 18:33" } }

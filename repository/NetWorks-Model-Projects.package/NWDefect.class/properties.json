@@ -1,0 +1,19 @@
+{
+	"category" : "NetWorks-Model-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"defectCounter" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parent",
+		"contractor",
+		"type",
+		"raisedBy",
+		"raisedDate",
+		"closedDate" ],
+	"name" : "NWDefect",
+	"pools" : [
+		 ],
+	"super" : "NWObjectWithTitleAndComment",
+	"type" : "normal" }

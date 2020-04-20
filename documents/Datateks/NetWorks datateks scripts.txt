@@ -75,7 +75,7 @@ Metacello new
 NetWorks instance organisationModels at: #'5smiths.com.au' put:
 (NetWorks fiveSmiths restoreFromBackup: 'NWModelRoot-9Apr2020-143701.nwb').
 
-
+(NetWorks datateks projects detect: [ :p | p title = 'SERV-2GRN-21-L0400-CALI-2']) designDDDApprovedDate: (Date fromString: '01/29/2020')
 	
 BpmSystemInitialization initializeCurrentSystem; createSystemDefaultObjects.
 NetWorks installFiveSmithsBpmEnvironment; installFiveSmithsModelViewApplication; installFiveSmithsModelViewRoles; installFiveSmithsUsers
@@ -90,7 +90,15 @@ NetWorks installFiveSmithsBpmEnvironment; installFiveSmithsModelViewApplication;
 			BpmUser cache at: userKey ifPresent: [ :u | u userOptions applicationOptions at: #'bpmflow-ui.payRate' put: payRate ]
 		]
 	]
-	
+
+"Fix DJC Costs"	
+
+((NetWorks datateks projects select: [ :p | 
+	p projectAwardedDate notNil and: [ 
+		p projectAwardedDate > (Date fromString: '01/07/2019') 
+	]
+]) select: [ :p | p djcCost notNil and: [ p djcCost > 0 ] ])
+
 	
 NetWorks initializeSystem.
 

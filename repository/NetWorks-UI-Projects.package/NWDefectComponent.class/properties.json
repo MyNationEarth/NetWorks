@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-UI-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 04/19/2020 14:31",
+	"instvars" : [
+		 ],
+	"name" : "NWDefectComponent",
+	"pools" : [
+		 ],
+	"super" : "NWTabbedContainerComponent",
+	"type" : "normal" }
