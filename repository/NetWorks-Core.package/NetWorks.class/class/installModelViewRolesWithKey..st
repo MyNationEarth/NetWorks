@@ -19,6 +19,7 @@ installModelViewRolesWithKey: modelKey
   'menuWarehouse'.
   'menuPayroll'.
   'menuWorkOrders'.
+  'menuQuality'.
   'projectTabProjectInfo'.
   'projectTabDesign'.
   'projectTabConstruction'.
@@ -28,7 +29,7 @@ installModelViewRolesWithKey: modelKey
   'projectTabNotes'.
   'projectTabFinancials'.
   'projectTabContractorInvoices'.
-  'projectTabDefects'.
+  'projectTabQuality'.
   'contractorContactTabAccess'.
   'featureAddProjects'.
   'featureDeleteProjects'.
@@ -41,6 +42,7 @@ installModelViewRolesWithKey: modelKey
   'Project Manager'.
   'Project Designer'.
   'Project Construction'.
+  'Quality Manager'.
   'Contractor'.
   'Field Supervisor'}
     do: [ :rolePrefix | 

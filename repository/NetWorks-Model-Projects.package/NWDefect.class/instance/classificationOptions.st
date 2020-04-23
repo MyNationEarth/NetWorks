@@ -1,0 +1,4 @@
+descriptions
+classificationOptions
+  ^ {'Major'.
+  'Minor'}

@@ -6,8 +6,11 @@ renderBasicsOn: canvas
         smallSize: 6;
         with: [ self renderDescriptionsWithLabels: #('Defect Number') on: canvas ].
       canvas tbsColumn
-        smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('Defect Type') on: canvas ] ].
+        smallSize: 3;
+        with: [ self renderDescriptionsWithLabels: #('Defect Type') on: canvas ].
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ self renderDescriptionsWithLabels: #('Defect Classification') on: canvas ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn
@@ -15,7 +18,7 @@ renderBasicsOn: canvas
         with: [ self renderDescriptionsWithLabels: #('Contractor') on: canvas ].
       canvas tbsColumn
         smallSize: 6;
-        with: [  ] ].
+        with: [ self renderDescriptionsWithLabels: #('Internal Staff') on: canvas ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn

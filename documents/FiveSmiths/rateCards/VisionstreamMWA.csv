@@ -1,0 +1,626 @@
+Customer,Contract ,Item Code,Item Name,Unit of Measure (UoM),Rate
+Visionstream,Visionstream - MWA,CB-01-01-11,"Installation only of an external 144 fibre distribution cabinet (FDH) including
+the supply and installation of a concrete plinth",Per FDH Cabinet," $	1,390.00 "
+Visionstream,Visionstream - MWA,CB-01-01-12,"Installation only of an external 288 fibre distribution cabinet (FDH) including
+the supply and installation of a concrete plinth",Per FDH Cabinet," $	1,306.00 "
+Visionstream,Visionstream - MWA,CB-01-01-13,"Installation only of an external 432 fibre distribution cabinet (FDH) including
+the supply and installation of a concrete plinth",Per FDH Cabinet," $	1,666.00 "
+Visionstream,Visionstream - MWA,CB-01-01-14,"Installation only of an external 144 fibre distribution cabinet (FDH) including
+the supply and installation of a concrete plinth and installation only of a pit",Per FDH Cabinet," $	1,734.00 "
+Visionstream,Visionstream - MWA,CB-01-01-15,"Installation only of an external 288 fibre distribution cabinet (FDH) including
+the supply and installation of a concrete plinth and installation only of a pit",Per FDH Cabinet," $	1,734.00 "
+Visionstream,Visionstream - MWA,CB-01-01-16,Installation only of an external 432 fibre distribution cabinet (FDH) including the supply and installation of a concrete plinth and installation only of a pit,Per FDH Cabinet," $	1,734.00 "
+Visionstream,Visionstream - MWA,CB-01-01-17,"Installation only of an external 576 fibre distribution cabinet (FDH) including
+the supply and installation of a concrete plinth and installation only of a pit",Per FDH Cabinet," $	1,734.00 "
+Visionstream,Visionstream - MWA,CB-01-01-18,"Installation only of an external 864 fibre distribution cabinet (FDH) including
+the supply and installation of a concrete plinth and installation only of a pit",Per FDH Cabinet," $	2,076.00 "
+Visionstream,Visionstream - MWA,CB-01-01-19,"Installation only of an external 864 fibre distribution cabinet (FDH) including
+the supply and installation of a concrete plinth",Per FDH Cabinet," $	1,583.00 "
+Visionstream,Visionstream - MWA,CB-02-01-11,Installation only of an external small port Node Cabinet,Per external Node Cabinet," $	4,500.00 "
+Visionstream,Visionstream - MWA,CB-02-01-21,Installation only of an external medium port Node Cabinet,"Per external Node
+Cabinet"," $	6,000.00 "
+Visionstream,Visionstream - MWA,CB-02-01-31,Installation only of an external large port Node cabinet,"Per external Node
+Cabinet"," $	6,250.00 "
+Visionstream,Visionstream - MWA,CB-02-02-11,Installation of service jumpering in a FTTN/FTTB Node Cabinet,"Per 48 Port Line
+Card", $	175.00 
+Visionstream,Visionstream - MWA,CB-02-02-21,Cable layup within CJL for external small port CSD node,Per CJL, $	110.00 
+Visionstream,Visionstream - MWA,CB-03-01-11,Installation of an internal small FTTB Cabinet,Per FTTB Cabinet," $	4,000.00 "
+Visionstream,Visionstream - MWA,CB-03-01-21,Installation of an internal medium FTTB Cabinet,Per FTTB Cabinet," $	5,100.00 "
+Visionstream,Visionstream - MWA,CB-03-02-11,Supply and install new service earth bar,"Per service earth
+bar", $	90.00 
+Visionstream,Visionstream - MWA,CB-03-02-21,Supply and install new service earth stake,Per service earth stake, $	90.00 
+Visionstream,Visionstream - MWA,CB-03-02-31,Install a 10 pair MDF terminal block,"Per 10 pair MDF
+terminal block", $	40.00 
+Visionstream,Visionstream - MWA,CB-03-02-41,Install a 100 pair MDF terminal frame,"Per 100 pair MDF
+terminal frame", $	75.00 
+Visionstream,Visionstream - MWA,CB-04-01-11,Removal and disposal of a cabinet,Per Cabinet, $	150.00 
+Visionstream,Visionstream - MWA,CB-04-01-21,Repair of a cabinet panel,Per Cabinet, $	55.00 
+Visionstream,Visionstream - MWA,CB-04-01-31,Removal of graffiti from a cabinet,Per Cabinet, $	110.00 
+Visionstream,Visionstream - MWA,CB-04-01-41,Replacement of a cabinet lock,Per Cabinet, $	20.00 
+Visionstream,Visionstream - MWA,CC-01-01-11,"Installation, commissioning and integration of a Enterprise Ethernet B-NTD
+in a wall mounted environment",Per B-NTD, $	150.00 
+Visionstream,Visionstream - MWA,CC-01-01-21,"Installation, commissioning and integration of a Enterprise Ethernet B-NTD
+in a rack mounted environment",Per B-NTD, $	150.00 
+Visionstream,Visionstream - MWA,CC-01-01-31,"Installation, commissioning and activation of a GPON B-NTD in a wall
+mounted environment",Per B-NTD, $	130.00 
+Visionstream,Visionstream - MWA,CC-01-01-41,"Installation, commissioning and activation of a GPON B-NTD in a rack mounted environment",Per B-NTD, $	130.00 
+Visionstream,Visionstream - MWA,CC-01-01-51,Installation of battery back-up unit in conjunction with BNTD installation,"Per Battery Backup
+Device", $	20.00 
+Visionstream,Visionstream - MWA,CC-01-01-61,Installation of a Fibre TV Receiver (TVR) co-located with an NTD,Per device, $	40.00 
+Visionstream,Visionstream - MWA,CC-02-01-11,Replace existing lead in termination enclosure,Per enclosure, $	100.00 
+Visionstream,Visionstream - MWA,CC-03-01-11,"Remove existing aerial lead in equipment from lead-in termination
+enclosure to NTD",Per NTD, $	95.00 
+Visionstream,Visionstream - MWA,CC-03-01-21,"Remove existing non-aerial lead in equipment from lead-in termination
+enclosure to NTD",Per NTD, $	70.00 
+Visionstream,Visionstream - MWA,CI-01-01-11,Pipe Proving in existing duct unoccupied or vacant,Per linear metre, $	2.00 
+Visionstream,Visionstream - MWA,CI-01-01-12,Pipe Proving in existing duct occupied,Per linear metre, $	2.26 
+Visionstream,Visionstream - MWA,CI-01-02-11,Pipe Proving in existing riser on a pole or in existing riser on the external face of a building,"Per existing riser on a pole or existing riser on the external
+face of a building.", $	45.00 
+Visionstream,Visionstream - MWA,CI-02-01-11,Installation of a cable sheath greater than 144 fibre in underground duct by any means,Per linear metre, $	3.15 
+Visionstream,Visionstream - MWA,CI-02-01-12,"Installation of a cable sheath greater than 144 fibre in underground duct by
+any means (Out of Hours)",Per linear metre, $	3.60 
+Visionstream,Visionstream - MWA,CI-02-01-13,Installation of T-DUX pipe seal,each Pit, $	29.00 
+Visionstream,Visionstream - MWA,CI-02-01-21,"Installation of a cable sheath greater than 12 fibre and up to and including 144 fibre in underground duct by any
+means",Per linear metre, $	2.65 
+Visionstream,Visionstream - MWA,CI-02-01-22,"Installation of a cable sheath greater than 12 fibre and up to and including 144 fibre in underground duct by any
+means (Out of Hours)",Per linear metre, $	3.04 
+Visionstream,Visionstream - MWA,CI-02-01-31,Installation of 12 fibre cable sheath in underground duct by any means,Per linear metre, $	1.80 
+Visionstream,Visionstream - MWA,CI-02-01-32,"Installation of 12 fibre cable sheath in underground duct by any means (Out
+of Hours)",Per linear metre, $	2.52 
+Visionstream,Visionstream - MWA,CI-02-01-41,Installation of single fibre cable sheath in underground duct by any means,Per linear metre, $	1.80 
+Visionstream,Visionstream - MWA,CI-02-01-42,Installation of single fibre cable sheath in underground duct by any means (Out of Hours),Per linear metre, $	2.52 
+Visionstream,Visionstream - MWA,CI-02-01-51,"Installation of a cable sheath in existing riser on a pole or in existing riser on
+the external face of a building",Per cable sheath, $	45.00 
+Visionstream,Visionstream - MWA,CI-02-02-11,"Installation of copper cable of up to including 100 pair in underground duct
+(Occupied duct)",Per linear metre, $	2.85 
+Visionstream,Visionstream - MWA,CI-02-02-12,"Installation of copper cable of up to including 100 pair in underground duct
+(Unoccupied duct)",Per linear metre, $	1.95 
+Visionstream,Visionstream - MWA,CI-02-02-21,Installation of copper cable of greater than 100 pair in underground duct (Occupied),Per linear metre, $	5.03 
+Visionstream,Visionstream - MWA,CI-02-02-22,"Installation of copper cable of greater than 100 pair in underground duct
+(Unoccupied)",Per linear metre, $	3.29 
+Visionstream,Visionstream - MWA,CI-02-03-11,Installation of hardline in underground duct by any means (Occupied Pipe),Per linear metre, $	4.30 
+Visionstream,Visionstream - MWA,CI-02-03-12,"Installation of hardline in underground duct by any means (Unoccupied
+Pipe)",Per linear metre, $	3.80 
+Visionstream,Visionstream - MWA,CI-02-03-21,Installation of hardline in an existing riser on a pole or in an existing riser on the external face of a building,"Per existing riser on a pole or existing riser on the external
+face of a building.", $	90.00 
+Visionstream,Visionstream - MWA,CI-03-01-11,Installation of cable sheath and all NBN Co infrastructure on timber poles in the communications corridor,Per Span, $	489.00 
+Visionstream,Visionstream - MWA,CI-03-01-21,"Installation of cable sheath and all NBN Co infrastructure on stobie poles in
+the communications corridor",Per Span, $	540.00 
+Visionstream,Visionstream - MWA,CI-03-01-31,"Installation of cable sheath and all NBN Co infrastructure on concrete or
+steel poles in the communications corridor",Per Span, $	536.00 
+Visionstream,Visionstream - MWA,CI-03-01-41,"Installation of cable sheath and all NBN Co infrastructure on timber poles in
+the power corridor",Per Span, $	270.00 
+Visionstream,Visionstream - MWA,CI-03-01-51,Installation of cable sheath and all NBN Co infrastructure on stobie poles in the power corridor,Per Span, $	355.00 
+Visionstream,Visionstream - MWA,CI-03-01-61,"Installation of cable sheath and all NBN Co infrastructure on concrete or
+steel poles in the power corridor",Per Span, $	355.00 
+Visionstream,Visionstream - MWA,CI-03-02-11,"Installation of copper cable sheath and all NBN Co infrastructure on timber
+poles in the communications corridorup to 100 pair",Per Span, $	430.00 
+Visionstream,Visionstream - MWA,CI-03-02-21,"Installation of copper cable sheath and all NBN Co infrastructure on stobie
+poles in the communications corridor up to 100 pair",Per Span, $	470.00 
+Visionstream,Visionstream - MWA,CI-03-02-31,Installation of copper cable sheath and all NBN Co infrastructure on concrete or steel poles in the communications corridor up to 100 pair,Per Span, $	470.00 
+Visionstream,Visionstream - MWA,CI-03-02-41,"Installation of copper cable sheath and all NBN Co infrastructure on timber
+poles in the power corridor up to 100 pair",Per Span, $	430.00 
+Visionstream,Visionstream - MWA,CI-03-02-51,"Installation of copper cable sheath and all NBN Co infrastructure on stobie
+poles in the power corridor up to 100 pair",Per Span, $	470.00 
+Visionstream,Visionstream - MWA,CI-03-02-61,"Installation of copper cable sheath and all NBN Co infrastructure on
+concrete or steel poles in the power corridor up to 100 pair",Per Span, $	470.00 
+Visionstream,Visionstream - MWA,CI-03-03-11,Installation of hardline on all pole types,"Per Coaxial Cable
+Span", $	250.00 
+Visionstream,Visionstream - MWA,CI-03-03-21,Installation of a catenary wire only on timber poles,Per Coaxial Cable Span, $	205.40 
+Visionstream,Visionstream - MWA,CI-03-03-31,Installation of a catenary wire only on stobie poles,"Per Coaxial Cable
+Span", $	295.33 
+Visionstream,Visionstream - MWA,CI-03-03-41,Installation of a catenary wire only on concrete or steel poles,"Per Coaxial Cable
+Span", $	295.33 
+Visionstream,Visionstream - MWA,CI-03-03-51,Re-lashing of existing hardline to existing catenary wire,"Per Coaxial Cable
+Span", $	218.40 
+Visionstream,Visionstream - MWA,CI-04-01-11,Installation of cable sheath within a cable chamber Networks,Per linear metre, $	6.00 
+Visionstream,Visionstream - MWA,CI-04-01-12,Installation of cable sheath within a tunnel networks,Per linear metre, $	8.00 
+Visionstream,Visionstream - MWA,CI-04-01-21,Installation of cable sheath via riser shaft/cable tray,Per linear metre, $	7.35 
+Visionstream,Visionstream - MWA,CI-04-01-22,Installation of cable sheath via riser shaft/cable tray (Out of Hours),Per linear metre, $	9.45 
+Visionstream,Visionstream - MWA,CI-04-01-31,Installation of cable sheath via ceiling space/floor cavity or crawl space,Per linear metre, $	8.35 
+Visionstream,Visionstream - MWA,CI-04-01-32,"Installation of cable sheath via ceiling space/floor cavity or crawl space
+(Out of Hours)",Per linear metre, $	10.50 
+Visionstream,Visionstream - MWA,CI-04-01-41,Installation of cable sheath via existing or new conduit,Per linear metre, $	4.15 
+Visionstream,Visionstream - MWA,CI-04-01-42,Installation of cable sheath via existing or new conduit  (Out of Hours),Per linear metre, $	5.30 
+Visionstream,Visionstream - MWA,CI-04-02-11,Extra over rate for supply and install AC power cable for FTTB Cabinet,Per linear metre, $	28.00 
+Visionstream,Visionstream - MWA,CI-04-02-21,Extra over rate for supply and install earth cable for FTTB Cabinet,Per linear metre, $	12.00 
+Visionstream,Visionstream - MWA,CI-04-02-31,"Extra over rate for the installation of a copper cable sheaths from main
+distribution frame to FTTB Cabinet, via riser, shaft or cable tray",Per linear metre, $	9.20 
+Visionstream,Visionstream - MWA,CI-04-02-41,"Extra over rate for the installation of copper cable sheaths via ceiling space,
+floor cavity or crawl space",Per linear metre, $	10.50 
+Visionstream,Visionstream - MWA,CI-04-03-11,Installation of backbone cable in buildings,Per linear metre, $	4.50 
+Visionstream,Visionstream - MWA,CI-04-03-21,"Installation of coaxial service drop cable (lateral) from isolator to the ICD in
+existing or new duct and theinstallation of the ICD",Per drop, $	82.00 
+Visionstream,Visionstream - MWA,CI-04-03-31,"Installation of coaxial service drop cable (lateral) from isolator to ICD on
+existing or new cable tray and the installation of the ICD",Per drop, $	131.00 
+Visionstream,Visionstream - MWA,CI-04-03-41,"Installation of coaxial service drop cable (lateral) from isolator to ICD in
+cavity or communications riser and the installation of the ICD",Per drop, $	95.00 
+Visionstream,Visionstream - MWA,CI-04-03-51,Installation of coaxial customer premises tie-cabling from ICD to wall plate,Per wall plate, $	85.00 
+Visionstream,Visionstream - MWA,CI-04-03-61,"Installation of coaxial customer premises tie-cabling from isolator to
+unterminated location within ceiling void",Per Tie cable, $	110.00 
+Visionstream,Visionstream - MWA,CI-04-03-71,Installation of coaxial customer premises drop cable from isolator to wall plate in existing or new ducting,Per drop, $	135.00 
+Visionstream,Visionstream - MWA,CI-04-03-81,"Installation of coaxial customer premises drop cable from isolator to wall
+plate on existing or new cable tray",Per drop, $	145.00 
+Visionstream,Visionstream - MWA,CI-04-03-91,"Installation of coaxial customer premises drop cable from isolator to wall
+plate in cavity or communications riser",Per drop, $	122.00 
+Visionstream,Visionstream - MWA,CI-05-01-11,Removal and disposal of cable in distribution aerial Network,Per Span, $	194.35 
+Visionstream,Visionstream - MWA,CI-05-01-21,Removal and disposal of cable in local aerial Network,Per Span, $	194.35 
+Visionstream,Visionstream - MWA,CI-05-01-31,Removal and disposal of catenary wire in aerial Network,Per Span, $	185.94 
+Visionstream,Visionstream - MWA,CI-05-01-41,Removal and disposal of cable in distribution underground Network,Per metre, $	1.47 
+Visionstream,Visionstream - MWA,CI-05-01-51,Removal and disposal of cable in local underground Network,Per metre, $	1.34 
+Visionstream,Visionstream - MWA,CI-05-01-61,Removal and disposal of cable in buildings,Per metre, $	3.39 
+Visionstream,Visionstream - MWA,CP-01-01-11,Installation of a new 900 type CCU,"Per new 900 type
+CCU", $	775.00 
+Visionstream,Visionstream - MWA,CP-01-01-21,Installation of a new 1800 type CCU,Per new 1800 type CCU, $	810.67 
+Visionstream,Visionstream - MWA,CP-01-01-31,"Installation of 10 cable pair bundles between two copper cable insulation displacement modules (Connection Modules), including the termination of
+the bundle on each Connection Module",Per 10 cable pair bundle, $	38.00 
+Visionstream,Visionstream - MWA,CP-01-01-41,Cutting over existing services from an existing Connection Module to a new Connection Module,Per 10 cable pairs, $	78.00 
+Visionstream,Visionstream - MWA,CP-01-01-51,Installation of service jumpering in a cross connect unit,Per Service, $	6.50 
+Visionstream,Visionstream - MWA,CP-01-02-11,Upgrading of an existing CCU from 900 type to 1800 type,"Per CCU required to be upgraded from 900 type to 1800
+type", $	138.00 
+Visionstream,Visionstream - MWA,CP-01-02-21,Augmentation of an existing 900 type CCU (Pillar Expansion Option 1),Per Expansion CCU, $	875.36 
+Visionstream,Visionstream - MWA,CP-01-02-31,Augmentation of an existing 900 type CCU (Pillar Expansion Option 2),Per Expansion CCU," $	1,124.38 "
+Visionstream,Visionstream - MWA,CP-01-03-11,Removal and disposal of an existing CCU,Per existing CCU, $	231.53 
+Visionstream,Visionstream - MWA,CP-01-04-11,Replacement of Pillar Lid Lock or Pillar Cap,Per existing CCU, $	24.00 
+Visionstream,Visionstream - MWA,CP-01-04-21,Installation of 2-piece Pillar Base Repair Kit,Per existing CCU, $	95.43 
+Visionstream,Visionstream - MWA,CP-01-04-31,Replace Cover Lightweight (1800 Type),Per existing CCU, $	39.00 
+Visionstream,Visionstream - MWA,CP-01-04-41,Replacement of copper cable insulation displacement connection module (Connection Module) and termination of cable,Per existing module, $	42.26 
+Visionstream,Visionstream - MWA,CP-02-01-11,Installation of a new Distribution extra-large copper joint,"Per new Distribution extra-
+large copper joint", $	611.38 
+Visionstream,Visionstream - MWA,CP-02-01-21,Installation of a new Distribution large copper joint,"Per new Distribution large
+copper joint", $	394.00 
+Visionstream,Visionstream - MWA,CP-02-01-31,Installation of a new Distribution small copper joint,"Per new Distribution
+smallcopper joint", $	205.39 
+Visionstream,Visionstream - MWA,CP-02-01-41,Installation of a new Main Cable small copper joint up to 100pr,Per new Main Cable small copper joint, $	520.00 
+Visionstream,Visionstream - MWA,CP-02-01-51,Installation of a new Main Cable medium copper joint - 101 to 400pr,"Per new Main Cable medium Copper
+joint"," $	1,250.00 "
+Visionstream,Visionstream - MWA,CP-02-01-61,"Installation of a new Main Cable large copper joint enclosure –
+400 to 800pr","Per new Main Cable large Copper joint
+enclosure"," $	2,750.00 "
+Visionstream,Visionstream - MWA,CP-02-01-71,Installation of a new Main Cable extra-large copper joint enclosure - 800 pr and above,"Per new Main Cable extra-large Copper
+joint enclosure"," $	5,400.00 "
+Visionstream,Visionstream - MWA,CP-02-01-81,Installation of a new aerial large copper joint,"Per new Distribution large
+copper joint", $	500.00 
+Visionstream,Visionstream - MWA,CP-02-01-91,Installation of a new aerial small copper joint,"Per new Distribution small
+copper joint", $	400.00 
+Visionstream,Visionstream - MWA,CP-02-02-11,Rehabilitate existing Distribution large openable copper joint,"Per large openable
+copper joint", $	268.66 
+Visionstream,Visionstream - MWA,CP-02-02-21,Rehabilitate existing Distribution small openable copper joint,Per small openable copper joint, $	158.26 
+Visionstream,Visionstream - MWA,CP-02-02-31,"Replacement of existing Distribution in-line copper joint with a new in-line
+large copper joint","Per existing copper
+joint replaced", $	315.00 
+Visionstream,Visionstream - MWA,CP-02-02-41,"Replacement of existing Distribution in-line copper joint with a new in-line
+small copper joint","Per existing copper
+joint replaced", $	265.00 
+Visionstream,Visionstream - MWA,CP-02-02-51,"Cutting over existing services from an existing copper joint to a new large
+copper joint","Per existing copper
+joint replaced", $	408.32 
+Visionstream,Visionstream - MWA,CP-02-02-61,Cutting over existing services from an existing copper joint to a new small copper joint,Per existing copper joint replaced, $	265.88 
+Visionstream,Visionstream - MWA,CP-02-02-71,Rehabilitate existing aerial large copper joint,"Per existing copper
+joint replaced", $	354.22 
+Visionstream,Visionstream - MWA,CP-02-02-81,Rehabilitate existing aerial small copper joint,"Per existing copper
+joint replaced", $	201.33 
+Visionstream,Visionstream - MWA,CP-02-03-11,Removal of existing copper joint,"Per existing copper
+joint", $	60.00 
+Visionstream,Visionstream - MWA,CP-02-03-21,Removal of existing aerial copper joint,"Per existing copper
+joint", $	75.00 
+Visionstream,Visionstream - MWA,CP-02-03-31,Remove a existing elevated joint,Per existing copper joint, $	120.00 
+Visionstream,Visionstream - MWA,CP-02-04-11,Joint sealing maintenance task (add Dexbond 10B Sealant),Per existing copper joint, $	55.00 
+Visionstream,Visionstream - MWA,CP-02-04-21,"Replace joint lid, clamp, or Support Bar   (HSOJ or Dexgreen Joint)","Per existing copper
+joint", $	14.00 
+Visionstream,Visionstream - MWA,CP-02-04-31,Replace or install 2-5pr Snap Enclosure,"Per existing copper
+joint", $	25.00 
+Visionstream,Visionstream - MWA,CP-02-04-41,Replace or install 10pr Snap Enclosure,Per existing copper joint, $	70.00 
+Visionstream,Visionstream - MWA,CP-02-04-51,Replace connectors in an openable joint,"Per existing copper
+joint", $	120.00 
+Visionstream,Visionstream - MWA,CP-02-04-61,Replace Bandit Strap,"Per existing copper
+joint", $	22.00 
+Visionstream,Visionstream - MWA,CP-03-01-11,Removal of a pair gain system,Per pair gain system, $	261.00 
+Visionstream,Visionstream - MWA,CP-03-01-21,Migration of an existing service from a pair gain system to a dedicated copper circuit,Per existing service, $	150.00 
+Visionstream,Visionstream - MWA,CP-03-01-31,"Single service active migration in a CSD including service jumpering in the
+pillar",Per service, $	95.00 
+Visionstream,Visionstream - MWA,CP-03-01-41,Removal of existing line conditioning equipment,"Per existing line conditioning
+equipment", $	102.00 
+Visionstream,Visionstream - MWA,CP-03-01-51,Removal of an existing bridge tap,"Per existing bridge
+tap", $	52.00 
+Visionstream,Visionstream - MWA,CP-03-01-61,Install earth bonding cable between cable sections,Per linear metre, $	12.00 
+Visionstream,Visionstream - MWA,CP-04-01-11,Installation of service jumpering in an Exchange,Per Service, $	13.57 
+Visionstream,Visionstream - MWA,CP-04-01-21,Existing service transfer jumpering in an MDF and termination end point,Per existing service, $	45.00 
+Visionstream,Visionstream - MWA,CP-04-02-11,Copper performance line testing,Per cable pair, $	65.00 
+Visionstream,Visionstream - MWA,CP-04-02-21,Line Testing Vacant Pairs,Per cable pair, $	4.50 
+Visionstream,Visionstream - MWA,CW-01-01-11,Supply and install 1 x P50 PVC pipe in open trench in OTR (Other Than Rock),Per linear metre, $	38.75 
+Visionstream,Visionstream - MWA,CW-01-01-12,"Supply and install 1 x P50 (63 OD) pipe using boring techniques in OTR
+(Other Than Rock) less than 250m",Per linear metre, $	56.35 
+Visionstream,Visionstream - MWA,CW-01-01-13,Grundomat OTR P50,Per linear metre, $	40.00 
+Visionstream,Visionstream - MWA,CW-01-01-14,P50 Conduit Entry to ACM Pit,Each ACM Pit,Quote
+Visionstream,Visionstream - MWA,CW-01-01-15,Hydro Vac excavation for P50 & reinstate,Per Hour,Quote
+Visionstream,Visionstream - MWA,CW-01-01-21,"Supply and install 1 x P100 (110 OD) PVC pipe in open trench in OTR (Other
+Than Rock)",Per linear metre, $	40.73 
+Visionstream,Visionstream - MWA,CW-01-01-22,Supply and install 1 x P100 (110 OD) pipe using boring techniques in OTR (Other Than Rock),Per linear metre, $	69.58 
+Visionstream,Visionstream - MWA,CW-01-01-23,Grundomat OTR P100,Per linear metre, $	60.00 
+Visionstream,Visionstream - MWA,CW-01-01-24,P100 Conduit Entry to ACM Pit,Each ACM Pit,Quote
+Visionstream,Visionstream - MWA,CW-01-01-25,Hydro Vac excavation for P100 & reinstate,Per Hour,Quote
+Visionstream,Visionstream - MWA,CW-01-01-31,"Extra over for supply and install an additional underground pipe in an existing trench with an internal diameter of
+greater than 25mm",Per linear metre, $	7.71 
+Visionstream,Visionstream - MWA,CW-01-01-41,"Extra over for supply and install an additional underground pipe by boring
+technique with an internal diameter of 50mm",Per linear metre, $	41.26 
+Visionstream,Visionstream - MWA,CW-01-01-42,"Extra over for supply and install an additional underground pipe by boring
+technique with an internal diameter of 100mm",Per linear metre, $	45.00 
+Visionstream,Visionstream - MWA,CW-01-01-51,Supply and install riser on pole or building,Per Riser, $	190.00 
+Visionstream,Visionstream - MWA,CW-01-02-11,Extra over rate for 1 x P50 PVC pipe in open trench in Rock,Per linear metre, $	57.31 
+Visionstream,Visionstream - MWA,CW-01-02-12,Extra over rate for 1 x P100 PVC pipe in open trench in Rock,Per linear metre, $	68.28 
+Visionstream,Visionstream - MWA,CW-01-02-13,Extra over rate for 1 x P50 (63 OD) pipe using boring techniques in Rock,Per linear metre, $	156.38 
+Visionstream,Visionstream - MWA,CW-01-02-14,Extra over rate for 1 x P100 (110 OD) pipe using boring techniques in Rock,Per linear metre, $	184.31 
+Visionstream,Visionstream - MWA,CW-02-01-11,Supply of small pit (P2 and P3),Per pit, $	60.00 
+Visionstream,Visionstream - MWA,CW-02-01-12,Installation of small pit (P2 and P3) at New location in other than Rock,Per pit, $	162.83 
+Visionstream,Visionstream - MWA,CW-02-01-13,Installation of small pit (P2 and P3) over existing infrastructure in other than Rock,Per pit, $	234.50 
+Visionstream,Visionstream - MWA,CW-02-01-21,Supply of Medium pit (P4 and P5),Per pit, $	100.00 
+Visionstream,Visionstream - MWA,CW-02-01-22,Installation of medium pit (P4 and P5) at New location in other than Rock,Per pit, $	312.11 
+Visionstream,Visionstream - MWA,CW-02-01-23,"Installation of medium pit (P4 and P5) over existing infrastructure in other
+than Rock",Per pit, $	518.00 
+Visionstream,Visionstream - MWA,CW-02-01-31,Supply only P6 Plastic Pit (1370x550x680),Per Pit, $	250.00 
+Visionstream,Visionstream - MWA,CW-02-01-32,Supply only P8 Plastic Pit (1380x565x890),Per Pit, $	300.00 
+Visionstream,Visionstream - MWA,CW-02-01-33,Installation of large pits (P6 and P8) at New location in other than Rock,Per Pit, $	475.67 
+Visionstream,Visionstream - MWA,CW-02-01-34,Installation of large pits (P6 and P8) over existing infrastructure in other than Rock,Per Pit, $	869.38 
+Visionstream,Visionstream - MWA,CW-02-01-41,Supply only P9 Plastic Pit (2040x 550x900),Per Pit, $	650.00 
+Visionstream,Visionstream - MWA,CW-02-01-42,Installation of extra-large (P9) pit at New location in other than Rock,Per Pit, $	597.19 
+Visionstream,Visionstream - MWA,CW-02-01-43,"Installation of extra-large (P9) over existing infrastructure in other than
+Rock",Per Pit," $	1,028.00 "
+Visionstream,Visionstream - MWA,CW-02-01-51,Supply riser to P5 pit,Per Pit Riser, $	130.00 
+Visionstream,Visionstream - MWA,CW-02-01-52,Supply riser to P6 pit,Per Pit Riser, $	150.00 
+Visionstream,Visionstream - MWA,CW-02-01-53,Supply riser to P8 pit,Per Pit Riser, $	150.00 
+Visionstream,Visionstream - MWA,CW-02-01-54,Supply riser to P9 pit,Per Pit Riser, $	225.00 
+Visionstream,Visionstream - MWA,CW-02-01-55,Install pit riser,Per Pit Riser, $	150.00 
+Visionstream,Visionstream - MWA,CW-02-01-61,Supply and install pit lids,Each pit lid, $	49.05 
+Visionstream,Visionstream - MWA,CW-02-01-71,Extra over flagfall for composite pit lid replacements in trafficable locations,Per Work Order, $	58.24 
+Visionstream,Visionstream - MWA,CW-02-02-11,Extra over rate for the supply and installation of a pit in Rock,Per cubic metre, $	160.80 
+Visionstream,Visionstream - MWA,CW-02-03-11,Removal and disposal of small (P2) ACM Pit,Each ACM Pit, $	543.28 
+Visionstream,Visionstream - MWA,CW-02-03-21,Removal and disposal of medium (P4 or P5) ACM Pit,Each ACM Pit, $	584.47 
+Visionstream,Visionstream - MWA,CW-02-03-31,Removal and disposal of large (P6 or P8) ACM Pit,Each ACM Pit, $	894.82 
+Visionstream,Visionstream - MWA,CW-02-03-41,Removal and disposal of extra-large (P9) ACM Pit,Each ACM Pit," $	1,215.37 "
+Visionstream,Visionstream - MWA,CW-03-01-11,Core bore,Each core bore, $	200.00 
+Visionstream,Visionstream - MWA,CW-04-01-11,Installation only of single cable by direct buried techniques by any means,Per linear metre, $	5.00 
+Visionstream,Visionstream - MWA,CW-04-02-11,"Extra over for the installation of a single cable by direct buried techniques
+in Rock",Per linear metre, $	70.00 
+Visionstream,Visionstream - MWA,CW-04-03-11,Supply and install marker posts for buried underground cable,Per marker post, $	35.00 
+Visionstream,Visionstream - MWA,CW-05-01-11,Identify and repair a damaged and blocked duct in any surface,"Per blockage
+repaired", $	421.01 
+Visionstream,Visionstream - MWA,CW-05-01-21,Clear pipe blockage using high pressure water,"Per blockage
+cleared", $	180.00 
+Visionstream,Visionstream - MWA,CW-06-01-11,Breakout concrete surface material,Per linear metre, $	80.08 
+Visionstream,Visionstream - MWA,CW-06-01-21,Breakout asphalt or bitumen,Per linear metre, $	68.91 
+Visionstream,Visionstream - MWA,CW-06-01-31,Breakout paving material in CBD areas,Per linear metre, $	75.34 
+Visionstream,Visionstream - MWA,CW-06-01-41,Breakout paving material in all areas other than CBD,Per linear metre, $	55.85 
+Visionstream,Visionstream - MWA,CW-06-02-11,Reinstate concrete surface material,Per linear metre, $	127.52 
+Visionstream,Visionstream - MWA,CW-06-02-21,Reinstate asphalt or bitumen,Per linear metre, $	88.10 
+Visionstream,Visionstream - MWA,CW-06-02-31,Reinstate paving material in CBD areas,Per linear metre, $	84.28 
+Visionstream,Visionstream - MWA,CW-06-02-41,Reinstate paving material in all areas other than CBD,Per linear metre, $	64.28 
+Visionstream,Visionstream - MWA,FB-01-01-11,"Installation and preparation of a new fibre joint enclosure greater than 144
+fibres","Per fibre joint
+enclosure", $	515.40 
+Visionstream,Visionstream - MWA,FB-01-01-21,"Installation and preparation of a new fibre joint enclosure greater than 12
+fibres and up to and including 144 fibres","Per fibre joint
+enclosure", $	340.10 
+Visionstream,Visionstream - MWA,FB-01-01-31,"Installation and preparation of a fibre joint enclosure up to and including 12
+fibres","Per fibre joint
+enclosure", $	258.18 
+Visionstream,Visionstream - MWA,FB-01-01-41,Installation and preparation of Gator fibre joint enclosure,Per Gator fibre joint enclosure, $	190.00 
+Visionstream,Visionstream - MWA,FB-01-02-12,Prepare a fibre cable sheath 192 fibres  to be connected to fibre joint enclosures,Per cable sheath, $	120.00 
+Visionstream,Visionstream - MWA,FB-01-02-13,"Prepare a fibre cable sheath 288 fibres  to be connected to fibre joint
+enclosures",Per cable sheath, $	225.00 
+Visionstream,Visionstream - MWA,FB-01-02-14,"Prepare a fibre cable sheath 432 fibres  to be connected to fibre joint
+enclosures",Per cable sheath, $	255.00 
+Visionstream,Visionstream - MWA,FB-01-02-15,"Prepare a fibre cable sheath 576 fibres  to be connected to fibre joint
+enclosures",Per cable sheath, $	294.00 
+Visionstream,Visionstream - MWA,FB-01-02-16,Prepare a fibre cable sheath 864 fibres  to be connected to fibre joint enclosures,Per cable sheath, $	350.00 
+Visionstream,Visionstream - MWA,FB-01-02-22,"Prepare a fibre cable sheath 72 fibres to be connected to fibre joint
+enclosures",Per cable sheath, $	105.00 
+Visionstream,Visionstream - MWA,FB-01-02-23,"Prepare a fibre cable sheath 144 fibres to be connected to fibre joint
+enclosures",Per cable sheath, $	115.00 
+Visionstream,Visionstream - MWA,FB-01-02-31,Prepare a 12 fibre cable to be connected to fibre joint enclosures,Per cable sheath, $	66.00 
+Visionstream,Visionstream - MWA,FB-01-02-41,Prepare Single fibre cable sheath to be connected to fibre joint enclosures,Per cable sheath, $	50.00 
+Visionstream,Visionstream - MWA,FB-01-02-51,Lay up of cable sheaths,Per cable sheath, $	54.00 
+Visionstream,Visionstream - MWA,FB-01-02-61,Prepare a loose tube fibre cable sheath 192 fibres to be connected to fibre joint enclosures,Per cable sheath, $	335.00 
+Visionstream,Visionstream - MWA,FB-01-02-62,"Prepare a loose tube fibre cable sheath 312 fibres to be connected to fibre
+joint enclosures",Per cable sheath, $	538.00 
+Visionstream,Visionstream - MWA,FB-01-02-71,"Prepare a loose tube fibre cable sheath 48 fibres to be connected to fibre
+joint enclosures",Per cable sheath, $	110.00 
+Visionstream,Visionstream - MWA,FB-01-02-72,Prepare a loose tube fibre cable sheath 72 fibres to be connected to fibre joint enclosures,Per cable sheath, $	160.00 
+Visionstream,Visionstream - MWA,FB-01-02-73,"Prepare a loose tube fibre cable sheath 144 fibres to be connected to fibre
+joint enclosures",Per cable sheath, $	270.00 
+Visionstream,Visionstream - MWA,FB-01-02-81,"Prepare a loose tube 12 fibre cable to be connected to fibre joint
+enclosures",Per cable sheath, $	62.39 
+Visionstream,Visionstream - MWA,FB-01-02-91,"Prepare a loose tube Single fibre cable sheath to be connected to fibre joint
+enclosures",Per cable sheath, $	41.59 
+Visionstream,Visionstream - MWA,FB-01-03-11,Re-entry into a fibre joint enclosure,"Per fibre joint
+enclosure", $	90.00 
+Visionstream,Visionstream - MWA,FB-01-04-11,Installation of splitter within existing FDH / PDH cabinet,Per splitter, $	33.00 
+Visionstream,Visionstream - MWA,FB-01-04-21,Installation of splitter within an existing BJL enclosure,Per splitter, $	40.00 
+Visionstream,Visionstream - MWA,FB-01-04-31,Installation of splitter within an existing FJL enclosure,Per splitter, $	42.00 
+Visionstream,Visionstream - MWA,FB-01-04-41,Installation of a splitter card output fibres to LFN ports within and existing FDH cabinet,Per Fibre, $	10.00 
+Visionstream,Visionstream - MWA,FB-01-04-51,Installation of a Fibre TV Splitter (TVS) within an FDH Cabinet,Per device, $	31.11 
+Visionstream,Visionstream - MWA,FB-01-04-61,Installation of a Fibre TV Splitter within a PDH enclosure,Per device, $	31.27 
+Visionstream,Visionstream - MWA,FB-02-01-11,Installation of multiport or splitter multiport in underground pit (Plastic Wall),Per multiport, $	32.00 
+Visionstream,Visionstream - MWA,FB-02-01-12,"Installation of multiport or splitter multiport in underground pit (Concrete
+Wall)",Per multiport, $	43.00 
+Visionstream,Visionstream - MWA,FB-02-01-22,Installation of multiport or splitter multiport on any timber pole,Per multiport, $	120.00 
+Visionstream,Visionstream - MWA,FB-02-01-23,Installation of multiport or splitter multiport on any concrete pole,Per multiport, $	210.00 
+Visionstream,Visionstream - MWA,FB-02-01-24,Installation of multiport or splitter multiport on any steel pole,Per multiport, $	208.00 
+Visionstream,Visionstream - MWA,FB-02-01-25,Installation of multiport or splitter multiport on any stobie pole,Per multiport, $	166.00 
+Visionstream,Visionstream - MWA,FB-03-01-11,Splicing of optic fibre ribbons,Per Ribbon Splice, $	15.00 
+Visionstream,Visionstream - MWA,FB-03-01-21,Splicing of single fibre,Per Fibre Splice, $	10.00 
+Visionstream,Visionstream - MWA,FB-03-01-31,Splicing of loose tube fibre,Per Fibre Splice, $	9.00 
+Visionstream,Visionstream - MWA,FB-03-01-41,De ribbonise 12 fibre ribbon,Per ribbon, $	26.00 
+Visionstream,Visionstream - MWA,FB-04-01-11,Uni-directional OTDR Testing,Per fibre, $	21.00 
+Visionstream,Visionstream - MWA,FB-04-01-31,Insertion loss testing,Per fibre, $	18.00 
+Visionstream,Visionstream - MWA,FB-04-01-41,End to end connectivity testing to the GPON NTD at customer premises,Per fibre, $	32.55 
+Visionstream,Visionstream - MWA,FB-04-01-51,End to end connectivity testing to SASK NTD at customer premises,Per fibre, $	38.48 
+Visionstream,Visionstream - MWA,FB-04-01-61,Extra over rate for LFN / MTLFN insertion loss testing to the PCD,Per fibre, $	13.00 
+Visionstream,Visionstream - MWA,FB-04-01-71,PON Power Meter Test,Per fibre, $	8.38 
+Visionstream,Visionstream - MWA,FB-04-01-81,Point to point bi-directional testing,Per fibre, $	29.06 
+Visionstream,Visionstream - MWA,FB-05-01-11,"Installation of a 72 way HDODF patch panel within an existing HDODF or
+equivalent environments",Per patch panel, $	150.00 
+Visionstream,Visionstream - MWA,FB-05-01-21,Installation of a 24 way HDODF patch panel within an existing HDODF or equivalent environments,Per patch panel, $	125.00 
+Visionstream,Visionstream - MWA,FB-05-01-31,"Installation of a 12/24 way fibre patch panel within a customer premise
+environment",Per patch panel, $	150.00 
+Visionstream,Visionstream - MWA,FB-05-01-41,"Prepare and splice a fibre cable sheath greater than 144 fibres to be
+connected within a HDODF environment",Per cable sheath, $	870.00 
+Visionstream,Visionstream - MWA,FB-05-01-51,"Prepare and splice a fibre cable sheath greater 12 fibres and up to and
+including 144 fibres to be connected within a HDODF environment",Per cable sheath, $	465.00 
+Visionstream,Visionstream - MWA,FB-05-01-61,Prepare and splice of a 12 fibre sheath within a customer premises environment,Per cable sheath, $	160.00 
+Visionstream,Visionstream - MWA,FB-05-01-71,Prepare and splice of a single fibre at a NTD,Per Fibre, $	46.00 
+Visionstream,Visionstream - MWA,FB-05-01-81,Supply and install patching cable,Per patching cable, $	30.00 
+Visionstream,Visionstream - MWA,FB-06-00-11,Removal of existing fibre joint enclosure,"Per fibre joint
+enclosure", $	80.00 
+Visionstream,Visionstream - MWA,FC-01-01-21,Installation and commissioning of a non-aerial DPU terminal device,Per DPU, $	98.00 
+Visionstream,Visionstream - MWA,FC-01-01-22,Installation and commissioning of an aerial DPU terminal device,Per DPU, $	145.00 
+Visionstream,Visionstream - MWA,FC-01-01-31,Installation and commissioning of a wall mounted DPU terminal device,Per DPU, $	105.00 
+Visionstream,Visionstream - MWA,FC-02-01-11,Installation of a new non-aerial openable joint enclosure,"Per new non-aerial openable joint
+enclosure", $	220.00 
+Visionstream,Visionstream - MWA,FC-02-01-21,"Jointing of an aerial copper drop sheath to aerial DPU copper lead in a new
+or existing openable joint enclosure","Per aerial DPU
+copper lead jointed", $	40.00 
+Visionstream,Visionstream - MWA,FC-02-01-31,"Jointing of copper drop sheath to DPU copper lead using a copper
+interconnect unit","Per DPU copper
+lead jointed", $	25.00 
+Visionstream,Visionstream - MWA,FC-02-01-41,"Jointing of copper drop sheath to DPU copper lead in a new or existing
+openable joint enclosure","Per DPU copper
+lead jointed", $	40.00 
+Visionstream,Visionstream - MWA,FC-02-01-51,"Supply and installation of a DPU copper lead extension from DPU copper lead to a new or existing aerial mounted openable joint enclosure or to an
+existing aerial mounted terminal box joint enclosure",Per DPU copper lead extension, $	76.00 
+Visionstream,Visionstream - MWA,FC-02-01-61,Supply and installation of DPU copper lead extension from DPU copper lead to a new or existing non-aerial mounted openable joint enclosure,Per DPU copper lead extension, $	63.55 
+Visionstream,Visionstream - MWA,FC-02-01-71,"Supply and installation of a DPU copper lead extension from DPU copper
+lead to a non-aerial copper interconnect unit","Per DPU copper
+lead extension", $	80.00 
+Visionstream,Visionstream - MWA,FC-02-01-81,"Installation of a copper tie cable for interconnection between two new or
+existing openable joint enclosures or terminal box joint enclosures",Per copper tie cable, $	390.00 
+Visionstream,Visionstream - MWA,FC-02-01-91,Extra over for the Installation of a 2 pair copper cut-in loop to existing lead sheath copper lead-in,Per 2pair loop, $	38.00 
+Visionstream,Visionstream - MWA,FC-02-11-01,"Removal of an existing terminal box joint enclosure or existing openable
+joint and installation of a new replacement openable joint enclosure","Per replaced
+enclosure", $	255.00 
+Visionstream,Visionstream - MWA,FC-02-11-11,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a non-aerial copper interconnect unit,"Per DPU copper lead high twist
+extension", $	101.00 
+Visionstream,Visionstream - MWA,FC-02-11-21,"Installation of a DPU 2 pair high twist copper lead extension from DPU
+copper lead to a new or existing aerial mounted openable joint enclosure or to an existing aerial mounted terminal box joint enclosure","Per DPU copper
+lead high twist extension", $	98.33 
+Visionstream,Visionstream - MWA,FC-02-11-31,"Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing non-aerial mounted openable joint
+enclosure","Per DPU copper lead high twist
+extension", $	91.55 
+Visionstream,Visionstream - MWA,FC-03-01-11,Existing copper drop sheath validation,"Per existing copper drop sheath
+validated", $	31.45 
+Visionstream,Visionstream - MWA,FC-03-01-21,Existing Copper drop sheath validation for Serviceability for Missed Lead-ins,"Per existing copper drop sheath
+validated", $	45.00 
+Visionstream,Visionstream - MWA,HF-01-01-11,Installation of aerial bridger amplifier in new network,Per bridger amplifier, $	255.00 
+Visionstream,Visionstream - MWA,HF-01-01-21,Installation of aerial bridger amplifier in existing network,"Per bridger
+amplifier", $	255.00 
+Visionstream,Visionstream - MWA,HF-01-01-31,Installation of aerial line-extender amplifier in new network,"Per line-extender
+amplifier", $	205.00 
+Visionstream,Visionstream - MWA,HF-01-01-41,Installation of aerial line-extender amplifier to existing network,Per line-extender amplifier, $	235.00 
+Visionstream,Visionstream - MWA,HF-01-01-51,"Installation of aerial directional coupler, network splitter, line equaliser or line power inserter in new network","Per coupler or network splitter or
+line power inserter", $	125.00 
+Visionstream,Visionstream - MWA,HF-01-01-61,"Installation of aerial mounted directional coupler, network splitter, line equaliser or line power inserter in existing
+network","Per coupler or network splitter or
+line power inserter", $	135.00 
+Visionstream,Visionstream - MWA,HF-01-01-71,Installation of aerial line power supply in new network,Per line power supply, $	680.00 
+Visionstream,Visionstream - MWA,HF-01-01-81,Installation of aerial line power supply in existing network,"Per line power
+supply", $	680.00 
+Visionstream,Visionstream - MWA,HF-01-01-91,Installation of pedestal mounted line power supply in new network,"Per line power
+supply", $	800.00 
+Visionstream,Visionstream - MWA,HF-01-02-11,"Replacement of amplifier module in existing aerial mounted line/bridger
+amplifier enclosure","Per amplifier
+module", $	155.00 
+Visionstream,Visionstream - MWA,HF-01-02-21,Replacement of aerial coupler or aerial network splitter in existing network,Per device, $	151.63 
+Visionstream,Visionstream - MWA,HF-01-02-31,Replacement of aerial tap in the existing network,Per tap, $	120.00 
+Visionstream,Visionstream - MWA,HF-01-02-41,Replacement of aerial tap face plate in the existing network,Per face plate, $	60.00 
+Visionstream,Visionstream - MWA,HF-01-02-51,Replacement of existing PCD with a lock box,Per PCD, $	45.00 
+Visionstream,Visionstream - MWA,HF-01-03-11,"Removal of aerial bridger amplifier or aerial line extender amplifier in
+existing network",Per device, $	128.00 
+Visionstream,Visionstream - MWA,HF-01-03-21,Removal of aerial coupler or aerial network splitter in existing network,Per device, $	115.00 
+Visionstream,Visionstream - MWA,HF-01-03-31,Removal of aerial tap in existing network,Per tap, $	73.80 
+Visionstream,Visionstream - MWA,HF-01-03-41,Removal of aerial terminator in existing network,Per terminator, $	32.00 
+Visionstream,Visionstream - MWA,HF-01-03-51,Removal of aerial power blocker in existing network,per device, $	98.00 
+Visionstream,Visionstream - MWA,HF-01-03-61,"Removal of existing aerial line power supply, line power inserter and
+pedestal housing in existing network","Per pedestal
+housing", $	485.00 
+Visionstream,Visionstream - MWA,HF-01-11-01,Installation of pedestal mounted line power supply in existing network,"Per line power
+supply", $	455.00 
+Visionstream,Visionstream - MWA,HF-01-11-11,Installation of aerial tap in new network,Per tap, $	95.00 
+Visionstream,Visionstream - MWA,HF-01-11-21,Installation of aerial tap in existing network,Per tap, $	95.00 
+Visionstream,Visionstream - MWA,HF-01-11-31,Installation of aerial mounted power blocker in existing network,per device, $	125.00 
+Visionstream,Visionstream - MWA,HF-01-11-41,Installation of aerial RF splice in existing network,Per Splice, $	125.00 
+Visionstream,Visionstream - MWA,HF-01-11-51,"Installation of an earth to an existing aerial active device where no earth
+has been provided or is unserviceable",Per device, $	60.00 
+Visionstream,Visionstream - MWA,HF-01-11-61,Installation of tie-cabling from PCD to wall plate,Per wall plate, $	99.00 
+Visionstream,Visionstream - MWA,HF-02-01-11,Installation of non-aerial bridger amplifier in new network,Per bridge amplifier, $	133.00 
+Visionstream,Visionstream - MWA,HF-02-01-21,Installation of non-aerial bridger amplifier in existing network,Per bridge amplifier, $	146.00 
+Visionstream,Visionstream - MWA,HF-02-01-31,Installation of non-aerial line-extender amplifier in new network,"Per line-extender
+amplifier", $	123.00 
+Visionstream,Visionstream - MWA,HF-02-01-41,Installation of non-aerial line-extender amplifier to existing network,Per line-extender amplifier, $	177.00 
+Visionstream,Visionstream - MWA,HF-02-01-51,"Installation of non-aerial directional coupler, network splitter, line equaliser or line power inserter in new network","Per coupler or network splitter or
+line power inserter", $	80.00 
+Visionstream,Visionstream - MWA,HF-02-01-61,"Installation of non-aerial directional coupler, network splitter, line equaliser or line power inserter in existing network","Per coupler or network splitter or
+line power inserter", $	90.00 
+Visionstream,Visionstream - MWA,HF-02-01-71,Installation of non-aerial mounted tap in new network,Per tap, $	65.00 
+Visionstream,Visionstream - MWA,HF-02-01-81,Installation of non-aerial tap in existing network,Per tap, $	88.00 
+Visionstream,Visionstream - MWA,HF-02-01-91,Supply and install optical patch cable within HDODF,Per patch cable, $	40.00 
+Visionstream,Visionstream - MWA,HF-02-02-11,"Replacement of amplifier module in existing non-aerial mounted
+line/bridge amplifier enclosure","Per amplifier
+module", $	80.00 
+Visionstream,Visionstream - MWA,HF-02-02-21,Replacement of non-aerial coupler or non-aerial network splitter in existing network,Per device, $	90.00 
+Visionstream,Visionstream - MWA,HF-02-02-31,Replacement of non-aerial tap face plate in the existing network,Per face plate, $	53.00 
+Visionstream,Visionstream - MWA,HF-02-02-41,Installation of an earth to an existing non aerial active device where the existing earth is unserviceable,Per earth, $	60.00 
+Visionstream,Visionstream - MWA,HF-02-03-11,Removal of non-aerial bridger amplifier or non-aerial line extender amplifier in existing network,"Per non-aerial bridger amplifier or non-aerial line extender amplifier
+device", $	77.00 
+Visionstream,Visionstream - MWA,HF-02-03-21,Removal of non-aerial coupler or non-aerial network splitter in existing network,Per device, $	74.00 
+Visionstream,Visionstream - MWA,HF-02-03-31,Removal of non-aerial tap in existing network,Per tap, $	32.00 
+Visionstream,Visionstream - MWA,HF-02-03-41,Removal of non-aerial terminator in existing network,Per terminator, $	30.00 
+Visionstream,Visionstream - MWA,HF-02-03-51,Removal of non aerial power blocker in existing network,per device, $	61.00 
+Visionstream,Visionstream - MWA,HF-02-03-61,"Removal of existing  line power supply, line power inserter and pedestal
+housing in existing network","Per pedestal
+housing", $	485.00 
+Visionstream,Visionstream - MWA,HF-02-11-01,Supply and Installation of pedestal,Per pedestal, $	770.00 
+Visionstream,Visionstream - MWA,HF-02-11-11,Installation of non-aerial power blocker in existing network,per device, $	70.00 
+Visionstream,Visionstream - MWA,HF-02-11-21,Installation of non-aerial RF splice in existing network,Per Splice, $	55.00 
+Visionstream,Visionstream - MWA,HF-02-11-31,"Installation of power blocker in conjunction with the installation of a new
+device in either aerial or non-aerial environment in new network",per device, $	35.00 
+Visionstream,Visionstream - MWA,HF-02-11-41,"Installation of an earth to an existing non aerial active device where no
+earth has been provided",Per device, $	60.00 
+Visionstream,Visionstream - MWA,HF-03-01-11,Proof of performance testing,per device, $	85.00 
+Visionstream,Visionstream - MWA,HF-03-01-21,Return path noise testing of an optical node in the existing network,Per optical node, $	125.00 
+Visionstream,Visionstream - MWA,HF-03-02-11,Alignment of aerial HFC active equipment,"Per HFC active
+equipment", $	170.00 
+Visionstream,Visionstream - MWA,HF-03-02-21,Alignment of non-aerial HFC active equipment,"Per HFC active
+equipment", $	63.00 
+Visionstream,Visionstream - MWA,HF-03-02-31,Reconfigure output of aerial directional coupler or aerial network splitter in an existing network,per device, $	145.00 
+Visionstream,Visionstream - MWA,HF-03-02-41,"Reconfigure output non-aerial directional coupler or network splitter in
+existing network",per device, $	80.00 
+Visionstream,Visionstream - MWA,HF-04-01-11,Earthing of catenary wire,Per earth, $	235.00 
+Visionstream,Visionstream - MWA,MD-01-01-11,Supply & Installation of catenary wire system in buildings,Per linear metre, $	16.00 
+Visionstream,Visionstream - MWA,MD-01-01-21,Supply & Installation of cable tray in buildings,Per linear metre, $	63.00 
+Visionstream,Visionstream - MWA,MD-01-01-31,Supply and installation of ducting <30mm width,Per linear metre, $	17.00 
+Visionstream,Visionstream - MWA,MD-01-01-41,Supply and installation of ducting >30mm width,Per linear metre, $	28.50 
+Visionstream,Visionstream - MWA,MD-01-01-51,Supply and installation of conduit,Per linear metre, $	15.00 
+Visionstream,Visionstream - MWA,MD-01-01-61,Installation of One Pass Fibre Pathway in buildings,Per linear metre, $	23.80 
+Visionstream,Visionstream - MWA,MD-01-01-71,Connecting One Pass Fibre Pathway to ICD or PCD,Each ICD or PCD, $	43.00 
+Visionstream,Visionstream - MWA,MD-01-07-11,Installation of Fibre Collector Distributor (FCD) or Fibre Distribution Terminal (FDT) or Cable Transition Location (CTL) within buildings,"Each FCD, FDT or CTL", $	120.00 
+Visionstream,Visionstream - MWA,MD-01-07-21,Installation of Premises Distribution Hub (PDH),Each PDH, $	120.00 
+Visionstream,Visionstream - MWA,MD-01-07-31,Installation of Internal Connection Device (ICD) or Premises Connection Device (PCD),Each ICD or PCD, $	24.00 
+Visionstream,Visionstream - MWA,MD-01-07-41,Installation of a fibre wall outlet,Per outlet, $	21.00 
+Visionstream,Visionstream - MWA,MD-01-07-51,Installation of apartment amplifier in buildings,Per amplifier, $	102.00 
+Visionstream,Visionstream - MWA,MD-01-07-61,Installation of MDU security enclosure,"Per MDU security
+enclosure", $	95.00 
+Visionstream,Visionstream - MWA,MD-01-07-71,Installation of tap in buildings,Per tap, $	65.00 
+Visionstream,Visionstream - MWA,MD-01-07-81,Installation of directional coupler or splitter in buildings,"Per directional
+coupler or splitter", $	70.00 
+Visionstream,Visionstream - MWA,MD-01-07-91,Extra over rate for the Installation of an isolator in buildings,Per Isolator, $	75.00 
+Visionstream,Visionstream - MWA,MD-01-08-11,Provide a wall penetration in brick or concrete wall only,"Each wall
+penetration", $	127.00 
+Visionstream,Visionstream - MWA,MD-01-08-12,"Provide a wall penetration in brick or concrete wall only outside working
+hours","Each wall
+penetration", $	165.00 
+Visionstream,Visionstream - MWA,MD-01-08-21,Provide a wall penetration in a plasterboard wall only,"Each wall
+penetration", $	11.68 
+Visionstream,Visionstream - MWA,MD-01-08-22,Provide a wall penetration in a plasterboard wall only outside working hours,Each wall penetration, $	15.18 
+Visionstream,Visionstream - MWA,MD-01-08-31,Provide a floor penetration above 50mm diameter,"Each floor
+penetration", $	300.00 
+Visionstream,Visionstream - MWA,MD-01-08-32,Provide a floor penetration above 50mm diameter outside working hours,"Each floor
+penetration", $	392.00 
+Visionstream,Visionstream - MWA,MD-01-08-41,Provide a floor penetration up to and including 50mm diameter,Each floor penetration, $	200.00 
+Visionstream,Visionstream - MWA,MD-01-08-42,"Provide a floor penetration up to and including 50mm diameter outside
+working hours","Each floor
+penetration", $	260.00 
+Visionstream,Visionstream - MWA,MD-01-08-51,Supply and installation of appropriate fire stopping method as required,Per Penetration, $	83.00 
+Visionstream,Visionstream - MWA,MD-01-08-52,"Supply and installation of appropriate fire stopping method as required
+outside working hours",Per Penetration, $	108.00 
+Visionstream,Visionstream - MWA,MD-01-71-11,Replacement of tap in buildings,Per Tap, $	73.00 
+Visionstream,Visionstream - MWA,MD-01-71-21,Replacement of tap faceplate in buildings,Per face plate, $	60.00 
+Visionstream,Visionstream - MWA,MD-01-71-31,"Removal of tap, isolator, directional coupler or splitter in buildings only",Per device, $	65.00 
+Visionstream,Visionstream - MWA,MD-01-71-41,Removal of an apartment amplifier in buildings,per device, $	72.00 
+Visionstream,Visionstream - MWA,MD-02-01-11,"Installation of a single service drop sheath (SDS) on a single span to a multi
+dwelling unit","Per aerial service
+drop", $	230.00 
+Visionstream,Visionstream - MWA,MD-02-01-21,"Extra over rate for additional spans for an aerial service drop to a multi
+dwelling unit","Each additional
+Span", $	90.00 
+Visionstream,Visionstream - MWA,MD-02-01-31,Extra over rate for supply and installation of an raiser pole on a building.,"Each raiser pole
+installed", $	50.00 
+Visionstream,Visionstream - MWA,MD-02-01-41,Installation of service drop sheath underground to a multi dwelling unit,Per service drop, $	168.33 
+Visionstream,Visionstream - MWA,MD-02-01-51,"Installation of direct service drop sheath underground to a multi dwelling
+unit","Per direct service
+drop", $	250.00 
+Visionstream,Visionstream - MWA,MD-02-02-11,Replace existing copper aerial lead-in with new copper aerial lead-in to a multi dwelling unit,"Per existing copper aerial lead-in
+replaced. Per Span", $	160.00 
+Visionstream,Visionstream - MWA,MD-02-02-21,Installation of aerial copper service drop to a multi dwelling unit,"Per aerial copper
+service drop", $	180.00 
+Visionstream,Visionstream - MWA,MD-02-02-31,Installation of non-aerial copper service drop to a multi dwelling unit,"Per non-aerial
+copper service drop", $	101.00 
+Visionstream,Visionstream - MWA,MD-02-03-11,Installation of a coaxial drop cable on a single span to a multi dwelling unit,"Per aerial service
+drop", $	145.00 
+Visionstream,Visionstream - MWA,MD-02-03-21,"Extra over rate for installation of a new coaxial drop cable in-span to a multi
+dwelling unit",Per in-span Drop, $	105.00 
+Visionstream,Visionstream - MWA,MD-02-03-31,Extra over rate for additional spans for a aerial coaxial service drop to a multi dwelling unit,Each additional Span, $	110.00 
+Visionstream,Visionstream - MWA,MD-02-03-41,Installation of non-aerial coaxial service drop to a multi dwelling unit,"Per coaxial service
+drop", $	130.00 
+Visionstream,Visionstream - MWA,MD-02-03-51,Extra over for supply and Installation of rooftop raiser on a building,"Per raiser pole
+installed", $	85.00 
+Visionstream,Visionstream - MWA,MD-03-01-11,FTTP MDU In-building Cabling (1-10 Premises),Per EUP, $	295.00 
+Visionstream,Visionstream - MWA,MD-03-01-21,FTTP MDU In-building Cabling (11- 30 Premises),Per EUP, $	250.00 
+Visionstream,Visionstream - MWA,MD-03-01-31,FTTP MDU In-building Cabling (31- 60 Premises),Per EUP, $	230.00 
+Visionstream,Visionstream - MWA,MD-03-01-41,FTTP MDU In-building Cabling (61- 100 Premises),Per EUP, $	210.00 
+Visionstream,Visionstream - MWA,MD-03-01-51,FTTP MDU In-building Cabling (101- 150 Premises),Per EUP, $	195.00 
+Visionstream,Visionstream - MWA,MD-03-01-61,FTTP MDU In-building Cabling (151- 200 Premises),Per EUP, $	190.00 
+Visionstream,Visionstream - MWA,MD-03-01-71,FTTP MDU In-building Cabling (200+ Premises),Per EUP, $	180.00 
+Visionstream,Visionstream - MWA,MD-03-02-21,Installation of Splitter for RF / Wired TV,Per EUP, $	20.00 
+Visionstream,Visionstream - MWA,MD-03-02-31,Extra-over for Installation of Fibre TV receiver co-located with an NTD,Per EUP, $	40.00 
+Visionstream,Visionstream - MWA,SD-01-01-11,"Extra over rate for the supply and install of new lead-in pipe, minimum
+charge 6 metres route length, by anymeans",Per linear metre, $	33.00 
+Visionstream,Visionstream - MWA,SD-01-01-31,Supply and install of Y connectors,Per Y connector, $	125.00 
+Visionstream,Visionstream - MWA,SD-01-01-41,Supply and install new lead-in starter pipe,Per Starter Pipe, $	195.00 
+Visionstream,Visionstream - MWA,SD-01-02-11,Extra over rate to repair lead-in conduit,"Per repaired lead-in
+conduit", $	59.00 
+Visionstream,Visionstream - MWA,SD-02-01-11,"Installation of a single service drop sheath on a single span to a single
+dwelling unit","Per aerial service
+drop", $	160.00 
+Visionstream,Visionstream - MWA,SD-02-01-21,"Extra over rate for additional spans for an aerial service drop to a single
+dwelling unit","Each additional
+Span", $	95.00 
+Visionstream,Visionstream - MWA,SD-02-01-31,Installation of service drop sheath underground to a single dwelling unit,Per service drop, $	135.00 
+Visionstream,Visionstream - MWA,SD-02-01-41,"Installation of direct service drop sheath underground to a single dwelling
+unit","Per direct service
+drop", $	180.00 
+Visionstream,Visionstream - MWA,SD-02-02-11,Replace existing copper aerial lead-in with new copper aerial lead-in to a single dwelling unit,"Per existing copper aerial lead-in
+replaced. Per Span", $	250.00 
+Visionstream,Visionstream - MWA,SD-02-02-21,Installation of aerial copper service drop to a single dwelling unit,"Per aerial copper
+service drop", $	250.00 
+Visionstream,Visionstream - MWA,SD-02-02-31,Installation of non-aerial copper service drop to a single dwelling unit,Per non-aerial copper service drop, $	120.00 
+Visionstream,Visionstream - MWA,SD-02-03-11,Installation of a coaxial drop cable on a single span to a single dwelling unit,Per aerial service drop, $	142.00 
+Visionstream,Visionstream - MWA,SD-02-03-21,"Extra over rate for installation of a new coaxial drop cable in-span to a
+single dwelling unit",Per in-span Drop, $	110.00 
+Visionstream,Visionstream - MWA,SD-02-03-31,"Extra over rate for additional spans for a aerial coaxial service drop to a
+single dwelling unit","Each additional
+Span", $	115.00 
+Visionstream,Visionstream - MWA,SD-02-03-41,Installation of non-aerial coaxial service drop to a single dwelling unit,"Per coaxial service
+drop", $	117.00 
+Visionstream,Visionstream - MWA,TB-01-01-11,Electrician (inclusive equipment),Per hour, $	85.00 
+Visionstream,Visionstream - MWA,TB-01-01-21,Electrician (inclusive equipment) – outside working hours,Per hour, $	115.00 
+Visionstream,Visionstream - MWA,TB-01-01-31,Fibre Technician (inclusive equipment),Per hour, $	80.00 
+Visionstream,Visionstream - MWA,TB-01-01-41,Fibre Technician (inclusive equipment) – outside working hours,Per hour, $	88.00 
+Visionstream,Visionstream - MWA,TB-01-01-51,Labourer,Per hour, $	48.00 
+Visionstream,Visionstream - MWA,TB-01-01-61,Labourer - outside working hours,Per hour, $	60.00 
+Visionstream,Visionstream - MWA,TB-01-01-71,Plant Operator,Per hour, $	48.00 
+Visionstream,Visionstream - MWA,TB-01-01-81,Plant Operator – outside working hours,Per hour, $	65.00 
+Visionstream,Visionstream - MWA,TB-01-02-11,Third party damage report,Per hour, $	85.00 
+Visionstream,Visionstream - MWA,TB-02-02-11,Provision of float charges for the movement of large plant and equipment between work sites,Per km, $	4.04 
+Visionstream,Visionstream - MWA,TB-02-02-21,Single-axle tipper truck 5 tonne load,Per Day, $	284.47 
+Visionstream,Visionstream - MWA,TB-02-02-31,EWP truck mounted up to 12m,Per Day, $	565.01 
+Visionstream,Visionstream - MWA,TB-02-02-41,Fully equipped vehicle for electrical technician,Per Day, $	174.86 
+Visionstream,Visionstream - MWA,TB-02-02-51,Fully equipped vehicle for fibre technician,Per Day, $	174.86 
+Visionstream,Visionstream - MWA,TB-02-02-61,Bobcat with 4-in-1 bucket,Per Day, $	414.32 
+Visionstream,Visionstream - MWA,TB-02-02-71,"Backhoe, JCB3CX or equivalent",Per Day, $	514.65 
+Visionstream,Visionstream - MWA,TB-02-02-81,Excavators up to 10 tonnes,Per Day, $	630.74 
+Visionstream,Visionstream - MWA,TB-02-02-91,Excavators 10 to 15 tonnes,Per Day, $	710.80 
+Visionstream,Visionstream - MWA,TB-02-21-01,Excavators up to 10 tonnes fitted with rock breaker,Per Day, $	870.93 
+Visionstream,Visionstream - MWA,TB-02-21-11,Double-axle tipper truck 9 tonne load,Per Day, $	334.26 
+Visionstream,Visionstream - MWA,TB-02-21-21,Dozer (306 - 400 kw),Per Day," $	1,654.26 "
+Visionstream,Visionstream - MWA,TB-02-21-31,Scissor Lift,Per Day, $	565.01 
+Visionstream,Visionstream - MWA,TB-02-21-41,Vac Truck,Per Day," $	1,912.32 "

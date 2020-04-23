@@ -4,7 +4,7 @@ installFiveSmithsRateCards
   basePath := self rateCardImportBasePathFiveSmiths.
   (NetWorks instance organisationModels at: #'5smiths.com.au') rateCards.
   importTool := NWFiveSmithsRateCardImportTool
-    onFileAtPath: basePath , 'rateCard120220.csv'.
+    onFileAtPath: basePath , 'VisionstreamMWA.csv'.
   importTool setDebug.
   rateCards := importTool import values.
-  NetWorks fiveSmiths rateCards: rateCards copy
+  NetWorks fiveSmiths rateCards addAll: rateCards copy

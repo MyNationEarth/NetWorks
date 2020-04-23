@@ -10,7 +10,7 @@ defectsDescription
         template titleDescription , template typeDescription
             , template raisedByDescription , template raisedDateDescription
             , template closedDateDescription , template commentDescription;
-    label: 'Defects';
+    label: 'Quality';
     priority: 400;
     beSorted;
     yourself

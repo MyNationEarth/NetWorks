@@ -8,7 +8,9 @@
 	"instvars" : [
 		"parent",
 		"contractor",
+		"internalStaff",
 		"type",
+		"classification",
 		"raisedBy",
 		"raisedDate",
 		"closedDate" ],

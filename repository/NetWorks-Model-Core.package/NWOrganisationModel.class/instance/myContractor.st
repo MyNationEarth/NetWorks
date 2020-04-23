@@ -1,4 +1,4 @@
-contractor access
+work order access
 myContractor
   "Answer the contractor owning this user.
 	If the current user is has the Contractor role - lookup which contractor this user belongs to"

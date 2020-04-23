@@ -1,12 +1,12 @@
 descriptions
-raisedByDescription
+internalStaffDescription
   <magritteDescription>
   | description roles |
   roles := NetWorks
-    rolesNamed: #('Project Manager' 'Design Manager' 'Quality Manager')
+    rolesNamed: #('Project Construction')
     in: self modelViewApplication.
   description := MASingleOptionDescription new
-    accessor: #'raisedBy';
+    accessor: #'internalStaff';
     options:
         ((BpmUser getFrontofficeUsersIn: self organisationModel bpmEnvironment)
             select: [ :user | user includesAnyRoleOf: roles in: self organisationModel bpmEnvironment ]);
@@ -14,7 +14,7 @@ raisedByDescription
         (MAStringDescription new
             selectorAccessor: #'displayName';
             yourself) asContainer;
-    label: 'Raised By';
+    label: 'Internal Staff';
     priority: 100;
     beRequired;
     beSorted;

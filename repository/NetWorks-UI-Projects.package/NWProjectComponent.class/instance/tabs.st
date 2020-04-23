@@ -3,12 +3,12 @@ tabs
   ^ OrderedCollection new
     add:
         (Dictionary new
-            at: #'id' put: #'defects';
-            at: #'label' put: 'Defects';
+            at: #'id' put: #'quality';
+            at: #'label' put: 'Quality';
             at: #'icon' put: #'exclamationTriangle';
-            at: #'accessRoleNames' put: #('projectTabDefects');
+            at: #'accessRoleNames' put: #('projectTabQuality');
             at: #'callback'
-              put: [ announcer announce: (NWTabSelected tab: #'defects') ];
+              put: [ announcer announce: (NWTabSelected tab: #'quality') ];
             yourself);
     add:
         (Dictionary new
