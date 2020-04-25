@@ -5,4 +5,4 @@ renderAdminContentOn: canvas
       canvas tbsColumn
         smallSize: 12;
         largeSize: 12;
-        with: [ canvas render: self projectsComponent ] ]
+        with: [ canvas render: self workOrdersComponent ] ]

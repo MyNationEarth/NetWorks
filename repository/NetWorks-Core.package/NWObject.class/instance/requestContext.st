@@ -1,0 +1,3 @@
+seaside
+requestContext
+  ^ WACurrentRequestContext value

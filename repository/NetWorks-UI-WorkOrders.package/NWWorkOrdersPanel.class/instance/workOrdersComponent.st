@@ -3,7 +3,7 @@ workOrdersComponent
   ^ self
     componentAt: #'workOrders'
     ifAbsentPut: [ 
-      (self organisationModel projectsDescription asContainer
+      (self organisationModel myWorkOrdersDescription asContainer
         componentRenderer: MACssRenderer;
         asComponentOn: self organisationModel)
         addForm: #();

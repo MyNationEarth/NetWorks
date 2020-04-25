@@ -2,4 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"printString" : "jupiter 11/18/2018 21:55" } }
+		"printString" : "jupiter 11/18/2018 21:55",
+		"requestContext" : "jupiter 04/25/2020 15:33",
+		"session" : "jupiter 04/25/2020 15:33" } }
