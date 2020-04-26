@@ -3,7 +3,7 @@ projectDescription
   <magritteDescription>
   | description |
   description := MASingleOptionDescription new
-    accessor: #'project';
+    accessor: #'parent';
     options: self organisationModel projects;
     reference: NWProject new titleDescription asContainer;
     componentClass: NWAutoCompleteSelectListComponent;

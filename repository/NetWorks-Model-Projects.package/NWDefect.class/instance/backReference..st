@@ -1,3 +1,4 @@
 magritte-hooks
 backReference: aParent
-  parent := aParent
+  (aParent isKindOf: NWProject)
+    ifTrue: [ parent := aParent ]
