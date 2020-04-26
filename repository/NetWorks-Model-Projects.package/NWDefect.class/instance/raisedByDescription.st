@@ -16,7 +16,6 @@ raisedByDescription
             yourself) asContainer;
     label: 'Raised By';
     priority: 100;
-    beRequired;
     beSorted;
     yourself.
   ^ description

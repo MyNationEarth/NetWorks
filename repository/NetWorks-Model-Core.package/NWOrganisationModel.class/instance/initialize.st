@@ -7,4 +7,5 @@ initialize
   contractors := OrderedCollection new.
   projects := OrderedCollection new.
   materials := OrderedCollection new.
-  materialStores := OrderedCollection new
+  materialStores := OrderedCollection new.
+  defects := OrderedCollection new

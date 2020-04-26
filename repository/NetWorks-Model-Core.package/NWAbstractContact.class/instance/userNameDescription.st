@@ -4,6 +4,6 @@ userNameDescription
   ^ MAStringDescription new
     accessor: #'userName';
     label: 'User Name';
-    priority: 100;
+    priority: 10;
     componentClass: TBSMagritteTextInputComponent;
     yourself

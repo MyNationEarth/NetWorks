@@ -16,7 +16,6 @@ internalStaffDescription
             yourself) asContainer;
     label: 'Internal Staff';
     priority: 100;
-    beRequired;
     beSorted;
     yourself.
   ^ description

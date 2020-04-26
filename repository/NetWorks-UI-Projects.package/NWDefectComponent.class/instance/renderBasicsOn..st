@@ -23,15 +23,28 @@ renderBasicsOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 12;
-        with: [ self renderDescriptionsWithLabels: #('Comment') on: canvas ] ].
+        with: [ self renderDescriptionsWithLabels: #('Location') on: canvas ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn
-        smallSize: 6;
+        smallSize: 12;
+        with: [ self renderDescriptionsWithLabels: #('Defect Description') on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 12;
+        with: [ self renderDescriptionsWithLabels: #('Rectification Comment') on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 3;
         with: [ self renderDescriptionsWithLabels: #('Raised Date') on: canvas ].
       canvas tbsColumn
+        smallSize: 3;
+        with: [ self renderDescriptionsWithLabels: #('Closed Date') on: canvas ].
+      canvas tbsColumn
         smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('Closed Date') on: canvas ] ].
+        with: [ self renderDescriptionsWithLabels: #('Raised -> Closed (Days)') on: canvas ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn
@@ -39,4 +52,9 @@ renderBasicsOn: canvas
         with: [ self renderDescriptionsWithLabels: #('Raised By') on: canvas ].
       canvas tbsColumn
         smallSize: 6;
-        with: [  ] ]
+        with: [  ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 12;
+        with: [ self renderDescriptionsWithLabels: #('Evidence Comment') on: canvas ] ]

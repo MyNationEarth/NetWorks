@@ -16,7 +16,8 @@
 		"projects",
 		"deletedProjects",
 		"materials",
-		"materialStores" ],
+		"materialStores",
+		"defects" ],
 	"name" : "NWOrganisationModel",
 	"pools" : [
 		 ],
