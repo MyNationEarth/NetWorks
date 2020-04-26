@@ -12,4 +12,6 @@ projectDescription
     beSorted;
     beRequired;
     yourself.
+  (self parent isKindOf: NWProject)
+    ifTrue: [ description beReadonly ].
   ^ description
