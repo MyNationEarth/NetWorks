@@ -6,7 +6,10 @@ defectsDescription
   ^ NWToManyRelationDescription new
     accessor: #'defects';
     classes: {NWDefect};
-    reference: template titleDescription , template commentDescription;
+    reference:
+        template titleDescription , template typeDescription
+            , template raisedByDescription , template raisedDateDescription
+            , template closedDateDescription , template commentDescription;
     label: 'Quality';
     priority: 100;
     beSorted;
