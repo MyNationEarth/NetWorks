@@ -7,8 +7,7 @@ contractorDescription
     options: self organisationModel contractors;
     reference: NWContractor new titleDescription asContainer;
     label: 'Contractor';
-    comment: 'Select a contractor';
     priority: 300;
-    beRequired;
+    beSorted;
     yourself.
   ^ description
