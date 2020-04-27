@@ -2,7 +2,6 @@ rendering
 renderEditorOn: canvas
   canvas
     tbsRow: [ 
-      "REQUEST: Move search to left - donde below"
       canvas tbsColumn
         smallSize: 6;
         with: [ self renderSearchOn: canvas ].
