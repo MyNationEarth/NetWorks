@@ -4,7 +4,10 @@ renderBasicsOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('Title' 'Comment' 'Contractor') on: canvas ].
+        with: [ 
+              self renderDescriptionsWithLabels: #('Title' 'Comment') on: canvas.
+              (self userHasRoleNamed: 'projectTabJobs')
+                ifTrue: [ self renderDescriptionsWithLabels: #('Contractor') on: canvas ] ].
       canvas tbsColumn
         smallSize: 6;
         with: [ 
