@@ -9,7 +9,7 @@ ensureUserExists
     ifAbsent: [ 
       | newUser |
       newUser := (BpmUser
-        getExistingOrNewUserNamed: self userName
+        getExistingOrNewUserNamed: self userName asLowercase
         password: (self userName asLowercase findTokens: $@) first
         forEnvironment: env)
         givenName: self title;
