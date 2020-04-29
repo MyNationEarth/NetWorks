@@ -3,10 +3,9 @@ clientTitleDescription
   "<magritteDescription>"
 
   ^ MAStringDescription new
-    accessor:
-        (MAChainAccessor accessors: #(#'job' #'project' #'client' #'title'));
+    accessor: #'clientTitle';
     label: 'Client';
     priority: 300;
-    beRequired;
+    reportColumnClass: NWDescribedColumn;
     beReadonly;
     yourself
