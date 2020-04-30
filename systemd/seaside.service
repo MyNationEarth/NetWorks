@@ -7,8 +7,8 @@ Type=forking
 
 Environment=GS_HOME=/opt/GsDevKit_home
 
-ExecStart=/opt/gitMyNationEarth/NetWorks/bin/startSeaside networks
-ExecStop=/opt/gitMyNationEarth/NetWorks/bin/stopSeaside networks
+ExecStart=/opt/git/MyNationEarth/NetWorks/bin/startSeaside networks
+ExecStop=/opt/git/MyNationEarth/NetWorks/bin/stopSeaside networks
 
 User=ubuntu
 Group=ubuntu
