@@ -1,0 +1,20 @@
+[Unit]
+Description=Seaside Web Application Server for MyNation.Earth Systems
+Requires=gemstone
+
+[Service]
+Type=forking
+
+Environment=GS_HOME=/opt/GsDevKit_home
+
+ExecStart=/opt/gitMyNationEarth/NetWorks/bin/startSeaside networks
+ExecStop=/opt/gitMyNationEarth/NetWorks/bin/startSeaside networks --stop
+
+User=ubuntu
+Group=ubuntu
+UMask=0007
+RestartSec=10
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

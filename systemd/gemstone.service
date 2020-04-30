@@ -1,0 +1,20 @@
+[Unit]
+Description=GemStone/S for MyNation.Earth Systems
+After=network.target
+
+[Service]
+Type=forking
+
+Environment=GS_HOME=/opt/GsDevKit_home
+
+ExecStart=/opt/GsDevKit_home/bin/startStone -b networks
+ExecStop=/opt/GsDevKit_home/bin/stopStone -b networks
+
+User=ubuntu
+Group=ubuntu
+UMask=0007
+RestartSec=10
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
