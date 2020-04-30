@@ -6,7 +6,10 @@ rateCardDescription
     accessor: #'rateCard';
     options: self organisationModel rateCards;
     reference: NWRateCard new titleDescription asContainer;
-    default: (self project jobs collect: [ :job | job rateCard ]) first;
+    default:
+        (self project jobs
+            ifEmpty: [ nil ]
+            ifNotEmpty: [ self project jobs first rateCard ]);
     label: 'Rate Card';
     priority: 300;
     beRequired;
