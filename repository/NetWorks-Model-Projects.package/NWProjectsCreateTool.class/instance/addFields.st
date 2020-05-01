@@ -2,8 +2,8 @@ Importing
 addFields
   reader
     recordClass: Dictionary;
-    addFieldAt: #'Date Added';
-    addFieldAt: #'LOCID';
+    addFieldAt: #'Contractor';
+    addFieldAt: #'Job Title';
     addFieldAt: #'Address';
     addFieldAt: #'SAM';
     addFieldAt: #'Due Completion';
@@ -11,7 +11,7 @@ addFields
     addFieldAt: #'State';
     addFieldAt: #'Comment';
     addFieldAt: #'Delivery Partner';
-    addFieldAt: #'Validation Date';
+    addFieldAt: #'Job Completion Date';
     addFieldAt: #'LOC-ID valid-Y/N';
     addFieldAt: #'Photo';
     addFieldAt: #'Leadin Available';
@@ -19,13 +19,13 @@ addFields
     addFieldAt: #'Lead-in Length >150';
     addFieldAt: #'MDU>19';
     addFieldAt: #'Number of LOCs';
-    addFieldAt: #'DPU port capacity';
+    addFieldAt: #'DPU port capacity ';
     addFieldAt: #'DPU within EPR Zone';
-    addFieldAt: #'DPU number';
-    addFieldAt: #'Port Number';
-    addFieldAt: #'PNI Uplift';
-    addFieldAt: #'LOC-ID-Tech type-FTTC/FTTB/Other';
+    addFieldAt: #'DPU number ';
+    addFieldAt: #'Port Number ';
+    addFieldAt: #'PNI Uplift ';
+    addFieldAt: #'LOC-ID-Tech type-FTTC/FTTB/Other ';
     addFieldAt: #'Bespoke Design Solution';
     addFieldAt: #'Contractor';
-    addFieldAt: #'Issued';
+    addFieldAt: #'Job Due Date';
     addFieldAt: #'Solution'

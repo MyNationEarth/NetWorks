@@ -28,16 +28,15 @@ buildProjects
         sam: sam;
         suburb: suburb;
         projectEngineer: 'Craig Smith';
+        projectAwardedDate: Date today;
         area: 'NSW'.
       row
-        at: #'Issued'
+        at: #'Due Completion'
         ifPresent: [ :value | 
           | d |
           d := self dateFromString: value.
-          project
-            projectAwardedDate: d;
-            efscdDate: d ].
-      jobTitle := (row at: #'LOCID') trimBoth.
+          project efscdDate: d ].
+      jobTitle := (row at: #'Job Title') trimBoth.
       job := project jobs
         detect: [ :j | j title = jobTitle ]
         ifNone: [ 
@@ -46,6 +45,8 @@ buildProjects
               (NWJob new
                 title: jobTitle;
                 yourself) ].
+      row at: #'ADA' ifPresent: [ :value | job asset: value ].
+      row at: #'Comment' ifPresent: [ :value | job comment: value ].
       job
         location: address;
         project: project;

@@ -1,22 +1,21 @@
-NBN Source Data - do not edit,,,,,,,,,Inspection results,,,,,,,,,,,,Validation Results,,,,,
-Date Added,LOCID,Address,SAM,Due Completion,ADA,State,Comment,Delivery Partner,Validation Date,LOC-ID valid-Y/N,Photo,Leadin Available,Leadin Cut_in,Lead-in Length >150,MDU>19,Number of LOC's,DPU port capacity ,DPU within EPR Zone,DPU number ,Port Number ,PNI Uplift ,LOC-ID-Tech type-FTTC/FTTB/Other ,Bespoke Design Solution,Contractor,Issued,Solution
-Des,LOC000072001806,"123 Adderley St W, Auburn, Nsw 2144",2SIL-06,,2SIL-06-08,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N,N,1,N,N,new,new,N,FTTC,Y,5Smiths,01/05/2020,"Site is FTTP in Atlas (NTD, PCD, etc) although nothing in ground. Solution is to haul FSL 2SIL-06-10-BJL-001, install new BJL o/s 152 Adderley St, haul SSS to lead in pit, install DPU, FJL has capacity"
-Des,LOC000068561913,"11 Braemar Av, Auburn, Nsw 2144",2SIL-06,,2SIL-06-08,NSW/ACT,0,Datateks,27/04/2020,y,y,y,n,n,n,1,y,n,2SIL-06-08-DPU-044,4,Y,FTTC,,5Smiths,01/05/2020,11A Lead in doesn’t exist but this is the address that Atlas wants cut-in to Port 4
-Des,LOC000178635665,"Weighbridge, Rawson St, Auburn, Nsw 2144",2SIL-06,,2SIL-06-09,NSW/ACT,0,Datateks,27/04/2020,y,y,y,n,n,n,1,n,n,new,new,n,FTTC,y,5Smiths,01/05/2020,"Solution is haul FSL from 2SIL-06-09-BJL-003 to new BJLin lead-in pit, drop in SSS, integrate DPU, FJL has capacity"
-Des,LOC000162621352,"1/28-30 Hampstead Rd, Auburn, Nsw 2144",2SIL-06,,2SIL-06-09,NSW/ACT,0,Datateks,27/04/2020,y,y,y,n,n,n,2,n,n,new,new,n,FTTC,y,5Smiths,01/05/2020,"Solution is haul SSS to 2SIL-06-09-BJL-005 to 5-pit lcoated at 24 Hampstead Rd, haul 2pr to lead-in pit. Due to pit fitness rules cant put DPU in lead in pit"
-Des,LOC000054868827,"2e/255 Rawson St, Auburn, Nsw 2144",2SIL-06,,2SIL-06-09,NSW/ACT,0,Datateks,27/04/2020,y,y,y,n,n,n,1,n,n,see LOC000178635665,,,,,5Smiths,01/05/2020,see LOC000178635665
-Des,LOC000054674422,"F/255 Rawson St, Auburn, Nsw 2144",2SIL-06,,2SIL-06-09,NSW/ACT,0,Datateks,27/04/2020,y,y,y,n,n,n,1,n,n,see LOC000178635665,,,,,5Smiths,01/05/2020,see LOC000178635665
-Des,LOC000162621368,"2/28-30 Hampstead Rd, Auburn, Nsw 2144",2SIL-06,,2SIL-06-09,NSW/ACT,0,Datateks,27/04/2020,y,y,y,n,n,n,2,n,n,new,new,n,FTTC,y,5Smiths,01/05/2020,"Solution is haul SSS to 2SIL-06-09-BJL-005 to 5-pit lcoated at 24 Hampstead Rd, haul 2pr to lead-in pit. Due to pit fitness rules cant put DPU in lead in pit"
-Des,LOC000184658725,"L2/255 Rawson St, Auburn, Nsw 2144",2SIL-06,,2SIL-06-09,NSW/ACT,0,Datateks,27/04/2020,y,y,y,n,n,n,1,n,n,see LOC000178635665,,,,,5Smiths,01/05/2020,see LOC000178635665
-Des,LOC000153020959,"5/110-120 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Des,LOC000153021049,"12/110-120 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Des,LOC000153020944,"4/110-120 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Des,LOC000153021008,"8/110-120 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Des,LOC000153020916,"1/110-120 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Des,LOC000153020928,"2/110-120 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Des,LOC000153020992,"7/110-120 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Des,LOC000153021020,"10/110-120 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Des,LOC000153020985,"6/110-120 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Contractor,Job Title,Address,SAM,Due Completion,ADA,State,Comment,Delivery Partner,Job Completion Date,LOC-ID valid-Y/N,Photo,Leadin Available,Leadin Cut_in,Lead-in Length >150,MDU>19,Number of LOC's,DPU port capacity ,DPU within EPR Zone,DPU number ,Port Number ,PNI Uplift ,LOC-ID-Tech type-FTTC/FTTB/Other ,Bespoke Design Solution,Contractor,Job Due Date,Solution
+Des Brown,LOC000072001806,"123 Adderley St W, Auburn, Nsw 2144",2SIL-06,,2SIL-06-08,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N,N,1,N,N,new,new,N,FTTC,Y,5Smiths,01/05/2020,"Site is FTTP in Atlas (NTD, PCD, etc) although nothing in ground. Solution is to haul FSL 2SIL-06-10-BJL-001, install new BJL o/s 152 Adderley St, haul SSS to lead in pit, install DPU, FJL has capacity"
+Des Brown,LOC000068561913,"11 Braemar Av, Auburn, Nsw 2144",2SIL-06,,2SIL-06-08,NSW/ACT,0,Datateks,27/04/2020,y,y,y,n,n,n,1,y,n,2SIL-06-08-DPU-044,4,Y,FTTC,,5Smiths,01/05/2020,11A Lead in doesn’t exist but this is the address that Atlas wants cut-in to Port 4
+Des Brown,LOC000178635665,"Weighbridge, Rawson St, Auburn, Nsw 2144",2SIL-06,,2SIL-06-09,NSW/ACT,0,Datateks,27/04/2020,y,y,y,n,n,n,1,n,n,new,new,n,FTTC,y,5Smiths,01/05/2020,"Solution is haul FSL from 2SIL-06-09-BJL-003 to new BJLin lead-in pit, drop in SSS, integrate DPU, FJL has capacity"
+Des Brown,LOC000162621352,"1/28-30 Hampstead Rd, Auburn, Nsw 2144",2SIL-06,,2SIL-06-09,NSW/ACT,0,Datateks,27/04/2020,y,y,y,n,n,n,2,n,n,new,new,n,FTTC,y,5Smiths,01/05/2020,"Solution is haul SSS to 2SIL-06-09-BJL-005 to 5-pit lcoated at 24 Hampstead Rd, haul 2pr to lead-in pit. Due to pit fitness rules cant put DPU in lead in pit"
+Des Brown,LOC000054868827,"2e/255 Rawson St, Auburn, Nsw 2144",2SIL-06,,2SIL-06-09,NSW/ACT,0,Datateks,27/04/2020,y,y,y,n,n,n,1,n,n,see LOC000178635665,,,,,5Smiths,01/05/2020,see LOC000178635665
+Des Brown,LOC000054674422,"F/255 Rawson St, Auburn, Nsw 2144",2SIL-06,,2SIL-06-09,NSW/ACT,0,Datateks,27/04/2020,y,y,y,n,n,n,1,n,n,see LOC000178635665,,,,,5Smiths,01/05/2020,see LOC000178635665
+Des Brown,LOC000162621368,"2/28-30 Hampstead Rd, Auburn, Nsw 2144",2SIL-06,,2SIL-06-09,NSW/ACT,0,Datateks,27/04/2020,y,y,y,n,n,n,2,n,n,new,new,n,FTTC,y,5Smiths,01/05/2020,"Solution is haul SSS to 2SIL-06-09-BJL-005 to 5-pit lcoated at 24 Hampstead Rd, haul 2pr to lead-in pit. Due to pit fitness rules cant put DPU in lead in pit"
+Des Brown,LOC000184658725,"L2/255 Rawson St, Auburn, Nsw 2144",2SIL-06,,2SIL-06-09,NSW/ACT,0,Datateks,27/04/2020,y,y,y,n,n,n,1,n,n,see LOC000178635665,,,,,5Smiths,01/05/2020,see LOC000178635665
+Des Brown,LOC000153020959,"5/110-120 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Des Brown,LOC000153021049,"12/110-120 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Des Brown,LOC000153020944,"4/110-120 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Des Brown,LOC000153021008,"8/110-120 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Des Brown,LOC000153020916,"1/110-120 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Des Brown,LOC000153020928,"2/110-120 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Des Brown,LOC000153020992,"7/110-120 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Des Brown,LOC000153021020,"10/110-120 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Des Brown,LOC000153020985,"6/110-120 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
 Everybody,LOC100064114639,"100/91-95 Mackellar St, Emu Plains, Nsw 2750",2SPW-24,,2SPW-24-23,NSW/ACT,0,Datateks,24/04/2020,,,,,,,,,,,,,,,5Smiths,24/04/2020,
 Everybody,LOC100064114924,"129/91-95 Mackellar St, Emu Plains, Nsw 2750",2SPW-24,,2SPW-24-23,NSW/ACT,0,Datateks,24/04/2020,,,,,,,,,,,,,,,5Smiths,24/04/2020,
 Everybody,LOC100064114982,"32/91-95 Mackellar St, Emu Plains, Nsw 2750",2SPW-24,,2SPW-24-23,NSW/ACT,0,Datateks,24/04/2020,,,,,,,,,,,,,,,5Smiths,24/04/2020,
@@ -87,492 +86,492 @@ Everybody,LOC100064115025,"142/91-95 Mackellar St, Emu Plains, Nsw 2750",2SPW-24
 Everybody,LOC100064115232,"173/91-95 Mackellar St, Emu Plains, Nsw 2750",2SPW-24,,2SPW-24-23,NSW/ACT,0,Datateks,24/04/2020,,,,,,,,,,,,,,,5Smiths,24/04/2020,
 Everybody,LOC100064114589,"Nepean River Holiday Vlge, 144/91-101 Mackellar St, Emu Plains, Nsw 2750",2SPW-24,,2SPW-24-23,NSW/ACT,0,Datateks,24/04/2020,,,,,,,,,,,,,,,5Smiths,24/04/2020,
 Everybody,LOC100064115056,"79/91-95 Mackellar St, Emu Plains, Nsw 2750",2SPW-24,,2SPW-24-23,NSW/ACT,0,Datateks,24/04/2020,,,,,,,,,,,,,,,5Smiths,24/04/2020,
-Jabi,LOC000046077422,"126 Boyce Rd, Maroubra, Nsw 2035",2BOT-01,,2BOT-01-02,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N,N,1,4,N,999,1,0,FTTC,0,5Smiths,01/05/2020,Lead-in at premise 5 pit (20pr in exisiting OJ). 2BOT-01-02-DPU-999 at 6pit corner boyce/anzac port 1 available. Haul 2pr.
-Jabi,LOC000087428059,"1/87 Storey St, Maroubra, Nsw 2035",2BOT-01,,2BOT-01-08,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N,N,1,3,N,48,2,0,FTTC,0,5Smiths,01/05/2020,2BOT-01-08-DPU-048 at 19 Hannah st 6 pit port 2 available. Haul 2pr to lead in at 5 pit outside 87 Storey st
-Jabi,LOC100061272831,"635 Anzac Pde, Maroubra, Nsw 2035",2BOT-01,,2BOT-01-08,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N,N,1,4,N,46,1,0,FTTC,0,5Smiths,01/05/2020,"SSS-046 hauled to 5pit at premise but 2BOT-01-08-DPU-046 not installed. Install, integrate, cut-in"
-Jabi,LOC100069494454,"1a Hale St, Botany, Nsw 2019",2BOT-09,,2BOT-09-11,NSW/ACT,0,Datateks,27/04/2020,N,Y,?,N,N,N,1,4,N,49,1,0,FTTC,0,5Smiths,01/05/2020,2BOT-09-11-DPU-049 port 1 available. DPU not found inside industrial estate at 1a Hale st. Lead-in pit not found.
-Jabi,LOC000004099477,"5 Geddes St, Botany, Nsw 2019",2BOT-10,,2BOT-10-04,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N,N,1,3,N,42,2,0,FTTC,0,5Smiths,01/05/2020,5pit Lead-in op 1374 botany rd. 2BOT-10-04-DPU-042 port 2 available at 6pit on Wilson st. Haul 2pr.
-Jabi,LOC000177313106,"16/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000163761920,"13/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000177313049,"10/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000163761965,"20/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000177313054,"11/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000163761954,"2/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000163762047,"4/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000177313096,"15/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000163762023,"3/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000163762099,"7/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000163762075,"6/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000163761977,"21/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000177313031,"9/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000163761912,"1/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000177313083,"14/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000177313147,"Lift/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000163761931,"19/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000163762052,"5/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000177313110,"17/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000163762034,"4/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000163761949,"2/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000177313065,"12/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000163761983,"22/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000163761996,"23/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000177313123,"18/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
-Jabi,LOC000163758810,"8/10-14 Mcpherson St, Banksmeadow, Nsw 2019",2BOT-10,,2BOT-10-12,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,1,0,FTTC,Y,5Smiths,01/05/2020,"2BOT-10-12-BJL-005 has 1 spare port. Haul new SSS (200m) from 6pit at BJL-005 to 6pit lead-in at premise. Install new dpu, integrate, cut in"
-Jabi,LOC100073799676,"5/3 Anderson St, Banksmeadow, Nsw 2019",2BOT-22,,2BOT-22-02,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N,N,1,3,N,42,1,0,FTTC,0,5Smiths,01/05/2020,2BOT-22-02-DPU-048 in lead in pit port 1 spare for cut in
-Jabi,LOC000184722972,"6/3 Anderson St, Banksmeadow, Nsw 2019",2BOT-22,,2BOT-22-02,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N,N,1,3,N,48,3,0,FTTC,0,5Smiths,01/05/2020,2BOT-22-02-DPU-048 in lead in pit port 2 spare for cut in
-Jabi,LOC000180120028,"11b Page St, Pagewood, Nsw 2035",2BOT-22,,2BOT-22-02,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N,N,1,3,N,47,2,0,FTTC,0,5Smiths,01/05/2020,2BOT-22-02-DPU-047 port 2 spare to cut in. Haul from DPU to Lead-in
-Jabi,LOC000119315987,"77 Denison St, Banksmeadow, Nsw 2019",2BOT-22,,2BOT-22-07,NSW/ACT,0,Datateks,27/04/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,Security gated industrial park? No access
-Jabi,LOC000075199382,"3/2-12 Beauchamp Rd, Banksmeadow, Nsw 2019",2BOT-22,,2BOT-22-10,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,1,0,FTTC,Y,5Smiths,01/05/2020,2BOT-22-10-BJL-011 not built. FSL-011 hauled. Build BJL-011. Insert new SSS(400m) into industrial park to pick up lead in.
-Jabi,LOC000119316762,"Ss1/1-3 Penrhyn Rd, Banksmeadow, Nsw 2019",2BOT-22,,2BOT-22-10,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,Inside port botany main entrance.
-Jabi,LOC000174993885,"7 Partanna Av, Matraville, Nsw 2036",2BOT-22,,2BOT-22-11,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
-Jabi,LOC000184892006,"1 Bumborah Point Rd, Matraville, Nsw 2036",2BOT-22,,2BOT-22-11,NSW/ACT,,Datateks,27/04/2020,Y,Y,Y,Y,N,N,1,4,N,NEW,1,0,FTTC,Y,5Smiths,01/05/2020,"2BOT-22-11-BJL-001. FSL port spare - haul FSL to manhole at 9 Bumborah. Build new BJL, insert new SSS & haul to L-I at premise. New DPU"
-Jabi,LOC000163784925,"9 Bumborah Point Rd, Matraville, Nsw 2036",2BOT-22,,2BOT-22-11,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,Y,N,N,1,4,N,NEW,2,0,FTTC,Y,5Smiths,01/05/2020,"Same design as LOC000184892006. 2BOT-22-11-BJL-001. FSL port spare - haul FSL to manhole at 9 Bumborah. Build new BJL, insert new drop in SSS, install new DPU"
-Jabi,LOC000163788045,"Site 25, 6/11-13 Friendship Rd, Port Botany, Nsw 2036",2BOT-22,,2BOT-22-11,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,No Access - Gate B60 at port botany. Site ID needed for entry
-Jabi,LOC000088454532,"Site 25, 11-13 Friendship Rd, Port Botany, Nsw 2036",2BOT-22,,2BOT-22-11,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,No Access - Gate B60 at port botany. Site ID needed for entry
-Jabi,LOC000163138413,"9/17-19 East Pde, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,1,0,FTTC,Y,5Smiths,01/05/2020,"3 x new DPUS needed at 17-19 East Pde. Solution - From 2 CMO-23-02-BJL--3 haul new FSL (100m) to Lead-in pit. Upgrade Lead-in pit to 6pit. Build new BJL, insert 1 x SSS, 1 XSMP, 3 x GCCs, Install 3 x DPUs, insert tails to Lead-in OJ."
-Jabi,LOC000163138318,"2/17-19 East Pde, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,2,0,FTTC,Y,5Smiths,01/05/2020,See LOC000163138413
-Jabi,LOC000163138373,"7/17-19 East Pde, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,3,0,FTTC,Y,5Smiths,01/05/2020,See LOC000163138414
-Jabi,LOC000163138356,"6/17-19 East Pde, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,4,0,FTTC,Y,5Smiths,01/05/2020,See LOC000163138415
-Jabi,LOC000163138339,"3/17-19 East Pde, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,1,0,FTTC,Y,5Smiths,01/05/2020,See LOC000163138416
-Jabi,LOC100065185280,"4/17-19 East Pde, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,2,0,FTTC,Y,5Smiths,01/05/2020,See LOC000163138417
-Jabi,LOC000163138271,"12/17-19 East Pde, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,3,0,FTTC,Y,5Smiths,01/05/2020,See LOC000163138418
-Jabi,LOC000163138285,"13/17-19 East Pde, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,4,0,FTTC,Y,5Smiths,01/05/2020,See LOC000163138419
-Jabi,LOC000163138394,"8/17-19 East Pde, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,1,0,FTTC,Y,5Smiths,01/05/2020,See LOC000163138420
-Jabi,LOC000029997839,"32/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,23+ services - FTTB solution. MPT across rd. On site found 2 different lead-ins into internal MDF.
-Jabi,LOC000029582807,"15/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997839
-Jabi,LOC000029773344,"12/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997840
-Jabi,LOC000029970905,"36/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997841
-Jabi,LOC000029741996,"6/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997842
-Jabi,LOC000029629102,"39/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997843
-Jabi,LOC000029796424,"18/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997844
-Jabi,LOC000029558454,"44/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997845
-Jabi,LOC000029585247,"43/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997846
-Jabi,LOC000029577684,"33/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997847
-Jabi,LOC000029735047,"4/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997848
-Jabi,LOC000029625301,"2/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997849
-Jabi,LOC000029621561,"48/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997850
-Jabi,LOC000030062956,"37/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997851
-Jabi,LOC000029535049,"3/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997852
-Jabi,LOC000029677945,"16/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997853
-Jabi,LOC000029764104,"22/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997854
-Jabi,LOC000029599658,"30/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997855
-Jabi,LOC000029573957,"46/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997856
-Jabi,LOC000029562333,"11/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997857
-Jabi,LOC000029636880,"42/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997858
-Jabi,LOC000029589448,"13/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997859
-Jabi,LOC000029739538,"1/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997860
-Jabi,LOC000184882057,"2/70f Prince Edward Park Rd, Woronora, Nsw 2232",2CMO-23,,2CMO-23-10,NSW/ACT,,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,1,N,20,4,0,FTTC,0,5Smiths,01/05/2020,"DCL already hauled from 2CMO-23-10-DPU spare port 4 to the  Led in conduit,cut in"
-Jabi,LOC100064157894,"2 Yanko Cl, Woronora, Nsw 2232",2CMO-23,,2CMO-23-11,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,1,N,16,4,0,FTTC,0,5Smiths,01/05/2020,"Haul new DCL(50m) from port4  2CMO-23-11-DPU-016 pit next to the premise couldn’t locate , cut in"
-Jabi,LOC000092309395,"92a Prices Cct, Woronora, Nsw 2232",2CMO-23,,2CMO-23-12,NSW/ACT,0,Datateks,28/04/2020,Y,Y,N,N,N,N,1,3,N,13,2,0,FTTC,0,5Smiths,01/05/2020,"Extend aerial  2 pair cable(40m) from spare port 2 , 2CMO-23-12-DPU-013 through existing support to premise, install new PCD"
-Jabi,LOC000062201554,"4/655 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-24,,2CMO-24-18,NSW/ACT,,Datateks,31/12/1899,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
-Jabi,LOC100068423275,"1/768 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,22,2,0,FTTC,0,5Smiths,01/05/2020,Use port2 of 2CMO-25-01-DPU-022 to the existing OJ .cut in
-Jabi,LOC100068201174,"2/740 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,2,N,31,3,0,FTTC,0,5Smiths,01/05/2020,Use port 3 of 2CMO-25-01-DPU-031 to the existing OJ .cut in
-Jabi,LOC100068201064,"1/7 Eton St, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,3,N,28,4,0,FTTC,0,5Smiths,01/05/2020,"Build OJ 30 pair lead in at 738 old princes hwy. Haul DCL (3m) port 4 ,2CMO-25-01-DPU-028 to OJ. Cut in"
-Jabi,LOC100067284342,"4/762 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,24,4,0,FTTC,0,5Smiths,01/05/2020,Insert port 2 of 2CMO-25-01-DPU-024 to existing lead in OJ .cutin
-Jabi,LOC100068201072,"3/7 Eton St, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,3,N,28,2,0,FTTC,0,5Smiths,01/05/2020,"Build OJ 30 pair lead in at 738 old princes hwy. Haul DCL (3m) port 2 ,2CMO-25-01-DPU-028 to OJ. Cut in"
-Jabi,LOC000120571187,"1/778-780 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,2,0,FTTC,Y,5Smiths,01/05/2020,"2CMO-25-01-BJL-008, insert new SSS & haul to 6 pit corner of old princess hwy & flora st .install new DPU at 6pit .Haul DCL(30m) to existing OJ LIC 5 pit  .cut in port1"
-Jabi,LOC000036864777,"2/154 Flora St, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
-Jabi,LOC100068201157,"1/728 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
-Jabi,LOC100068201190,"1/752 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,2,0,FTTC,0,5Smiths,01/05/2020,Build OJ 20 pair lead in cable .Haul DCL( 15m ) from port 3 2CMO-21-01-DPU-025 to lead in pit. Cut in
-Jabi,LOC000064401551,"1/786-788 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,,Datateks,28/04/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
-Jabi,LOC100068423366,"6/800 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,1,0,FTTC,Y,5Smiths,01/05/2020,"2CMO-25-01-BJL-010, insert new SSS & haul to 6 pit st .install new DPU at 6pit .insert DPU ports in existing OJ  .cut in port 1"
-Jabi,LOC000120571207,"3/778-780 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,3,0,FTTC,Y,5Smiths,01/05/2020,"2CMO-25-01-BJL-008, insert new SSS & haul to 6 pit corner of old princess hwy & flora st .install new DPU at 6pit .Haul DCL(30m) to existing OJ LIC 5 pit  .cut in port 3"
-Jabi,LOC100068201220,"1/764 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
-Jabi,LOC000120571194,"2/778-780 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,2,0,FTTC,Y,5Smiths,01/05/2020,"2CMO-25-01-BJL-008, insert new SSS & haul to 6 pit corner of old princess hwy & flora st .install new DPU at 6pit .Haul DCL(30m) to existing OJ LIC 5 pit  .cut in port 2"
-Jabi,LOC000184723593,"Basketball Stadium, Forest Rd, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-02,NSW/ACT,,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
-Jabi,LOC000120580636,"3/575 President Av, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,1,N,33,2,0,FTTC,0,5Smiths,01/05/2020,2CMO-25-02-DPU-033 ports 1&2 are duplicates. Reassign port 2 to 3/575 president Av
-Jabi,LOC000016542152,"53 Eton St, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-02,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
-Jabi,LOC000176324895,"6/16-20 Boyle St, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,4,0,FTTC,0,5Smiths,01/05/2020,See LOC100068423418
-Jabi,LOC000152615127,"874-876 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-02,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
-Jabi,LOC000120565580,"6/818-820 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,1,0,FTTC,Y,5Smiths,01/05/2020,See LOC100068423418
-Jabi,LOC000162979931,"2/818-820 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,2,0,FTTC,Y,5Smiths,01/05/2020,See LOC100068423418
-Jabi,LOC100067380574,"3/561-569 President Av, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,1,0,FTTC,Y,5Smiths,01/05/2020,From 2CMO-25-02-BJL-004 haul new SSS to Lead-in pit. Install new DPU. Insert tails into exisitng OJ.
-Jabi,LOC100068423418,"1/814 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,3,0,FTTC,Y,5Smiths,01/05/2020,From 2CMO-25-02-BJL-001 haul new SSS to 6 pit o/s 814. Install new DPU. Haul 2prs.
-Jabi,LOC000028235252,"15/149 Loftus Av, Loftus, Nsw 2232",2CMO-25,,2CMO-25-05,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,1,0,FTTC,Y,5Smiths,01/05/2020,See LOC000028218639
-Jabi,LOC000152617112,"1a Pitt St, Loftus, Nsw 2232",2CMO-25,,2CMO-25-05,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,16,4,0,FTTC,0,5Smiths,01/05/2020,DPU not in correct place on Atlas - 2CMO-25-02-016 has port 3 spare. NB useing different ada
-Jabi,LOC000028062025,"16/149 Loftus Av, Loftus, Nsw 2232",2CMO-25,,2CMO-25-05,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,2,0,FTTC,Y,5Smiths,01/05/2020,See LOC000028218639
-Jabi,LOC000101138856,"13/1 Pitt St, Loftus, Nsw 2232",2CMO-25,,2CMO-25-05,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,32,1,0,FTTC,0,5Smiths,01/05/2020,See LOC000100928134
-Jabi,LOC000152617108,"1b Pitt St, Loftus, Nsw 2232",2CMO-25,,2CMO-25-05,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,16,3,0,FTTC,0,5Smiths,01/05/2020,DPU not in correct place on Atlas - 2CMO-25-02-016 has port 3 spare. NB useing different ada
-Jabi,LOC000028218639,"12/149 Loftus Av, Loftus, Nsw 2232",2CMO-25,,2CMO-25-05,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,3,0,FTTC,Y,5Smiths,01/05/2020,From 2CMO-25-05-BJL-005 haul new SSS (30m) to nearby 5pit with capacity. Install new DPU. Haul 3 x 2prs to premise Lead-in
-Jabi,LOC000028046096,"4/155 Loftus Av, Loftus, Nsw 2232",2CMO-25,,2CMO-25-05,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,1,N,10,1,0,FTTC,0,5Smiths,01/05/2020,See LOC000028210513
-Jabi,LOC000100928134,"25/1 Pitt St, Loftus, Nsw 2232",2CMO-25,,2CMO-25-05,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,32,2,0,FTTC,0,5Smiths,01/05/2020,2CMO-25-05-DPU-032 port 2 available. Lead-in in same pit but 100pr cable - probably going to internal MDF in Wollongong University campus.
-Jabi,LOC000028210513,"1/155 Loftus Av, Loftus, Nsw 2232",2CMO-25,,2CMO-25-05,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,1,N,10,4,0,FTTC,0,5Smiths,01/05/2020,2CMO-25-05-DPU-010 port 4 available. Haul 2 pr from DPU to Lead-in pit
-Jabi,LOC100068423234,"61a Eighth Av, Loftus, Nsw 2232",2CMO-25,,2CMO-25-06,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,3,N,41,4,0,FTTC,0,5Smiths,01/05/2020,2CMO-25-06-DPU-041 port 4 available. Haul 2pr from DPU to Lead-in pit
-Jabi,LOC000058849673,"63 National Av, Loftus, Nsw 2232",2CMO-25,,2CMO-25-07,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,31,4,0,FTTC,0,5Smiths,01/05/2020,2CMO-25-07-DPU-031 port 4 already allocated in Atlas. 2pr already hauled to Lead-in pit
-Jabi,LOC000152618658,"2/40 Sixth Av, Loftus, Nsw 2232",2CMO-25,,2CMO-25-07,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,32,1,0,FTTC,0,5Smiths,01/05/2020,2CMO-25-07-DPU-032 port 1 available. 2pr already hauled to Lead in
-Jabi,LOC000152618643,"1/40 Sixth Av, Loftus, Nsw 2232",2CMO-25,,2CMO-25-07,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,32,4,0,FTTC,0,5Smiths,01/05/2020,2CMO-25-07-DPU-032 port 4 available. 2pr already hauled to Lead in
-Jabi,LOC100064490777,"1/55-59 Caringbah Rd, Caringbah, Nsw 2229",2CRO-22,,2CRO-22-02,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
-Jabi,LOC000184778262,"2/65 Caringbah Rd, Caringbah, Nsw 2229",2CRO-22,,2CRO-22-02,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
-Jabi,LOC000184778270,"3/65 Caringbah Rd, Caringbah, Nsw 2229",2CRO-22,,2CRO-22-02,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
-Jabi,LOC100064490749,"1/193 Kingsway , Woolooware, Nsw 2230",2CRO-22,,2CRO-22-08,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
-Jabi,LOC000045419951,"71 Dolans Rd, Woolooware, Nsw 2230",2CRO-22,,2CRO-22-09,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC100072603585,"7 Locksley St, Cronulla, Nsw 2230",2CRO-24,,2CRO-24-10,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000152877660,"16/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000152877710,"21/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000152877694,"19/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000152877687,"18/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000152877747,"24/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000152877734,"23/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000152877752,"25/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000152877656,"15/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000152877706,"20/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000152877723,"22/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000152877768,"26/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000152877673,"17/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000152877641,"14/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000183896070,"6b Beach St, Cronulla, Nsw 2230",2CRO-27,,2CRO-27-04,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000184551011,"Lift1/205 Peats Ferry Rd, Hornsby, Nsw 2077",2HOR-02,,2HOR-02-01,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000184488825,"Lift2/205 Peats Ferry Rd, Hornsby, Nsw 2077",2HOR-02,,2HOR-02-01,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000184494248,"Lift/205 Peats Ferry Rd, Hornsby, Nsw 2077",2HOR-02,,2HOR-02-01,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000184495366,"Lift/205 Peats Ferry Rd, Hornsby, Nsw 2077",2HOR-02,,2HOR-02-01,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000184495058,"Lift/205 Peats Ferry Rd, Hornsby, Nsw 2077",2HOR-02,,2HOR-02-01,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000184495378,"Lift/205 Peats Ferry Rd, Hornsby, Nsw 2077",2HOR-02,,2HOR-02-01,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000018721525,"3044/236 Pacific Hwy, Hornsby, Nsw 2077",2HOR-02,,2HOR-02-02,NSW/ACT,29/04 - LOC removed,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jabi,LOC000184731154,"Switch/Bridge Rd, Hornsby, Nsw 2077",2HOR-02,,2HOR-02-05,NSW/ACT,29/04 - LOC removed,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
-Jibs,LOC000082642200,"118 Rawson Rd, Guildford, Nsw 2161",2GUI-20,,2GUI-20-13,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC100067478791,"2 Osgood St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-04,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC000183032516,"49b Lavinia St, Merrylands, Nsw 2160",2GUI-24,,2GUI-24-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC000183245131,"School, 2/70 Adam St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC000093403843,"1/70 Adam St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC000167882441,"5/63-71 Guildford Rd, Guildford, Nsw 2161",2GUI-24,,2GUI-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC000167882456,"6/63-71 Guildford Rd, Guildford, Nsw 2161",2GUI-24,,2GUI-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC000167882418,"2/63-71 Guildford Rd, Guildford, Nsw 2161",2GUI-24,,2GUI-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC000167882402,"11/63-71 Guildford Rd, Guildford, Nsw 2161",2GUI-24,,2GUI-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC000167882473,"7/63-71 Guildford Rd, Guildford, Nsw 2161",2GUI-24,,2GUI-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC000167882439,"4/63-71 Guildford Rd, Guildford, Nsw 2161",2GUI-24,,2GUI-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC100068204336,"9a Bright St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC000167882397,"10/63-71 Guildford Rd, Guildford, Nsw 2161",2GUI-24,,2GUI-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC100068211873,"9 Markey St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC000046919252,"18a Markey St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC100063795544,"18 Erie St, South Granville, Nsw 2142",2GUI-24,,2GUI-24-12,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC100067478817,"11a Randolph St, South Granville, Nsw 2142",2GUI-24,,2GUI-24-13,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC100068204358,"1/315 Clyde St, South Granville, Nsw 2142",2GUI-24,,2GUI-24-13,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC000015661756,"11/17-21 Guildford Rd, Guildford, Nsw 2161",2GUI-24,,2GUI-24-15,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC100068204679,"2a Kirk Av, Guildford, Nsw 2161",2GUI-24,,2GUI-24-15,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC100063795378,"13 Caroline St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-17,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC100068204294,"10a Bligh St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-17,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC000167872305,"13a Bligh St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-17,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC000109251595,"1/275 Excelsior St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-18,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC000056170824,"30 Ashby St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC000161452624,"3a Hinchen St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC100068204287,"1/8 Ashby St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC000184745846,"301/5-7 Swift St, Guildford, Nsw 2161",2GUI-25,,2GUI-25-02,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC000184426452,"34 Cross St, Guildford, Nsw 2161",2GUI-25,,2GUI-25-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC000184489322,"4a Henry St, Guildford, Nsw 2161",2GUI-25,,2GUI-25-05,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Jibs,LOC000093559752,"60a Bursill St, Guildford, Nsw 2161",2GUI-25,,2GUI-25-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057699768,"Lewin Lodge, 15/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057887962,"Lewin Lodge, 22/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000167081285,"5/459 Great Western Hwy, Faulconbridge, Nsw 2776",2SPW-26,,2SPW-26-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057822207,"Lewin Lodge, 7/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057540052,"Lewin Lodge, 8/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057651246,"Lewin Lodge, 25/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC100070340928,"Lewin Lodge, 9/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057524771,"Lewin Lodge, 29/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057568033,"Lewin Lodge, 4/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057822092,"Lewin Lodge, 16/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC100070340900,"Lewin Lodge, 6/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057583102,"Lewin Lodge, 32/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057822211,"Lewin Lodge, 26/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000058122443,"Lewin Lodge, 11/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057524759,"Lewin Lodge, 20/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057699752,"Lewin Lodge, 3/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057540023,"Lewin Lodge, 10/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000058079598,"Lewin Lodge, 42/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057524763,"Lewin Lodge, 23/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057970702,"Lewin Lodge, 43/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000058079624,"Lewin Lodge, 44/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000058079580,"Lewin Lodge, 1/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057873012,"Lewin Lodge, 30/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057583118,"Lewin Lodge, 21/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000058165847,"Lewin Lodge, 50/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000058165834,"Lewin Lodge, 19/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057873020,"Lewin Lodge, 6/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057651233,"Lewin Lodge, 5/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000058165852,"Lewin Lodge, 40/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057583085,"Lewin Lodge, 41/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057540034,"Lewin Lodge, 9/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057568014,"Lewin Lodge, 47/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC100070340888,"Lewin Lodge, 1/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057699747,"Lewin Lodge, 33/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000058213870,"Lewin Lodge, 37/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC100070340916,"Lewin Lodge, 8/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC100070340890,"Lewin Lodge, 21/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000057651222,"Lewin Lodge, 18/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000183471030,"Nsw Trains, Great Western Hwy, Linden, Nsw 2778",2SPW-26,,2SPW-26-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000054700261,"23 Sir Henrys Pde, Faulconbridge, Nsw 2776",2SPW-26,,2SPW-26-18,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000167259258,"853-865 Great Western Hwy, Linden, Nsw 2778",2SPW-27,,2SPW-27-01,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000122265314,"837-840 Great Western Hwy, Linden, Nsw 2778",2SPW-27,,2SPW-27-01,NSW/ACT,,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000142544807,"24 Old Bathurst Rd, Woodford, Nsw 2778",2SPW-27,,2SPW-27-02,NSW/ACT,0,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC100063192986,"1/195-196 Great Western Hwy, Hazelbrook, Nsw 2779",2SPW-27,,2SPW-27-10,NSW/ACT,0,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC100063193037,"6/195-196 Great Western Hwy, Hazelbrook, Nsw 2779",2SPW-27,,2SPW-27-10,NSW/ACT,0,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC100063192993,"2/195-196 Great Western Hwy, Hazelbrook, Nsw 2779",2SPW-27,,2SPW-27-10,NSW/ACT,0,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC100063193028,"5/195-196 Great Western Hwy, Hazelbrook, Nsw 2779",2SPW-27,,2SPW-27-10,NSW/ACT,0,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000052529739,"102 Winbourne Rd, Hazelbrook, Nsw 2779",2SPW-27,,2SPW-27-22,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000045672680,"1/187 Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000121997874,"48 Emma Pde, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000122025858,"19a Shelton Av, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-04,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC100063356910,"326-340 Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-04,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000122003846,"59r Leslie St, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000122000998,"546a Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000058983218,"584 Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000122003983,"627 Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-06,NSW/ACT,0,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000062061798,"509 Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-06,NSW/ACT,0,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000077769694,"355 Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-13,NSW/ACT,0,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000034570473,"345 Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-13,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000003188233,"Heatherbrae, 363 Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-13,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000069528231,"347 Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-13,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000026301076,"34a Heather Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-13,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000070170610,"1 Boronia Cr, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-16,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000099864088,"349 Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-21,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000162363827,"133a Boomerang Dr, Glossodia, Nsw 2756",2WFC-01,,2WFC-01-11,NSW/ACT,,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC100066523021,"44a Chestnut Dr, Glossodia, Nsw 2756",2WFC-01,,2WFC-01-14,NSW/ACT,,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000010945217,"26 Grand Pde, Glossodia, Nsw 2756",2WFC-01,,2WFC-01-14,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000121931511,"145 Golden Valley Dr, Glossodia, Nsw 2756",2WFC-01,,2WFC-01-15,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000070727626,"188 Golden Valley Dr, Glossodia, Nsw 2756",2WFC-01,,2WFC-01-15,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000067641382,"35 Kentucky Dr, Glossodia, Nsw 2756",2WFC-01,,2WFC-01-15,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000055180523,"1/21 Burdekin Rd, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-17,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000121895207,"6 Box Av, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-17,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000179036306,"780a Kurmond Rd, North Richmond, Nsw 2754",2WFC-01,,2WFC-01-22,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000021439188,"1 Mayne St, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-24,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000121940696,"17 George Rd, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-24,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000099814344,"6 Raymond St, Freemans Reach, Nsw 2756",2WFC-01,,2WFC-01-26,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000034042286,"2 Raymond St, Freemans Reach, Nsw 2756",2WFC-01,,2WFC-01-26,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000066225969,"1 Coburg Rd, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-28,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000107250535,"3 Coburg Rd, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-28,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000155280093,"14a Coburg Rd, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-28,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000110168395,"70 Macquarie Rd, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-28,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000019889252,"68 Macquarie Rd, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-28,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000084029789,"45 Turnbull Av, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-28,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Martin,LOC000085975079,"5 Coburg Rd, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-28,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000001476526,"220 Railway Pde, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000025986814,"210-212 Railway Pde, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000120447509,"5 Railway Pde, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160205359,"11/6 Guinea St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160205154,"24/4 Guinea St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160205411,"16/6 Guinea St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160205424,"17/6 Guinea St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160205430,"18/6 Guinea St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160205407,"15/6 Guinea St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160205098,"18/4 Guinea St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000120436279,"3-13 Taylor St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000086329458,"2a Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000010080130,"2/33a Regent St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-04,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000024878430,"1/14-18 Regent St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-04,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000024680492,"3/14-18 Regent St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-04,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000010116870,"1/33a Regent St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-04,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000112113124,"1/22-24 Regent St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-04,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000165358899,"105/22 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160224374,"101/22 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000050499828,"26/26 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000120439080,"30-38 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000184356882,"102/22 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000051518577,"28/26 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000051455973,"39/26 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000051624261,"15/26 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000051611702,"16/26 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000051484400,"12/26 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC100067228962,"1/14 Kensington St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000051504039,"21/26 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000051477889,"41/26 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000051449895,"19/26 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000107838456,"34 Gray St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000051515011,"30/26 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160226862,"203/71-73 Bank Lane, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160227161,"503/71-73 Bank Lane, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000120421470,"101-103 Princes Hwy, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160226827,"102/71-73 Bank Lane, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000108174696,"16-20 Hogben St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160227190,"701/71-73 Bank Lane, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160226815,"101/71-73 Bank Lane, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000120450240,"13/63-67 Gladstone St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160226858,"202/71-73 Bank Lane, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160226889,"301/71-73 Bank Lane, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160226836,"201/71-73 Bank Lane, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160226804,"1/71-73 Bank Lane, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000062125993,"66 French Lane, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160206178,"17/39 Green St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160206236,"23/39 Green St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160206243,"24/39 Green St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160206145,"14/39 Green St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000160206579,"5/55 Green St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000016380578,"45 Princes Hwy, Kogarah, Nsw 2217",2KOG-23,,2KOG-23-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000091863095,"1/34-36 Beaconsfield St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-04,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000168071653,"121a Queen Victoria St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000080562525,"2/19 Wallace St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000075084643,"1/83-85 Beaconsfield St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000074998976,"5/83-85 Beaconsfield St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC100066510923,"2/94-100 Queen Victoria St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC100066516479,"5/63a Connemarra St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000041936682,"5/64-66 Beaconsfield St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC100066510831,"6/77 Queen Victoria St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC100066510812,"3/77 Queen Victoria St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000176650099,"5/77 Queen Victoria St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC100066510798,"1/77 Queen Victoria St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC100066510820,"4/77 Queen Victoria St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC100066510808,"2/77 Queen Victoria St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC100066516467,"2/63a Connemarra St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC100066510865,"2/26-30 Queen Victoria St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC100066510906,"13/69 Queen Victoria St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-13,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000176647744,"2/1 Queen Victoria St, Kogarah, Nsw 2217",2KOG-24,,2KOG-24-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000027281721,"1/24a Preddys Rd, Bexley, Nsw 2207",2KOG-25,,2KOG-25-02,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC100065571617,"40 Kenyon Rd, Bexley, Nsw 2207",2KOG-25,,2KOG-25-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000165330744,"1 Anderson St, Bexley, Nsw 2207",2KOG-25,,2KOG-25-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000031642741,"648a Forest Rd, Bexley, Nsw 2207",2KOG-25,,2KOG-25-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000080277110,"Sydney Technical High School, 684 Forest Rd, Bexley, Nsw 2207",2KOG-25,,2KOG-25-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000007441738,"2/70 Glenfarne St, Bexley, Nsw 2207",2KOG-25,,2KOG-25-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000066461567,"24a Westbourne St, Bexley, Nsw 2207",2KOG-25,,2KOG-25-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000042029257,"Amity Nursing Home, 741 Forest Rd, Bexley, Nsw 2207",2KOG-25,,2KOG-25-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000092153141,"2/35 Vine St, Hurstville, Nsw 2220",2KOG-25,,2KOG-25-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000092442253,"1/35 Vine St, Hurstville, Nsw 2220",2KOG-25,,2KOG-25-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000106153470,"2/48 Vine St, Hurstville, Nsw 2220",2KOG-25,,2KOG-25-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000177122824,"101a Botany St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC100050473561,"53a Cronulla St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000105229216,"55a Lily St, Hurstville, Nsw 2220",2KOG-25,,2KOG-25-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000055637025,"88 Durham St, Hurstville, Nsw 2220",2KOG-25,,2KOG-25-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000096434585,"1/24 Ethel St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-13,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000023037269,"1/79 Willison Rd, Carlton, Nsw 2218",2KOG-25,,2KOG-25-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000022888007,"2/79 Willison Rd, Carlton, Nsw 2218",2KOG-25,,2KOG-25-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000111221699,"9a Durham St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-15,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000100144708,"29 High St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-15,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000092396779,"10/1 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-16,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000089457264,"2 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-16,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000092218115,"11/1 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-16,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000015536519,"4/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000015606222,"2/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC100066638298,"1/41 Carlton Pde, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000015834031,"6/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000015838197,"13/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000015789267,"1/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000015879198,"12/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000015514586,"3/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000015731888,"8/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000015507767,"9/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000015532783,"14/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000015377284,"11/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000015908805,"5/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000015507629,"7/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC100066638308,"2/41 Carlton Pde, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000015767158,"10/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000120446637,"51 Carlton Pde, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Soulos,LOC000177122914,"44a Fleet St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-20,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100067479223,"1/28 Pyramid Av, Padstow, Nsw 2211",2REV-21,,2REV-21-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000037313777,"132 Cahors Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-04,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000047686082,"172a Gibson Av, Padstow, Nsw 2211",2REV-21,,2REV-21-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100035252362,"1a Beamish St, Padstow, Nsw 2211",2REV-21,,2REV-21-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000120496834,"1/66-72 Bryant St, Padstow, Nsw 2211",2REV-21,,2REV-21-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000120496847,"2/66-72 Bryant St, Padstow, Nsw 2211",2REV-21,,2REV-21-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000098239626,"3/2h Arab Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000120494376,"5a Arab Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000098645086,"4/2h Arab Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000089048176,"2/13 Watson Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100067478893,"2/123 Fairford Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000086246269,"2/111 Fairford Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000061434990,"4/109 Fairford Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000076995438,"2/3 Arab Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000086398594,"3/111 Fairford Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000076804262,"1/3 Arab Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100067479070,"1/92 Iberia St, Padstow, Nsw 2211",2REV-21,,2REV-21-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100067479089,"106a Iberia St, Padstow, Nsw 2211",2REV-21,,2REV-21-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100065756312,"71a Iberia St, Padstow, Nsw 2211",2REV-21,,2REV-21-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100067479043,"1/71a Iberia St, Padstow, Nsw 2211",2REV-21,,2REV-21-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000166350946,"5/26 Meager Av, Padstow, Nsw 2211",2REV-21,,2REV-21-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000090605742,"127 Davies Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-12,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100068212040,"111a Davies Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-12,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100067478743,"1/114 Davies Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-12,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000001421225,"Padstow Pre School, 133 Davies Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-12,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100067479321,"2a Truro Pde, Padstow, Nsw 2211",2REV-21,,2REV-21-12,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100067479117,"2a Orient Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-12,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100050834110,"1a Faraday Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-13,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000120513928,"10 Burley Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-13,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000166347313,"Padstow Railway Station, 2/134 Cahors Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000094792690,"58b Howard Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-16,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000166349967,"2/22 Howard Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-17,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000064527701,"8 Baldwin St, Padstow, Nsw 2211",2REV-21,,2REV-21-17,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100068212103,"35a Spring St, Padstow, Nsw 2211",2REV-21,,2REV-21-17,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000166349946,"1/22 Howard Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-17,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100067478840,"125a Doyle Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-17,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100067380191,"3/20 Howard Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-17,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100067380189,"2/20 Howard Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-17,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000151423328,"2a Panania Av, Panania, Nsw 2213",2REV-23,,2REV-23-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000086930266,"17/121 Tompson Rd, Panania, Nsw 2213",2REV-27,,2REV-27-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000086602604,"4/121 Tompson Rd, Panania, Nsw 2213",2REV-27,,2REV-27-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000086909551,"20/121 Tompson Rd, Panania, Nsw 2213",2REV-27,,2REV-27-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000086937592,"1/121 Tompson Rd, Panania, Nsw 2213",2REV-27,,2REV-27-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000086839638,"5/121 Tompson Rd, Panania, Nsw 2213",2REV-27,,2REV-27-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000087258792,"6/121 Tompson Rd, Panania, Nsw 2213",2REV-27,,2REV-27-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000034038827,"127a Tompson Rd, Panania, Nsw 2213",2REV-27,,2REV-27-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000184646843,"17a Ramsay Rd, Panania, Nsw 2213",2REV-27,,2REV-27-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000023843162,"28 Eddie Av, Panania, Nsw 2213",2REV-27,,2REV-27-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100069070163,"7/229 Tower St, Panania, Nsw 2213",2REV-27,,2REV-27-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100050553900,"77a Lucas Rd, East Hills, Nsw 2213",2REV-27,,2REV-27-21,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000184588108,"3a Blanc Av, East Hills, Nsw 2213",2REV-27,,2REV-27-21,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000184906093,"18a Bishop St, Revesby, Nsw 2212",2REV-30,,2REV-30-09,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100073418591,"Hockey Aus, Shirley Strickland Av, Sydney Olympic Park, Nsw 2127",2SIL-02,,2SIL-02-15,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000184794795,"Commsfcty/10 Dawn Fraser Av, Sydney Olympic Park, Nsw 2127",2SIL-02,,2SIL-02-15,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000162630651,"3/70-74 Jellicoe St, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000162632310,"Bg, Red Yard, Red Yard, 12a/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000162632443,"Bg, Red Yard, Red Yard, 1a/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000162632415,"Bg, Red Yard, Red Yard, 14a/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000162632905,"Bg, Red Yard, Red Yard, 7a/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000162632368,"Bg, Red Yard, Red Yard, 13a/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000184716556,"Bg, Red Yard, Red Yard, A16/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000162632283,"Bg, Red Yard, Red Yard, 19/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000162633023,"Bg, Red Yard, Red Yard, 9a/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100042161410,"23-29 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000162632967,"Bg, Red Yard, Red Yard, 8a/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000004741126,"114 Parramatta Rd, Auburn, Nsw 2144",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000114308713,"95 St Hilliers Rd, Auburn, Nsw 2144",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000162632399,"Bg, Red Yard, Red Yard, 20/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000162632560,"Bg, Red Yard, Red Yard, 5a/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000184498127,"1/55-59 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000107534006,"79 St Hilliers Rd, Auburn, Nsw 2144",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100066289045,"7/73 Station Rd, Auburn, Nsw 2144",2SIL-06,,2SIL-06-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000120047209,"F/11-13 Short St, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000177631875,"6/10 Newton St S, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000120047158,"A/11-13 Short St, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000177631899,"2/10 Newton St S, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000120047170,"C/11-13 Short St, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000177632114,"3/10 Newton St S, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000162623878,"11b/219 Parramatta Rd, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000039852225,"3/233-239 Parramatta Rd, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000177631852,"5/10 Newton St S, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000008272793,"182 Adderley St W, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000120047189,"D/11-13 Short St, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100066278416,"4/233-239 Parramatta Rd, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000178636962,"12 Fisher St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000162656812,"2/98 Carnarvon St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000029057238,"88 Carnarvon St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000162656780,"1/98 Carnarvon St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100073691897,"99 Derby St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-12,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100066289021,"188 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-13,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100066289032,"188 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-13,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000049792144,"214 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-13,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000057132858,"89 Egerton St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000178637027,"41 Egerton St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-15,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100066277341,"2/36-38 Egerton St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-15,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100066277356,"101/36-38 Egerton St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-15,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000178637036,"41 Egerton St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-15,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000162659772,"C/28-32 Egerton St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-15,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100066272470,"46-48 Derby St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-15,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000044147906,"1/52 Carnarvon St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-18,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC100066289084,"2/9 Suttor St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-18,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000162656672,"3/75 Carnarvon St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-18,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000162656590,"1/75 Carnarvon St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-18,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000162656705,"4/75 Carnarvon St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-18,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000162656640,"2/75 Carnarvon St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-18,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000162656557,"1/75 Carnarvon St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-18,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000162656617,"1a/75 Carnarvon St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-18,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000095591473,"10-12 Churchill St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-18,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000174041649,"Security4/37-39 Hill Rd, Wentworth Point, Nsw 2127",2SIL-07,,2SIL-07-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000174041631,"Security3/37-39 Hill Rd, Wentworth Point, Nsw 2127",2SIL-07,,2SIL-07-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000174041696,"Security8/37-39 Hill Rd, Wentworth Point, Nsw 2127",2SIL-07,,2SIL-07-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000174041654,"Security5/37-39 Hill Rd, Wentworth Point, Nsw 2127",2SIL-07,,2SIL-07-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000174041677,"Security7/37-39 Hill Rd, Wentworth Point, Nsw 2127",2SIL-07,,2SIL-07-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000174041608,"Security1/37-39 Hill Rd, Wentworth Point, Nsw 2127",2SIL-07,,2SIL-07-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000174041817,"37b Hill Rd, Wentworth Point, Nsw 2127",2SIL-07,,2SIL-07-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000174041872,"Security/37a Hill Rd, Wentworth Point, Nsw 2127",2SIL-07,,2SIL-07-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000174041665,"Security6/37-39 Hill Rd, Wentworth Point, Nsw 2127",2SIL-07,,2SIL-07-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
-Spiteri,LOC000174041864,"Security/37b Hill Rd, Wentworth Point, Nsw 2127",2SIL-07,,2SIL-07-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000046077422,"126 Boyce Rd, Maroubra, Nsw 2035",2BOT-01,,2BOT-01-02,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N,N,1,4,N,999,1,0,FTTC,0,5Smiths,01/05/2020,Lead-in at premise 5 pit (20pr in exisiting OJ). 2BOT-01-02-DPU-999 at 6pit corner boyce/anzac port 1 available. Haul 2pr.
+Jack Brown,LOC000087428059,"1/87 Storey St, Maroubra, Nsw 2035",2BOT-01,,2BOT-01-08,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N,N,1,3,N,48,2,0,FTTC,0,5Smiths,01/05/2020,2BOT-01-08-DPU-048 at 19 Hannah st 6 pit port 2 available. Haul 2pr to lead in at 5 pit outside 87 Storey st
+Jack Brown,LOC100061272831,"635 Anzac Pde, Maroubra, Nsw 2035",2BOT-01,,2BOT-01-08,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N,N,1,4,N,46,1,0,FTTC,0,5Smiths,01/05/2020,"SSS-046 hauled to 5pit at premise but 2BOT-01-08-DPU-046 not installed. Install, integrate, cut-in"
+Jack Brown,LOC100069494454,"1a Hale St, Botany, Nsw 2019",2BOT-09,,2BOT-09-11,NSW/ACT,0,Datateks,27/04/2020,N,Y,?,N,N,N,1,4,N,49,1,0,FTTC,0,5Smiths,01/05/2020,2BOT-09-11-DPU-049 port 1 available. DPU not found inside industrial estate at 1a Hale st. Lead-in pit not found.
+Jack Brown,LOC000004099477,"5 Geddes St, Botany, Nsw 2019",2BOT-10,,2BOT-10-04,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N,N,1,3,N,42,2,0,FTTC,0,5Smiths,01/05/2020,5pit Lead-in op 1374 botany rd. 2BOT-10-04-DPU-042 port 2 available at 6pit on Wilson st. Haul 2pr.
+Jack Brown,LOC000177313106,"16/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000163761920,"13/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000177313049,"10/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000163761965,"20/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000177313054,"11/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000163761954,"2/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000163762047,"4/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000177313096,"15/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000163762023,"3/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000163762099,"7/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000163762075,"6/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000163761977,"21/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000177313031,"9/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000163761912,"1/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000177313083,"14/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000177313147,"Lift/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000163761931,"19/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000163762052,"5/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000177313110,"17/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000163762034,"4/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000163761949,"2/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000177313065,"12/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000163761983,"22/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000163761996,"23/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000177313123,"18/1623 Botany Rd, Botany, Nsw 2019",2BOT-10,,2BOT-10-06,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N/A,Y,25,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,24 services at internal MDF. FTTB solution. 2BOT-10-00-DSS-015 outside premise. Install MPT and haul HSD to premise.
+Jack Brown,LOC000163758810,"8/10-14 Mcpherson St, Banksmeadow, Nsw 2019",2BOT-10,,2BOT-10-12,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,1,0,FTTC,Y,5Smiths,01/05/2020,"2BOT-10-12-BJL-005 has 1 spare port. Haul new SSS (200m) from 6pit at BJL-005 to 6pit lead-in at premise. Install new dpu, integrate, cut in"
+Jack Brown,LOC100073799676,"5/3 Anderson St, Banksmeadow, Nsw 2019",2BOT-22,,2BOT-22-02,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N,N,1,3,N,42,1,0,FTTC,0,5Smiths,01/05/2020,2BOT-22-02-DPU-048 in lead in pit port 1 spare for cut in
+Jack Brown,LOC000184722972,"6/3 Anderson St, Banksmeadow, Nsw 2019",2BOT-22,,2BOT-22-02,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N,N,1,3,N,48,3,0,FTTC,0,5Smiths,01/05/2020,2BOT-22-02-DPU-048 in lead in pit port 2 spare for cut in
+Jack Brown,LOC000180120028,"11b Page St, Pagewood, Nsw 2035",2BOT-22,,2BOT-22-02,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N,N,1,3,N,47,2,0,FTTC,0,5Smiths,01/05/2020,2BOT-22-02-DPU-047 port 2 spare to cut in. Haul from DPU to Lead-in
+Jack Brown,LOC000119315987,"77 Denison St, Banksmeadow, Nsw 2019",2BOT-22,,2BOT-22-07,NSW/ACT,0,Datateks,27/04/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,Security gated industrial park? No access
+Jack Brown,LOC000075199382,"3/2-12 Beauchamp Rd, Banksmeadow, Nsw 2019",2BOT-22,,2BOT-22-10,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,1,0,FTTC,Y,5Smiths,01/05/2020,2BOT-22-10-BJL-011 not built. FSL-011 hauled. Build BJL-011. Insert new SSS(400m) into industrial park to pick up lead in.
+Jack Brown,LOC000119316762,"Ss1/1-3 Penrhyn Rd, Banksmeadow, Nsw 2019",2BOT-22,,2BOT-22-10,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,Inside port botany main entrance.
+Jack Brown,LOC000174993885,"7 Partanna Av, Matraville, Nsw 2036",2BOT-22,,2BOT-22-11,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
+Jack Brown,LOC000184892006,"1 Bumborah Point Rd, Matraville, Nsw 2036",2BOT-22,,2BOT-22-11,NSW/ACT,,Datateks,27/04/2020,Y,Y,Y,Y,N,N,1,4,N,NEW,1,0,FTTC,Y,5Smiths,01/05/2020,"2BOT-22-11-BJL-001. FSL port spare - haul FSL to manhole at 9 Bumborah. Build new BJL, insert new SSS & haul to L-I at premise. New DPU"
+Jack Brown,LOC000163784925,"9 Bumborah Point Rd, Matraville, Nsw 2036",2BOT-22,,2BOT-22-11,NSW/ACT,0,Datateks,27/04/2020,Y,Y,Y,Y,N,N,1,4,N,NEW,2,0,FTTC,Y,5Smiths,01/05/2020,"Same design as LOC000184892006. 2BOT-22-11-BJL-001. FSL port spare - haul FSL to manhole at 9 Bumborah. Build new BJL, insert new drop in SSS, install new DPU"
+Jack Brown,LOC000163788045,"Site 25, 6/11-13 Friendship Rd, Port Botany, Nsw 2036",2BOT-22,,2BOT-22-11,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,No Access - Gate B60 at port botany. Site ID needed for entry
+Jack Brown,LOC000088454532,"Site 25, 11-13 Friendship Rd, Port Botany, Nsw 2036",2BOT-22,,2BOT-22-11,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,No Access - Gate B60 at port botany. Site ID needed for entry
+Jack Brown,LOC000163138413,"9/17-19 East Pde, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,1,0,FTTC,Y,5Smiths,01/05/2020,"3 x new DPUS needed at 17-19 East Pde. Solution - From 2 CMO-23-02-BJL--3 haul new FSL (100m) to Lead-in pit. Upgrade Lead-in pit to 6pit. Build new BJL, insert 1 x SSS, 1 XSMP, 3 x GCCs, Install 3 x DPUs, insert tails to Lead-in OJ."
+Jack Brown,LOC000163138318,"2/17-19 East Pde, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,2,0,FTTC,Y,5Smiths,01/05/2020,See LOC000163138413
+Jack Brown,LOC000163138373,"7/17-19 East Pde, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,3,0,FTTC,Y,5Smiths,01/05/2020,See LOC000163138414
+Jack Brown,LOC000163138356,"6/17-19 East Pde, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,4,0,FTTC,Y,5Smiths,01/05/2020,See LOC000163138415
+Jack Brown,LOC000163138339,"3/17-19 East Pde, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,1,0,FTTC,Y,5Smiths,01/05/2020,See LOC000163138416
+Jack Brown,LOC100065185280,"4/17-19 East Pde, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,2,0,FTTC,Y,5Smiths,01/05/2020,See LOC000163138417
+Jack Brown,LOC000163138271,"12/17-19 East Pde, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,3,0,FTTC,Y,5Smiths,01/05/2020,See LOC000163138418
+Jack Brown,LOC000163138285,"13/17-19 East Pde, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,4,0,FTTC,Y,5Smiths,01/05/2020,See LOC000163138419
+Jack Brown,LOC000163138394,"8/17-19 East Pde, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,1,0,FTTC,Y,5Smiths,01/05/2020,See LOC000163138420
+Jack Brown,LOC000029997839,"32/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,23+ services - FTTB solution. MPT across rd. On site found 2 different lead-ins into internal MDF.
+Jack Brown,LOC000029582807,"15/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997839
+Jack Brown,LOC000029773344,"12/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997840
+Jack Brown,LOC000029970905,"36/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997841
+Jack Brown,LOC000029741996,"6/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997842
+Jack Brown,LOC000029629102,"39/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997843
+Jack Brown,LOC000029796424,"18/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997844
+Jack Brown,LOC000029558454,"44/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997845
+Jack Brown,LOC000029585247,"43/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997846
+Jack Brown,LOC000029577684,"33/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997847
+Jack Brown,LOC000029735047,"4/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997848
+Jack Brown,LOC000029625301,"2/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997849
+Jack Brown,LOC000029621561,"48/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997850
+Jack Brown,LOC000030062956,"37/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997851
+Jack Brown,LOC000029535049,"3/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997852
+Jack Brown,LOC000029677945,"16/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997853
+Jack Brown,LOC000029764104,"22/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997854
+Jack Brown,LOC000029599658,"30/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997855
+Jack Brown,LOC000029573957,"46/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997856
+Jack Brown,LOC000029562333,"11/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997857
+Jack Brown,LOC000029636880,"42/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997858
+Jack Brown,LOC000029589448,"13/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997859
+Jack Brown,LOC000029739538,"1/11-17 Robertson St, Sutherland, Nsw 2232",2CMO-23,,2CMO-23-03,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,Y,23,N/A,N/A,N/A,N/A,0,FTTB,Y,5Smiths,01/05/2020,See LOC000029997860
+Jack Brown,LOC000184882057,"2/70f Prince Edward Park Rd, Woronora, Nsw 2232",2CMO-23,,2CMO-23-10,NSW/ACT,,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,1,N,20,4,0,FTTC,0,5Smiths,01/05/2020,"DCL already hauled from 2CMO-23-10-DPU spare port 4 to the  Led in conduit,cut in"
+Jack Brown,LOC100064157894,"2 Yanko Cl, Woronora, Nsw 2232",2CMO-23,,2CMO-23-11,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,1,N,16,4,0,FTTC,0,5Smiths,01/05/2020,"Haul new DCL(50m) from port4  2CMO-23-11-DPU-016 pit next to the premise couldn’t locate , cut in"
+Jack Brown,LOC000092309395,"92a Prices Cct, Woronora, Nsw 2232",2CMO-23,,2CMO-23-12,NSW/ACT,0,Datateks,28/04/2020,Y,Y,N,N,N,N,1,3,N,13,2,0,FTTC,0,5Smiths,01/05/2020,"Extend aerial  2 pair cable(40m) from spare port 2 , 2CMO-23-12-DPU-013 through existing support to premise, install new PCD"
+Jack Brown,LOC000062201554,"4/655 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-24,,2CMO-24-18,NSW/ACT,,Datateks,31/12/1899,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
+Jack Brown,LOC100068423275,"1/768 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,22,2,0,FTTC,0,5Smiths,01/05/2020,Use port2 of 2CMO-25-01-DPU-022 to the existing OJ .cut in
+Jack Brown,LOC100068201174,"2/740 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,2,N,31,3,0,FTTC,0,5Smiths,01/05/2020,Use port 3 of 2CMO-25-01-DPU-031 to the existing OJ .cut in
+Jack Brown,LOC100068201064,"1/7 Eton St, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,3,N,28,4,0,FTTC,0,5Smiths,01/05/2020,"Build OJ 30 pair lead in at 738 old princes hwy. Haul DCL (3m) port 4 ,2CMO-25-01-DPU-028 to OJ. Cut in"
+Jack Brown,LOC100067284342,"4/762 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,24,4,0,FTTC,0,5Smiths,01/05/2020,Insert port 2 of 2CMO-25-01-DPU-024 to existing lead in OJ .cutin
+Jack Brown,LOC100068201072,"3/7 Eton St, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,3,N,28,2,0,FTTC,0,5Smiths,01/05/2020,"Build OJ 30 pair lead in at 738 old princes hwy. Haul DCL (3m) port 2 ,2CMO-25-01-DPU-028 to OJ. Cut in"
+Jack Brown,LOC000120571187,"1/778-780 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,2,0,FTTC,Y,5Smiths,01/05/2020,"2CMO-25-01-BJL-008, insert new SSS & haul to 6 pit corner of old princess hwy & flora st .install new DPU at 6pit .Haul DCL(30m) to existing OJ LIC 5 pit  .cut in port1"
+Jack Brown,LOC000036864777,"2/154 Flora St, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
+Jack Brown,LOC100068201157,"1/728 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
+Jack Brown,LOC100068201190,"1/752 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,2,0,FTTC,0,5Smiths,01/05/2020,Build OJ 20 pair lead in cable .Haul DCL( 15m ) from port 3 2CMO-21-01-DPU-025 to lead in pit. Cut in
+Jack Brown,LOC000064401551,"1/786-788 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,,Datateks,28/04/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
+Jack Brown,LOC100068423366,"6/800 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,1,0,FTTC,Y,5Smiths,01/05/2020,"2CMO-25-01-BJL-010, insert new SSS & haul to 6 pit st .install new DPU at 6pit .insert DPU ports in existing OJ  .cut in port 1"
+Jack Brown,LOC000120571207,"3/778-780 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,3,0,FTTC,Y,5Smiths,01/05/2020,"2CMO-25-01-BJL-008, insert new SSS & haul to 6 pit corner of old princess hwy & flora st .install new DPU at 6pit .Haul DCL(30m) to existing OJ LIC 5 pit  .cut in port 3"
+Jack Brown,LOC100068201220,"1/764 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
+Jack Brown,LOC000120571194,"2/778-780 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-01,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,2,0,FTTC,Y,5Smiths,01/05/2020,"2CMO-25-01-BJL-008, insert new SSS & haul to 6 pit corner of old princess hwy & flora st .install new DPU at 6pit .Haul DCL(30m) to existing OJ LIC 5 pit  .cut in port 2"
+Jack Brown,LOC000184723593,"Basketball Stadium, Forest Rd, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-02,NSW/ACT,,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
+Jack Brown,LOC000120580636,"3/575 President Av, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,1,N,33,2,0,FTTC,0,5Smiths,01/05/2020,2CMO-25-02-DPU-033 ports 1&2 are duplicates. Reassign port 2 to 3/575 president Av
+Jack Brown,LOC000016542152,"53 Eton St, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-02,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
+Jack Brown,LOC000176324895,"6/16-20 Boyle St, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,4,0,FTTC,0,5Smiths,01/05/2020,See LOC100068423418
+Jack Brown,LOC000152615127,"874-876 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-02,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
+Jack Brown,LOC000120565580,"6/818-820 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,1,0,FTTC,Y,5Smiths,01/05/2020,See LOC100068423418
+Jack Brown,LOC000162979931,"2/818-820 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,2,0,FTTC,Y,5Smiths,01/05/2020,See LOC100068423418
+Jack Brown,LOC100067380574,"3/561-569 President Av, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,1,0,FTTC,Y,5Smiths,01/05/2020,From 2CMO-25-02-BJL-004 haul new SSS to Lead-in pit. Install new DPU. Insert tails into exisitng OJ.
+Jack Brown,LOC100068423418,"1/814 Old Princes Hwy, Sutherland, Nsw 2232",2CMO-25,,2CMO-25-02,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,3,0,FTTC,Y,5Smiths,01/05/2020,From 2CMO-25-02-BJL-001 haul new SSS to 6 pit o/s 814. Install new DPU. Haul 2prs.
+Jack Brown,LOC000028235252,"15/149 Loftus Av, Loftus, Nsw 2232",2CMO-25,,2CMO-25-05,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,1,0,FTTC,Y,5Smiths,01/05/2020,See LOC000028218639
+Jack Brown,LOC000152617112,"1a Pitt St, Loftus, Nsw 2232",2CMO-25,,2CMO-25-05,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,16,4,0,FTTC,0,5Smiths,01/05/2020,DPU not in correct place on Atlas - 2CMO-25-02-016 has port 3 spare. NB useing different ada
+Jack Brown,LOC000028062025,"16/149 Loftus Av, Loftus, Nsw 2232",2CMO-25,,2CMO-25-05,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,2,0,FTTC,Y,5Smiths,01/05/2020,See LOC000028218639
+Jack Brown,LOC000101138856,"13/1 Pitt St, Loftus, Nsw 2232",2CMO-25,,2CMO-25-05,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,32,1,0,FTTC,0,5Smiths,01/05/2020,See LOC000100928134
+Jack Brown,LOC000152617108,"1b Pitt St, Loftus, Nsw 2232",2CMO-25,,2CMO-25-05,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,16,3,0,FTTC,0,5Smiths,01/05/2020,DPU not in correct place on Atlas - 2CMO-25-02-016 has port 3 spare. NB useing different ada
+Jack Brown,LOC000028218639,"12/149 Loftus Av, Loftus, Nsw 2232",2CMO-25,,2CMO-25-05,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,NEW,3,0,FTTC,Y,5Smiths,01/05/2020,From 2CMO-25-05-BJL-005 haul new SSS (30m) to nearby 5pit with capacity. Install new DPU. Haul 3 x 2prs to premise Lead-in
+Jack Brown,LOC000028046096,"4/155 Loftus Av, Loftus, Nsw 2232",2CMO-25,,2CMO-25-05,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,1,N,10,1,0,FTTC,0,5Smiths,01/05/2020,See LOC000028210513
+Jack Brown,LOC000100928134,"25/1 Pitt St, Loftus, Nsw 2232",2CMO-25,,2CMO-25-05,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,32,2,0,FTTC,0,5Smiths,01/05/2020,2CMO-25-05-DPU-032 port 2 available. Lead-in in same pit but 100pr cable - probably going to internal MDF in Wollongong University campus.
+Jack Brown,LOC000028210513,"1/155 Loftus Av, Loftus, Nsw 2232",2CMO-25,,2CMO-25-05,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,1,N,10,4,0,FTTC,0,5Smiths,01/05/2020,2CMO-25-05-DPU-010 port 4 available. Haul 2 pr from DPU to Lead-in pit
+Jack Brown,LOC100068423234,"61a Eighth Av, Loftus, Nsw 2232",2CMO-25,,2CMO-25-06,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,3,N,41,4,0,FTTC,0,5Smiths,01/05/2020,2CMO-25-06-DPU-041 port 4 available. Haul 2pr from DPU to Lead-in pit
+Jack Brown,LOC000058849673,"63 National Av, Loftus, Nsw 2232",2CMO-25,,2CMO-25-07,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,31,4,0,FTTC,0,5Smiths,01/05/2020,2CMO-25-07-DPU-031 port 4 already allocated in Atlas. 2pr already hauled to Lead-in pit
+Jack Brown,LOC000152618658,"2/40 Sixth Av, Loftus, Nsw 2232",2CMO-25,,2CMO-25-07,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,32,1,0,FTTC,0,5Smiths,01/05/2020,2CMO-25-07-DPU-032 port 1 available. 2pr already hauled to Lead in
+Jack Brown,LOC000152618643,"1/40 Sixth Av, Loftus, Nsw 2232",2CMO-25,,2CMO-25-07,NSW/ACT,0,Datateks,28/04/2020,Y,Y,Y,N,N,N,1,4,N,32,4,0,FTTC,0,5Smiths,01/05/2020,2CMO-25-07-DPU-032 port 4 available. 2pr already hauled to Lead in
+Jack Brown,LOC100064490777,"1/55-59 Caringbah Rd, Caringbah, Nsw 2229",2CRO-22,,2CRO-22-02,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
+Jack Brown,LOC000184778262,"2/65 Caringbah Rd, Caringbah, Nsw 2229",2CRO-22,,2CRO-22-02,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
+Jack Brown,LOC000184778270,"3/65 Caringbah Rd, Caringbah, Nsw 2229",2CRO-22,,2CRO-22-02,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
+Jack Brown,LOC100064490749,"1/193 Kingsway , Woolooware, Nsw 2230",2CRO-22,,2CRO-22-08,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,0
+Jack Brown,LOC000045419951,"71 Dolans Rd, Woolooware, Nsw 2230",2CRO-22,,2CRO-22-09,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC100072603585,"7 Locksley St, Cronulla, Nsw 2230",2CRO-24,,2CRO-24-10,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000152877660,"16/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000152877710,"21/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000152877694,"19/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000152877687,"18/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000152877747,"24/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000152877734,"23/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000152877752,"25/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000152877656,"15/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000152877706,"20/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000152877723,"22/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000152877768,"26/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000152877673,"17/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000152877641,"14/61 The Esplanade , Cronulla, Nsw 2230",2CRO-25,,2CRO-25-05,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000183896070,"6b Beach St, Cronulla, Nsw 2230",2CRO-27,,2CRO-27-04,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000184551011,"Lift1/205 Peats Ferry Rd, Hornsby, Nsw 2077",2HOR-02,,2HOR-02-01,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000184488825,"Lift2/205 Peats Ferry Rd, Hornsby, Nsw 2077",2HOR-02,,2HOR-02-01,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000184494248,"Lift/205 Peats Ferry Rd, Hornsby, Nsw 2077",2HOR-02,,2HOR-02-01,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000184495366,"Lift/205 Peats Ferry Rd, Hornsby, Nsw 2077",2HOR-02,,2HOR-02-01,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000184495058,"Lift/205 Peats Ferry Rd, Hornsby, Nsw 2077",2HOR-02,,2HOR-02-01,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000184495378,"Lift/205 Peats Ferry Rd, Hornsby, Nsw 2077",2HOR-02,,2HOR-02-01,NSW/ACT,0,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000018721525,"3044/236 Pacific Hwy, Hornsby, Nsw 2077",2HOR-02,,2HOR-02-02,NSW/ACT,29/04 - LOC removed,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Jack Brown,LOC000184731154,"Switch/Bridge Rd, Hornsby, Nsw 2077",2HOR-02,,2HOR-02-05,NSW/ACT,29/04 - LOC removed,Datateks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5Smiths,01/05/2020,
+Stephen Jablonka,LOC000082642200,"118 Rawson Rd, Guildford, Nsw 2161",2GUI-20,,2GUI-20-13,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC100067478791,"2 Osgood St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-04,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC000183032516,"49b Lavinia St, Merrylands, Nsw 2160",2GUI-24,,2GUI-24-06,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC000183245131,"School, 2/70 Adam St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-08,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC000093403843,"1/70 Adam St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-08,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC000167882441,"5/63-71 Guildford Rd, Guildford, Nsw 2161",2GUI-24,,2GUI-24-09,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC000167882456,"6/63-71 Guildford Rd, Guildford, Nsw 2161",2GUI-24,,2GUI-24-09,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC000167882418,"2/63-71 Guildford Rd, Guildford, Nsw 2161",2GUI-24,,2GUI-24-09,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC000167882402,"11/63-71 Guildford Rd, Guildford, Nsw 2161",2GUI-24,,2GUI-24-09,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC000167882473,"7/63-71 Guildford Rd, Guildford, Nsw 2161",2GUI-24,,2GUI-24-09,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC000167882439,"4/63-71 Guildford Rd, Guildford, Nsw 2161",2GUI-24,,2GUI-24-09,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC100068204336,"9a Bright St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-09,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC000167882397,"10/63-71 Guildford Rd, Guildford, Nsw 2161",2GUI-24,,2GUI-24-09,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC100068211873,"9 Markey St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-10,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC000046919252,"18a Markey St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-10,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC100063795544,"18 Erie St, South Granville, Nsw 2142",2GUI-24,,2GUI-24-12,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC100067478817,"11a Randolph St, South Granville, Nsw 2142",2GUI-24,,2GUI-24-13,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC100068204358,"1/315 Clyde St, South Granville, Nsw 2142",2GUI-24,,2GUI-24-13,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC000015661756,"11/17-21 Guildford Rd, Guildford, Nsw 2161",2GUI-24,,2GUI-24-15,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC100068204679,"2a Kirk Av, Guildford, Nsw 2161",2GUI-24,,2GUI-24-15,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC100063795378,"13 Caroline St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-17,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC100068204294,"10a Bligh St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-17,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC000167872305,"13a Bligh St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-17,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC000109251595,"1/275 Excelsior St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-18,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC000056170824,"30 Ashby St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-19,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC000161452624,"3a Hinchen St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-19,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC100068204287,"1/8 Ashby St, Guildford, Nsw 2161",2GUI-24,,2GUI-24-19,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC000184745846,"301/5-7 Swift St, Guildford, Nsw 2161",2GUI-25,,2GUI-25-02,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC000184426452,"34 Cross St, Guildford, Nsw 2161",2GUI-25,,2GUI-25-03,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC000184489322,"4a Henry St, Guildford, Nsw 2161",2GUI-25,,2GUI-25-05,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Stephen Jablonka,LOC000093559752,"60a Bursill St, Guildford, Nsw 2161",2GUI-25,,2GUI-25-11,NSW/ACT,0,Datateks,29/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057699768,"Lewin Lodge, 15/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057887962,"Lewin Lodge, 22/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000167081285,"5/459 Great Western Hwy, Faulconbridge, Nsw 2776",2SPW-26,,2SPW-26-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057822207,"Lewin Lodge, 7/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057540052,"Lewin Lodge, 8/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057651246,"Lewin Lodge, 25/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC100070340928,"Lewin Lodge, 9/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057524771,"Lewin Lodge, 29/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057568033,"Lewin Lodge, 4/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057822092,"Lewin Lodge, 16/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC100070340900,"Lewin Lodge, 6/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057583102,"Lewin Lodge, 32/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057822211,"Lewin Lodge, 26/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000058122443,"Lewin Lodge, 11/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057524759,"Lewin Lodge, 20/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057699752,"Lewin Lodge, 3/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057540023,"Lewin Lodge, 10/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000058079598,"Lewin Lodge, 42/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057524763,"Lewin Lodge, 23/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057970702,"Lewin Lodge, 43/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000058079624,"Lewin Lodge, 44/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000058079580,"Lewin Lodge, 1/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057873012,"Lewin Lodge, 30/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057583118,"Lewin Lodge, 21/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000058165847,"Lewin Lodge, 50/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000058165834,"Lewin Lodge, 19/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057873020,"Lewin Lodge, 6/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057651233,"Lewin Lodge, 5/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000058165852,"Lewin Lodge, 40/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057583085,"Lewin Lodge, 41/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057540034,"Lewin Lodge, 9/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057568014,"Lewin Lodge, 47/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC100070340888,"Lewin Lodge, 1/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057699747,"Lewin Lodge, 33/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000058213870,"Lewin Lodge, 37/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC100070340916,"Lewin Lodge, 8/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC100070340890,"Lewin Lodge, 21/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000057651222,"Lewin Lodge, 18/2 Lewin St, Springwood, Nsw 2777",2SPW-26,,2SPW-26-03,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000183471030,"Nsw Trains, Great Western Hwy, Linden, Nsw 2778",2SPW-26,,2SPW-26-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000054700261,"23 Sir Henrys Pde, Faulconbridge, Nsw 2776",2SPW-26,,2SPW-26-18,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000167259258,"853-865 Great Western Hwy, Linden, Nsw 2778",2SPW-27,,2SPW-27-01,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000122265314,"837-840 Great Western Hwy, Linden, Nsw 2778",2SPW-27,,2SPW-27-01,NSW/ACT,,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000142544807,"24 Old Bathurst Rd, Woodford, Nsw 2778",2SPW-27,,2SPW-27-02,NSW/ACT,0,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC100063192986,"1/195-196 Great Western Hwy, Hazelbrook, Nsw 2779",2SPW-27,,2SPW-27-10,NSW/ACT,0,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC100063193037,"6/195-196 Great Western Hwy, Hazelbrook, Nsw 2779",2SPW-27,,2SPW-27-10,NSW/ACT,0,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC100063192993,"2/195-196 Great Western Hwy, Hazelbrook, Nsw 2779",2SPW-27,,2SPW-27-10,NSW/ACT,0,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC100063193028,"5/195-196 Great Western Hwy, Hazelbrook, Nsw 2779",2SPW-27,,2SPW-27-10,NSW/ACT,0,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000052529739,"102 Winbourne Rd, Hazelbrook, Nsw 2779",2SPW-27,,2SPW-27-22,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000045672680,"1/187 Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000121997874,"48 Emma Pde, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000122025858,"19a Shelton Av, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-04,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC100063356910,"326-340 Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-04,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000122003846,"59r Leslie St, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000122000998,"546a Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000058983218,"584 Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000122003983,"627 Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-06,NSW/ACT,0,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000062061798,"509 Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-06,NSW/ACT,0,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000077769694,"355 Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-13,NSW/ACT,0,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000034570473,"345 Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-13,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000003188233,"Heatherbrae, 363 Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-13,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000069528231,"347 Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-13,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000026301076,"34a Heather Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-13,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000070170610,"1 Boronia Cr, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-16,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000099864088,"349 Hawkesbury Rd, Winmalee, Nsw 2777",2SPW-28,,2SPW-28-21,NSW/ACT,,Datateks,27/04/2020,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000162363827,"133a Boomerang Dr, Glossodia, Nsw 2756",2WFC-01,,2WFC-01-11,NSW/ACT,,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC100066523021,"44a Chestnut Dr, Glossodia, Nsw 2756",2WFC-01,,2WFC-01-14,NSW/ACT,,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000010945217,"26 Grand Pde, Glossodia, Nsw 2756",2WFC-01,,2WFC-01-14,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000121931511,"145 Golden Valley Dr, Glossodia, Nsw 2756",2WFC-01,,2WFC-01-15,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000070727626,"188 Golden Valley Dr, Glossodia, Nsw 2756",2WFC-01,,2WFC-01-15,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000067641382,"35 Kentucky Dr, Glossodia, Nsw 2756",2WFC-01,,2WFC-01-15,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000055180523,"1/21 Burdekin Rd, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-17,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000121895207,"6 Box Av, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-17,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000179036306,"780a Kurmond Rd, North Richmond, Nsw 2754",2WFC-01,,2WFC-01-22,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000021439188,"1 Mayne St, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-24,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000121940696,"17 George Rd, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-24,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000099814344,"6 Raymond St, Freemans Reach, Nsw 2756",2WFC-01,,2WFC-01-26,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000034042286,"2 Raymond St, Freemans Reach, Nsw 2756",2WFC-01,,2WFC-01-26,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000066225969,"1 Coburg Rd, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-28,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000107250535,"3 Coburg Rd, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-28,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000155280093,"14a Coburg Rd, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-28,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000110168395,"70 Macquarie Rd, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-28,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000019889252,"68 Macquarie Rd, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-28,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000084029789,"45 Turnbull Av, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-28,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Martin Pether,LOC000085975079,"5 Coburg Rd, Wilberforce, Nsw 2756",2WFC-01,,2WFC-01-28,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000001476526,"220 Railway Pde, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000025986814,"210-212 Railway Pde, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000120447509,"5 Railway Pde, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160205359,"11/6 Guinea St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160205154,"24/4 Guinea St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160205411,"16/6 Guinea St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160205424,"17/6 Guinea St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160205430,"18/6 Guinea St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160205407,"15/6 Guinea St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160205098,"18/4 Guinea St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000120436279,"3-13 Taylor St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000086329458,"2a Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000010080130,"2/33a Regent St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-04,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000024878430,"1/14-18 Regent St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-04,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000024680492,"3/14-18 Regent St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-04,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000010116870,"1/33a Regent St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-04,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000112113124,"1/22-24 Regent St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-04,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000165358899,"105/22 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160224374,"101/22 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000050499828,"26/26 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000120439080,"30-38 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000184356882,"102/22 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000051518577,"28/26 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000051455973,"39/26 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000051624261,"15/26 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000051611702,"16/26 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000051484400,"12/26 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC100067228962,"1/14 Kensington St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000051504039,"21/26 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000051477889,"41/26 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000051449895,"19/26 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000107838456,"34 Gray St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000051515011,"30/26 Belgrave St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160226862,"203/71-73 Bank Lane, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160227161,"503/71-73 Bank Lane, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000120421470,"101-103 Princes Hwy, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160226827,"102/71-73 Bank Lane, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000108174696,"16-20 Hogben St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160227190,"701/71-73 Bank Lane, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160226815,"101/71-73 Bank Lane, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000120450240,"13/63-67 Gladstone St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160226858,"202/71-73 Bank Lane, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160226889,"301/71-73 Bank Lane, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160226836,"201/71-73 Bank Lane, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160226804,"1/71-73 Bank Lane, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000062125993,"66 French Lane, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160206178,"17/39 Green St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160206236,"23/39 Green St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160206243,"24/39 Green St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160206145,"14/39 Green St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000160206579,"5/55 Green St, Kogarah, Nsw 2217",2KOG-22,,2KOG-22-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000016380578,"45 Princes Hwy, Kogarah, Nsw 2217",2KOG-23,,2KOG-23-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000091863095,"1/34-36 Beaconsfield St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-04,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000168071653,"121a Queen Victoria St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000080562525,"2/19 Wallace St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000075084643,"1/83-85 Beaconsfield St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000074998976,"5/83-85 Beaconsfield St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC100066510923,"2/94-100 Queen Victoria St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC100066516479,"5/63a Connemarra St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000041936682,"5/64-66 Beaconsfield St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC100066510831,"6/77 Queen Victoria St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC100066510812,"3/77 Queen Victoria St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000176650099,"5/77 Queen Victoria St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC100066510798,"1/77 Queen Victoria St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC100066510820,"4/77 Queen Victoria St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC100066510808,"2/77 Queen Victoria St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC100066516467,"2/63a Connemarra St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC100066510865,"2/26-30 Queen Victoria St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC100066510906,"13/69 Queen Victoria St, Bexley, Nsw 2207",2KOG-24,,2KOG-24-13,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000176647744,"2/1 Queen Victoria St, Kogarah, Nsw 2217",2KOG-24,,2KOG-24-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000027281721,"1/24a Preddys Rd, Bexley, Nsw 2207",2KOG-25,,2KOG-25-02,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC100065571617,"40 Kenyon Rd, Bexley, Nsw 2207",2KOG-25,,2KOG-25-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000165330744,"1 Anderson St, Bexley, Nsw 2207",2KOG-25,,2KOG-25-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000031642741,"648a Forest Rd, Bexley, Nsw 2207",2KOG-25,,2KOG-25-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000080277110,"Sydney Technical High School, 684 Forest Rd, Bexley, Nsw 2207",2KOG-25,,2KOG-25-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000007441738,"2/70 Glenfarne St, Bexley, Nsw 2207",2KOG-25,,2KOG-25-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000066461567,"24a Westbourne St, Bexley, Nsw 2207",2KOG-25,,2KOG-25-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000042029257,"Amity Nursing Home, 741 Forest Rd, Bexley, Nsw 2207",2KOG-25,,2KOG-25-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000092153141,"2/35 Vine St, Hurstville, Nsw 2220",2KOG-25,,2KOG-25-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000092442253,"1/35 Vine St, Hurstville, Nsw 2220",2KOG-25,,2KOG-25-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000106153470,"2/48 Vine St, Hurstville, Nsw 2220",2KOG-25,,2KOG-25-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000177122824,"101a Botany St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC100050473561,"53a Cronulla St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000105229216,"55a Lily St, Hurstville, Nsw 2220",2KOG-25,,2KOG-25-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000055637025,"88 Durham St, Hurstville, Nsw 2220",2KOG-25,,2KOG-25-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000096434585,"1/24 Ethel St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-13,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000023037269,"1/79 Willison Rd, Carlton, Nsw 2218",2KOG-25,,2KOG-25-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000022888007,"2/79 Willison Rd, Carlton, Nsw 2218",2KOG-25,,2KOG-25-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000111221699,"9a Durham St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-15,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000100144708,"29 High St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-15,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000092396779,"10/1 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-16,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000089457264,"2 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-16,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000092218115,"11/1 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-16,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000015536519,"4/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000015606222,"2/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC100066638298,"1/41 Carlton Pde, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000015834031,"6/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000015838197,"13/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000015789267,"1/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000015879198,"12/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000015514586,"3/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000015731888,"8/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000015507767,"9/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000015532783,"14/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000015377284,"11/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000015908805,"5/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000015507629,"7/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC100066638308,"2/41 Carlton Pde, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000015767158,"10/3 Short St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000120446637,"51 Carlton Pde, Carlton, Nsw 2218",2KOG-25,,2KOG-25-19,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Paul Soulos,LOC000177122914,"44a Fleet St, Carlton, Nsw 2218",2KOG-25,,2KOG-25-20,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100067479223,"1/28 Pyramid Av, Padstow, Nsw 2211",2REV-21,,2REV-21-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000037313777,"132 Cahors Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-04,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000047686082,"172a Gibson Av, Padstow, Nsw 2211",2REV-21,,2REV-21-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100035252362,"1a Beamish St, Padstow, Nsw 2211",2REV-21,,2REV-21-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000120496834,"1/66-72 Bryant St, Padstow, Nsw 2211",2REV-21,,2REV-21-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000120496847,"2/66-72 Bryant St, Padstow, Nsw 2211",2REV-21,,2REV-21-06,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000098239626,"3/2h Arab Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000120494376,"5a Arab Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000098645086,"4/2h Arab Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000089048176,"2/13 Watson Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100067478893,"2/123 Fairford Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000086246269,"2/111 Fairford Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000061434990,"4/109 Fairford Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000076995438,"2/3 Arab Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000086398594,"3/111 Fairford Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000076804262,"1/3 Arab Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-07,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100067479070,"1/92 Iberia St, Padstow, Nsw 2211",2REV-21,,2REV-21-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100067479089,"106a Iberia St, Padstow, Nsw 2211",2REV-21,,2REV-21-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100065756312,"71a Iberia St, Padstow, Nsw 2211",2REV-21,,2REV-21-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100067479043,"1/71a Iberia St, Padstow, Nsw 2211",2REV-21,,2REV-21-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000166350946,"5/26 Meager Av, Padstow, Nsw 2211",2REV-21,,2REV-21-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000090605742,"127 Davies Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-12,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100068212040,"111a Davies Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-12,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100067478743,"1/114 Davies Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-12,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000001421225,"Padstow Pre School, 133 Davies Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-12,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100067479321,"2a Truro Pde, Padstow, Nsw 2211",2REV-21,,2REV-21-12,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100067479117,"2a Orient Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-12,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100050834110,"1a Faraday Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-13,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000120513928,"10 Burley Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-13,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000166347313,"Padstow Railway Station, 2/134 Cahors Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000094792690,"58b Howard Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-16,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000166349967,"2/22 Howard Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-17,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000064527701,"8 Baldwin St, Padstow, Nsw 2211",2REV-21,,2REV-21-17,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100068212103,"35a Spring St, Padstow, Nsw 2211",2REV-21,,2REV-21-17,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000166349946,"1/22 Howard Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-17,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100067478840,"125a Doyle Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-17,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100067380191,"3/20 Howard Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-17,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100067380189,"2/20 Howard Rd, Padstow, Nsw 2211",2REV-21,,2REV-21-17,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000151423328,"2a Panania Av, Panania, Nsw 2213",2REV-23,,2REV-23-08,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000086930266,"17/121 Tompson Rd, Panania, Nsw 2213",2REV-27,,2REV-27-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000086602604,"4/121 Tompson Rd, Panania, Nsw 2213",2REV-27,,2REV-27-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000086909551,"20/121 Tompson Rd, Panania, Nsw 2213",2REV-27,,2REV-27-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000086937592,"1/121 Tompson Rd, Panania, Nsw 2213",2REV-27,,2REV-27-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000086839638,"5/121 Tompson Rd, Panania, Nsw 2213",2REV-27,,2REV-27-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000087258792,"6/121 Tompson Rd, Panania, Nsw 2213",2REV-27,,2REV-27-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000034038827,"127a Tompson Rd, Panania, Nsw 2213",2REV-27,,2REV-27-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000184646843,"17a Ramsay Rd, Panania, Nsw 2213",2REV-27,,2REV-27-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000023843162,"28 Eddie Av, Panania, Nsw 2213",2REV-27,,2REV-27-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100069070163,"7/229 Tower St, Panania, Nsw 2213",2REV-27,,2REV-27-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100050553900,"77a Lucas Rd, East Hills, Nsw 2213",2REV-27,,2REV-27-21,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000184588108,"3a Blanc Av, East Hills, Nsw 2213",2REV-27,,2REV-27-21,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000184906093,"18a Bishop St, Revesby, Nsw 2212",2REV-30,,2REV-30-09,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100073418591,"Hockey Aus, Shirley Strickland Av, Sydney Olympic Park, Nsw 2127",2SIL-02,,2SIL-02-15,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000184794795,"Commsfcty/10 Dawn Fraser Av, Sydney Olympic Park, Nsw 2127",2SIL-02,,2SIL-02-15,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000162630651,"3/70-74 Jellicoe St, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-02,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000162632310,"Bg, Red Yard, Red Yard, 12a/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000162632443,"Bg, Red Yard, Red Yard, 1a/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000162632415,"Bg, Red Yard, Red Yard, 14a/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000162632905,"Bg, Red Yard, Red Yard, 7a/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000162632368,"Bg, Red Yard, Red Yard, 13a/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000184716556,"Bg, Red Yard, Red Yard, A16/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000162632283,"Bg, Red Yard, Red Yard, 19/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000162633023,"Bg, Red Yard, Red Yard, 9a/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100042161410,"23-29 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000162632967,"Bg, Red Yard, Red Yard, 8a/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000004741126,"114 Parramatta Rd, Auburn, Nsw 2144",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000114308713,"95 St Hilliers Rd, Auburn, Nsw 2144",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000162632399,"Bg, Red Yard, Red Yard, 20/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000162632560,"Bg, Red Yard, Red Yard, 5a/100 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000184498127,"1/55-59 Parramatta Rd, Lidcombe, Nsw 2141",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000107534006,"79 St Hilliers Rd, Auburn, Nsw 2144",2SIL-06,,2SIL-06-03,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100066289045,"7/73 Station Rd, Auburn, Nsw 2144",2SIL-06,,2SIL-06-05,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000120047209,"F/11-13 Short St, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000177631875,"6/10 Newton St S, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000120047158,"A/11-13 Short St, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000177631899,"2/10 Newton St S, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000120047170,"C/11-13 Short St, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000177632114,"3/10 Newton St S, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000162623878,"11b/219 Parramatta Rd, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000039852225,"3/233-239 Parramatta Rd, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000177631852,"5/10 Newton St S, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000008272793,"182 Adderley St W, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000120047189,"D/11-13 Short St, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100066278416,"4/233-239 Parramatta Rd, Auburn, Nsw 2144",2SIL-06,,2SIL-06-10,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000178636962,"12 Fisher St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000162656812,"2/98 Carnarvon St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000029057238,"88 Carnarvon St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000162656780,"1/98 Carnarvon St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-11,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100073691897,"99 Derby St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-12,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100066289021,"188 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-13,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100066289032,"188 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-13,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000049792144,"214 Silverwater Rd, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-13,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000057132858,"89 Egerton St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-14,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000178637027,"41 Egerton St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-15,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100066277341,"2/36-38 Egerton St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-15,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100066277356,"101/36-38 Egerton St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-15,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000178637036,"41 Egerton St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-15,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000162659772,"C/28-32 Egerton St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-15,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100066272470,"46-48 Derby St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-15,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000044147906,"1/52 Carnarvon St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-18,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC100066289084,"2/9 Suttor St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-18,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000162656672,"3/75 Carnarvon St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-18,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000162656590,"1/75 Carnarvon St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-18,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000162656705,"4/75 Carnarvon St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-18,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000162656640,"2/75 Carnarvon St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-18,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000162656557,"1/75 Carnarvon St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-18,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000162656617,"1a/75 Carnarvon St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-18,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000095591473,"10-12 Churchill St, Silverwater, Nsw 2128",2SIL-06,,2SIL-06-18,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000174041649,"Security4/37-39 Hill Rd, Wentworth Point, Nsw 2127",2SIL-07,,2SIL-07-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000174041631,"Security3/37-39 Hill Rd, Wentworth Point, Nsw 2127",2SIL-07,,2SIL-07-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000174041696,"Security8/37-39 Hill Rd, Wentworth Point, Nsw 2127",2SIL-07,,2SIL-07-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000174041654,"Security5/37-39 Hill Rd, Wentworth Point, Nsw 2127",2SIL-07,,2SIL-07-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000174041677,"Security7/37-39 Hill Rd, Wentworth Point, Nsw 2127",2SIL-07,,2SIL-07-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000174041608,"Security1/37-39 Hill Rd, Wentworth Point, Nsw 2127",2SIL-07,,2SIL-07-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000174041817,"37b Hill Rd, Wentworth Point, Nsw 2127",2SIL-07,,2SIL-07-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000174041872,"Security/37a Hill Rd, Wentworth Point, Nsw 2127",2SIL-07,,2SIL-07-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000174041665,"Security6/37-39 Hill Rd, Wentworth Point, Nsw 2127",2SIL-07,,2SIL-07-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
+Jack Brown,LOC000174041864,"Security/37b Hill Rd, Wentworth Point, Nsw 2127",2SIL-07,,2SIL-07-01,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,01/05/2020,
 ,LOC000184411271,"2/7 Great Western Hwy, Valley Heights, Nsw 2777",2SPW-20,,2SPW-20-09,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,08/05/2020,
 ,LOC100074017168,"18a Nixon St, Emu Plains, Nsw 2750",2SPW-25,,2SPW-25-16,NSW/ACT,0,Datateks,,,,,,,,,,,,,,,,5Smiths,08/05/2020,
 ,LOC100074022152,"19a Colwell St, Kingsgrove, Nsw 2208",2KOG-01,,2KOG-01-18,NSW/ACT,29/04 - LOC removed,Datateks,,,,,,,,,,,,,,,,5Smiths,08/05/2020,
