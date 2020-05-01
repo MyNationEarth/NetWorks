@@ -13,7 +13,7 @@ if [ -z ${GS_HOME+x} ]; then
   exit 0
 fi
 
-nohup $GS_HOME/bin/startTopaz $1 -u "WebServer" -il <<EOF >>MFC.out &
+nohup $GS_HOME/bin/startTopaz $1 -u "WebServer" -il <<EOF &
 set user DataCurator password swordfish gemstone $1
 login
 exec 
