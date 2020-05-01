@@ -13,15 +13,6 @@ if [ -z ${GS_HOME+x} ]; then
   exit 0
 fi
 
-if sh checkIfStoneExist.sh "$1"; 
-  then echo "" 
-  else 
-    echo ;
-    echo "Topaz for Stone named [$1] failed to start";
-    echo;
-    exit 0
-fi
-
 nohup $GS_HOME/bin/startTopaz $1 -u "WebServer" -il <<EOF >>MFC.out &
 set user DataCurator password swordfish gemstone $1
 login
