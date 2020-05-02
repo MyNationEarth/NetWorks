@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 04/30/2020 18:06",
+	"instvars" : [
+		"contents" ],
+	"name" : "NWDefectsExportTool",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
