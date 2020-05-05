@@ -1,3 +1,4 @@
 accessing
 removeComponentAt: aKey
-  ^ components removeKey: aKey
+  ^ (components keys includes: aKey)
+    ifTrue: [ components removeKey: aKey ]
