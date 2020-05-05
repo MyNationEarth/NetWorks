@@ -12,6 +12,7 @@
 		"initialize" : "DataCurator 02/02/2019 16:24",
 		"modelViewApplication" : "jupiter 07/01/2019 09:01",
 		"organisationModel" : "jupiter 02/04/2019 15:22",
+		"removeComponentAt:" : "jupiter 05/05/2020 13:39",
 		"renderBreadcrumbOn:" : "DataCurator 02/02/2019 16:24",
 		"renderPresenterBreadcrumbs:on:" : "jupiter 02/09/2019 11:24",
 		"rolesWithNames:" : "jupiter 02/04/2020 15:07",
