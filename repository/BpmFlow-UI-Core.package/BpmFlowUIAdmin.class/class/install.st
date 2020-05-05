@@ -5,7 +5,6 @@ install
   application preferenceAt: #'sessionClass' put: BpmFlowUISession.
   application
     addLibrary: JQDevelopmentLibrary;
-    addLibrary: NWTBSDevelopmentLibrary;
     addLibrary: JQUiDevelopmentLibrary;
     addLibrary: JQOvercastTheme;
     addLibrary: TBSJasnyDevelopmentLibrary;
@@ -14,4 +13,5 @@ install
     addLibrary: AdminLTEFileLibrary;
     addLibrary: Highcharts6DevelopmentMetadataLibrary;
     addLibrary: JQFullCalendarFileLibrary;
-    addLibrary: BpmFlowUIFileLibrary
+    addLibrary: BpmFlowUIFileLibrary;
+    addLibrary: NWTBSDevelopmentLibrary

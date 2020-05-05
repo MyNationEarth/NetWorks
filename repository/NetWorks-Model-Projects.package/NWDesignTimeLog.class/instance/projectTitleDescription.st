@@ -3,7 +3,8 @@ projectTitleDescription
   ^ MAStringDescription new
     accessor: #'projectTitle';
     label: 'Project Title';
-    cssClasses: #('text-left');
-    priority: 100;
+    priority: 400;
+    reportColumnClass: NWDescribedColumn;
     beReadonly;
+    beRequired;
     yourself
