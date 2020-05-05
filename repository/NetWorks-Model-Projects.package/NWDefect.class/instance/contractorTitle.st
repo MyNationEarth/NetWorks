@@ -1,3 +1,3 @@
 Accessing
 contractorTitle
-  ^ self contractor title
+  ^ self contractor ifNotNil: [ :value | value title ] ifNil: [ '' ]

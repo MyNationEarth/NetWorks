@@ -2,7 +2,7 @@ export file
 reportDescriptionContainer
   | template |
   template := NWDefect new.
-  ^ template contractTitleDescription , template typeDescription
+  ^ template contractorTitleDescription , template typeDescription
     , template classificationDescription , template projectTitleDescription
     , template contractorTitleDescription
     , template internalStaffTitleDescription , template locationDescription

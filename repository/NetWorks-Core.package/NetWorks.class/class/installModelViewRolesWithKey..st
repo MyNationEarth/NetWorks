@@ -39,6 +39,7 @@ installModelViewRolesWithKey: modelKey
   'exportDesignLogs'.
   'exportInsurances'.
   'exportContractorInvoices'.
+  'exportDefects'.
   'Project Manager'.
   'Project Designer'.
   'Project Construction'.

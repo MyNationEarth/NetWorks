@@ -1,3 +1,3 @@
 Accessing
 internalStaffTitle
-  ^ self internalStaff displayName
+  ^ self internalStaff ifNotNil: [ :value | value displayName ] ifNil: [ '' ]

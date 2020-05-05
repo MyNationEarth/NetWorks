@@ -1,0 +1,63 @@
+!=========================================================================
+! Copyright (C) GemTalk Systems 1986-2019.  All Rights Reserved.
+!
+! $Id: installtimezone.txt 45835 2019-03-28 23:05:42Z otisa $
+!
+! Description - Topaz script for users to edit to create and install 
+! the appropriate default TimeZone for their location.
+!
+!========================================================================
+!
+! This file contains a sample of the code that is used to create and
+! install the default TimeZone object. If the TimeZone rules have 
+! changed and DateTime instances must be updated, see the script 
+! timezone.txt.
+!
+! If you are on Solaris or Linux, the operating system can detect the
+! current time zone.  If you are on another platform, or if you are 
+! installing a TimeZone other than the current machine time zone, you
+! must determine the name of your TimeZone and the location of the 
+! zoneinfo database.  
+!
+! To determine the name of your timezone, you may use the tzselect utility,
+! in $GEMSTONE/pub/timezone/etc/tzselect. Names may be similar to 
+! 'America/New_York' or 'Europe/Zurich'.
+!
+! You may use the zoneinfo database shipped with GemStone at 
+! $GEMSTONE/pub/timezone/etc/zoneinfo/, or your own zoneinfo database.
+!
+! If swap is true, the existing default and current TimeZone is converted 
+! to the newly installed TimeZone using become:.
+!
+! This example includes setting the timezone to pacific time, which has 
+! the name 'America/Los_Angeles', using GemStone's zoneinfo database.
+!
+
+run
+| useOSTimeZone swap path osName zonename aTimeZone |
+
+swap := true.
+useOSTimeZone := true.
+
+useOSTimeZone 
+  ifTrue: 
+    [ osName := System gemVersionReport at: #osName.
+    osName = 'Linux' ifTrue: [ aTimeZone := TimeZone fromLinux ].
+    osName = 'SunOS' ifTrue: [ aTimeZone := TimeZone fromSolaris ].
+    ].
+
+aTimeZone isNil
+  ifTrue:
+    [ path := '$GEMSTONE/pub/timezone/usr/share/zoneinfo/'.
+    zonename := 'America/Los_Angeles'.
+    aTimeZone := TimeZone fromGemPath: path, zonename.
+    ].
+
+swap 
+   ifTrue: [TimeZone default become: aTimeZone]
+   ifFalse: [TimeZone default: aTimeZone].
+
+TimeZone default installAsCurrentTimeZone.
+^true.
+%
+commit
