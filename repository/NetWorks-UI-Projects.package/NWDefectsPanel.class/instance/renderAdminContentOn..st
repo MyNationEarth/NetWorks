@@ -2,7 +2,7 @@ rendering
 renderAdminContentOn: canvas
   "Ensure refresh of the defects list"
 
-  self removeComponentAt: #'defects'.
+  self defectsComponent reset.
   canvas tbsRow
     with: [ 
       canvas tbsColumn
