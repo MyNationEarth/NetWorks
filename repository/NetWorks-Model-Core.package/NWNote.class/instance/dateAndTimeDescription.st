@@ -1,7 +1,7 @@
 descriptions
 dateAndTimeDescription
   <magritteDescription>
-  ^ MADateAndTimeDescription new
+  ^ NWDateAndTimeDescription new
     accessor: #'dateAndTime';
     label: 'Date and Time';
     priority: 650;
