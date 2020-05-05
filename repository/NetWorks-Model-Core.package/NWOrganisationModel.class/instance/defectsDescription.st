@@ -9,7 +9,8 @@ defectsDescription
     reference:
         template titleDescription , template typeDescription
             , template raisedByDescription , template raisedDateDescription
-            , template closedDateDescription , template commentDescription;
+            , template closedDateDescription , template projectTitleDescription
+            , template commentDescription;
     label: 'Quality';
     priority: 100;
     beSorted;
