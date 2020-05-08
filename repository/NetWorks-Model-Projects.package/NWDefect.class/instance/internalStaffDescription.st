@@ -3,7 +3,7 @@ internalStaffDescription
   <magritteDescription>
   | description roles |
   roles := NetWorks
-    rolesNamed: #('Project Construction')
+    rolesNamed: #('Project Construction' #'Project Designer')
     in: self modelViewApplication.
   description := MASingleOptionDescription new
     accessor: #'internalStaff';
