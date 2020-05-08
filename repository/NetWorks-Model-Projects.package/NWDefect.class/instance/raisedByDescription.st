@@ -3,7 +3,7 @@ raisedByDescription
   <magritteDescription>
   | description roles |
   roles := NetWorks
-    rolesNamed: #('Project Manager' 'Design Manager' 'Quality Manager')
+    rolesNamed: #('Project Manager' 'Project Designer' 'Quality Manager')
     in: self modelViewApplication.
   description := MASingleOptionDescription new
     accessor: #'raisedBy';
