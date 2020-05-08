@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acquiredDate" : "jupiter 05/09/2020 05:47",
+		"acquiredDate:" : "jupiter 05/09/2020 05:47",
+		"acquiredDateDescription" : "jupiter 05/09/2020 06:12",
+		"backReference:" : "jupiter 05/09/2020 05:45",
+		"contact" : "jupiter 05/09/2020 05:45",
+		"contact:" : "jupiter 05/09/2020 05:40",
+		"contactEmailAddress" : "jupiter 05/09/2020 05:40",
+		"contactNumber" : "jupiter 05/09/2020 05:40",
+		"contactTitle" : "jupiter 05/09/2020 05:40",
+		"descriptionContainer" : "jupiter 05/09/2020 05:54",
+		"expiryDate" : "jupiter 05/09/2020 05:40",
+		"expiryDate:" : "jupiter 05/09/2020 05:40",
+		"expiryDateDescription" : "jupiter 05/09/2020 05:40",
+		"expiryNotification" : "jupiter 05/09/2020 05:49",
+		"expiryNotification:" : "jupiter 05/09/2020 05:49",
+		"expiryNotificationDate" : "jupiter 05/09/2020 05:50",
+		"expiryNotificationDate:" : "jupiter 05/09/2020 05:51",
+		"expiryNotificationDateDescription" : "jupiter 05/09/2020 05:51",
+		"expiryWarning" : "jupiter 05/09/2020 05:40",
+		"initialize" : "jupiter 05/09/2020 05:46",
+		"titleDescription" : "jupiter 05/09/2020 05:47" } }

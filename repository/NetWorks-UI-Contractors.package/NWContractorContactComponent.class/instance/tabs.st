@@ -12,6 +12,14 @@ tabs
             yourself);
     add:
         (Dictionary new
+            at: #'id' put: #'accreditations';
+            at: #'label' put: 'Accreditations';
+            at: #'icon' put: #'user';
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'accreditations') ];
+            yourself);
+    add:
+        (Dictionary new
             at: #'id' put: #'basics';
             at: #'label' put: 'Basics';
             at: #'icon' put: #'list';

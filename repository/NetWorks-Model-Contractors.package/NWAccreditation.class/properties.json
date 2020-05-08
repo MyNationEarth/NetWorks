@@ -6,10 +6,13 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"contractor",
-		"accreditations" ],
-	"name" : "NWContractorContact",
+		"contact",
+		"acquiredDate",
+		"expiryDate",
+		"expiryNotification",
+		"expiryNotificationDate" ],
+	"name" : "NWAccreditation",
 	"pools" : [
 		 ],
-	"super" : "NWAbstractContact",
+	"super" : "NWObjectWithTitleAndComment",
 	"type" : "normal" }
