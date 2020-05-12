@@ -93,6 +93,10 @@ table.report, .reportComponent table {
                 padding-left: 8px;
             }
         }
+        
+        &.text-left {
+        	text-align: left;
+        }
     }
     
     // selection
