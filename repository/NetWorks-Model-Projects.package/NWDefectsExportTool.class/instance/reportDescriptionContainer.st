@@ -4,9 +4,8 @@ reportDescriptionContainer
   template := NWDefect new.
   ^ template contractorTitleDescription , template typeDescription
     , template classificationDescription , template projectTitleDescription
-    , template contractorTitleDescription
-    , template internalStaffTitleDescription , template locationDescription
-    , template rectificationCommentDescription
+    , template commentDescription , template internalStaffTitleDescription
+    , template locationDescription , template rectificationCommentDescription
     , template raisedByTitleDescription , template raisedDateDescription
     , template closedDateDescription
     , template daysFromRaisedToClosedDescription
