@@ -1,4 +1,4 @@
 utilities
 updateSearchStrings
-  NetWorks datateks
-    useDuring: [ NetWorks datateks projects do: [ :p | p updateSearchString ] ]
+  NetWorks instance organisationModels
+    do: [ :om | om useDuring: [ om projects do: [ :p | p updateSearchString ] ] ]

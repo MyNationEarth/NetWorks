@@ -1,4 +1,4 @@
 initialization
 initialize
   super initialize.
-  self title: self nextDefectNumber
+  self title: self nextDefectNumber asString

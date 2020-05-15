@@ -8,6 +8,7 @@
 	"instvars" : [
 		"bpmEnvironment",
 		"dnsName",
+		"ecmName",
 		"branding",
 		"rateCards",
 		"clients",

@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"generateUri" : "jupiter 02/02/2019 14:39",
+		"generateUri" : "jupiter 05/15/2020 12:13",
 		"id" : "jupiter 02/02/2019 13:58",
 		"id:" : "jupiter 02/02/2019 14:06",
 		"idString36" : "jupiter 02/02/2019 13:58",
@@ -12,5 +12,6 @@
 		"uri" : "jupiter 02/02/2019 14:27",
 		"uri:" : "jupiter 02/02/2019 14:27",
 		"uriDescription" : "jupiter 02/02/2019 14:06",
+		"uriPrefix" : "jupiter 05/14/2020 16:33",
 		"uuidString" : "jupiter 02/02/2019 13:58",
 		"validUriFrom:" : "jupiter 02/02/2019 14:07" } }

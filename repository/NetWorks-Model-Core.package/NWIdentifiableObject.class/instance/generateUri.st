@@ -1,3 +1,3 @@
 private
 generateUri
-  ^ WAUrl absolute: (self validUriFrom: self idString36)
+  ^ self validUriFrom: self idString36
