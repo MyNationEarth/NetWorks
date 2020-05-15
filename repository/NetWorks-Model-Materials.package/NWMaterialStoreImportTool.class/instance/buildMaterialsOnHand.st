@@ -10,8 +10,16 @@ buildMaterialsOnHand
           (materialsOnHand
             detect: [ :moh | moh materialTitle = title ]
             ifNone: [ 
+              | material |
               "Add material to store"
-              nil ])
+              material := NetWorks instance organisationModels values first
+                materials detect: [ :m | m title = title ].
+              materialsOnHand
+                add:
+                  (NWMaterialOnHand new
+                    materialStore: materialStore;
+                    material: material;
+                    yourself) ])
             ifNotNil: [ :materialOnHand | 
               materialOnHand
                 ifNotNil: [ 
