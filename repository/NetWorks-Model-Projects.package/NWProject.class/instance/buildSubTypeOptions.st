@@ -3,6 +3,7 @@ buildSubTypeOptions
   ^ {'BSOD'.
   'Copper'.
   'DFN'.
+  'FttC DPU'.
   'MDU'.
   'MDU TFL'.
   'SDU'.
