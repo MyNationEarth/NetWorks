@@ -1,3 +1,5 @@
 chart
 projectsSeries
-  ^ Array with: self projectsAwardedSeries with: self projectsPCHandedOverSeries
+  ^ {(self projectsAwardedSeries).
+  (self projectsPCHandedOverSeries).
+  (self projectsDesignApprovedSeries)}

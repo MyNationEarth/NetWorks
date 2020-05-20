@@ -1,6 +1,8 @@
 initialization
 initialize
   super initialize.
+  lists := OrderedCollection new.
+  metaModel := MAAdaptiveModel new.
   rateCards := OrderedCollection new.
   clients := OrderedCollection new.
   contracts := OrderedCollection new.

@@ -2,8 +2,7 @@ rendering
 renderAdminContentOn: canvas
   canvas heading
     level4;
-    with: 'Statistics'.
-  canvas tbsRow with: [ self renderClientsInfoBoxOn: canvas ].
+    with: 'Statistics'.	"canvas tbsRow with: [ self renderClientsInfoBoxOn: canvas ]."
   canvas tbsRow
     with: [ 
       self renderProjectsInfoBoxOn: canvas.

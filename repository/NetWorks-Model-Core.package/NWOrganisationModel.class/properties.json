@@ -10,6 +10,8 @@
 		"dnsName",
 		"ecmName",
 		"branding",
+		"lists",
+		"metaModel",
 		"rateCards",
 		"clients",
 		"contracts",
