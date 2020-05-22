@@ -8,7 +8,8 @@
 	"instvars" : [
 		"criteriaLabel",
 		"searchSelector",
-		"searchValue" ],
+		"searchValue",
+		"searchResult" ],
 	"name" : "NWSelectedProjectsPanel",
 	"pools" : [
 		 ],

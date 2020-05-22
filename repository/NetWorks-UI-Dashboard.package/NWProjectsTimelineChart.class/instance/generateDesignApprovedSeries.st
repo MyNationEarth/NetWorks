@@ -2,7 +2,8 @@ chart
 generateDesignApprovedSeries
   | months data |
   months := Dictionary new.
-  self organisationModel projects
+  (self organisationModel projects
+    select: [ :p | #('Design Only' 'Design & Construction') includes: p projectType ])
     do: [ :project | 
       project designDDDApprovedDate
         ifNotNil: [ :chartDate | 

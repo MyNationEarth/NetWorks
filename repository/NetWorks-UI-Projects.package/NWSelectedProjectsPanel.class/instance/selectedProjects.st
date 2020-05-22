@@ -1,4 +1,6 @@
 components
 selectedProjects
-  ^ self organisationModel projects
-    select: [ :project | (project perform: searchSelector) = searchValue ]
+  ^ searchResult
+    ifNil: [ 
+      searchResult := self organisationModel projects
+        select: [ :project | (project perform: searchSelector) = searchValue ] ]
