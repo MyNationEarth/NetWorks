@@ -3,7 +3,11 @@ refreshWorkOrdersFocusOnScript: script
   | workOrders |
   workOrders := workOrderFocus reportComponent selectedItems
     inject: OrderedCollection new
-    into: [ :result :objectWithWorkOrders | result , objectWithWorkOrders workOrders ].
+    into: [ :result :objectWithWorkOrders | 
+      result
+        ,
+          (objectWithWorkOrders workOrders
+            select: [ :workOrder | workOrder project == project ]) ].
   self workOrdersComponent
     updateItems: workOrders;
     clearSelection.
