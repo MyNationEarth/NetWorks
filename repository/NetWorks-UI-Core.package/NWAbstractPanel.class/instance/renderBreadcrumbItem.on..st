@@ -4,7 +4,7 @@ renderBreadcrumbItem: panel on: canvas
     class: 'active' if: panel == self;
     with: [ 
           canvas anchor
-            callback: [ (self crumbs first at: #'presenter') answer ];
+            callback: [ self crumbs ifNotEmpty: [ (self crumbs first at: #'presenter') answer ] ];
             with: [ 
                   self renderIcon: panel icon color: panel iconColor on: canvas.
                   self
