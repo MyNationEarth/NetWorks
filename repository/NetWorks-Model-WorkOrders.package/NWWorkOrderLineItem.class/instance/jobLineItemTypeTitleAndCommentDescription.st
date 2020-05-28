@@ -1,6 +1,5 @@
 descriptions
 jobLineItemTypeTitleAndCommentDescription
-  <magritteDescription>
   ^ MAStringDescription new
     accessor: #'jobLineItemTypeTitleAndComment';
     label: 'Type';

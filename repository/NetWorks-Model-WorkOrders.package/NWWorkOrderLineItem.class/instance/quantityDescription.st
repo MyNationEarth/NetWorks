@@ -4,7 +4,7 @@ quantityDescription
   | description |
   description := MANumberDescription new
     accessor: #'quantity';
-    label: 'Quantity';
+    label: 'Design Quantity';
     priority: 240;
     propertyAt: #'icon' put: #'bullseye';
     yourself.

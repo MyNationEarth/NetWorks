@@ -5,5 +5,6 @@ jobLineItemTypeCommentDescription
     accessor: #'jobLineItemTypeComment';
     label: 'Description';
     priority: 110;
+    beRequired;
     beReadonly;
     yourself

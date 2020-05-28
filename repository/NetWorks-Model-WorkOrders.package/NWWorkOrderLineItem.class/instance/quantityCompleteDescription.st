@@ -3,7 +3,7 @@ quantityCompleteDescription
   <magritteDescription>
   ^ MANumberDescription new
     accessor: #'quantityComplete';
-    label: 'Quantity Complete';
+    label: 'Completed Quantity';
     priority: 250;
     propertyAt: #'icon' put: #'check';
     yourself

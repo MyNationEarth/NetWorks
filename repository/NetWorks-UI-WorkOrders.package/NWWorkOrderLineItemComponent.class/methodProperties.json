@@ -2,11 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"addButtonsToForm:" : "jupiter 04/05/2020 12:37",
+		"addButtonsToForm:" : "jupiter 05/28/2020 11:20",
 		"changeLineItemType" : "jupiter 04/05/2020 12:31",
 		"icon" : "jupiter 04/05/2020 12:30",
 		"initialize" : "jupiter 04/06/2020 13:13",
-		"renderContentOn:" : "jupiter 04/05/2020 12:37",
+		"renderContentOn:" : "jupiter 05/28/2020 11:27",
 		"save" : "jupiter 04/27/2020 17:57",
 		"saveAndRemainOpen" : "jupiter 04/27/2020 17:58",
 		"variationConfirmationComponent" : "jupiter 04/06/2020 13:12" } }
