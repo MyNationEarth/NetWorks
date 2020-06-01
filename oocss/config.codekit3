@@ -31,6 +31,12 @@
 		"oAP": "/build/bower_components",
 		"oF": 0
 		},
+	"/build": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/build",
+		"oF": 0
+		},
 	"/Gruntfile.js": {
 		"bF": 0,
 		"ft": 64,
@@ -46,7 +52,7 @@
 		"ft": 65536,
 		"oA": 1,
 		"oAP": "/build/node_modules",
-		"oF": 1
+		"oF": 0
 		},
 	"/package-lock.json": {
 		"ft": 524288,

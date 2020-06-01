@@ -7,6 +7,10 @@ html, body, .wrapper, .content-wrapper {
   height: 100%;
 }
 
+.content {
+  padding-bottom: 50px;
+}
+
 div.alert {
   font-weight: bold;
   font-size: 1.2em;
@@ -162,6 +166,9 @@ table.report tbody tr:hover td:last-child, .reportComponent table tbody tr:hover
   /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.05) 0%, rgba(0, 0, 0, 0) 40%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
 }
 .form-buttons button {
   margin-left: 0px;

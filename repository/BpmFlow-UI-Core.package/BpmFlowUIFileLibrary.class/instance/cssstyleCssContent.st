@@ -9,13 +9,16 @@ html, body, .wrapper, .content-wrapper {
   height: 100%;
 }
 
+.content {
+  padding-bottom: 50px;
+}
+
 div.alert {
   font-weight: bold;
   font-size: 1.2em;
   color: black !important;
   text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.9);
 }
-
 /* NetWorks report */
 .magritte .buttons {
   text-align: right;
@@ -93,6 +96,9 @@ table.report th:last-child, table.report tbody td:last-child, .reportComponent t
 table.report th:last-child a, table.report tbody td:last-child a, .reportComponent table th:last-child a, .reportComponent table tbody td:last-child a {
   padding-left: 8px;
 }
+table.report th.text-left, table.report tbody td.text-left, .reportComponent table th.text-left, .reportComponent table tbody td.text-left {
+  text-align: left;
+}
 table.report tbody tr td:last-child, .reportComponent table tbody tr td:last-child {
   opacity: 0.5;
 }
@@ -139,11 +145,11 @@ table.report tbody tr:hover td:last-child, .reportComponent table tbody tr:hover
 
 .box-header.with-border, .nav-tabs-custom > .nav {
   border-bottom: 1px solid rgba(0, 0, 0, 0.15);
-  background: -moz-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.05) 100%);
+  background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.05) 100%);
   /* FF3.6-15 */
-  background: -webkit-linear-gradient(top, transparent 60%, rgba(0, 0, 0, 0.05) 100%);
+  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.05) 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom, transparent 60%, rgba(0, 0, 0, 0.05) 100%);
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.05) 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 }
 
@@ -156,12 +162,15 @@ table.report tbody tr:hover td:last-child, .reportComponent table tbody tr:hover
   padding-left: 10px;
   margin-right: -10px;
   padding-right: 10px;
-  background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.05) 0%, transparent 40%);
+  background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.05) 0%, rgba(0, 0, 0, 0) 40%);
   /* FF3.6-15 */
-  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.05) 0%, transparent 40%);
+  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.05) 0%, rgba(0, 0, 0, 0) 40%);
   /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.05) 0%, transparent 40%);
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.05) 0%, rgba(0, 0, 0, 0) 40%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
 }
 .form-buttons button {
   margin-left: 0px;
@@ -278,7 +287,7 @@ ul.legend {
 }
 
 /* Generic Panel  */
-input[type="search"] {
+input[type=search] {
   -webkit-box-sizing: content-box;
   -moz-box-sizing: content-box;
   box-sizing: content-box;
@@ -286,7 +295,7 @@ input[type="search"] {
   width: 90px;
 }
 
-input[type="search"]::-webkit-search-cancel-button {
+input[type=search]::-webkit-search-cancel-button {
   -webkit-appearance: searchfield-cancel-button;
 }
 
@@ -498,5 +507,4 @@ input[type="search"]::-webkit-search-cancel-button {
 }
 
 /*# sourceMappingURL=style.css.map */
-
 '
