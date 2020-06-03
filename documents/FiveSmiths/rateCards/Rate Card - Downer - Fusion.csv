@@ -1,0 +1,320 @@
+Customer,Contract ,Item Code,Item Name,Unit of Measure (UoM),Rate
+Downer,Downer - Fusion,PD-01-01-01,Provision for planning for a FTTP design,Quote,Quote
+Downer,Downer - Fusion,PD-01-02-01,Provision for planning for a FTTN design,Quote,Quote
+Downer,Downer - Fusion,PD-01-03-01,Provision for planning for a FTTB design,Quote,Quote
+Downer,Downer - Fusion,PD-01-05-01,Provision for planning for a FTTC design,Quote,Quote
+Downer,Downer - Fusion,PD-05-01-01,Pit and Pipe inspection for certification of Third Party Works,Per Pit, $	24.51 
+Downer,Downer - Fusion,CW-01-01-01T,"Supply and install underground pipe with an internal diameter of more than 25mm and equal to or less than
+50mm by TRENCHING in other than Rock",Per linear metre, $	32.44 
+Downer,Downer - Fusion,CW-01-01-01B,Supply and install underground pipe with an internal diameter of more than 25mm and equal to or less than 50mm by BORING in other than Rock,Per linear metre, $	55.81 
+Downer,Downer - Fusion,CW-01-01-02T,"Supply and install underground pipe with an internal diameter of greater than 50mm byTRENCHING in other than
+Rock",Per linear metre, $	36.65 
+Downer,Downer - Fusion,CW-01-01-02B,Supply and install underground pipe with an internal diameter of greater than 50mm by BORING in other than Rock,Per linear metre, $	69.50 
+Downer,Downer - Fusion,CW-01-01-03,"Extra over for supply and install an additional underground
+pipe in an existing trench with an internal diameter of greater than 25mm",Per linear metre, $	17.43 
+Downer,Downer - Fusion,CW-01-01-05,Supply and install riser on pole or building,Per riser, $	167.27 
+Downer,Downer - Fusion,CW-01-02-01T,Extra over rate for the supply and install of pipe in Rock by Trenching,Per linear metre, $	73.18 
+Downer,Downer - Fusion,CW-01-02-01B,"Extra over rate for the supply and install of pipe in Rock by
+Boring",Per linear metre, $	175.75 
+Downer,Downer - Fusion,CW-02-01-01N,Supply and installation of small pits (P2) at new locations in other than Rock,Per pit, $	226.86 
+Downer,Downer - Fusion,CW-02-01-01E,"Supply and installation of small pits (P2) at existing locations
+in other than Rock",Per pit, $	279.30 
+Downer,Downer - Fusion,CW-02-01-02N,Supply and installation of medium pits (P4 and P5) at new locations in other than Rock,Per pit, $	390.10 
+Downer,Downer - Fusion,CW-02-01-02E,Supply and installation of medium pits (P4 and P5) at existing locations in other than Rock,Per pit, $	535.56 
+Downer,Downer - Fusion,CW-02-01-03N-P6,"Supply and installation of large pits (P6) at new locations in
+other than Rock",Per pit, $	819.59 
+Downer,Downer - Fusion,CW-02-01-03E-P6,Supply and installation of large pits (P6) at existing locations in other than Rock,Per pit," $	1,009.59 "
+Downer,Downer - Fusion,CW-02-01-03N-P8,Supply and installation of large pits (P8) at new locations in other than Rock,Per pit, $	904.18 
+Downer,Downer - Fusion,CW-02-01-03E-P8,"Supply and installation of large pits (P8) at existing locations
+in other than Rock",Per pit," $	1,104.67 "
+Downer,Downer - Fusion,CW-02-01-04N,Supply and installation of extra-large (P9) pits at new locations in other than Rock,Per pit," $	1,673.03 "
+Downer,Downer - Fusion,CW-02-01-04E,"Supply and installation of extra-large (P9) pits at existing
+locations in other than Rock",Per pit," $	2,029.23 "
+Downer,Downer - Fusion,CW-02-01-05,Supply and install pit riser,Each pit riser, $	265.26 
+Downer,Downer - Fusion,CW-02-01-06,Supply and install pit lids,Each pit lids, $	48.10 
+Downer,Downer - Fusion,CW-02-01-07,"Extra over flagfall for composite pit lid replacements in
+trafficable locations",Per Work Order, $	67.41 
+Downer,Downer - Fusion,CW-02-02-01,Extra over rate for the supply and installation of a pit in Rock,Per cubic metre, $	232.88 
+Downer,Downer - Fusion,CW-02-03-01,Removal and disposal of small (P2) ACM Pit,Each ACM Pit, $	536.03 
+Downer,Downer - Fusion,CW-02-03-02,Removal and disposal of medium (P4 or P5) ACM Pit,Each ACM Pit, $	570.00 
+Downer,Downer - Fusion,CW-02-03-03,Removal and disposal of large (P6 or P8) ACM Pit,Each ACM Pit, $	712.50 
+Downer,Downer - Fusion,CW-02-03-04,Removal and disposal of extra large (P9) ACM Pit,Each ACM Pit, $	902.50 
+Downer,Downer - Fusion,CW-02-03-05,Drilling into an asbestos wall or pit (including disposal),Each, $	129.13 
+Downer,Downer - Fusion,CW-02-03-06,Breakout existing asbestos pipe (including disposal),Per linear metre, $	200.58 
+Downer,Downer - Fusion,CW-03-01-01,Core bore - all depths,Each core bore, $	237.50 
+Downer,Downer - Fusion,CW-04-01-01,"Installation only of single cable by direct buried techniques
+by any means",Per linear metre, $	13.70 
+Downer,Downer - Fusion,CW-04-02-01,Extra over for the installation of a single cable by direct buried techniques in Rock,Per linear metre, $	50.21 
+Downer,Downer - Fusion,CW-04-03-01,Supply and install marker posts for buried underground cable,Per marker post, $	94.30 
+Downer,Downer - Fusion,CW-05-01-01,Identify and repair a damaged and blocked duct in any surface,Per blockage repaired, $	294.45 
+Downer,Downer - Fusion,CW-05-01-02,Clear pipe blockage using high pressure water,"Per blockage
+cleared", $	215.00 
+Downer,Downer - Fusion,CW-06-01-01,Breakout concrete surface material,Per linear metre, $	77.10 
+Downer,Downer - Fusion,CW-06-01-02,Breakout asphalt or bitumen,Per linear metre, $	69.32 
+Downer,Downer - Fusion,CW-06-01-03,Breakout paving material in CBD areas,Per linear metre, $	112.87 
+Downer,Downer - Fusion,CW-06-01-04,Breakout paving material in all areas other than CBD,Per linear metre, $	73.67 
+Downer,Downer - Fusion,CW-06-02-01,Reinstate concrete surface material,Per linear metre, $	140.88 
+Downer,Downer - Fusion,CW-06-02-02,Reinstate asphalt or bitumen,Per linear metre, $	91.55 
+Downer,Downer - Fusion,CW-06-02-03,Reinstate paving material in CBD areas,Per linear metre, $	156.95 
+Downer,Downer - Fusion,CW-06-02-04,Reinstate paving material in all areas other than CBD,Per linear metre, $	70.44 
+Downer,Downer - Fusion,CI-01-01-01,Pipe Proving in existing duct,Per linear metre, $	2.65 
+Downer,Downer - Fusion,CI-01-02-01,Pipe Proving in existing riser on a pole or in existing riser on the external face of a building,"Per existing riser on a pole or existing riser on the external face
+of a building", $	13.81 
+Downer,Downer - Fusion,CI-02-01-01V,Installation of a cable sheath greater than 144 fibre in Vacant underground duct,Per linear metre, $	2.10 
+Downer,Downer - Fusion,CI-02-01-01O,Installation of a cable sheath greater than 144 fibre in occupied underground duct,Per linear metre, $	2.85 
+Downer,Downer - Fusion,CI-02-01-02V,Installation of a cable sheath greater than 12 fibre and up to and including 144 fibre in Vacant underground duct.,Per linear metre, $	1.95 
+Downer,Downer - Fusion,CI-02-01-02O,Installation of a cable sheath greater than 12 fibre and up to and including 144 fibre in Occupied underground duct.,Per linear metre, $	2.45 
+Downer,Downer - Fusion,CI-02-01-03V,Installation of 12 fibre cable sheath in Vacant underground duct,Per linear metre, $	1.75 
+Downer,Downer - Fusion,CI-02-01-03O,"Installation of 12 fibre cable sheath in Occupied underground
+duct",Per linear metre, $	1.95 
+Downer,Downer - Fusion,CI-02-01-04V,Installation of single fibre cable sheath in Vacant underground,Per linear metre, $	1.55 
+Downer,Downer - Fusion,CI-02-01-04O,"Installation of single fibre cable sheath in Occupied
+underground",Per linear metre, $	2.00 
+Downer,Downer - Fusion,CI-02-01-05,Installation of a cable sheath in existing riser on a pole or in existing riser on the external face of a building,Per cable sheath, $	21.21 
+Downer,Downer - Fusion,CI-02-02-01,"Installation of copper cable of up to including 100 pair in
+underground duct",Per linear metre, $	2.45 
+Downer,Downer - Fusion,CI-02-02-02,Installation of copper cable of greater than 100 pair in underground duct,Per linear metre, $	4.90 
+Downer,Downer - Fusion,CI-03-01-01,Installation of cable sheath and all NBN Co infrastructure on timber poles in the communications corridor,Per Span, $	419.03 
+Downer,Downer - Fusion,CI-03-01-02,Installation of cable sheath and all NBN Co infrastructure on stobie poles in the communications corridor,Per Span, $	445.41 
+Downer,Downer - Fusion,CI-03-01-03,Installation of cable sheath and all NBN Co infrastructure on concrete or steel poles in the communications corridor,Per Span, $	445.41 
+Downer,Downer - Fusion,CI-03-01-04,Installation of cable sheath and all NBN Co infrastructure on timber poles in the power corridor,Per Span, $	494.62 
+Downer,Downer - Fusion,CI-03-01-05,Installation of cable sheath and all NBN Co infrastructure on stobie poles in the power corridor,Per Span, $	525.04 
+Downer,Downer - Fusion,CI-03-01-06,Installation of cable sheath and all NBN Co infrastructure on concrete or steel poles in the power corridor,Per Span, $	525.04 
+Downer,Downer - Fusion,CI-04-01-01,Installation of cable sheath within a cable chamber,Per linear metre, $	4.35 
+Downer,Downer - Fusion,CI-04-01-02,Installation of cable sheath via riser shaft/cable tray,Per linear metre, $	4.35 
+Downer,Downer - Fusion,CI-04-01-03,Installation of cable sheath via ceiling space/floor cavity or crawl space,Per linear metre, $	3.75 
+Downer,Downer - Fusion,CI-04-01-04,Installation of cable sheath via existing or new conduit,Per linear metre, $	4.51 
+Downer,Downer - Fusion,CI-04-02-01,Extra over rate for supply and install AC power cable for FTTB Cabinet,Per linear metre, $	14.67 
+Downer,Downer - Fusion,CI-04-02-02,"Extra over rate for supply and install earth cable for FTTB
+Cabinet",Per linear metre, $	11.35 
+Downer,Downer - Fusion,CI-04-02-03,"Extra over rate for the installation of a copper cable sheaths from main distribution frame to FTTB Cabinet, via riser, shaft or cable tray",Per linear metre, $	10.90 
+Downer,Downer - Fusion,CI-04-02-04,"Extra over rate for the installation of copper cable sheaths via ceiling space, floor cavity or crawl space",Per linear metre, $	12.05 
+Downer,Downer - Fusion,CI-05-01-04,"Removal and disposal of cable in distribution underground
+Network",Per metre, $	2.81 
+Downer,Downer - Fusion,CI-05-01-05,Removal and disposal of cable in local underground Network,Per metre, $	1.36 
+Downer,Downer - Fusion,CI-05-01-06,Removal and disposal of cable in buildings,Per metre, $	3.53 
+Downer,Downer - Fusion,CB-02-01-01P,"Installation only of an external small port Node Cabinet. (Civil
+& Cabinet Mounting)",Per Cabinet," $	1,643.60 "
+Downer,Downer - Fusion,CB-02-01-01T,Installation only of an external small port Node Cabinet. (Commission),Per Cabinet, $	802.67 
+Downer,Downer - Fusion,CB-02-01-02P,Installation only of an external medium port Node Cabinet. (Civil & Cabinet Mounting),Per Cabinet," $	2,443.93 "
+Downer,Downer - Fusion,CB-02-01-02T,"Installation only of an external medium port Node Cabinet.
+(Commission)",Per Cabinet, $	838.56 
+Downer,Downer - Fusion,CB-02-01-03P,Installation only of an external large port Node Cabinet. (Civil & Cabinet Mounting),Per Cabinet," $	3,426.92 "
+Downer,Downer - Fusion,CB-02-01-03T,"Installation only of an external large port Node Cabinet.
+(Commission)",Per Cabinet, $	996.06 
+Downer,Downer - Fusion,CB-02-02-01,Installation of service jumpering in a FTTN/FTTB Node Cabinet,Per 48 Port Line Card, $	184.32 
+Downer,Downer - Fusion,CB-02-02-02,Cable layup within CJL for external small port CSD node,Per CJL, $	130.90 
+Downer,Downer - Fusion,CB-03-01-01,Installation of an internal small FTTB Cabinet,Per FTTB Cabinet," $	2,109.52 "
+Downer,Downer - Fusion,CB-03-01-02,Installation of an internal medium FTTB Cabinet,Per FTTB Cabinet," $	3,917.52 "
+Downer,Downer - Fusion,CB-03-01-03,Installation of an internal large FTTB Cabinet (greater than 192 up to 384 port),Per FTTB Cabinet," $	4,527.00 "
+Downer,Downer - Fusion,CB-03-02-01,Supply and install new service earth bar,"Per service earth
+bar", $	90.00 
+Downer,Downer - Fusion,CB-03-02-02,Supply and install new service earth stake,Per service earth stake, $	119.96 
+Downer,Downer - Fusion,CB-03-02-03,Install a 10 pair MDF terminal block,Per 10 pair MDF terminal block, $	6.50 
+Downer,Downer - Fusion,CB-03-02-04,Install a 100 pair MDF terminal frame,Per 100 pair MDF terminal frame, $	60.00 
+Downer,Downer - Fusion,CB-04-01-01,Removal and disposal of a cabinet,Per Cabinet, $	734.61 
+Downer,Downer - Fusion,CB-04-01-02,Repair of a cabinet panel,Per Cabinet, $	70.14 
+Downer,Downer - Fusion,CB-04-01-03,Removal of graffiti from a cabinet,Per Cabinet, $	78.90 
+Downer,Downer - Fusion,CB-04-01-04,Replacement of a cabinet lock,Per Cabinet, $	49.91 
+Downer,Downer - Fusion,FB-01-01-01,Installation and preparation of a new fibre joint enclosure greater than 144 fibres,Per fibre joint enclosure, $	408.50 
+Downer,Downer - Fusion,FB-01-01-02,Installation and preparation of a new fibre joint enclosure greater than 12 fibres and up to and including 144 fibres,Per fibre joint enclosure, $	275.50 
+Downer,Downer - Fusion,FB-01-01-03,"Installation and preparation of a fibre joint enclosure up to
+and including 12 fibres","Per fibre joint
+enclosure", $	171.00 
+Downer,Downer - Fusion,FB-01-01-04,Installation and preparation of Gator fibre joint enclosure (includes cable prep and fibre splicing),Per Gator fibre joint enclosure, $	144.76 
+Downer,Downer - Fusion,FB-01-02-03,"Prepare a 12 fibre cable to be connected to fibre joint
+enclosures",Per cable sheath, $	59.11 
+Downer,Downer - Fusion,FB-01-02-04,Prepare Single fibre cable sheath to be connected to fibre joint enclosures,Per cable sheath, $	41.47 
+Downer,Downer - Fusion,FB-01-02-05,Lay up of cable sheaths,Per cable sheath, $	33.25 
+Downer,Downer - Fusion,FB-01-02-06,Prepare a loose tube fibre cable sheath greater than 144 fibres  to be connected to fibre joint enclosures,Per cable sheath, $	263.62 
+Downer,Downer - Fusion,FB-01-02-07,"Prepare a loose tube fibre cable sheath greater 12 fibres and up to and including 144 fibres to be connected to fibre joint
+enclosures",Per cable sheath, $	172.71 
+Downer,Downer - Fusion,FB-01-02-08,Prepare a loose tube 12 fibre cable to be connected to fibre joint enclosures,Per cable sheath, $	63.66 
+Downer,Downer - Fusion,FB-01-02-09,Prepare a loose tube Single fibre cable sheath to be connected to fibre joint enclosures,Per cable sheath, $	42.60 
+Downer,Downer - Fusion,FB-01-03-01,Re-entry into a fibre joint enclosure,"Per fibre joint
+enclosure", $	107.42 
+Downer,Downer - Fusion,FB-01-04-01,Installation of splitter within existing FDH / PDH cabinet,Per splitter, $	21.09 
+Downer,Downer - Fusion,FB-01-04-02,Installation of splitter within an existing BJL enclosure,Per splitter, $	21.09 
+Downer,Downer - Fusion,FB-01-04-03,Installation of splitter within an existing FJL enclosure,Per splitter, $	21.09 
+Downer,Downer - Fusion,FB-01-04-04,"Installation of a splitter card output fibres to LFN ports within
+and existing FDH cabinet",Per Fibre, $	36.10 
+Downer,Downer - Fusion,FB-02-01-01,Installation of multiport or splitter multiport in underground pit or manhole,Per multiport, $	31.72 
+Downer,Downer - Fusion,FB-02-01-02,Installation of multiport or splitter multiport on any pole,Per multiport, $	110.71 
+Downer,Downer - Fusion,FB-03-01-01,Splicing of optic fibre ribbons,Per Ribbon Splice, $	17.29 
+Downer,Downer - Fusion,FB-03-01-02,Splicing of single fibre,Per Fibre Splice, $	11.78 
+Downer,Downer - Fusion,FB-03-01-03,Splicing of loose tube fibre,Per Fibre Splice, $	26.24 
+Downer,Downer - Fusion,FB-03-01-04,De ribbonise 12 fibre ribbon,Per ribbon, $	10.93 
+Downer,Downer - Fusion,FB-04-01-01,Uni-directional OTDR Testing,Per fibre, $	22.46 
+Downer,Downer - Fusion,FB-04-01-03,Insertion loss testing,Per fibre, $	24.44 
+Downer,Downer - Fusion,FB-04-01-04,"End to end connectivity testing to the GPON NTD at
+customer premises",Per fibre, $	31.50 
+Downer,Downer - Fusion,FB-04-01-05,End to end connectivity testing to SASK NTD at customer premises,Per fibre, $	40.50 
+Downer,Downer - Fusion,FB-04-01-06,"Extra over rate for LFN / MTLFN insertion loss testing to the
+PCD",Per fibre, $	12.44 
+Downer,Downer - Fusion,FB-04-01-07,PON Power Meter Test,Per fibre, $	19.00 
+Downer,Downer - Fusion,FB-04-01-08,Point to point bi-directional testing,Per fibre, $	33.25 
+Downer,Downer - Fusion,FB-05-01-01,Installation of a 72 way HDODF patch panel within an existing HDODF or equivalent environments,Per patch panel, $	235.00 
+Downer,Downer - Fusion,FB-05-01-02,Installation of a 24 way HDODF patch panel within an existing HDODF or equivalent environments,Per patch panel, $	141.55 
+Downer,Downer - Fusion,FB-05-01-03,Installation of a 12/24 way fibre patch panel within a customer premise environment,Per patch panel, $	141.55 
+Downer,Downer - Fusion,FB-05-01-04,Prepare and splice a fibre cable sheath greater than 144 fibres to be connected within a HDODF environment,Per cable sheath, $	969.74 
+Downer,Downer - Fusion,FB-05-01-05,"Prepare and splice a fibre cable sheath greater 12 fibres and up to and including 144 fibres to be connected within a
+HDODF environment",Per cable sheath, $	473.76 
+Downer,Downer - Fusion,FB-05-01-06,Prepare and splice of a 12 fibre sheath within a customer premises environment,Per cable sheath, $	75.34 
+Downer,Downer - Fusion,FB-05-01-07,Prepare and splice of a single fibre at a NTD,Per Fibre, $	42.17 
+Downer,Downer - Fusion,FB-05-01-08,Supply and install patching cable,Per patching cable, $	40.36 
+Downer,Downer - Fusion,FB-06-01-01,Removal of existing fibre joint enclosure,Per fibre joint enclosure, $	41.80 
+Downer,Downer - Fusion,CP-01-01-01,Installation of a new 900 type CCU,"Per new 900 type
+CCU", $	711.40 
+Downer,Downer - Fusion,CP-01-01-02,Installation of a new 1800 type CCU,Per new 1800 type CCU, $	757.11 
+Downer,Downer - Fusion,CP-01-01-03,"Installation of 10 cable pair bundles between two copper cable insulation displacement modules (Connection Modules), including the termination of the bundle on each
+Connection Module",Per 10 cable pair bundle, $	37.45 
+Downer,Downer - Fusion,CP-01-01-04,Cutting over existing services from an existing Connection Module to a new Connection Module,Per 10 cable pairs, $	100.95 
+Downer,Downer - Fusion,CP-01-01-05,Installation of service jumpering in a cross connect unit,Per Service, $	8.17 
+Downer,Downer - Fusion,CP-01-02-01,Upgrading of an existing CCU from 900 type to 1800 type,"Per CCU required to be upgraded from 900 type to
+1800 type", $	115.93 
+Downer,Downer - Fusion,CP-01-02-02,Augmentation of an existing 900 type CCU (Pillar Expansion Option 1),Per Expansion CCU, $	503.13 
+Downer,Downer - Fusion,CP-01-02-03,"Augmentation of an existing 900 type CCU (Pillar Expansion
+Option 2)",Per Expansion CCU," $	1,078.05 "
+Downer,Downer - Fusion,CP-01-03-01,Removal and disposal of an existing CCU,Per existing CCU, $	362.57 
+Downer,Downer - Fusion,CP-01-04-01,Replacement of Pillar Lid Lock or Pillar Cap,Per existing CCU, $	34.73 
+Downer,Downer - Fusion,CP-01-04-02,Installation of 2-piece Pillar Base Repair Kit,Per existing CCU, $	128.84 
+Downer,Downer - Fusion,CP-01-04-03,Replace Cover Lightweight (1800 Type),Per existing CCU, $	27.24 
+Downer,Downer - Fusion,CP-01-04-04,Replacement of copper cable insulation displacement connection module (Connection Module) and termination of cable,Per (10 Pair) existing module, $	86.40 
+Downer,Downer - Fusion,CP-02-01-01,Installation of a new Distribution extra large copper joint,"Per new
+Distribution extra large copper joint", $	905.82 
+Downer,Downer - Fusion,CP-02-01-02,Installation of a new Distribution large copper joint,"Per new Distribution large
+copper joint", $	420.11 
+Downer,Downer - Fusion,CP-02-01-03,Installation of a new Distribution small copper joint,Per new Distribution small copper joint, $	280.49 
+Downer,Downer - Fusion,CP-02-01-04,Installation of a new Main Cable small copper joint,"Per new Main Cable small copper
+joint", $	791.64 
+Downer,Downer - Fusion,CP-02-01-05,Installation of a new Main Cable medium copper joint,"Per new Main Cable medium
+Copper joint"," $	1,057.72 "
+Downer,Downer - Fusion,CP-02-01-06,Installation of a new Main Cable large copper joint enclosure,Per new Main Cable large Copper joint enclosure," $	2,811.26 "
+Downer,Downer - Fusion,CP-02-01-07,Installation of a new Main Cable extra large copper joint enclosure,"Per new Main Cable extra large Copper joint
+enclosure"," $	4,671.79 "
+Downer,Downer - Fusion,CP-02-01-08,Installation of a new aerial large copper joint,"Per new Distribution large
+copper joint", $	830.79 
+Downer,Downer - Fusion,CP-02-01-09,Installation of a new aerial small copper joint,"Per new Distribution small
+copper joint", $	551.27 
+Downer,Downer - Fusion,CP-02-02-01,Rehabilitate existing Distribution large openable copper joint,Per large openable copper joint, $	331.81 
+Downer,Downer - Fusion,CP-02-02-02,Rehabilitate existing Distribution small openable copper joint,"Per small openable copper
+joint", $	235.84 
+Downer,Downer - Fusion,CP-02-02-03,Replacement of existing Distribution in-line copper joint with a new in-line large copper joint,"Per existing copper joint
+replaced", $	420.03 
+Downer,Downer - Fusion,CP-02-02-04,Replacement of existing Distribution in-line copper joint with a new in-line small copper joint,Per existing copper joint replaced, $	244.81 
+Downer,Downer - Fusion,CP-02-02-05,Cutting over existing services from an existing copper joint to a new large copper joint,"Per existing copper joint
+replaced", $	472.63 
+Downer,Downer - Fusion,CP-02-02-06,Cutting over existing services from an existing copper joint to a new small copper joint,"Per existing copper joint
+replaced", $	260.64 
+Downer,Downer - Fusion,CP-02-02-07,Rehabilitate existing aerial large copper joint,"Per existing
+copper joint replaced", $	719.12 
+Downer,Downer - Fusion,CP-02-02-08,Rehabilitate existing aerial small copper joint,"Per existing copper joint
+replaced", $	420.44 
+Downer,Downer - Fusion,CP-02-03-01,Removal of existing copper joint,Per existing copper joint, $	37.77 
+Downer,Downer - Fusion,CP-02-03-02,Removal of existing aerial copper joint,Per existing copper joint, $	99.52 
+Downer,Downer - Fusion,CP-02-03-03,Remove a existing elevated joint,"Per existing
+copper joint", $	99.52 
+Downer,Downer - Fusion,CP-02-04-01,Joint sealing maintenance task (add Dexbond 10B Sealant),Per existing copper joint, $	46.29 
+Downer,Downer - Fusion,CP-02-04-02,"Replace joint lid, clamp, or Support Bar   (HSOJ or Dexgreen
+Joint)","Per existing
+copper joint", $	33.51 
+Downer,Downer - Fusion,CP-02-04-03,Replace or install 2-5pr Snap Enclosure,Per existing copper joint, $	29.67 
+Downer,Downer - Fusion,CP-02-04-04,Replace or install 10pr Snap Enclosure,Per existing copper joint, $	70.96 
+Downer,Downer - Fusion,CP-02-04-05,Replace connectors in an openable joint,"Per existing
+copper joint", $	52.07 
+Downer,Downer - Fusion,CP-02-04-06,Replace Bandit Strap,Per existing copper joint, $	29.25 
+Downer,Downer - Fusion,CP-03-01-01,Removal of a pair gain system,"Per pair gain
+system", $	189.75 
+Downer,Downer - Fusion,CP-03-01-02,Migration of an existing service from a pair gain system to a dedicated copper circuit,Per existing service, $	137.31 
+Downer,Downer - Fusion,CP-03-01-03,Single service active migration in a CSD including service jumpering in the pillar,Per service, $	57.44 
+Downer,Downer - Fusion,CP-03-01-04,Removal of existing line conditioning equipment,"Per existing line conditioning
+equipment", $	158.61 
+Downer,Downer - Fusion,CP-03-01-05,Removal of an existing bridge tap,Per existing bridge tap, $	127.36 
+Downer,Downer - Fusion,CP-03-01-06,Install earth bonding cable between cable sections,Per linear metre, $	58.26 
+Downer,Downer - Fusion,CP-04-01-01,Installation of service jumpering in an Exchange,Per Service, $	47.49 
+Downer,Downer - Fusion,CP-04-01-02,Existing service transfer jumpering in an MDF and termination end point,Per existing service, $	63.83 
+Downer,Downer - Fusion,CP-04-02-01,Copper performance line testing,Per cable pair, $	144.77 
+Downer,Downer - Fusion,CP-04-02-02,Line Testing Vacant Pairs,Per cable pair, $	35.16 
+Downer,Downer - Fusion,FC-01-01-01,Installation and commissioning of a non-aerial DPU terminal device,Per DPU, $	66.85 
+Downer,Downer - Fusion,FC-01-01-02,"Installation and commissioning of an aerial DPU terminal
+device",Per DPU, $	125.08 
+Downer,Downer - Fusion,FC-01-01-03,Installation and commissioning of a wall mounted DPU terminal device,Per DPU, $	77.25 
+Downer,Downer - Fusion,FC-02-01-01,Installation of a new non-aerial openable joint enclosure,"Per new non-aerial openable joint
+enclosure", $	41.31 
+Downer,Downer - Fusion,FC-02-01-02,Jointing of an aerial copper drop sheath to aerial DPU copper lead in a new or existing openable joint enclosure,"Per aerial DPU copper lead
+jointed", $	69.96 
+Downer,Downer - Fusion,FC-02-01-03,Jointing of copper drop sheath to DPU copper lead using a copper interconnect unit,Per DPU copper lead jointed, $	30.74 
+Downer,Downer - Fusion,FC-02-01-04,Jointing of copper drop sheath to DPU copper lead in a new or existing openable joint enclosure,Per DPU copper lead jointed, $	35.23 
+Downer,Downer - Fusion,FC-02-01-05,"Supply and installation of a DPU copper lead extension from DPU copper lead to a new or existing aerial mounted openable joint enclosure or to an existing aerial mounted
+terminal box joint enclosure",Per DPU copper lead extension, $	127.77 
+Downer,Downer - Fusion,FC-02-01-06,"Supply and installation of DPU copper lead extension from DPU copper lead to a new or existing non-aerial mounted
+openable joint enclosure",Per DPU copper lead extension, $	155.59 
+Downer,Downer - Fusion,FC-02-01-07,Supply and installation of a DPU copper lead extension from DPU copper lead to a non-aerial copper interconnect unit,Per DPU copper lead extension, $	142.23 
+Downer,Downer - Fusion,FC-02-01-08,Installation of a copper tie cable for interconnection between two new or existing openable joint enclosures or terminal box joint enclosures,Per copper tie cable, $	157.92 
+Downer,Downer - Fusion,FC-02-01-09,Extra over for the Installation of a 2 pair copper cut-in loop to existing lead sheath copper lead-in,Per 2pair loop, $	35.23 
+Downer,Downer - Fusion,FC-02-01-10,"Removal of an existing terminal box joint enclosure or existing openable joint and installation of a new replacement
+openable joint enclosure",Per replaced enclosure, $	122.66 
+Downer,Downer - Fusion,FC-02-01-11,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a non-aerial copper interconnect unit,Per DPU copper lead high twist extension, $	130.62 
+Downer,Downer - Fusion,FC-02-01-12,"Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing aerial mounted openable joint enclosure or to an existing aerial mounted
+terminal box joint enclosure",Per DPU copper lead high twist extension, $	126.11 
+Downer,Downer - Fusion,FC-02-01-13,"Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing non-aerial
+mounted openable joint enclosure","Per DPU copper lead high twist
+extension", $	140.84 
+Downer,Downer - Fusion,FC-03-01-01,Existing copper drop sheath validation,"Per existing copper drop
+sheath validated", $	30.31 
+Downer,Downer - Fusion,FC-03-01-02,Existing Copper drop sheath validation for Serviceability for Missed Lead-ins,Per existing copper drop sheath validated, $	87.10 
+Downer,Downer - Fusion,MD-02-01-01,"Installation of a single service drop sheath (SDS) on a single
+span to a multi dwelling unit","Per aerial service
+drop", $	213.05 
+Downer,Downer - Fusion,MD-02-01-02,Extra over rate for additional spans for an aerial service drop to a multi dwelling unit,Each additional Span, $	41.07 
+Downer,Downer - Fusion,MD-02-01-03,Extra over rate for supply and installation of an raiser pole on a building.,Each raiser pole installed, $	96.03 
+Downer,Downer - Fusion,MD-02-01-04,"Installation of service drop sheath underground to a multi
+dwelling unit",Per service drop, $	165.25 
+Downer,Downer - Fusion,MD-02-01-05,Installation of direct service drop sheath underground to a multi dwelling unit,Per direct service drop, $	287.95 
+Downer,Downer - Fusion,MD-02-02-01,Replace existing copper aerial lead-in with new copper aerial lead-in to a multi dwelling unit,"Per existing copper aerial lead- in replaced. Per
+Span", $	171.41 
+Downer,Downer - Fusion,MD-02-02-02,Installation of aerial copper service drop to a multi dwelling unit,Per aerial copper service drop, $	188.31 
+Downer,Downer - Fusion,MD-02-02-03,Installation of non-aerial copper service drop to a multi dwelling unit,"Per non-aerial
+copper service drop", $	131.18 
+Downer,Downer - Fusion,SD-01-01-01,"Extra over rate for the supply and install of new lead-in pipe, minimum charge 6 metres route length, by any means",Per linear metre, $	32.86 
+Downer,Downer - Fusion,SD-01-01-03,Supply and install of Y connectors,Per Y connector, $	67.76 
+Downer,Downer - Fusion,SD-01-01-04,Supply and install new lead-in starter pipe,Per Starter Pipe, $	169.69 
+Downer,Downer - Fusion,SD-01-02-01,Extra over rate to repair lead-in conduit,Per repaired lead- in conduit, $	67.76 
+Downer,Downer - Fusion,SD-02-01-01,"Installation of a single service drop sheath on a single span to
+a single dwelling unit","Per aerial service
+drop", $	213.05 
+Downer,Downer - Fusion,SD-02-01-02,Extra over rate for additional spans for an aerial service drop to a single dwelling unit,Each additional Span, $	41.07 
+Downer,Downer - Fusion,SD-02-01-03,"Installation of service drop sheath underground to a single
+dwelling unit",Per service drop, $	165.25 
+Downer,Downer - Fusion,SD-02-01-04,Installation of direct service drop sheath underground to a single dwelling unit,Per direct service drop, $	287.95 
+Downer,Downer - Fusion,SD-02-02-01,Replace existing copper aerial lead-in with new copper aerial lead-in to a single dwelling unit,"Per existing copper aerial lead- in replaced. Per
+Span", $	131.85 
+Downer,Downer - Fusion,SD-02-02-02,Installation of aerial copper service drop to a single dwelling unit,Per aerial copper service drop, $	114.79 
+Downer,Downer - Fusion,SD-02-02-03,Installation of non-aerial copper service drop to a single dwelling unit,"Per non-aerial copper service
+drop", $	100.91 
+Downer,Downer - Fusion,CF-02-02-01,"Mobilisation Fee for Planning and Design Works for a Work
+Order located in Zone 2",Quote,Quote
+Downer,Downer - Fusion,CF-02-02-02,Mobilisation Fee for Planning and Design Works for a Work Order located in Zone 3,Quote,Quote
+Downer,Downer - Fusion,CF-02-02-03,"Mobilisation Fee for Planning and Design Works for a Work
+Order located in Zone 4",Quote,Quote
+Downer,Downer - Fusion,CF-02-02-04,Mobilisation Fee for Construction Works for a Work Order located in Zone 2,Quote,Quote
+Downer,Downer - Fusion,CF-02-02-05,Mobilisation Fee for Construction Works for a Work Order located in Zone 3,Quote,Quote
+Downer,Downer - Fusion,CF-02-02-06,"Mobilisation Fee for Construction Works for a Work Order
+located in Zone 4",Quote,Quote
+Downer,Downer - Fusion,CF-03-02-01,LAFHA for Planning and Design or Construction Works for a Work Order located in Zone 2,per night/ per person, $	180.00 
+Downer,Downer - Fusion,CF-03-02-02,LAFHA for Planning and Design or Construction Works for a Work Order located in Zone 3,per night/ per person, $	180.00 
+Downer,Downer - Fusion,CF-03-02-03,"LAFHA for Planning and Design or Construction Works for a
+Work Order located in Zone 4","per night/ per
+person", $	180.00 
+Downer,Downer - Fusion,PS-01-01-02,Pole make ready works,Cost of pole make ready works,Quote
+Downer,Downer - Fusion,PS-01-01-03,Supply and install standard GPO as per design,Cost of GPO installation,Quote
+Downer,Downer - Fusion,PS-01-01-04,Certification and professional services fees associated with activities not otherwise specified in Activity Scope,Amount of the fee,Quote
+Downer,Downer - Fusion,PS-01-01-05,Registered Surveyor Works,Amount of the fee,Quote
+Downer,Downer - Fusion,PS-01-01-07,"Traffic Control - All costs associated with the hire of
+professional traffic control units",Amount of the fee,Quote
+Downer,Downer - Fusion,PS-01-01-11,Aerial pole replacement,Amount of the fee,Quote
+Downer,Downer - Fusion,PS-01-01-12,Third party aerial design management fees,Amount of the fee,Quote
+Downer,Downer - Fusion,TB-01-01-05,Labourer,Per hour, $	35.67 
+Downer,Downer - Fusion,TB-01-01-06,Labourer - outside working hours,Per hour, $	61.35 
+Downer,Downer - Fusion,TB-02-02-03,EWP truck mounted up to 12m,Quote,Quote
+Downer,Downer - Fusion,TB-02-02-13,Scissor Lift,Quote,Quote
