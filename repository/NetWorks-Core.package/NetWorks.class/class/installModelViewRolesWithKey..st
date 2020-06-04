@@ -36,6 +36,7 @@ installModelViewRolesWithKey: modelKey
   'exportProjects'.
   'exportForecast'.
   'exportDesign'.
+  'exportConstruction'.
   'exportDesignLogs'.
   'exportInsurances'.
   'exportContractorInvoices'.

@@ -14,4 +14,5 @@ install
     addLibrary: Highcharts6DeploymentMetadataLibrary;
     addLibrary: JQFullCalendarFileLibrary;
     addLibrary: BpmFlowUIFileLibrary;
-    addLibrary: NWTBSDevelopmentLibrary
+    addLibrary: NWTBSDevelopmentLibrary;
+    addLibrary: ElFinderFileLibrary

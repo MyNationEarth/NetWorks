@@ -24,5 +24,6 @@ renderAdminContentOn: canvas
     style: 'padding-top: 24px;';
     with: [ 
           self renderExportDesignSummaryOn: canvas.
+          self renderExportConstructionSummaryOn: canvas.
           self renderExportProjectDesignLogsOn: canvas.
           self renderExportDefectsOn: canvas ]
