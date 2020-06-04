@@ -13,6 +13,8 @@ renderSearchOn: canvas
                 style: 'color: black;';
                 value: searchText;
                 placeholder: 'Search…';
+                onKeyPress:
+                    (JSStream on: 'if(event.which=="13"){event.preventDefault()}');
                 script:
                     (canvas jQuery this autocomplete
                         autoFocus: true;
@@ -26,6 +28,6 @@ renderSearchOn: canvas
                                       self updateItems: items.
                                       script
                                         <<
-                                          ((script jQuery class: self wrapperClass) find: '.panel-body') first
+                                          ((script jQuery class: self wrapperClass) find: '.box-body') first
                                         html: [ :html | self renderPanelBodyOn: html ] ])
                                 , (canvas javascript return: false)) ] ]
