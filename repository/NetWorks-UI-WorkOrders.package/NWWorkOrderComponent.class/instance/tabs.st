@@ -7,7 +7,9 @@ tabs
             at: #'label' put: 'Files';
             at: #'icon' put: #'filesOutlined';
             at: #'callback'
-              put: [ announcer announce: (NWTabSelected tab: #'files')	" components removeKey: #'finder' ifAbsent: [  ] " ];
+              put: [ 
+                  announcer announce: (NWTabSelected tab: #'files').
+                  components removeKey: #'finder' ifAbsent: [  ] ];
             yourself);
     add:
         (Dictionary new

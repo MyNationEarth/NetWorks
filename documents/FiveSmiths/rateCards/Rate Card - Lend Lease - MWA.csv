@@ -1,0 +1,363 @@
+Customer,Contract ,Item Code,Item Name,Unit of Measure (UoM),Rate
+Lend Lease,Lend Lease - MWA,CB-01-01-01/01-01,Install FDH cabinet on any surface other than rock including plinth,Per FDH Cabinet," $	1,494.50 "
+Lend Lease,Lend Lease - MWA,CB-02-01-01/01-01,Install external small Node cabinet on any surface other than rock including plinth & earthing.,Per external Node Cabinet," $	2,200.00 "
+Lend Lease,Lend Lease - MWA,CB-02-01-01/02-01,"Equipment & fibre installation, testing and commissioning of small port Node Cabinet.",Per external Node Cabinet, $	600.00 
+Lend Lease,Lend Lease - MWA,CB-02-01-02/01-01,Install external medium Node cabinet on any surface other than rock including plinth & earthing.,Per external Node Cabinet," $	3,100.00 "
+Lend Lease,Lend Lease - MWA,CB-02-01-02/02-01,"Equipment & fibre installation, testing and commissioning of medium port Node Cabinet.",Per external Node Cabinet, $	950.00 
+Lend Lease,Lend Lease - MWA,CB-02-01-03/01-01,Install external large Node cabinet on any surface other than rock including plinth & earthing.,Per external Node Cabinet," $	3,150.00 "
+Lend Lease,Lend Lease - MWA,CB-02-01-03/02-01,"Equipment & fibre installation, testing and commissioning of large port Node Cabinet.",Per external Node Cabinet," $	1,010.50 "
+Lend Lease,Lend Lease - MWA,CB-02-02-01/01-01,Installation of service jumpering in a FTTN/FTTB Node Cabinet,Per 48 Port Line Card, $	210.00 
+Lend Lease,Lend Lease - MWA,CB-02-02-02/01-01,Cable layup within CJL for external small port CSD node,Per CJL, $	105.00 
+Lend Lease,Lend Lease - MWA,CB-03-02-01/01-01,Supply and install new service earth bar,Per service earth bar, $	105.00 
+Lend Lease,Lend Lease - MWA,CB-03-02-02/01-01,Supply and install new service earth stake,Per service earth stake, $	97.00 
+Lend Lease,Lend Lease - MWA,CB-03-02-03/01-01,Install a 10 pair MDF terminal block,Per 10 pair MDF terminal block, $	35.00 
+Lend Lease,Lend Lease - MWA,CB-03-02-04/01-01,Install a 100 pair MDF terminal frame,Per 100 pair MDF terminal frame, $	70.00 
+Lend Lease,Lend Lease - MWA,CF-02-02-01/01-01,"Mobilisation Fee for Planning and Design Works 
+Note: Subcontractor is only entitled to claim mobilisation for works where travel exceeds 100 k/m from their Local Depot. Substantiation for expenditure, or documented evidence of actual costs incurred shall be verified and approved by Lendlease prior to re-imbursement. MAXIMUM claim distance is capped at 1000 K/M and paid once per Work Order unless otherwise agreed)",Per Work Order,$1.00 PER K/M
+Lend Lease,Lend Lease - MWA,CF-03-02-01/01-01,Living Away from Home Allowance (LAFHA)                                                                                                                                                                                                         Note: Subcontractor is entitled to claim LAFHA for works where travel exceeds 100 k/m from their local depot and the work crew is required to overnight to complete the works. Substantiation(Pre-Starts) must be provided for each night claimable ,per day / per person, $	160.00 
+Lend Lease,Lend Lease - MWA,CI-01-01-01/01-01,Pipe Proving in existing duct,Per linear metre, $	1.90 
+Lend Lease,Lend Lease - MWA,CI-01-02-01/01-01,Pipe Proving in existing riser on a pole or in existing riser on the external face of a building,Per existing riser on a pole or existing riser on the external face of a building, $	32.00 
+Lend Lease,Lend Lease - MWA,CI-02-01-01/01-01,Installation of a cable sheath greater than 144 fibre in underground duct by any means ,Per linear metre, $	3.50 
+Lend Lease,Lend Lease - MWA,CI-02-01-02/01-01,Installation of a cable sheath greater than 12 fibre and up to and including 144 fibre in underground duct by any means,Per linear metre, $	2.50 
+Lend Lease,Lend Lease - MWA,CI-02-01-03/01-01,Installation of 12 fibre  cable sheath in underground duct by any means,Per linear metre, $	2.40 
+Lend Lease,Lend Lease - MWA,CI-02-01-04/01-01,Installation of single fibre cable sheath in underground duct by any means,Per linear metre, $	2.00 
+Lend Lease,Lend Lease - MWA,CI-02-01-05/01-01,Installation of a cable sheath in existing riser on a pole or in existing riser on the external face of a building,Per cable sheath , $	65.00 
+Lend Lease,Lend Lease - MWA,CI-02-02-01/01-01,Installation of copper cable of up to including 100 pair in underground duct,Per linear metre, $	2.70 
+Lend Lease,Lend Lease - MWA,CI-02-02-02/01-01,Installation of copper cable of greater than 100 pair in underground duct,Per linear metre, $	4.70 
+Lend Lease,Lend Lease - MWA,CI-03-01-01/01-01,Installation of cable sheath and all NBN Co infrastructure on timber poles in the communications corridor,Per Span, $	435.00 
+Lend Lease,Lend Lease - MWA,CI-03-01-02/01-01,Installation of cable sheath and all NBN Co infrastructure on stobie poles in the communications corridor,Per Span, $	435.00 
+Lend Lease,Lend Lease - MWA,CI-03-01-03/01-01,Installation of cable sheath and all NBN Co infrastructure on concrete or steel poles in the communications corridor,Per Span, $	410.00 
+Lend Lease,Lend Lease - MWA,CI-03-01-04/01-01,Installation of cable sheath and all NBN Co infrastructure on timber poles in the power corridor,Per Span, $	480.00 
+Lend Lease,Lend Lease - MWA,CI-03-01-05/01-01,Installation of cable sheath and all NBN Co infrastructure on stobie poles in the power corridor,Per Span, $	480.00 
+Lend Lease,Lend Lease - MWA,CI-03-01-06/01-01,Installation of cable sheath and all NBN Co infrastructure on concrete or steel poles in the power corridor,Per Span, $	480.00 
+Lend Lease,Lend Lease - MWA,CI-03-02-01/01-01,Installation of copper cable sheath and all NBN Co infrastructure on timber poles in the communications corridor up to 100 pair,Per Span, $	260.00 
+Lend Lease,Lend Lease - MWA,CI-03-02-02/01-01,Installation of copper cable sheath and all NBN Co infrastructure on stobie poles in the communications corridor up to 100 pair,Per Span, $	260.00 
+Lend Lease,Lend Lease - MWA,CI-03-02-03/01-01,Installation of copper cable sheath and all NBN Co infrastructure on concrete or steel poles in the communications corridor up to 100 pair,Per Span, $	290.00 
+Lend Lease,Lend Lease - MWA,CI-03-02-04/01-01,Installation of copper cable sheath and all NBN Co infrastructure on timber poles in the power corridor up to 100 pair,Per Span, $	300.00 
+Lend Lease,Lend Lease - MWA,CI-03-02-05/01-01,Installation of copper cable sheath and all NBN Co infrastructure on stobie poles in the power corridor up to 100 pair,Per Span, $	300.00 
+Lend Lease,Lend Lease - MWA,CI-03-02-06/01-01,Installation of copper cable sheath and all NBN Co infrastructure on concrete or steel poles in the power corridor up to 100 pair,Per Span, $	295.00 
+Lend Lease,Lend Lease - MWA,CI-04-01-01/01-01,Installation of cable sheath within a cable chamber or tunnel networks,Per linear metre, $	4.69 
+Lend Lease,Lend Lease - MWA,CI-04-01-01/01-02,Installation of cable sheath within a cable chamber or tunnel networks outside working hours,Per linear metre, $	7.79 
+Lend Lease,Lend Lease - MWA,CI-04-01-02/01-01,Installation of cable sheath via riser shaft/cable tray ,Per linear metre, $	4.90 
+Lend Lease,Lend Lease - MWA,CI-04-01-02/01-02,Installation of cable sheath via riser shaft/cable tray outside working hours,Per linear metre, $	7.36 
+Lend Lease,Lend Lease - MWA,CI-04-01-03/01-01,Installation of cable sheath via ceiling space/floor cavity or crawl space,Per linear metre, $	5.78 
+Lend Lease,Lend Lease - MWA,CI-04-01-03/01-02,Installation of cable sheath via ceiling space/floor cavity or crawl space outside working hours,Per linear metre, $	8.67 
+Lend Lease,Lend Lease - MWA,CI-04-01-04/01-01,Installation of cable sheath via existing or new conduit,Per linear metre, $	3.68 
+Lend Lease,Lend Lease - MWA,CI-04-01-04/01-02,Installation of cable sheath via existing or new conduit outside working hours,Per linear metre, $	7.62 
+Lend Lease,Lend Lease - MWA,CI-04-02-01/01-01,Extra over rate for supply and install AC power cable for FTTB Cabinet,Per linear metre, $	10.00 
+Lend Lease,Lend Lease - MWA,CI-04-02-02/01-01,Extra over rate for supply and install earth cable for FTTB Cabinet,Per linear metre, $	12.00 
+Lend Lease,Lend Lease - MWA,CI-04-02-03/01-01,"Extra over rate for the installation of a copper cable sheaths from main distribution frame to FTTB Cabinet, via riser, shaft or cable tray",Per linear metre, $	6.00 
+Lend Lease,Lend Lease - MWA,CI-04-02-04/01-01,"Extra over rate for the installation of copper cable sheaths via ceiling space, floor cavity or crawl space",Per linear metre, $	7.00 
+Lend Lease,Lend Lease - MWA,CI-05-01-01/01-01,Removal and disposal of cable in distribution aerial Network,Per Span, $	175.00 
+Lend Lease,Lend Lease - MWA,CI-05-01-02/01-01,Removal and disposal of cable in local aerial Network,Per Span, $	175.00 
+Lend Lease,Lend Lease - MWA,CI-05-01-03/01-01,Removal and disposal of catenary wire in aerial Network,Per Span, $	150.00 
+Lend Lease,Lend Lease - MWA,CI-05-01-04/01-01,Removal and disposal of cable in distribution underground Network,Per metre, $	1.70 
+Lend Lease,Lend Lease - MWA,CI-05-01-05/01-01,Removal and disposal of cable in local underground Network,Per metre, $	1.20 
+Lend Lease,Lend Lease - MWA,CI-05-01-06/01-01,Removal and disposal of cable in buildings ,Per metre, $	2.30 
+Lend Lease,Lend Lease - MWA,CI-05-01-10/01-01,Removal and disposal of aerial lead in cables,Per lead in, $	80.00 
+Lend Lease,Lend Lease - MWA,CI-05-01-11/01-01,Relocation of aerial lead in cables,Per lead in, $	210.00 
+Lend Lease,Lend Lease - MWA,CI-05-01-12/01-01,Disconnect and re-connect of aerial lead in cables,Per lead in, $	185.00 
+Lend Lease,Lend Lease - MWA,CI-05-01-15/01-01,Removal and disposal of underground lead in cables,Per lead in, $	20.00 
+Lend Lease,Lend Lease - MWA,CP-01-01-01/01-01,Installation of a new 900 type CCU,Per new 900 type CCU, $	710.00 
+Lend Lease,Lend Lease - MWA,CP-01-01-02/01-01,Installation of a new 1800 type CCU,Per new 1800 type CCU, $	750.00 
+Lend Lease,Lend Lease - MWA,CP-01-01-03/01-01,"Installation of 10 cable pair bundles between two copper cable insulation displacement modules (Connection Modules), including the termination of the bundle on each Connection Module",Per 10 cable pair bundle, $	20.00 
+Lend Lease,Lend Lease - MWA,CP-01-01-04/01-01,Cutting over existing services from an existing Connection Module to a new Connection Module,Per 10 cable pairs, $	73.00 
+Lend Lease,Lend Lease - MWA,CP-01-02-01/01-01,Upgrading of an existing CCU from 900 type to 1800 type,Per CCU required to be upgraded from 900 type to 1800 type, $	175.00 
+Lend Lease,Lend Lease - MWA,CP-01-02-02/01-01,Augmentation of an existing 900 type CCU (Pillar Expansion Option 1) ,Per Expansion CCU, $	625.00 
+Lend Lease,Lend Lease - MWA,CP-01-02-03/01-01,Augmentation of an existing 900 type CCU (Pillar Expansion Option 2) - Copper Works,Per Expansion CCU," $	1,000.00 "
+Lend Lease,Lend Lease - MWA,CP-01-02-03/02-01,Augmentation of an existing 900 type CCU (Pillar Expansion Option 2) - Civil Works,Per Expansion CCU," $	1,000.00 "
+Lend Lease,Lend Lease - MWA,CP-01-03-01/01-01,Removal and disposal of an existing CCU,Per existing CCU, $	200.00 
+Lend Lease,Lend Lease - MWA,CP-01-04-01/01-01,Replacement of Pillar Lid Lock or Pillar Cap,Per existing CCU, $	36.82 
+Lend Lease,Lend Lease - MWA,CP-01-04-02/01-01,Installation of 2-piece Pillar Base Repair Kit,Per existing CCU, $	63.46 
+Lend Lease,Lend Lease - MWA,CP-01-04-03/01-01,Replace Cover Lightweight (1800 Type),Per existing CCU, $	34.81 
+Lend Lease,Lend Lease - MWA,CP-01-04-04/01-01,Replacement of copper cable insulation displacement connection module (Connection Module) and termination of cable,Per existing module, $	47.64 
+Lend Lease,Lend Lease - MWA,CP-02-01-01/01-01,Installation of a new Distribution extra large copper joint,Per new Distribution extra large copper joint," $	1,100.00 "
+Lend Lease,Lend Lease - MWA,CP-02-01-02/01-01,Installation of a new Distribution large copper joint,Per new Distribution large copper joint, $	420.00 
+Lend Lease,Lend Lease - MWA,CP-02-01-03/01-01,Installation of a new Distribution small copper joint,Per new Distribution small copper joint, $	315.00 
+Lend Lease,Lend Lease - MWA,CP-02-01-04/01-01,Installation of a new Main Cable small copper joint,Per new Main Cable small copper joint, $	785.00 
+Lend Lease,Lend Lease - MWA,CP-02-01-05/01-01,Installation of a new Main Cable medium copper joint,Per new Main Cable medium Copper joint," $	1,260.00 "
+Lend Lease,Lend Lease - MWA,CP-02-01-06/01-01,Installation of a new Main Cable large copper joint enclosure,Per new Main Cable large Copper joint enclosure," $	2,340.00 "
+Lend Lease,Lend Lease - MWA,CP-02-01-07/01-01,Installation of a new Main Cable extra large copper joint enclosure,Per new Main Cable extra large Copper joint enclosure," $	4,000.00 "
+Lend Lease,Lend Lease - MWA,CP-02-01-08/01-01,Installation of a new aerial large copper joint,Per new Distribution large copper joint, $	720.00 
+Lend Lease,Lend Lease - MWA,CP-02-01-09/01-01,Installation of a new aerial small copper joint,Per new Distribution small copper joint, $	490.00 
+Lend Lease,Lend Lease - MWA,CP-02-02-01/01-01,Rehabilitate existing Distribution extra large or large openable copper joint,Per large openable copper joint, $	245.00 
+Lend Lease,Lend Lease - MWA,CP-02-02-02/01-01,Rehabilitate existing Distribution medium or small openable copper joint,Per small openable copper joint, $	165.00 
+Lend Lease,Lend Lease - MWA,CP-02-02-03/01-01,Replacement of existing Distribution in-line copper joint with a new in-line large copper joint,Per existing copper joint replaced , $	490.00 
+Lend Lease,Lend Lease - MWA,CP-02-02-04/01-01,Replacement of existing Distribution in-line copper joint with a new in-line small copper joint,Per existing copper joint replaced , $	315.00 
+Lend Lease,Lend Lease - MWA,CP-02-02-05/01-01,Cutting over existing services from an existing copper joint to a new large copper joint,Per existing copper joint replaced , $	590.00 
+Lend Lease,Lend Lease - MWA,CP-02-02-06/01-01,Cutting over existing services from an existing copper joint to a new small copper joint,Per existing copper joint replaced , $	330.00 
+Lend Lease,Lend Lease - MWA,CP-02-02-07/01-01,Rehabilitate existing aerial extra large or large copper joint,Per existing copper joint replaced , $	480.00 
+Lend Lease,Lend Lease - MWA,CP-02-02-08/01-01,Rehabilitate existing aerial medium or small copper joint,Per existing copper joint replaced , $	390.00 
+Lend Lease,Lend Lease - MWA,CP-02-02-09/01-01,Rehabilitate existing elevated copper joint,Per existing copper joint replaced , $	250.00 
+Lend Lease,Lend Lease - MWA,CP-02-02-10/01-01,Rehabilitate existing small Distribution in-line copper joint ,Per small in-line copper joint, $	400.00 
+Lend Lease,Lend Lease - MWA,CP-02-02-15/01-01,Rehabilitate existing extra large or large Distribution in-line copper joint ,Per existing copper joint, $	425.00 
+Lend Lease,Lend Lease - MWA,CP-02-02-16/01-01,Rehabilitate existing medium or small Distribution in-line copper joint ,Per existing copper joint, $	425.00 
+Lend Lease,Lend Lease - MWA,CP-02-02-20/01-01,Joint a working cable pair into an existing joint up to and including a 10 pair cable,Per existing copper joint, $	180.00 
+Lend Lease,Lend Lease - MWA,CP-02-02-21/01-01,Joint a working cable pair into an existing joint above a 10 pair cable and up to and including a 50 pair cable,Per existing copper joint, $	275.00 
+Lend Lease,Lend Lease - MWA,CP-02-02-22/01-01,Joint a working cable pair into an existing joint above a 50 pair cable and up to and including a 100 pair cable,Per existing copper joint, $	325.00 
+Lend Lease,Lend Lease - MWA,CP-02-02-23/01-01,Joint a working cable pair into an existing joint above 100 pair cable,Per existing copper joint," $	1,850.00 "
+Lend Lease,Lend Lease - MWA,CP-02-02-24/01-01,Insert a 2 pair cable into an existing joint and joint to existing cable,Per 2 pair cable, $	38.00 
+Lend Lease,Lend Lease - MWA,CP-02-02-25/01-01,Insert a cable including a 10 pair and up to an including a 100 pair into an existing joint and joint to existing cable,Per Cable inserted, $	430.00 
+Lend Lease,Lend Lease - MWA,CP-02-02-26/01-01,Locate and rectify a fault in a copper pair,Per Copper Cable, $	150.00 
+Lend Lease,Lend Lease - MWA,CP-02-03-01/01-01,Removal of existing copper joint,Per existing copper joint, $	40.00 
+Lend Lease,Lend Lease - MWA,CP-02-03-02/01-01,Removal of existing aerial copper joint,Per existing copper joint, $	80.00 
+Lend Lease,Lend Lease - MWA,CP-02-03-03/01-01,Remove a existing elevated joint,Per existing copper joint, $	70.00 
+Lend Lease,Lend Lease - MWA,CP-02-04-01/-01-01,Joint sealing maintenance task (add Dexbond 10B Sealant),Per existing copper joint, $	40.70 
+Lend Lease,Lend Lease - MWA,CP-02-04-02/-01-01,"Replace joint lid, clamp, or Support Bar   (HSOJ or Dexgreen Joint)",Per existing copper joint, $	15.61 
+Lend Lease,Lend Lease - MWA,CP-02-04-03/-01-01,Replace or install 2-5pr Snap Enclosure,Per existing copper joint, $	21.14 
+Lend Lease,Lend Lease - MWA,CP-02-04-04/-01-01,Replace or install 10pr Snap Enclosure,Per existing copper joint, $	45.79 
+Lend Lease,Lend Lease - MWA,CP-02-04-05/-01-01,Replace connectors in an openable joint,Per existing copper joint, $	36.63 
+Lend Lease,Lend Lease - MWA,CP-02-04-06/-01-01,Replace Bandit Strap,Per existing copper joint, $	24.71 
+Lend Lease,Lend Lease - MWA,CP-03-01-01/01-01,Removal of a pair gain system ,Per pair gain system, $	250.00 
+Lend Lease,Lend Lease - MWA,CP-03-01-02/01-01,Migration of an existing service from a pair gain system to a dedicated copper circuit,Per existing service, $	60.00 
+Lend Lease,Lend Lease - MWA,CP-03-01-03/01-01,Single service active migration in a CSD including service jumpering in the pillar,Per service, $	75.00 
+Lend Lease,Lend Lease - MWA,CP-03-01-04/01-01,Removal of existing line conditioning equipment,Per existing line conditioning equipment, $	155.00 
+Lend Lease,Lend Lease - MWA,CP-03-01-05/01-01,Removal of an existing bridge tap ,Per existing bridge tap, $	120.00 
+Lend Lease,Lend Lease - MWA,CP-03-01-06/01-01,Install earth bonding cable between cable sections,Per linear metre, $	7.50 
+Lend Lease,Lend Lease - MWA,CP-03-01-10/01-01,Multiple services pre-validation for migration at any location ,Per existing service, $	40.00 
+Lend Lease,Lend Lease - MWA,CP-05-01-01/01-01,Installation of service jumpering in an Exchange,Per Service, $	65.00 
+Lend Lease,Lend Lease - MWA,CP-05-01-02/01-01,Existing service transfer jumpering in an MDF and termination end point,Per existing service, $	70.00 
+Lend Lease,Lend Lease - MWA,CP-05-02-01/01-01,Installation of service jumpering in a cross connect unit for the first service jumpered,Per Service, $	12.00 
+Lend Lease,Lend Lease - MWA,CP-05-02-02/01-01,Extra over service Jumpering in a cross connect unit,Per Service , $	7.50 
+Lend Lease,Lend Lease - MWA,CW-01-01-01/01-01,Supply & Install underground pipe (upto and including 63mm OD) by trenching in any location other than rock; inlcuding bedding and backfill.,Per linear metre, $	38.00 
+Lend Lease,Lend Lease - MWA,CW-01-01-01/02-01,Supply & Install u/g pipe (upto and including 63mm OD) by Non Distructive Digging (NDD) in any location other than rock; inlcuding bedding and backfill. ,Per linear metre, $	60.00 
+Lend Lease,Lend Lease - MWA,CW-01-01-01/02-01,Supply & Install u/g pipe (upto and including 63mm OD) by boring in any location other than rock; inlcuding bedding and backfill.,Per linear metre, $	65.00 
+Lend Lease,Lend Lease - MWA,CW-01-01-02/01-01,Supply & Install underground pipe (more than 63mm OD) by trenching in any location other than rock; inlcuding bedding and backfill.,Per linear metre, $	45.00 
+Lend Lease,Lend Lease - MWA,CW-01-01-02/02-01,Supply & Install u/g pipe (more than 63mm OD) by NDD in any location other than rock; inlcuding bedding and backfill.,Per linear metre, $	75.00 
+Lend Lease,Lend Lease - MWA,CW-01-01-02/03-01,Supply & Install u/g pipe (more than 63mm OD) by boring in any location other than rock; inlcuding bedding and backfill.,Per linear metre, $	78.00 
+Lend Lease,Lend Lease - MWA,CW-01-01-03/01-01,Extra over for supply and install an additional underground pipe in an existing trench with an internal diameter of greater than 25mm,Per linear metre, $	10.00 
+Lend Lease,Lend Lease - MWA,CW-01-01-04/01-01,Extra over for supply and install an additional underground pipe by boring technique with an internal diameter of greater than 25mm,Per linear metre, $	45.00 
+Lend Lease,Lend Lease - MWA,CW-01-01-05/01-01,Supply and install riser on pole or building  ,Per riser, $	130.00 
+Lend Lease,Lend Lease - MWA,CW-01-02-01/01-01,"Extra over rate for excavation of rock & disposal of spoil
+Carry out trenching activities in more than 1 linear metres of Rock",Per linear metre, $	75.00 
+Lend Lease,Lend Lease - MWA,CW-01-02-01/02-01,"Extra over rate for excavation of rock by Boring & disposal of spoil
+Carry out boring activities in more than 1 linear metres of Rock",Per linear metre, $	165.00 
+Lend Lease,Lend Lease - MWA,CW-02-01-01/01-01,Supply and installation of small pits (P2) at any locations in other than Rock,Per pit, $	220.00 
+Lend Lease,Lend Lease - MWA,CW-02-01-02/01-01,Supply and installation of medium pits (P4 and P5) at any locations in other than Rock,Per pit, $	417.00 
+Lend Lease,Lend Lease - MWA,CW-02-01-02/02-01,Extra over rate for use of NDD technique to install medium pit (P4 and P5) in any location other than rock.,Per pit, $	75.00 
+Lend Lease,Lend Lease - MWA,CW-02-01-03/01-01,Supply and installation of large pits (P6 and P8) at any locations in other than Rock,Per pit, $	914.79 
+Lend Lease,Lend Lease - MWA,CW-02-01-03/02-01,Supply & Install large (P6 and P8) pit by NDD in any location other than rock.,Per pit, $	150.00 
+Lend Lease,Lend Lease - MWA,CW-02-01-04/01-01,Supply and installation of extra-large (P9) pits at any locations in other than Rock,Per pit," $	1,520.00 "
+Lend Lease,Lend Lease - MWA,CW-02-01-04/02-01,Extra over rate for use of NDD technique to install extra large pit (P9) in any location other than rock.,Per pit, $	200.00 
+Lend Lease,Lend Lease - MWA,CW-02-01-05/01-01,Supply & install pit riser (P4).,Each pit riser, $	140.00 
+Lend Lease,Lend Lease - MWA,CW-02-01-05/02-01,Supply & install pit riser (P5).,Each pit riser, $	150.00 
+Lend Lease,Lend Lease - MWA,CW-02-01-05/03-01,Supply & install pit riser (P6).,Each pit riser, $	190.00 
+Lend Lease,Lend Lease - MWA,CW-02-01-05/04-01,Supply & install pit riser (P8).,Each pit riser, $	190.00 
+Lend Lease,Lend Lease - MWA,CW-02-01-05/05-01,Supply & install pit riser (P9).,Each pit riser, $	210.00 
+Lend Lease,Lend Lease - MWA,CW-02-01-06/01-01,Supply & install pit lid (P4).,Each pit lids, $	64.00 
+Lend Lease,Lend Lease - MWA,CW-02-01-06/02-01,Supply & install pit lid (P5).,Each pit lids, $	64.00 
+Lend Lease,Lend Lease - MWA,CW-02-01-06/03-01,Supply & install pit lid (P6).,Each pit lids, $	75.00 
+Lend Lease,Lend Lease - MWA,CW-02-01-06/04-01,Supply & install pit lid (P8).,Each pit lids, $	75.00 
+Lend Lease,Lend Lease - MWA,CW-02-01-06/05-01,Supply & install pit lid (P9).,Each pit lids, $	95.00 
+Lend Lease,Lend Lease - MWA,CW-02-01-08/01-01,Supply and install composite pit lids,Each pit lids, $	60.00 
+Lend Lease,Lend Lease - MWA,CW-02-02-01/01-01,Extra over rate for the supply and installation of a pit in Rock ,Per cubic metre, $	130.00 
+Lend Lease,Lend Lease - MWA,CW-02-03-01/01-01,Removal and disposal of small (P2) ACM Pit,Each ACM Pit, $	450.00 
+Lend Lease,Lend Lease - MWA,CW-02-03-02/01-01,"Removal of medium ACM Pit (P4 or P5) and disposal off site; including safe temporary storage, handling and proof of disposal  ",Each ACM Pit, $	540.00 
+Lend Lease,Lend Lease - MWA,CW-02-03-03/01-01,"Removal of large ACM Pit (P6 or P8) and disposal off site; including safe temporary storage, handling and proof of disposal.",Each ACM Pit, $	710.00 
+Lend Lease,Lend Lease - MWA,CW-02-03-04/01-01,"Removal of extra large ACM Pit (P9) and disposal off site; including safe temporary storage, handling and proof of disposal",Each ACM Pit, $	920.00 
+Lend Lease,Lend Lease - MWA,CW-02-04-01/01-01,Remove and dispose of a single lid plastic pit,Each Pit, $	320.00 
+Lend Lease,Lend Lease - MWA,CW-02-04-02/01-01,Remove and dispose of a double lid plastic pit,Each Pit, $	620.00 
+Lend Lease,Lend Lease - MWA,CW-03-01-01/01-01,Core bore ,Each core bore, $	120.00 
+Lend Lease,Lend Lease - MWA,CW-05-01-01/01-01,Identify & repair a damaged or block duct in any location other than rock.,Per blockage repaired, $	333.44 
+Lend Lease,Lend Lease - MWA,CW-05-01-02/01-01,Clear pipe blockage using high pressure water,Per blockage cleared, $	151.75 
+Lend Lease,Lend Lease - MWA,CW-05-01-03/01-01,Extra over for the repair of a secondary damaged or blocked duct in any surface ,Per blockage repaired, $	295.57 
+Lend Lease,Lend Lease - MWA,CW-06-01-01/01-01,Breakout concrete surface material ,Per linear metre, $	68.00 
+Lend Lease,Lend Lease - MWA,CW-06-01-02/01-01,Breakout asphalt or bitumen,Per linear metre, $	63.00 
+Lend Lease,Lend Lease - MWA,CW-06-01-03/01-01,Breakout paving material in CBD areas,Per linear metre, $	60.00 
+Lend Lease,Lend Lease - MWA,CW-06-01-04/01-01,Breakout paving material in all areas other than CBD,Per linear metre, $	50.00 
+Lend Lease,Lend Lease - MWA,CW-06-02-01/01-01,Reinstate concrete surface material ,Per linear metre, $	122.37 
+Lend Lease,Lend Lease - MWA,CW-06-02-02/01-01,Reinstate asphalt or bitumen,Per linear metre, $	80.18 
+Lend Lease,Lend Lease - MWA,CW-06-02-03/01-01,Reinstate paving material in CBD areas,Per linear metre, $	75.00 
+Lend Lease,Lend Lease - MWA,CW-06-02-04/01-01,Reinstate paving material in all areas other than CBD,Per linear metre, $	65.00 
+Lend Lease,Lend Lease - MWA,EA-01-01-01/01-01,Copper performance line testing,Per cable pair, $	70.00 
+Lend Lease,Lend Lease - MWA,EA-01-01-02/01-01,Line Testing Vacant Pairs,Per cable pair, $	12.50 
+Lend Lease,Lend Lease - MWA,FB-01-01-01/01-01,Installation and preparation of a new fibre joint enclosure greater than 144 fibres,Per fibre joint enclosure, $	125.00 
+Lend Lease,Lend Lease - MWA,FB-01-01-02/01-01,Installation and preparation of a new fibre joint enclosure greater than 12 fibres and up to and including 144 fibres,Per fibre joint enclosure, $	121.00 
+Lend Lease,Lend Lease - MWA,FB-01-01-03/01-01,Installation and preparation of a fibre joint enclosure up to and including 12 fibres,Per fibre joint enclosure, $	120.00 
+Lend Lease,Lend Lease - MWA,FB-01-01-04/01-01,Installation and preparation of Gator fibre joint enclosure ,Per Gator fibre joint enclosure, $	121.00 
+Lend Lease,Lend Lease - MWA,FB-01-02-01/01-01,Prepare a fibre cable sheath greater than 144 fibres  to be connected to fibre joint enclosures,Per cable sheath, $	225.00 
+Lend Lease,Lend Lease - MWA,FB-01-02-02/01-01,Prepare a fibre cable sheath greater 12 fibres and up to and including 144 fibres to be connected to fibre joint enclosures,Per cable sheath, $	125.00 
+Lend Lease,Lend Lease - MWA,FB-01-02-03/01-01,Prepare a 12 fibre cable to be connected to fibre joint enclosures,Per cable sheath, $	60.00 
+Lend Lease,Lend Lease - MWA,FB-01-02-04/01-01,Prepare Single fibre cable sheath to be connected to fibre joint enclosures,Per cable sheath, $	45.00 
+Lend Lease,Lend Lease - MWA,FB-01-02-05/01-01,Lay up of cable sheaths,Per cable sheath, $	85.00 
+Lend Lease,Lend Lease - MWA,FB-01-02-06/01-01,Prepare a loose tube fibre cable sheath greater than 144 fibres to be connected to fibre joint enclosures,Per cable sheath, $	310.00 
+Lend Lease,Lend Lease - MWA,FB-01-02-07/01-01,Prepare a loose tube fibre cable sheath greater 12 fibres and up to and including 144 fibres to be connected to fibre joint enclosures,Per cable sheath, $	205.00 
+Lend Lease,Lend Lease - MWA,FB-01-02-08/01-01,Prepare a loose tube 12 fibre cable to be connected to fibre joint enclosures,Per cable sheath, $	95.00 
+Lend Lease,Lend Lease - MWA,FB-01-02-09/01-01,Prepare a loose tube Single fibre cable sheath to be connected to fibre joint enclosures,Per cable sheath, $	45.00 
+Lend Lease,Lend Lease - MWA,FB-01-03-01/01-01,Re-entry into a fibre joint enclosure,Per fibre joint enclosure, $	92.00 
+Lend Lease,Lend Lease - MWA,FB-01-04-01/-01-01,Installation of splitter within existing FDH / PDH cabinet,Per splitter, $	31.79 
+Lend Lease,Lend Lease - MWA,FB-01-04-02/-01-01,Installation of splitter within an existing BJL enclosure,Per splitter, $	70.77 
+Lend Lease,Lend Lease - MWA,FB-01-04-03/-01-01,Installation of splitter within an existing FJL enclosure,Per splitter, $	69.65 
+Lend Lease,Lend Lease - MWA,FB-01-04-04/-01-01,Installation of a splitter card output fibres to LFN ports within and existing FDH cabinet,Per Fibre, $	31.79 
+Lend Lease,Lend Lease - MWA,FB-01-04-05/-01-01,Installation of a Fibre TV Splitter (TVS) within an FDH Cabinet,Per device, $	29.21 
+Lend Lease,Lend Lease - MWA,FB-01-04-06/-01-01,Installation of a Fibre TV Splitter within a PDH enclosure,Per device, $	31.99 
+Lend Lease,Lend Lease - MWA,FB-02-01-01/01-01,Installation of multiport or splitter multiport in underground pit or manhole,Per multiport, $	30.00 
+Lend Lease,Lend Lease - MWA,FB-02-01-02/01-01,Installation of multiport or splitter multiport on any pole,Per multiport, $	120.00 
+Lend Lease,Lend Lease - MWA,FB-02-01-03/01-01,Replacement or Upgrade of existing splitter multiport in underground pit or manhole,Per multiport, $	60.00 
+Lend Lease,Lend Lease - MWA,FB-02-01-04/01-01,Replacement or Upgrade of existing splitter multiport on any pole,Per multiport, $	180.00 
+Lend Lease,Lend Lease - MWA,FB-03-01-01/01-01,Splicing of optic fibre ribbons,Per Ribbon Splice, $	20.00 
+Lend Lease,Lend Lease - MWA,FB-03-01-02/01-01,Splicing of single fibre,Per Fibre Splice, $	13.00 
+Lend Lease,Lend Lease - MWA,FB-03-01-03/01-01,Splicing of loose tube fibre,Per Fibre Splice, $	12.50 
+Lend Lease,Lend Lease - MWA,FB-03-01-04/01-01,De ribbonise 12 fibre ribbon,Per ribbon, $	9.50 
+Lend Lease,Lend Lease - MWA,FB-04-02-01/01-01,Uni-directional OTDR Testing to the first fibre tested,Per fibre, $	28.00 
+Lend Lease,Lend Lease - MWA,FB-04-02-02/01-01,Extra over for additional Uni-directional OTDR Testing,Per fibre, $	20.00 
+Lend Lease,Lend Lease - MWA,FB-04-02-03/01-01,Point to point DFL OTDR test to the first fibre tested,Per fibre, $	26.00 
+Lend Lease,Lend Lease - MWA,FB-04-02-04/01-01,Extra over for additional Point to point DFL OTDR test,Per fibre, $	14.00 
+Lend Lease,Lend Lease - MWA,FB-04-02-05/01-01,Insertion loss testing to the first fibre tested,Per fibre, $	22.00 
+Lend Lease,Lend Lease - MWA,FB-04-02-06/01-01,Extra over for additional Insertion loss testing,Per fibre, $	22.50 
+Lend Lease,Lend Lease - MWA,FB-04-02-07/01-01,Extra over rate for LFN / MTLFN insertion loss testing to the PCD  ,Per fibre, $	14.00 
+Lend Lease,Lend Lease - MWA,FB-04-02-08/01-01,PON Power Meter Test,Per fibre, $	10.00 
+Lend Lease,Lend Lease - MWA,FB-04-02-09/01-01,End to end connectivity testing to the GPON NTD at customer premises,Per fibre, $	28.00 
+Lend Lease,Lend Lease - MWA,FB-04-02-10/01-01,End to end connectivity testing to SASK NTD at customer premises,Per fibre, $	28.00 
+Lend Lease,Lend Lease - MWA,FB-05-02-01/01-01,Installation of a 12/24 way fibre patch panel within a customer premise environment,Per patch panel, $	90.00 
+Lend Lease,Lend Lease - MWA,FB-05-02-04/01-01,Installation of a 24 way HDODF patch panel within a HDODF or equivalent environment,Per patch panel, $	115.00 
+Lend Lease,Lend Lease - MWA,FB-05-02-05/01-01,Installation of a 72 way HDODF patch panel within a HDODF or equivalent environment,Per patch panel, $	150.00 
+Lend Lease,Lend Lease - MWA,FB-05-02-06/01-01,Installation of a 144 way HDODF patch panel within a HDODF or equivalent environment,Per patch panel, $	320.00 
+Lend Lease,Lend Lease - MWA,FB-05-03-01/01-01,Prepare and splice of a 12 fibre sheath within a customer premises environment,Per cable sheath, $	115.00 
+Lend Lease,Lend Lease - MWA,FB-05-03-02/01-01,Prepare and splice of a single fibre in a PIC cable,Per Fibre, $	30.00 
+Lend Lease,Lend Lease - MWA,FB-05-03-03/01-01,Supply and install patching cable within a HDODF or equivalent environment,Per patching cable, $	35.00 
+Lend Lease,Lend Lease - MWA,FB-05-03-06/01-01,Prepare and splice a fibre cable sheath greater than 144 fibres to be connected within a HDODF environment,Per cable sheath, $	420.00 
+Lend Lease,Lend Lease - MWA,FB-05-03-07/01-01,Prepare and splice a fibre cable sheath greater 12 fibres and up to and including 144 fibres to be connected within a HDODF environment,Per cable sheath, $	210.00 
+Lend Lease,Lend Lease - MWA,FB-05-03-08/01-01,Installation of an inline optical attenuator in conjunction with HDODF patching works,Per optical attenuator, $	45.00 
+Lend Lease,Lend Lease - MWA,FB-05-03-09/01-01,Installation of an inline optical attenuator within the HDODF cabinet or equivalent rack environments as part of line balancing works for an FTTC DPU,Per optical attenuator, $	90.00 
+Lend Lease,Lend Lease - MWA,FC-01-01-03/01-01,Installation and commissioning of a wall mounted DPU terminal device ,Per DPU, $	75.00 
+Lend Lease,Lend Lease - MWA,FC-01-01-10/01-01,Installation and commissioning of an aerial DPU terminal device ,Per DPU, $	130.00 
+Lend Lease,Lend Lease - MWA,FC-01-01-11/01-01,Installation and commissioning of a non-aerial DPU terminal device ,Per DPU, $	70.00 
+Lend Lease,Lend Lease - MWA,FC-01-01-12/01-01,Removal of existing DPU,Per DPU, $	85.00 
+Lend Lease,Lend Lease - MWA,FC-02-01-05/01-01,Supply and installation of a DPU copper lead extension from DPU copper lead to a new or existing aerial mounted openable joint enclosure or to an existing aerial mounted terminal box joint enclosure,Per DPU copper lead extension, $	125.00 
+Lend Lease,Lend Lease - MWA,FC-02-01-06/01-01,Supply and installation of DPU copper lead extension from DPU copper lead to a new or existing non-aerial mounted openable joint enclosure ,Per DPU copper lead extension, $	95.00 
+Lend Lease,Lend Lease - MWA,FC-02-01-07/01-01,Supply and installation of a DPU copper lead extension from DPU copper lead to a non-aerial copper interconnect unit,Per DPU copper lead extension, $	92.00 
+Lend Lease,Lend Lease - MWA,FC-02-01-12/01-01,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing aerial mounted openable joint enclosure or to an existing aerial mounted terminal box joint enclosure,Per DPU copper lead high twist extension, $	115.00 
+Lend Lease,Lend Lease - MWA,FC-02-01-13/01-01,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing non-aerial mounted openable joint enclosure,Per DPU copper lead high twist extension, $	16.00 
+Lend Lease,Lend Lease - MWA,FC-02-02-01/01-01,Jointing of an aerial copper drop sheath to aerial DPU copper lead in a new or existing openable joint enclosure,Per aerial DPU copper lead jointed , $	100.00 
+Lend Lease,Lend Lease - MWA,FC-02-02-02/01-01,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing aerial mounted openable joint enclosure ,Per DPU copper lead high twist extension, $	140.00 
+Lend Lease,Lend Lease - MWA,FC-02-02-03/01-01,Removal of an existing terminal box joint enclosure or existing openable joint and installation of a new replacement openable joint enclosure,Per replaced enclosure, $	220.00 
+Lend Lease,Lend Lease - MWA,FC-02-02-04/01-01,Installation of a copper tie cable for interconnection between two new or existing openable joint enclosures or terminal box joint enclosures ,Per copper tie cable, $	215.00 
+Lend Lease,Lend Lease - MWA,FC-02-03-01/01-01,Installation of a new non-aerial openable joint enclosure,Per new non-aerial openable joint enclosure, $	155.00 
+Lend Lease,Lend Lease - MWA,FC-02-03-02/01-01,Jointing of copper drop sheath to DPU copper lead using a copper interconnect unit,Per DPU copper lead jointed , $	28.00 
+Lend Lease,Lend Lease - MWA,FC-02-03-03/01-01,Jointing of copper drop sheath to DPU copper lead in a new or existing openable joint enclosure,Per DPU copper lead jointed , $	40.00 
+Lend Lease,Lend Lease - MWA,FC-02-03-04/01-01,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a non-aerial copper interconnect unit,Per DPU copper lead high twist extension, $	120.00 
+Lend Lease,Lend Lease - MWA,FC-02-03-05/01-01,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing non-aerial openable joint enclosure,Per DPU copper lead high twist extension, $	130.00 
+Lend Lease,Lend Lease - MWA,FC-02-03-06/01-01,Extra over for the Installation of a 2 pair copper cut-in loop to existing lead sheath copper lead-in,Per 2pair loop, $	90.00 
+Lend Lease,Lend Lease - MWA,FC-03-01-01/01-01,Existing copper drop sheath validation,Per existing copper drop sheath validated, $	25.00 
+Lend Lease,Lend Lease - MWA,FC-03-01-01/02-01,Design - Validation of the Premise ,Per existing copper drop sheath validated, $	35.00 
+Lend Lease,Lend Lease - MWA,FC-03-01-02/01-01,Existing Copper drop sheath validation for Serviceability for Missed Lead-ins,Per existing copper drop sheath validated, $	35.00 
+Lend Lease,Lend Lease - MWA,MD-01-01-01/01-01,Supply & Installation of catenary wire system in buildings,Per linear metre, $	8.70 
+Lend Lease,Lend Lease - MWA,MD-01-01-01/01-02,Supply & Installation of catenary wire system in buildings outside working hours,Per linear metre, $	19.52 
+Lend Lease,Lend Lease - MWA,MD-01-01-02/01-01,Supply & Installation of cable tray in buildings,Per linear metre, $	30.46 
+Lend Lease,Lend Lease - MWA,MD-01-01-02/01-02,Supply & Installation of cable tray in buildings outside working hours,Per linear metre, $	51.60 
+Lend Lease,Lend Lease - MWA,MD-01-01-03/01-01,Supply and installation of ducting <30mm width ,Per linear metre, $	17.29 
+Lend Lease,Lend Lease - MWA,MD-01-01-03/01-02,Supply and installation of ducting <30mm width outside working hours,Per linear metre, $	24.90 
+Lend Lease,Lend Lease - MWA,MD-01-01-04/01-01,Supply and installation of ducting >30mm width ,Per linear metre, $	27.99 
+Lend Lease,Lend Lease - MWA,MD-01-01-04/01-02,Supply and installation of ducting >30mm width outside working hours,Per linear metre, $	40.31 
+Lend Lease,Lend Lease - MWA,MD-01-01-05/01-01,Supply and installation of conduit,Per linear metre, $	12.07 
+Lend Lease,Lend Lease - MWA,MD-01-01-05/01-02,Supply and installation of conduit outside working hours,Per linear metre, $	15.69 
+Lend Lease,Lend Lease - MWA,MD-01-01-06/01-01,Installation of One Pass Fibre Pathway in buildings,Per linear metre, $	11.03 
+Lend Lease,Lend Lease - MWA,MD-01-01-06/01-02,Installation of One Pass Fibre Pathway in buildings outside working hours,Per linear metre, $	18.69 
+Lend Lease,Lend Lease - MWA,MD-01-01-07/01-01,Connecting One Pass Fibre Pathway to ICD or PCD ,Each ICD or PCD, $	33.59 
+Lend Lease,Lend Lease - MWA,MD-01-01-07/01-02,Connecting One Pass Fibre Pathway to ICD or PCD outside working hours,Each ICD or PCD, $	53.35 
+Lend Lease,Lend Lease - MWA,MD-01-07-01/01-01,Installation of Fibre Collector Distributor (FCD) or Fibre Distribution Terminal (FDT) or Cable Transition Location (CTL) within buildings,"Each FCD, FDT or CTL", $	77.73 
+Lend Lease,Lend Lease - MWA,MD-01-07-01/01-02,Installation of Fibre Collector Distributor (FCD) or Fibre Distribution Terminal (FDT) or Cable Transition Location (CTL) within buildings outside working hours,"Each FCD, FDT or CTL", $	120.93 
+Lend Lease,Lend Lease - MWA,MD-01-07-02/01-01,Installation of Premises Distribution Hub (PDH) ,Each PDH, $	164.10 
+Lend Lease,Lend Lease - MWA,MD-01-07-02/01-02,Installation of Premises Distribution Hub (PDH) outside working hours,Each PDH, $	192.01 
+Lend Lease,Lend Lease - MWA,MD-01-07-03/01-01,Installation of Internal Connection Device (ICD) or Premises Connection Device (PCD),Each ICD or PCD, $	27.06 
+Lend Lease,Lend Lease - MWA,MD-01-07-03/01-02,Installation of Internal Connection Device (ICD) or Premises Connection Device (PCD) outside working hours,Each ICD or PCD, $	38.69 
+Lend Lease,Lend Lease - MWA,MD-01-07-04/01-01,Installation of a fibre wall outlet,Per outlet, $	16.52 
+Lend Lease,Lend Lease - MWA,MD-01-07-04/01-02,Installation of a fibre wall outlet outside working hours,Per outlet, $	19.32 
+Lend Lease,Lend Lease - MWA,MD-01-07-06/01-01,Installation of apartment amplifier in buildings,Per amplifier, $	72.40 
+Lend Lease,Lend Lease - MWA,MD-01-07-07/01-01,Installation of MDU security enclosure,Per MDU security enclosure, $	55.81 
+Lend Lease,Lend Lease - MWA,MD-01-07-08/01-01,Installation of tap in buildings,Per tap, $	74.37 
+Lend Lease,Lend Lease - MWA,MD-01-07-09/01-01,Installation of directional coupler or splitter in buildings,Per directional coupler or splitter, $	67.18 
+Lend Lease,Lend Lease - MWA,MD-01-07-10/01-01,Extra over rate for the Installation of an isolator in buildings,Per Isolator, $	18.41 
+Lend Lease,Lend Lease - MWA,MD-01-07-11/01-01,Replacement of tap in buildings ,Per Tap, $	44.69 
+Lend Lease,Lend Lease - MWA,MD-01-07-12/01-01,Replacement of tap faceplate in buildings,Per face plate, $	30.22 
+Lend Lease,Lend Lease - MWA,MD-01-07-13/01-01,"Removal of tap, isolator, directional coupler or splitter in buildings only",Per device , $	39.06 
+Lend Lease,Lend Lease - MWA,MD-01-07-14/01-01,Removal of an apartment amplifier in buildings,per device , $	46.87 
+Lend Lease,Lend Lease - MWA,MD-01-07-15/01-01,Installation of Building Fibre Distributor (BUDI),Each BFD, $	287.00 
+Lend Lease,Lend Lease - MWA,MD-01-07-15/01-02,Installation of Building Fibre Distributor (BUDI) outside working hours,Each BFD, $	373.10 
+Lend Lease,Lend Lease - MWA,MD-01-07-16/01-01,Installation of Splitter Distribution Terminal (SDT),Each SDT, $	157.13 
+Lend Lease,Lend Lease - MWA,MD-01-07-16/01-02,Installation of Splitter Distribution Terminal (SDT) outside working hours,Each SDT, $	204.27 
+Lend Lease,Lend Lease - MWA,MD-01-07-17/01-01,Installation of additional NG4 tray,per device , $	33.85 
+Lend Lease,Lend Lease - MWA,MD-01-07-18/01-01,Installation of additional OCM-6 module,per device , $	30.30 
+Lend Lease,Lend Lease - MWA,MD-01-07-19/01-01,Installation of additional PCD splice tray,per device , $	25.98 
+Lend Lease,Lend Lease - MWA,MD-02-01-01/01-01,Installation of a single service drop sheath (SDS) on a single span to a multi dwelling unit,Per aerial service drop, $	160.00 
+Lend Lease,Lend Lease - MWA,MD-02-01-02/01-01,Extra over rate for additional spans for an aerial service drop to a multi dwelling unit,Each additional Span, $	90.00 
+Lend Lease,Lend Lease - MWA,MD-02-01-03/01-01,Extra over rate for supply and installation of an raiser pole on a building.,Each raiser pole installed, $	60.00 
+Lend Lease,Lend Lease - MWA,MD-02-01-04/01-01,Installation of service drop sheath underground to a multi dwelling unit,Per service drop, $	95.00 
+Lend Lease,Lend Lease - MWA,MD-02-01-05/01-01,Installation of direct service drop sheath underground to a multi dwelling unit,Per direct service drop, $	240.00 
+Lend Lease,Lend Lease - MWA,MD-02-01-10/01-01,Extend a developer supplied MDU lead-in starter pipe to the nominated network pit,Per Starter Pipe, $	250.00 
+Lend Lease,Lend Lease - MWA,MD-02-02-01/01-01,Replace existing copper aerial lead-in with new copper aerial lead-in to a multi dwelling unit,Per existing copper aerial lead-in replaced. Per Span, $	200.00 
+Lend Lease,Lend Lease - MWA,MD-02-02-02/01-01,Installation of aerial copper service drop to a multi dwelling unit,Per aerial copper service drop, $	200.00 
+Lend Lease,Lend Lease - MWA,MD-02-02-03/01-01,Installation of non-aerial copper service drop to a multi dwelling unit,Per non-aerial copper service drop, $	100.00 
+Lend Lease,Lend Lease - MWA,MD-03-01-01/-01-01,FTTP MDU In-building Cabling (1-10 Premises),Per EUP, $	256.25 
+Lend Lease,Lend Lease - MWA,MD-03-01-02/-01-01,FTTP MDU In-building Cabling (11- 30 Premises),Per EUP, $	256.25 
+Lend Lease,Lend Lease - MWA,MD-03-01-03/-01-01,FTTP MDU In-building Cabling (31- 60 Premises),Per EUP, $	255.81 
+Lend Lease,Lend Lease - MWA,MD-03-01-04/-01-01,FTTP MDU In-building Cabling (61- 100 Premises),Per EUP, $	249.85 
+Lend Lease,Lend Lease - MWA,MD-03-01-05/-01-01,FTTP MDU In-building Cabling (101- 150 Premises),Per EUP, $	243.44 
+Lend Lease,Lend Lease - MWA,MD-03-01-06/-01-01,FTTP MDU In-building Cabling (151- 200 Premises),Per EUP, $	223.09 
+Lend Lease,Lend Lease - MWA,MD-03-01-07/-01-01,FTTP MDU In-building Cabling (200+ Premises),Per EUP, $	219.65 
+Lend Lease,Lend Lease - MWA,MD-03-03-01/-01-01,FTTP HMDU In-building Cabling (1-10 Premises),Per EUP, $	126.59 
+Lend Lease,Lend Lease - MWA,MD-03-03-02/-01-01,FTTP HMDU In-building Cabling (11- 30 Premises),Per EUP, $	122.37 
+Lend Lease,Lend Lease - MWA,MD-03-03-03/-01-01,FTTP HMDU In-building Cabling (31- 60 Premises),Per EUP, $	118.15 
+Lend Lease,Lend Lease - MWA,MD-03-03-04/-01-01,FTTP HMDU In-building Cabling (61- 100 Premises),Per EUP, $	113.93 
+Lend Lease,Lend Lease - MWA,MD-03-03-05/-01-01,FTTP HMDU In-building Cabling (101- 150 Premises),Per EUP, $	109.71 
+Lend Lease,Lend Lease - MWA,MD-03-03-06/-01-01,FTTP HMDU In-building Cabling (151- 200 Premises),Per EUP, $	105.50 
+Lend Lease,Lend Lease - MWA,MD-03-03-07/-01-01,FTTP HMDU In-building Cabling (200+ Premises),Per EUP, $	101.28 
+Lend Lease,Lend Lease - MWA,PS-01-01-01/01-01,Telecommunications service provider fees,Amount of the fee,N/A
+Lend Lease,Lend Lease - MWA,PS-01-01-02/01-01,Pole make ready works,Cost of pole make ready works,N/A
+Lend Lease,Lend Lease - MWA,PS-01-01-03/01-01,Supply and install standard GPO as per design ,Cost of GPO installation,N/A
+Lend Lease,Lend Lease - MWA,PS-01-01-04/01-01,Certification and professional services fees associated with activities not otherwise specified in Activity Scope ,"Amount of the fee
+",N/A
+Lend Lease,Lend Lease - MWA,PS-01-01-05/01-01,Registered Surveyor Works,Amount of the fee,N/A
+Lend Lease,Lend Lease - MWA,PS-01-01-06/01-01,Contaminated Waste Material Removal ,Amount of the fee,N/A
+Lend Lease,Lend Lease - MWA,PS-01-01-07/01-01,Traffic Control - All costs associated with the hire of professional traffic control units,Amount of the fee,N/A
+Lend Lease,Lend Lease - MWA,PS-01-01-08/01-01,Local Authority Charges,Amount of the fee,N/A
+Lend Lease,Lend Lease - MWA,PS-01-01-09/01-01,Council breakout and reinstatement,Amount of the fee,N/A
+Lend Lease,Lend Lease - MWA,PS-01-01-10/01-01,Construction works in building not contained within the Activity Scope,Cost of the works and fees,N/A
+Lend Lease,Lend Lease - MWA,PS-01-01-11/01-01,Aerial pole replacement,Amount of the fee,N/A
+Lend Lease,Lend Lease - MWA,PS-01-01-12/01-01,Third party aerial design management fees,Amount of the fee,N/A
+Lend Lease,Lend Lease - MWA,PS-01-01-13/01-01,Supply and install electricity connection as per design,Amount of the fee,QUOTE
+Lend Lease,Lend Lease - MWA,SD-01-01-01/01-01,"Extra over rate for the supply and install of new lead-in pipe, minimum charge 6 metres route length, by any means",Per linear metre, $	30.00 
+Lend Lease,Lend Lease - MWA,SD-01-01-02/01-01,Extra over rate for supply and installation of an raiser pole on a building.,Per raiser pole, $	70.00 
+Lend Lease,Lend Lease - MWA,SD-01-01-03/01-01,Supply and install of Y connectors ,Per Y connector , $	105.00 
+Lend Lease,Lend Lease - MWA,SD-01-01-04/01-01,Supply and install new lead-in starter pipe,Per Starter Pipe, $	80.00 
+Lend Lease,Lend Lease - MWA,SD-01-01-05/01-01,Extra over rate for the supply and install of new lead-in starter pipe greater than 2 meters in length,Per linear metre, $	40.00 
+Lend Lease,Lend Lease - MWA,SD-01-02-01/01-01,Extra over rate to repair lead-in conduit,Per repaired lead-in conduit, $	55.00 
+Lend Lease,Lend Lease - MWA,SD-02-01-01/01-01,Installation of a single service drop sheath on a single span to a single dwelling unit,Per aerial service drop, $	160.00 
+Lend Lease,Lend Lease - MWA,SD-02-01-02/01-01,Extra over rate for additional spans for an aerial service drop to a single dwelling unit,Each additional Span, $	95.00 
+Lend Lease,Lend Lease - MWA,SD-02-01-03/01-01,Installation of service drop sheath underground to a single dwelling unit,Per service drop, $	140.00 
+Lend Lease,Lend Lease - MWA,SD-02-01-04/01-01,Installation of direct service drop sheath underground to a single dwelling unit,Per direct service drop, $	250.00 
+Lend Lease,Lend Lease - MWA,SD-02-02-01/01-01,Replace existing copper aerial lead-in with new copper aerial lead-in to a single dwelling unit,Per existing copper aerial lead-in replaced. Per Span, $	190.00 
+Lend Lease,Lend Lease - MWA,SD-02-02-02/01-01,Installation of aerial copper service drop to a single dwelling unit,Per aerial copper service drop, $	165.00 
+Lend Lease,Lend Lease - MWA,SD-02-02-03/01-01,Installation of non-aerial copper service drop to a single dwelling unit,Per non-aerial copper service drop, $	130.00 
+Lend Lease,Lend Lease - MWA,SD-02-02-04/01-01,Extra over rate for installation of a new copper drop cable in-span to a single dwelling unit,Per in-span Drop, $	120.00 
+Lend Lease,Lend Lease - MWA,TB-01-01-01/01-01,Electrician (inclusive plant and equipment),Per hour,N/A
+Lend Lease,Lend Lease - MWA,TB-01-01-01/01-02,Electrician (inclusive plant and equipment) – outside working hours,Per hour,N/A
+Lend Lease,Lend Lease - MWA,TB-01-01-02/01-01,Fibre Technician (inclusive plant and equipment),Per hour,N/A
+Lend Lease,Lend Lease - MWA,TB-01-01-02/01-02,Fibre Technician (inclusive plant and equipment) – outside working hours,Per hour,N/A
+Lend Lease,Lend Lease - MWA,TB-01-01-03/01-01,Labourer,Per hour,N/A
+Lend Lease,Lend Lease - MWA,TB-01-01-03/01-02,Labourer - outside working hours,Per hour,N/A
+Lend Lease,Lend Lease - MWA,TB-01-01-04/01-01,Plant Operator,Per hour,N/A
+Lend Lease,Lend Lease - MWA,TB-01-01-04/01-02,Plant Operator – outside working hours,Per hour,N/A
+Lend Lease,Lend Lease - MWA,TB-01-01-05/01-01,Advanced pole inspector (inclusive plant and equipment) ,Per hour,N/A
+Lend Lease,Lend Lease - MWA,TB-01-01-05/01-02,Advanced pole inspector (inclusive plant and equipment)  - outside working hours,Per hour,N/A
+Lend Lease,Lend Lease - MWA,TB-01-01-06/01-01,Telecommunication Technician (inclusive plant and equipment) ,Per hour,N/A
+Lend Lease,Lend Lease - MWA,TB-01-01-06/01-02,Telecommunication Technician  (inclusive plant and equipment) - outside working hours,Per hour,N/A
+Lend Lease,Lend Lease - MWA,TB-01-01-07/01-01,Designer,Per hour,N/A
+Lend Lease,Lend Lease - MWA,TB-01-01-07/01-02,Designer - outside working hours,Per hour,N/A
+Lend Lease,Lend Lease - MWA,TB-01-01-08/01-01,Copper Technician (inclusive plant and equipment) ,Per hour,N/A
+Lend Lease,Lend Lease - MWA,TB-01-01-08/01-02,Copper Technician (inclusive plant and equipment) – outside working hours,Per hour,N/A
+Lend Lease,Lend Lease - MWA,TB-02-02-01/01-01,Provision of float charges for the movement of large plant and equipment between work sites,Per km,N/A
+Lend Lease,Lend Lease - MWA,TB-02-02-02/01-01,Single-axle tipper truck 5 tonne load,Per Day,N/A
+Lend Lease,Lend Lease - MWA,TB-02-02-03/01-01,EWP truck mounted up to 12m,Per Day,N/A
+Lend Lease,Lend Lease - MWA,TB-02-02-04/01-01,Fully equipped vehicle for electrical technician,Per Day,N/A
+Lend Lease,Lend Lease - MWA,TB-02-02-05/01-01,Fully equipped vehicle for fibre technician,Per Day,N/A
+Lend Lease,Lend Lease - MWA,TB-02-02-06/01-01,Bobcat with 4-in-1 bucket,Per Day,N/A
+Lend Lease,Lend Lease - MWA,TB-02-02-07/01-01,"Backhoe, JCB3CX or equivalent",Per Day,N/A
+Lend Lease,Lend Lease - MWA,TB-02-02-08/01-01,Excavators up to 10 tonnes,Per Day,N/A
+Lend Lease,Lend Lease - MWA,TB-02-02-09/01-01,Excavators 10 to 15 tonnes,Per Day,N/A
+Lend Lease,Lend Lease - MWA,TB-02-02-10/01-01,Excavators up to 10 tonnes fitted with rock breaker,Per Day,N/A
+Lend Lease,Lend Lease - MWA,TB-02-02-11/01-01,Double-axle tipper truck 9 tonne load,Per Day,N/A
+Lend Lease,Lend Lease - MWA,TB-02-02-12/01-01,Dozer (306 - 400 kw),Per Day,N/A
+Lend Lease,Lend Lease - MWA,TB-02-02-13/01-01,Scissor Lift,Per Day,N/A
+Lend Lease,Lend Lease - MWA,TB-02-02-14/01-01,Vac Truck Hourly Rate,Per Hr,N/A

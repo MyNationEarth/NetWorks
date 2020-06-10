@@ -37,7 +37,7 @@ run
 | useOSTimeZone swap path osName zonename aTimeZone |
 
 swap := true.
-useOSTimeZone := true.
+useOSTimeZone := false.
 
 useOSTimeZone 
   ifTrue: 
@@ -49,7 +49,7 @@ useOSTimeZone
 aTimeZone isNil
   ifTrue:
     [ path := '$GEMSTONE/pub/timezone/usr/share/zoneinfo/'.
-    zonename := 'America/Los_Angeles'.
+    zonename := 'Australia/Sydney'.
     aTimeZone := TimeZone fromGemPath: path, zonename.
     ].
 
