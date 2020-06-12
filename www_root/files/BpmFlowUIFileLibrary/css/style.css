@@ -382,8 +382,8 @@ input[type=search]::-webkit-search-cancel-button {
 }
 .assignment .panel-report .report-row .columns .col, .scheduling .panel-report .report-row .columns .col {
   padding-left: 2px;
-  min-width: 50px;
-  width: 50px;
+  min-width: 60px;
+  width: 60px;
 }
 .assignment .panel-report .report-row .fa, .scheduling .panel-report .report-row .fa {
   opacity: 0.9;
