@@ -3,5 +3,5 @@ fileDirectory
   | localDirectoryName |
   localDirectoryName := (self uri asString startsWith: $/)
     ifFalse: [ self uri ]
-    ifTrue: [ self uri allButFirst ].
+    ifTrue: [ self uri asString allButFirst ].
   ^ (self parentDirectory directoryNamed: localDirectoryName) assureExistence
