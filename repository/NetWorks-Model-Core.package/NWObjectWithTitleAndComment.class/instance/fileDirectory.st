@@ -1,3 +1,3 @@
 file system
 fileDirectory
-  ^ (self parentDirectory directoryNamed: self uri) assureExistence
+  ^ (self parentDirectory directoryNamed: self uri asString) assureExistence
