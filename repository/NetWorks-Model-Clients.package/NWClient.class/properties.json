@@ -6,7 +6,6 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"organisationModel",
 		"mainContactNumber",
 		"contacts",
 		"contracts" ],
