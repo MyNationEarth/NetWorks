@@ -1,3 +1,7 @@
 file system
 fileDirectory
-  ^ (self parentDirectory directoryNamed: self uri asString) assureExistence
+  | localDirectoryName |
+  localDirectoryName := (self uri startsWith: $/)
+    ifFalse: [ self uri ]
+    ifTrue: [ self uri allButFirst ].
+  ^ (self parentDirectory directoryNamed: localDirectoryName) assureExistence
