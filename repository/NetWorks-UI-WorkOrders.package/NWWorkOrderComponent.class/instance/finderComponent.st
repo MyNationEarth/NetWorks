@@ -6,6 +6,7 @@ finderComponent
         (ElFinderLocalFileSystem new
             id: '10';
             alias: 'Construction';
+            canWrite: false;
             osPath: self model job project constructionDirectory pathString;
             url:
                 'http://' , finderComponent organisationModel dnsName , '/server';
@@ -14,6 +15,7 @@ finderComponent
         (ElFinderLocalFileSystem new
             id: '11';
             alias: 'Safety';
+            canWrite: false;
             osPath: self model job project contract safetyDirectory pathString;
             url:
                 'http://' , finderComponent organisationModel dnsName , '/server';

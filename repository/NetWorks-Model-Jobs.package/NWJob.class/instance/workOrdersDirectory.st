@@ -1,3 +1,3 @@
 file system
 workOrdersDirectory
-  ^ (self parentDirectory directoryNamed: 'WorkOrders') assureExistence
+  ^ (self fileDirectory directoryNamed: 'WorkOrders') assureExistence
