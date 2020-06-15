@@ -190,7 +190,7 @@ table.report tbody tr:hover td:last-child, .reportComponent table tbody tr:hover
 }
 .nav-tabs-custom + .form-buttons {
   margin: 0;
-  padding-bottom: 10px;
+  padding-bottom: 24px;
   background-color: white;
 }
 
