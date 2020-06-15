@@ -8,7 +8,8 @@
 	"instvars" : [
 		"volumeGroupName",
 		"baseDirectoryAlias",
-		"baseDirectory" ],
+		"baseDirectory",
+		"volumes" ],
 	"name" : "NWFinderComponent",
 	"pools" : [
 		 ],

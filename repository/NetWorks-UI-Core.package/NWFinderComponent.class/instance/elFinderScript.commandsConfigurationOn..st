@@ -1,6 +1,5 @@
 rendering
 elFinderScript: elFinderScript commandsConfigurationOn: canvas
-  | volumeGroup |
   elFinderScript commands
     archive;
     back;

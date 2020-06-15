@@ -2,14 +2,19 @@
 	"class" : {
 		 },
 	"instance" : {
+		"addVolume:" : "jupiter 06/15/2020 21:35",
 		"baseDirectory" : "jupiter 06/04/2020 17:23",
 		"baseDirectory:" : "jupiter 06/04/2020 17:23",
 		"baseDirectoryAlias" : "jupiter 06/04/2020 17:23",
 		"baseDirectoryAlias:" : "jupiter 06/04/2020 17:23",
-		"elFinderScript:commandsConfigurationOn:" : "jupiter 06/04/2020 17:24",
-		"elFinderScript:connectorConfigurationOn:" : "jupiter 06/04/2020 20:36",
+		"defaultVolume" : "jupiter 06/15/2020 21:49",
+		"elFinderScript:commandsConfigurationOn:" : "jupiter 06/15/2020 21:27",
+		"elFinderScript:connectorConfigurationOn:" : "jupiter 06/15/2020 21:51",
 		"elFinderScriptOn:" : "jupiter 06/04/2020 17:25",
+		"initialize" : "jupiter 06/15/2020 21:36",
+		"initializeVolumes" : "jupiter 06/15/2020 21:38",
 		"renderContentOn:" : "jupiter 06/04/2020 17:25",
 		"updateRoot:" : "jupiter 06/10/2020 09:45",
 		"volumeGroupName" : "jupiter 06/04/2020 17:23",
-		"volumeGroupName:" : "jupiter 06/04/2020 17:24" } }
+		"volumeGroupName:" : "jupiter 06/04/2020 17:24",
+		"volumes" : "jupiter 06/15/2020 21:52" } }
