@@ -1,5 +1,3 @@
 descriptions
 commentDescription
-  ^ super commentDescription
-    beReadonly;
-    yourself
+  ^ super commentDescription yourself	"beReadonly;"

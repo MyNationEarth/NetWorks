@@ -1,5 +1,3 @@
 descriptions
 titleDescription
-  ^ super titleDescription
-    beReadonly;
-    yourself
+  ^ super titleDescription yourself	"beReadonly;"

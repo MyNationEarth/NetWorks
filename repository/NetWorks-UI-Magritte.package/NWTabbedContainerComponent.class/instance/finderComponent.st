@@ -1,5 +1,6 @@
 components
 finderComponent
+  self ensureFileSystem.
   ^ self
     componentAt: #'finder'
     ifAbsentPut: [ 
