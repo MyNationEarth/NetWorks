@@ -10,6 +10,8 @@ add
     onAnswer: [ :result | 
       result isNil
         ifFalse: [ 
+          result class ~= self selected class
+            ifFalse: [ self halt ].
           self
             value: (self value copyWith: result);
             refresh.
