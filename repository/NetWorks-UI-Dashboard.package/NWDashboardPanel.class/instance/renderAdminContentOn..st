@@ -6,7 +6,9 @@ renderAdminContentOn: canvas
   canvas tbsRow
     with: [ 
       self renderProjectsInfoBoxOn: canvas.
-      self renderProjectsCompletedThisMonthBoxOn: canvas ].
+      self renderProjectsCompletedThisMonthBoxOn: canvas.
+      self renderProjectsAwardedThisMonthBoxOn: canvas.
+      self renderProjectsDesignApprovedThisMonthBoxOn: canvas ].
   canvas heading
     level4;
     with: 'Charts'.
