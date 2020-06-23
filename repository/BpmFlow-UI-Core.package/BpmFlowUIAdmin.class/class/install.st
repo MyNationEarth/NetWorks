@@ -8,8 +8,7 @@ install
     attributeAt: #'exceptionHandler'.
   filter configuration
     takeValue: NWProductionWalkbackErrorHandler
-    forAttribute: exceptionHandlerAttribute.
-  application addFilter: filter.
+    forAttribute: exceptionHandlerAttribute.	"application addFilter: filter."
   application
     addLibrary: JQDevelopmentLibrary;
     addLibrary: JQUiDevelopmentLibrary;
