@@ -6,7 +6,9 @@ jobsDescription
   ^ NWToManyRelationDescription new
     accessor: #'jobs';
     classes: {NWJob};
-    reference: template titleDescription , template commentDescription;
+    reference:
+        template titleDescription , template commentDescription
+            , template assignmentInformationDescription;
     label: 'Jobs';
     priority: 400;
     yourself
