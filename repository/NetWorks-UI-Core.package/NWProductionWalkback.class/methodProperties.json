@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initializeWithException:continuation:" : "jupiter 06/23/2020 21:55",
+		"packagesFromPackageNames:" : "jupiter 06/23/2020 22:24",
+		"packagesInfoStringFrom:" : "jupiter 06/23/2020 22:24",
+		"renderButtonsOn:" : "jupiter 06/23/2020 22:46",
+		"renderContentOn:" : "jupiter 06/23/2020 22:42",
+		"renderErrorInformationOn:" : "jupiter 06/23/2020 23:01",
+		"renderMainMessageOn:" : "jupiter 06/23/2020 21:56",
+		"sessionDescriptionDictionaryForSessionId:" : "jupiter 06/23/2020 22:23",
+		"shouldRenderButtons:" : "jupiter 06/23/2020 21:55",
+		"updateRoot:" : "jupiter 06/23/2020 21:56" } }

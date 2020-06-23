@@ -2,7 +2,7 @@ rendering
 elFinderScript: elFinderScript connectorConfigurationOn: canvas
   | volumeGroup |
   elFinderScript connector
-    debug: true;
+    debug: false;
     uploadTempPath: self organisationModel tempUploadDirectory pathString;
     addRoot:
         (volumeGroup := ElFinderVolumeGroup new

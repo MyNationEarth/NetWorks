@@ -5,7 +5,7 @@ elFinderScriptOn: canvas
     defaultIconsView;
     cssClass: 'elFinder';
     language: 'en';
-    debug: true;
+    debug: false;
     yourself.
   self
     elFinderScript: elFinderScript commandsConfigurationOn: canvas;
