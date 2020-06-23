@@ -7,13 +7,13 @@ buildJobs
     do: [ :row | 
       row notEmpty
         ifTrue: [ 
-          | client rateCard project job lineItemType designQuantity contractors lineItem |
+          | contract rateCard project job lineItemType designQuantity contractors lineItem |
           row
-            at: #'client'
+            at: #'contract'
             ifPresent: [ :value | 
-              client := organisationModel clients
+              contract := organisationModel contracts
                 detect: [ :i | i title = (self cleanString: value) ]
-                ifNone: [ ^ Error raiseSignal: 'Job Import: No Client found for title: "' , value , '"' ] ].
+                ifNone: [ ^ Error raiseSignal: 'Job Import: No Contract found for title: "' , value , '"' ] ].
           row
             at: #'rateCard'
             ifPresent: [ :value | 
@@ -33,7 +33,7 @@ buildJobs
                     add:
                       (NWProject new
                         title: (self cleanString: value);
-                        client: client;
+                        contract: contract;
                         yourself) ] ].
           row
             at: #'job'
