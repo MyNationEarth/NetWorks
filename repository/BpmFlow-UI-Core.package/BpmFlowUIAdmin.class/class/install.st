@@ -1,8 +1,15 @@
 setup
 install
-  | application |
+  | application filter exceptionHandlerAttribute |
   application := WAAdmin register: BpmFlowUI asApplicationAt: 'BpmFlowUI'.
   application preferenceAt: #'sessionClass' put: BpmFlowUISession.
+  filter := WAExceptionFilter new.
+  exceptionHandlerAttribute := filter configuration
+    attributeAt: #'exceptionHandler'.
+  filter configuration
+    takeValue: NWProductionWalkbackErrorHandler
+    forAttribute: exceptionHandlerAttribute.
+  application addFilter: filter.
   application
     addLibrary: JQDevelopmentLibrary;
     addLibrary: JQUiDevelopmentLibrary;
