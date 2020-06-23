@@ -5,5 +5,4 @@ unitOfMeasureDescription
     accessor: #'unitOfMeasure';
     label: 'Unit of Measure';
     priority: 300;
-    beReadonly;
     yourself
