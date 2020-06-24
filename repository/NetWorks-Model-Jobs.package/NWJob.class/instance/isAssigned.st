@@ -1,3 +1,3 @@
 testing
 isAssigned
-  ^ self unassignedWorkOrders isEmpty
+  ^ self unassignedLineItems isEmpty

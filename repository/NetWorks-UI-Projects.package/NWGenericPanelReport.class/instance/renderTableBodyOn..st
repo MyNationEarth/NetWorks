@@ -34,7 +34,7 @@ renderTableBodyOn: html
               itemDiv
                 script:
                   (html jQuery new draggable
-                    helper: 'clone';
+                    helper: (self dragableHelperOn: html row: row);
                     handle: '.icon';
                     opacity: 0.5;
                     delay: 150;

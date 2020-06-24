@@ -3,12 +3,7 @@ assignmentInformationString
   "Answer a string with information about my assignment. 7/10 assigned to Contractor, Contractor"
 
   | assignments assignedLineItems contractors |
-  assignments := self lineItems
-    inject: Set new
-    into: [ :result :lineItem | 
-      result
-        addAll: lineItem assignments;
-        yourself ].
+  assignments := self assignments.
   assignedLineItems := (assignments
     collect: [ :workOrderLineItem | workOrderLineItem jobLineItem ]) asSet.
   contractors := (assignments
