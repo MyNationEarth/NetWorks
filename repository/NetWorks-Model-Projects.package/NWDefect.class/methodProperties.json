@@ -3,8 +3,10 @@
 		"defectCounter" : "jupiter 04/19/2020 14:00",
 		"initializeDefectCounter" : "jupiter 04/19/2020 14:04" },
 	"instance" : {
+		"afterDirectory" : "jupiter 06/25/2020 11:10",
 		"backReference:" : "jupiter 04/26/2020 16:36",
 		"backReferenceAfterCommit:" : "jupiter 04/30/2020 22:52",
+		"beforeDirectory" : "jupiter 06/25/2020 11:10",
 		"changeUriFrom:to:" : "jupiter 06/17/2020 11:29",
 		"classification" : "jupiter 04/20/2020 16:15",
 		"classification:" : "jupiter 04/20/2020 16:15",
@@ -23,6 +25,7 @@
 		"daysFromRaisedToClosedDescription" : "jupiter 04/25/2020 19:16",
 		"daysfromRaisedToClosed" : "jupiter 04/25/2020 19:16",
 		"descriptionContainer" : "jupiter 04/19/2020 15:10",
+		"ensureFileSystem" : "jupiter 06/25/2020 11:12",
 		"evidenceComment" : "jupiter 04/25/2020 18:45",
 		"evidenceComment:" : "jupiter 04/25/2020 18:45",
 		"evidenceCommentDescription" : "jupiter 04/25/2020 19:21",
