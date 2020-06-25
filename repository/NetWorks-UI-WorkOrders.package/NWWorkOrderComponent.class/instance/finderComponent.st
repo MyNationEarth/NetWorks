@@ -7,6 +7,7 @@ finderComponent
             id: '10';
             alias: 'Construction';
             canWrite: false;
+            locked: true;
             osPath: self model job project constructionDirectory pathString;
             url:
                 'http://' , finderComponent organisationModel dnsName , '/server';
@@ -16,6 +17,7 @@ finderComponent
             id: '11';
             alias: 'Safety';
             canWrite: false;
+            locked: true;
             osPath: self model job project contract safetyDirectory pathString;
             url:
                 'http://' , finderComponent organisationModel dnsName , '/server';
