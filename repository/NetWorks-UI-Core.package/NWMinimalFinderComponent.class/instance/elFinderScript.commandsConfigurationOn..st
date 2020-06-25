@@ -1,7 +1,6 @@
 rendering
 elFinderScript: elFinderScript commandsConfigurationOn: canvas
   elFinderScript ui
-    toolbar;
     path;
     stat.
   elFinderScript commands

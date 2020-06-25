@@ -6,6 +6,6 @@ photosAfterComponent
     ifAbsentPut: [ 
       NWMinimalFinderComponent new
         volumeGroupName: (self model readUsing: self model titleDescription);
-        baseDirectoryAlias: [ 'Photos After' ];
+        baseDirectoryAlias: [ 'Photos-After' ];
         baseDirectory: [ self model afterDirectory ];
         yourself ]
