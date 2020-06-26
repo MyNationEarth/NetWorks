@@ -11,6 +11,7 @@ jobListComponent
         wrapperClass: 'jobsList';
         items: self project jobs;
         enableSearch;
+        selectAllNoneToggle: true;
         addFilter:
             (NWGenericPanelFilter new
                 label: 'All';

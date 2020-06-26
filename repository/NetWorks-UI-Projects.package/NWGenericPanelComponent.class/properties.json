@@ -9,6 +9,8 @@
 		"icon",
 		"title",
 		"hasSearch",
+		"selectAllNoneToggle",
+		"selectToggleText",
 		"wrapperClass",
 		"rowClass",
 		"searchText",
