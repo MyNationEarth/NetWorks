@@ -34,17 +34,21 @@ renderBasicsOn: canvas
       canvas tbsColumn
         smallSize: 6;
         with: [ self renderDescriptionsWithLabels: #('Defect Description') on: canvas ].
-      canvas tbsColumn
-        smallSize: 6;
-        with: [ canvas render: self photosBeforeComponent ] ].
+      self model project
+        ifNotNil: [ 
+          canvas tbsColumn
+            smallSize: 6;
+            with: [ canvas render: self photosBeforeComponent ] ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 6;
         with: [ self renderDescriptionsWithLabels: #('Rectification Comment') on: canvas ].
-      canvas tbsColumn
-        smallSize: 6;
-        with: [ canvas render: self photosAfterComponent ] ].
+      self model project
+        ifNotNil: [ 
+          canvas tbsColumn
+            smallSize: 6;
+            with: [ canvas render: self photosAfterComponent ] ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn
