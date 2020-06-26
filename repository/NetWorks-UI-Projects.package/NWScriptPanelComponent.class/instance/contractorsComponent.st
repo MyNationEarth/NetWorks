@@ -10,6 +10,7 @@ contractorsComponent
         title: 'Contractors';
         wrapperClass: 'contractors';
         dropScope: 'contractor';
+        selectAllNoneToggle: true;
         items: self organisationModel contractors;
         reportColumns: template titleDescription , template commentDescription;
         subscribe: NWObjectsClicked
