@@ -34,7 +34,6 @@ renderBasicsOn: canvas
                               (canvas tag: 'i')
                                 fontAwesome;
                                 fontAwesomeFileIcon ].
-                          canvas text: 'Export Stock on Hand Spreadsheet' ] ] ].
-      canvas tbsColumn
+                          canvas text: 'Export Stock on Hand Spreadsheet' ] ] ]	"canvas tbsColumn
         smallSize: 6;
-        with: [ self renderMaterialsOnHandImportOn: canvas ] ]
+        with: [ self renderMaterialsOnHandImportOn: canvas ]" ]

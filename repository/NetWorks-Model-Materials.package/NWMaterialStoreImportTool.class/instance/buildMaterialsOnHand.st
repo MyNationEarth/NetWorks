@@ -12,14 +12,17 @@ buildMaterialsOnHand
             ifNone: [ 
               | material |
               "Add material to store"
-              material := NetWorks instance organisationModels values first
-                materials detect: [ :m | m title = title ].
-              materialsOnHand
-                add:
-                  (NWMaterialOnHand new
-                    materialStore: materialStore;
-                    material: material;
-                    yourself) ])
+              material := NWCurrentOrganisationModel value materials
+                detect: [ :m | m title = title ]
+                ifNone: [ nil ].
+              material
+                ifNotNil: [ 
+                  materialsOnHand
+                    add:
+                      (NWMaterialOnHand new
+                        materialStore: materialStore;
+                        material: material;
+                        yourself) ] ])
             ifNotNil: [ :materialOnHand | 
               materialOnHand
                 ifNotNil: [ 

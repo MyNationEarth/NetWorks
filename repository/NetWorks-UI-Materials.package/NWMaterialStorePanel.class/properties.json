@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"importMaterialStore" ],
 	"name" : "NWMaterialStorePanel",
 	"pools" : [
 		 ],
