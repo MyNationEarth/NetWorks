@@ -6,7 +6,6 @@ renderContentOn: html
     script:
         (html jQuery new selectable
             filter: '.report-row';
-            cancel: '.ui-selected';
             onStop:
                 (html jQuery ajax
                     callback: [ :value | selectedItems := OrderedCollection withAll: value asSet ]
