@@ -3,4 +3,6 @@ ensureFileSystem
   "Create any directories that may need creating"
 
   super ensureFileSystem.
-  self insurancesDirectory
+  self
+    insurancesDirectory;
+    invoicesDirectory

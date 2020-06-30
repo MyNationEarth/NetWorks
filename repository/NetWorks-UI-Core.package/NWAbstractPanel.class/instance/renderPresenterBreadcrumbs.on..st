@@ -8,7 +8,7 @@ renderPresenterBreadcrumbs: crumbs on: canvas
               canvas anchor
                 callback: [ 
                       crumb ~~ crumbs last
-                        ifTrue: [ ((crumbs at: index + 1) at: #'presenter') answer ] ];
+                        ifTrue: [ ((crumbs at: index + 1) at: #'presenter') cancel ] ];
                 with: [ 
                       (canvas tag: 'i')
                         fontAwesome;
