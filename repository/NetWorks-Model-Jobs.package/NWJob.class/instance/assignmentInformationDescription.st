@@ -1,7 +1,6 @@
 descriptions
 assignmentInformationDescription
-  "<magritteDescription>"
-
+  <magritteDescription>
   ^ MAStringDescription new
     accessor: #'assignmentInformationString';
     label: 'Assignments';
