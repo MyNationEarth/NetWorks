@@ -4,7 +4,7 @@ installFiveSmithsRateCards
   basePath := self rateCardImportBasePathFiveSmiths.
   (NetWorks instance organisationModels at: #'5smiths.com.au') rateCards.
   importTool := NWFiveSmithsRateCardImportTool
-    onFileAtPath: basePath , 'Rate Card - Downer - Fusion.csv'.
+    onFileAtPath: basePath , '2KEL-01 Import.csv'.
   importTool setDebug.
   rateCards := importTool import values.
   NetWorks fiveSmiths rateCards addAll: rateCards copy
