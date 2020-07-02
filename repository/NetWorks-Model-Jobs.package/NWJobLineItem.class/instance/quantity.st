@@ -1,3 +1,3 @@
 Accessing
 quantity
-	^quantity
+  ^ quantity ifNil: [ 0 ]

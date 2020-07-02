@@ -1,3 +1,3 @@
 Accessing
 quantityComplete
-	^quantityComplete
+  ^ quantityComplete ifNil: [ 0 ]
