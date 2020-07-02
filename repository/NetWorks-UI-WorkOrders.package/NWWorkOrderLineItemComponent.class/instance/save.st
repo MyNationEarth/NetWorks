@@ -1,6 +1,8 @@
 actions
 save
   | template qtyComplete qty |
+  self validate
+    ifFalse: [ ^ self ].
   self memento hasChanged
     ifFalse: [ super save ]
     ifTrue: [ 
