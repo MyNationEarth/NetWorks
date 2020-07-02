@@ -5,9 +5,10 @@ save
     ifFalse: [ super save ]
     ifTrue: [ 
       template := NWWorkOrderLineItem new.
-      (qtyComplete := self memento
-        readUsing: template quantityCompleteDescription)
-        > (qty := self memento readUsing: template quantityDescription)
+      (qtyComplete := (self memento
+        readUsing: template quantityCompleteDescription) ifNil: [ 0 ])
+        >
+          (qty := (self memento readUsing: template quantityDescription) ifNil: [ 0 ])
         ifFalse: [ super save ]
         ifTrue: [ 
           self
