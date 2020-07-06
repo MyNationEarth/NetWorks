@@ -37,7 +37,7 @@ renderProjectTimelineChartScriptOn: canvas
               json:
                 (JSStream
                   on:
-                    'new Array(event.point.category.toLocaleDateString(),event.point.series.name)');
+                    'new Array(new Intl.DateTimeFormat("en-AU").format(event.point.category),event.point.series.name)');
             script: [ :script | script refresh ];
             asFunction: #('event')) ].
   allSeries
