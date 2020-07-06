@@ -50,6 +50,7 @@ buildCategoriesAndRates
               | newRateCard |
               newRateCard := self newRateCardWithDefaultCategory.
               newRateCard title: contract title , ' Rate Card'.
+              newRateCard rateCardType: 'Client'.
               newRateCard
                 comment:
                   'Rate card imported on ' , Date today AustralianDateFormat.

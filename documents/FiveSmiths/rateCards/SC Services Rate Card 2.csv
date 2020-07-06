@@ -1,85 +1,85 @@
 Customer,Contract ,Item Code,Item Name,Unit of Measure (UoM),Rate
-SC Services,,A11306,"Setup, test, comm of 1st fibre - OO-8a1
-Setup and test and commissioning of first fibre on single run/cable",, $	408.10 
-SC Services,,A11308,"Test & Comm of 2nd etc Fibres - OO-8a2
-Test and commissioning of 2nd and subsequent fibres on single run/cable",, $	20.22 
-SC Services,,W11300,"Install } 60 fibre COFTU - OO-11a2
+SC Services,SC Services,A11306,"Setup, test, comm of 1st fibre - OO-8a1
+Setup and test and commissioning of first fibre on single run/cable",,$408.10
+SC Services,SC Services,A11308,"Test & Comm of 2nd etc Fibres - OO-8a2
+Test and commissioning of 2nd and subsequent fibres on single run/cable",,$20.22
+SC Services,SC Services,W11300,"Install } 60 fibre COFTU - OO-11a2
 Install greater than 60 fibre COFTU (DE)",, $	-   
-SC Services,,W11302,Install COFTU - Install up to 60 Fibre COFTU,, $	300.00 
-SC Services,,W11306,Setup/Test/Commission - Setup and test and commissioning of first fibre on a single run,, $	408.10 
-SC Services,,W11313,"Supply install 2nd etc pigtail - OO-6e3
-Supply and install 2nd and subsequent pigtail/corded fibre/patch lead (extra over to OO-6e1)",, $	28.06 
-SC Services,,W11314,"Remove single pigtail - OO-6e2
-Remove single pigtail/corded fibre/patch lead at any single location",, $	24.97 
-SC Services,,W11316,"Supply Install Single Pigtail - OO-6e1
-Supply and install single pigtail/corded fibre/patch lead at any single location",, $	80.04 
-SC Services,,W11319,"Install & prep addn'l } 60 - OO-5j3
-Install and prepare additional optic fibre cable into existing joint greater than 60 fibre",, $	150.75 
-SC Services,,W11320,"Install & prep addn'l up to 60 - OO-5j2
-Install and prepare additional optic fibre cable into existing joint up to 25-60 fibre",, $	118.78 
-SC Services,,W11321,"Install & prep addn'l up to 24 - OO-5j1
-Install and prepare additional optic fibre cable into existing joint up to 24 fibre",, $	114.21 
-SC Services,,W11322,"UCNCP 9-28 w/ loose TT  - OO-5h
-UCNCP 9-28 closure with loose tube tray",, $	575.02 
-SC Services,,W11323,"UCNCP 9-24 w/o loose TT - OO-5g
-UCNCP 9-24 closure with no loose tube tray",, $	402.40 
-SC Services,,W11324,"Fibre Splicing - OO-4b1 
-Fibre Splicing (DE)",, $	18.49 
-SC Services,,W11353,"UCNCP 9-24 closure w/loose TT - OO-5f
-UCNCP 9-24 closure with loose tube tray",, $	492.48 
-SC Services,,W11354,"UCNCP 9-28 w/o loose TT - OO-5i
-UCNCP 9-28 closure with no loose tube tray",, $	762.20 
-SC Services,,W12039,Haul Optical Fibre,, $	2.80 
-SC Services,,W12041,"Remove 2nd etc pigtail - OO-6e4
-Remove 2nd and subsequent pigtail/corded fibre/patch lead (extra over OO-6e2)",, $	9.54 
-SC Services,,W12299,Install (HDODF)OMF/OFF to OEF - Install (HDODF)OMF/OFF to OEF Terminal Units- 72 fibre (DE),, $	175.00 
-SC Services,,W12490,Supply Install flex conduit - Supply and install of flexible conduit (core flex),, $	8.50 
-SC Services,,W1270,Splicing fibre to fibre - Splicing fibre to fibre (DE)-(4ties x 72F x 2ends),, $	9.50 
-SC Services,,W12924,Prep for running cables - Preparation for running cables at Exchange or Network Sites (DE),, $	125.00 
-SC Services,,W12925,Inter & Intra floor optical - Inter & intra floor optical fibre cable runs up to 60 metres at Exchange or Network Sites  (DE),, $	115.00 
-SC Services,,W4996,"Enter and Reseal Joint - CC-9b1 
-Enter and reseal UC/UCNP/FIST joint closure",, $	89.80 
-SC Services,,W5076,"Rod, Rope and Prove",, $	1.15 
-SC Services,,W5202,Rod and Rope ceiling/underfloo,, $	1.99 
-SC Services,,W5204,"Haul { 100 pair ceiling/floor - DD-9b1
-Haul smaller than or equal to 100 pair or optical fibre in ceiling or floor space (DE)",, $	3.35 
-SC Services,,W5205,"Haul } 100 pair ceiling/floor - DD-9b2
-Haul larger than 100 pair cable in ceiling or floor space (DE)",, $	4.69 
-SC Services,,W5206,"Haul { 100 pair in riser shaft - DD-9b3
-Haul smaller than or equal to 100 pair cable or optical fibre in riser shaft (DE)",, $	3.64 
-SC Services,,W5207,"Haul } 100 pair in riser shaft - DD-9b4
-Haul larger than 100 pair cable or optical fibre in riser shaft (DE)",, $	4.61 
-SC Services,,W5212,"Cable rack/support { 100 pair - DD-9d1
-Cable rack/support in building up to 100 pair cable and optical fibre (DE)",, $	1.99 
-SC Services,,W5278,Rectify blockage {=50mm - Rectify blockage {=50mm diameter by 2000mm long up to 1000mm deep,, $	250.00 
-SC Services,,W5438,Locate Buried Manholes etc,, $	48.84 
-SC Services,,W5701,OFTU - 61-120F,, $	-   
-SC Services,,W5709,RR Conduit and Install Fibre,, $	3.05 
-SC Services,,W5734,"Supply and Fit Fibre Enclosure - OO-5a 
-Supply and fit optical fibre enclosure (24 fibre)",, $	153.66 
-SC Services,,W5735,"Supply & Fit Egerton 24/72 - OO-5b
-Supply & fit Egerton 24/72 single ended closure",, $	245.23 
-SC Services,,W5736,"Supply & Fit UCNP 7-10 - OO-5c
-Supply & fit UCNP 7-10 closure",, $	420.02 
-SC Services,,W5737,"Supply & Fit UCNP 7-20 - OO-5d
-Supply & fit UCNP 7-20 closure",, $	454.25 
-SC Services,,W5738,"Supply & Fit UCNP 9-30 - OO-5e
-Supply & fit UCNP 9-30 closure",, $	736.93 
-SC Services,,W5739,"Optical Fibre Terminal Unit{24 - OO-6a
-Optical fibre terminal unit - up to 24 fibres (max) W2167",, $	266.15 
-SC Services,,W5741,OFTU - 61- 120F,, $	520.00 
-SC Services,,W5851,"Labourer incl Operator Spotter - ZZ-1a1
-Labourer including operators spotters eg Deep m/holes 2nd staff for Syd/Melb tunnel system",, $	34.20 
-SC Services,,W5852,"Jointer (Fully Equipped) - ZZ-1a2
-Jointer (fully equipped including vehicle)",, $	41.84 
-SC Services,,W5853,"E/O for Jointer (Fully Equip) - ZZ-1a3
-E/O for jointers (fully equipped, including vechicle) - out of hours rate",, $	20.92 
-SC Services,,W5854,"E/O for Labourer out of hours - ZZ-1a4
-E/O for labourer - out of hours rate used as per (a) 3",, $	17.10 
-SC Services,,W5855,"Technician (Fully Equipped) - ZZ-1a5
-Technician (fully equipped including vehicle)",, $	43.78 
-SC Services,,W5856,"E/O for Tech (Fully Equipped) - ZZ-1a6
-E/O for technician (fully equipped including vehicle) E/O OTime",, $	21.90 
-SC Services,,W5875,ZZ-3b Travel per km - Install 72F subrack (hi capacity),, $	324.00 
-SC Services,,W7798,"Install Rach SDH Type 92A,B,C, - Install Rach SDH Type 92A, B, C, E, F, H, J Type 04A,B and Type O4E (DE)",, $	160.00 
-SC Services,,WoS,Work outside of scope fee,, $	-   
+SC Services,SC Services,W11302,Install COFTU - Install up to 60 Fibre COFTU,,$300.00
+SC Services,SC Services,W11306,Setup/Test/Commission - Setup and test and commissioning of first fibre on a single run,,$408.10
+SC Services,SC Services,W11313,"Supply install 2nd etc pigtail - OO-6e3
+Supply and install 2nd and subsequent pigtail/corded fibre/patch lead (extra over to OO-6e1)",,$28.06
+SC Services,SC Services,W11314,"Remove single pigtail - OO-6e2
+Remove single pigtail/corded fibre/patch lead at any single location",,$24.97
+SC Services,SC Services,W11316,"Supply Install Single Pigtail - OO-6e1
+Supply and install single pigtail/corded fibre/patch lead at any single location",,$80.04
+SC Services,SC Services,W11319,"Install & prep addn'l } 60 - OO-5j3
+Install and prepare additional optic fibre cable into existing joint greater than 60 fibre",,$150.75
+SC Services,SC Services,W11320,"Install & prep addn'l up to 60 - OO-5j2
+Install and prepare additional optic fibre cable into existing joint up to 25-60 fibre",,$118.78
+SC Services,SC Services,W11321,"Install & prep addn'l up to 24 - OO-5j1
+Install and prepare additional optic fibre cable into existing joint up to 24 fibre",,$114.21
+SC Services,SC Services,W11322,"UCNCP 9-28 w/ loose TT  - OO-5h
+UCNCP 9-28 closure with loose tube tray",,$575.02
+SC Services,SC Services,W11323,"UCNCP 9-24 w/o loose TT - OO-5g
+UCNCP 9-24 closure with no loose tube tray",,$402.40
+SC Services,SC Services,W11324,"Fibre Splicing - OO-4b1 
+Fibre Splicing (DE)",,$18.49
+SC Services,SC Services,W11353,"UCNCP 9-24 closure w/loose TT - OO-5f
+UCNCP 9-24 closure with loose tube tray",,$492.48
+SC Services,SC Services,W11354,"UCNCP 9-28 w/o loose TT - OO-5i
+UCNCP 9-28 closure with no loose tube tray",,$762.20
+SC Services,SC Services,W12039,Haul Optical Fibre,,$2.80
+SC Services,SC Services,W12041,"Remove 2nd etc pigtail - OO-6e4
+Remove 2nd and subsequent pigtail/corded fibre/patch lead (extra over OO-6e2)",,$9.54
+SC Services,SC Services,W12299,Install (HDODF)OMF/OFF to OEF - Install (HDODF)OMF/OFF to OEF Terminal Units- 72 fibre (DE),,$175.00
+SC Services,SC Services,W12490,Supply Install flex conduit - Supply and install of flexible conduit (core flex),,$8.50
+SC Services,SC Services,W1270,Splicing fibre to fibre - Splicing fibre to fibre (DE)-(4ties x 72F x 2ends),,$9.50
+SC Services,SC Services,W12924,Prep for running cables - Preparation for running cables at Exchange or Network Sites (DE),,$125.00
+SC Services,SC Services,W12925,Inter & Intra floor optical - Inter & intra floor optical fibre cable runs up to 60 metres at Exchange or Network Sites  (DE),,$115.00
+SC Services,SC Services,W4996,"Enter and Reseal Joint - CC-9b1 
+Enter and reseal UC/UCNP/FIST joint closure",,$89.80
+SC Services,SC Services,W5076,"Rod, Rope and Prove",,$1.15
+SC Services,SC Services,W5202,Rod and Rope ceiling/underfloo,,$1.99
+SC Services,SC Services,W5204,"Haul { 100 pair ceiling/floor - DD-9b1
+Haul smaller than or equal to 100 pair or optical fibre in ceiling or floor space (DE)",,$3.35
+SC Services,SC Services,W5205,"Haul } 100 pair ceiling/floor - DD-9b2
+Haul larger than 100 pair cable in ceiling or floor space (DE)",,$4.69
+SC Services,SC Services,W5206,"Haul { 100 pair in riser shaft - DD-9b3
+Haul smaller than or equal to 100 pair cable or optical fibre in riser shaft (DE)",,$3.64
+SC Services,SC Services,W5207,"Haul } 100 pair in riser shaft - DD-9b4
+Haul larger than 100 pair cable or optical fibre in riser shaft (DE)",,$4.61
+SC Services,SC Services,W5212,"Cable rack/support { 100 pair - DD-9d1
+Cable rack/support in building up to 100 pair cable and optical fibre (DE)",,$1.99
+SC Services,SC Services,W5278,Rectify blockage {=50mm - Rectify blockage {=50mm diameter by 2000mm long up to 1000mm deep,,$250.00
+SC Services,SC Services,W5438,Locate Buried Manholes etc,,$48.84
+SC Services,SC Services,W5701,OFTU - 61-120F,, $	-   
+SC Services,SC Services,W5709,RR Conduit and Install Fibre,,$3.05
+SC Services,SC Services,W5734,"Supply and Fit Fibre Enclosure - OO-5a 
+Supply and fit optical fibre enclosure (24 fibre)",,$153.66
+SC Services,SC Services,W5735,"Supply & Fit Egerton 24/72 - OO-5b
+Supply & fit Egerton 24/72 single ended closure",,$245.23
+SC Services,SC Services,W5736,"Supply & Fit UCNP 7-10 - OO-5c
+Supply & fit UCNP 7-10 closure",,$420.02
+SC Services,SC Services,W5737,"Supply & Fit UCNP 7-20 - OO-5d
+Supply & fit UCNP 7-20 closure",,$454.25
+SC Services,SC Services,W5738,"Supply & Fit UCNP 9-30 - OO-5e
+Supply & fit UCNP 9-30 closure",,$736.93
+SC Services,SC Services,W5739,"Optical Fibre Terminal Unit{24 - OO-6a
+Optical fibre terminal unit - up to 24 fibres (max) W2167",,$266.15
+SC Services,SC Services,W5741,OFTU - 61- 120F,,$520.00
+SC Services,SC Services,W5851,"Labourer incl Operator Spotter - ZZ-1a1
+Labourer including operators spotters eg Deep m/holes 2nd staff for Syd/Melb tunnel system",,$34.20
+SC Services,SC Services,W5852,"Jointer (Fully Equipped) - ZZ-1a2
+Jointer (fully equipped including vehicle)",,$41.84
+SC Services,SC Services,W5853,"E/O for Jointer (Fully Equip) - ZZ-1a3
+E/O for jointers (fully equipped, including vechicle) - out of hours rate",,$20.92
+SC Services,SC Services,W5854,"E/O for Labourer out of hours - ZZ-1a4
+E/O for labourer - out of hours rate used as per (a) 3",,$17.10
+SC Services,SC Services,W5855,"Technician (Fully Equipped) - ZZ-1a5
+Technician (fully equipped including vehicle)",,$43.78
+SC Services,SC Services,W5856,"E/O for Tech (Fully Equipped) - ZZ-1a6
+E/O for technician (fully equipped including vehicle) E/O OTime",,$21.90
+SC Services,SC Services,W5875,ZZ-3b Travel per km - Install 72F subrack (hi capacity),,$324.00
+SC Services,SC Services,W7798,"Install Rach SDH Type 92A,B,C, - Install Rach SDH Type 92A, B, C, E, F, H, J Type 04A,B and Type O4E (DE)",,$160.00
+SC Services,SC Services,WoS,Work outside of scope fee,, $	-   

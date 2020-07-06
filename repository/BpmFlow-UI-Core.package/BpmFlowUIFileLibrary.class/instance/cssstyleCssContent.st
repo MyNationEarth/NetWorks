@@ -192,8 +192,11 @@ table.report tbody tr:hover td:last-child, .reportComponent table tbody tr:hover
 }
 .nav-tabs-custom + .form-buttons {
   margin: 0;
+  margin-left: -15px;
+  padding-left: 16px;
   padding-bottom: 24px;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.85);
+  z-index: 9999;
 }
 
 .box-footer .buttons {
@@ -475,8 +478,9 @@ input[type=search]::-webkit-search-cancel-button {
 
 /* Calendar  */
 #calendar {
-  height: 400px;
+  height: 500px;
   width: 100%;
+  padding: 16px;
   font-size: 0.85em;
 }
 #calendar h2 {
@@ -487,24 +491,27 @@ input[type=search]::-webkit-search-cancel-button {
   z-index: 10;
 }
 
+/*
 .calendar {
-  margin: 0 0 60px 0;
+	margin: 0 0 60px 0;
+    td {
+        text-align:right;
+        border-right: 1px solid rgba(0,0,0,0.05);
+
+        a {
+            background-image: linear-gradient(rgb(66, 139, 202) 0%, rgb(53, 126, 189) 100%);
+			color: white;
+            padding: 2px;
+            text-align: left;
+        }
+        & a:hover {
+            background-color: rgba(0,0,0,0.05);
+            background-image: none;
+			color: black;
+        }
+    }
 }
-.calendar td {
-  text-align: right;
-  border-right: 1px solid rgba(0, 0, 0, 0.05);
-}
-.calendar td a {
-  background-image: linear-gradient(#428bca 0%, #357ebd 100%);
-  color: white;
-  padding: 2px;
-  text-align: left;
-}
-.calendar td a:hover {
-  background-color: rgba(0, 0, 0, 0.05);
-  background-image: none;
-  color: black;
-}
+*/
 
 /*# sourceMappingURL=style.css.map */
 '

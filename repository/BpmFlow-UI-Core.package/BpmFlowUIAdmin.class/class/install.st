@@ -18,7 +18,7 @@ install
     addLibrary: JQSlimScrollLibrary;
     addLibrary: AdminLTEFileLibrary;
     addLibrary: Highcharts6DeploymentMetadataLibrary;
-    addLibrary: JQFullCalendarFileLibrary;
     addLibrary: BpmFlowUIFileLibrary;
     addLibrary: NWTBSDevelopmentLibrary;
-    addLibrary: ElFinderFileLibrary
+    addLibrary: ElFinderFileLibrary;
+    addLibrary: JQFullCalendarFileLibrary

@@ -8,7 +8,8 @@ renderAdminContentOn: canvas
       self renderProjectsInfoBoxOn: canvas.
       self renderProjectsCompletedThisMonthBoxOn: canvas.
       self renderProjectsAwardedThisMonthBoxOn: canvas.
-      self renderProjectsDesignApprovedThisMonthBoxOn: canvas ].
+      self renderProjectsDesignApprovedThisMonthBoxOn: canvas.
+      self renderOpenDefectsBoxOn: canvas ].
   canvas heading
     level4;
     with: 'Charts'.
