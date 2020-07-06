@@ -13,31 +13,33 @@ renderProjectTimelineChartScriptOn: canvas
   chart chart type: 'line'.
   chart legend x: 10.
   chart exporting enabled: false.
-  chart plotOptions line point events
-    click:
-      (canvas jQuery ajax
-        callback: [ :dateAndSeries | 
-              | date series |
-              date := Date
-                fromStream: dateAndSeries first readStream
-                usingFormat: #(1 2 3 $/ 1 1).
-              series := dateAndSeries last.
-              parent rootAnnouncer
-                announce:
-                  (AdminLTEPanelSelected
-                    panel:
-                      (NWSelectedProjectsPanel new
-                        parent: parent;
-                        criteriaLabel:
-                            'Projects ' , series , ' in ' , date monthName , ' ' , date year asString;
-                        searchResult: ((callbackData at: series) at: date);
-                        yourself)) ]
-          json:
-            (JSStream
-              on:
-                'new Array(event.point.category.toLocaleDateString(),event.point.series.name)');
-        script: [ :script | script refresh ];
-        asFunction: #('event')).
+  (parent userHasRoleNamed: 'menuProjects')
+    ifTrue: [ 
+      chart plotOptions line point events
+        click:
+          (canvas jQuery ajax
+            callback: [ :dateAndSeries | 
+                  | date series |
+                  date := Date
+                    fromStream: dateAndSeries first readStream
+                    usingFormat: #(1 2 3 $/ 1 1).
+                  series := dateAndSeries last.
+                  parent rootAnnouncer
+                    announce:
+                      (AdminLTEPanelSelected
+                        panel:
+                          (NWSelectedProjectsPanel new
+                            parent: parent;
+                            criteriaLabel:
+                                'Projects ' , series , ' in ' , date monthName , ' ' , date year asString;
+                            searchResult: ((callbackData at: series) at: date);
+                            yourself)) ]
+              json:
+                (JSStream
+                  on:
+                    'new Array(event.point.category.toLocaleDateString(),event.point.series.name)');
+            script: [ :script | script refresh ];
+            asFunction: #('event')) ].
   allSeries
     doWithIndex: [ :series :index | 
       (chart addSeriesOf: HighchartsSeriesLine)
