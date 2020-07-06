@@ -12,6 +12,7 @@ generateDesignApprovedSeries
               (Date newDay: 1 monthNumber: chartDate monthIndex year: chartDate year)
             ifAbsentPut: [ OrderedCollection new ]) add: project ] ].
   data := OrderedCollection new.
+  self callbackData at: 'Design Approved' put: months.
   months keys asSortedCollection
     do: [ :month | data add: (ChartDatum belongingTo: month withValue: (months at: month) size) ].
   ^ ChartSeries
