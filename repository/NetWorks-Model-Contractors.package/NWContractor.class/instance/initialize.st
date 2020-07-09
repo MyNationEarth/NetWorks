@@ -4,4 +4,5 @@ initialize
   contacts := OrderedCollection new.
   invoices := OrderedCollection new.
   insurances := OrderedCollection new.
-  subContractors := OrderedCollection new
+  subContractors := OrderedCollection new.
+  xeroNextInvoiceNumber := 1

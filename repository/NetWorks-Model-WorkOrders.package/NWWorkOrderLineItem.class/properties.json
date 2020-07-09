@@ -10,7 +10,10 @@
 		"jobLineItem",
 		"quantity",
 		"quantityComplete",
-		"tests" ],
+		"tests",
+		"fieldComplete",
+		"approvedForInvoice",
+		"invoiceNumber" ],
 	"name" : "NWWorkOrderLineItem",
 	"pools" : [
 		 ],

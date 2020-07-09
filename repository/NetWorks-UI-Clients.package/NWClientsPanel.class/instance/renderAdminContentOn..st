@@ -1,5 +1,6 @@
 rendering
 renderAdminContentOn: canvas
+  self clientsComponent reset.
   canvas tbsRow
     with: [ 
       canvas tbsColumn

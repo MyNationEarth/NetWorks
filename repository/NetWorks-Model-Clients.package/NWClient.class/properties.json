@@ -8,7 +8,9 @@
 	"instvars" : [
 		"mainContactNumber",
 		"contacts",
-		"contracts" ],
+		"contracts",
+		"xeroAccountNumber",
+		"xeroNextInvoiceNumber" ],
 	"name" : "NWClient",
 	"pools" : [
 		 ],

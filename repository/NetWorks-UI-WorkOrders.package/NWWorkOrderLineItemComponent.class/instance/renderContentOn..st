@@ -11,11 +11,18 @@ renderContentOn: canvas
   canvas
     tbsRow: [ 
       canvas tbsColumn
-        smallSize: 12;
+        smallSize: 6;
         with: [ 
               self
                 renderDescriptionsWithLabels:
                   #('Design Quantity' 'Completed Quantity')
+                on: canvas ].
+      canvas tbsColumn
+        smallSize: 6;
+        with: [ 
+              self
+                renderDescriptionsWithLabels:
+                  #('Field Complete' 'Approved For Invoice')
                 on: canvas ] ].
   canvas
     tbsRow: [ 

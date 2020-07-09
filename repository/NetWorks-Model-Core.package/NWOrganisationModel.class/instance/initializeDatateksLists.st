@@ -18,4 +18,9 @@ initializeDatateksLists
       'Completed'.
       'Council Delay'.
       'Project Cancelled'}.
+  lists
+    at: #'closedStatus'
+    put:
+      {'Completed'.
+      'Project Cancelled'}.
   ^ lists

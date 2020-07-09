@@ -13,7 +13,10 @@
 		"minorWorksAddendumDate",
 		"insurances",
 		"agreementNotes",
-		"subContractors" ],
+		"subContractors",
+		"xeroAccountNumber",
+		"xeroNextInvoiceNumber",
+		"percentageOfRateForContractorInvoices" ],
 	"name" : "NWContractor",
 	"pools" : [
 		 ],

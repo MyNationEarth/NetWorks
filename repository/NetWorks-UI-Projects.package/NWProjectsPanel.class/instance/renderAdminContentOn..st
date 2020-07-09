@@ -1,5 +1,6 @@
 rendering
 renderAdminContentOn: canvas
+  self projectsComponent reset.
   canvas tbsRow
     with: [ 
       canvas tbsColumn
