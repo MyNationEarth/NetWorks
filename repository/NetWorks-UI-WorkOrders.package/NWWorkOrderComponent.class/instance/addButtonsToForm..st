@@ -1,5 +1,10 @@
 magritte-hooks
 addButtonsToForm: formDecoration
   formDecoration
-    addButton: #'completeAllLineItmes'
-    label: 'Complete all Line Itmes'
+    addButton: #'quantityCompleteAllLineItmes' label: 'Quantities Complete';
+    addButton: #'fieldCompleteAllLineItmes' label: 'Field Complete'.
+  (self userHasRoleNamed: 'projectTabJobs')
+    ifTrue: [ 
+      formDecoration
+        addButton: #'approveFieldCompleteAllLineItmes'
+        label: 'Approve Field Complete' ]

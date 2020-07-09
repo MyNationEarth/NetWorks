@@ -1,10 +1,11 @@
 descriptions
 statusDescription
   <magritteDescription>
-  | description |
+  | description statusOptions |
   description := MASingleOptionDescription new
     accessor: #'status';
-    options: self statusOptions;
+    options: (statusOptions := self statusOptions);
+    default: statusOptions first;
     label: 'Status';
     priority: 1500;
     reportColumnClass: NWDescribedColumn;

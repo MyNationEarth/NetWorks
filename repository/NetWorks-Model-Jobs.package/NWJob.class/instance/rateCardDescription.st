@@ -4,7 +4,7 @@ rateCardDescription
   | description |
   description := MASingleOptionDescription new
     accessor: #'rateCard';
-    options: self organisationModel rateCards;
+    options: self organisationModel rateCardsCurrent;
     reference: NWRateCard new titleDescription asContainer;
     default:
         (self project jobs

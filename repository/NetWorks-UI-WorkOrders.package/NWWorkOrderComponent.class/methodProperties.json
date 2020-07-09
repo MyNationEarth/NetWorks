@@ -2,12 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
-		"addButtonsToForm:" : "jupiter 05/28/2020 11:24",
-		"completeAllLineItmes" : "jupiter 03/01/2020 18:45",
+		"addButtonsToForm:" : "jupiter 07/09/2020 14:55",
+		"approveFieldCompleteAllLineItmes" : "jupiter 07/09/2020 14:53",
+		"completeAllLineItmes" : "jupiter 07/09/2020 13:00",
+		"fieldCompleteAllLineItmes" : "jupiter 07/09/2020 14:46",
 		"finderComponent" : "jupiter 06/25/2020 20:50",
 		"icon" : "jupiter 03/01/2020 18:43",
 		"initialize" : "jupiter 03/01/2020 18:43",
 		"newObjectLabel" : "jupiter 03/01/2020 18:43",
+		"quantityCompleteAllLineItmes" : "jupiter 07/09/2020 14:47",
 		"renderBasicsOn:" : "jupiter 04/27/2020 16:03",
 		"renderLineItemsOn:" : "jupiter 03/01/2020 18:40",
 		"renderWorkOrdersOn:" : "jupiter 03/01/2020 18:40",

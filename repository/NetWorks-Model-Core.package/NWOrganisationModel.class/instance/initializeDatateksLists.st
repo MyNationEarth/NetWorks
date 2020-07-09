@@ -4,7 +4,8 @@ initializeDatateksLists
   lists
     at: #'projectStatus'
     put:
-      {'Developer Delay'.
+      {'New Project'.
+      'Developer Delay'.
       'Heritage Delay'.
       'In Construction'.
       'In Design'.

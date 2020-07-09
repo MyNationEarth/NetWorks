@@ -5,9 +5,11 @@ renderContentOn: canvas
       canvas tbsColumn
         smallSize: 6;
         with: [ self renderDescriptionsWithLabels: #('Description' 'Comment') on: canvas ].
-      canvas tbsColumn
-        smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('Job Line Item') on: canvas ] ].
+      (self userHasRoleNamed: 'projectTabJobs')
+        ifTrue: [ 
+          canvas tbsColumn
+            smallSize: 6;
+            with: [ self renderDescriptionsWithLabels: #('Job Line Item') on: canvas ] ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn
@@ -20,10 +22,15 @@ renderContentOn: canvas
       canvas tbsColumn
         smallSize: 6;
         with: [ 
-              self
-                renderDescriptionsWithLabels:
-                  #('Field Complete' 'Approved For Invoice')
-                on: canvas ] ].
+              self renderDescriptionsWithLabels: #('Field Complete') on: canvas.
+              (self userHasRoleNamed: 'projectTabJobs')
+                ifTrue: [ 
+                  canvas tbsColumn
+                    smallSize: 6;
+                    with: [ self renderDescriptionsWithLabels: #('Approved For Invoice') on: canvas ].
+                  canvas tbsColumn
+                    smallSize: 6;
+                    with: [ self renderDescriptionsWithLabels: #('Invoice Number') on: canvas ] ] ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn
