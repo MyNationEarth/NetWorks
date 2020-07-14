@@ -19,9 +19,13 @@ renderProjectTimelineChartScriptOn: canvas
         click:
           (canvas jQuery ajax
             callback: [ :dateAndSeries | 
-                  | date series |
+                  | date dirtyDateString cleanDateString series |
+                  "Edge Browser is so shit it can't send a clean date string - work around this pathetic browser"
+                  dirtyDateString := dateAndSeries first.
+                  cleanDateString := self
+                    cleanDirtyEdgeBrowserDateString: dirtyDateString.
                   date := Date
-                    fromStream: dateAndSeries first readStream
+                    fromStream: cleanDateString readStream
                     usingFormat: #(1 2 3 $/ 1 1).
                   series := dateAndSeries last.
                   parent rootAnnouncer
