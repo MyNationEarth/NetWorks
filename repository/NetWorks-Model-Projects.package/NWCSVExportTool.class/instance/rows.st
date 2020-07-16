@@ -1,3 +1,3 @@
 source
 rows
-  ^ self organisationModel projects
+  ^ self subclassResponsibility

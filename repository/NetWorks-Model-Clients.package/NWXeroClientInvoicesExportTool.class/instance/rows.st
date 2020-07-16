@@ -1,3 +1,3 @@
 export file
-projects
+rows
   ^ self organisationModel projects

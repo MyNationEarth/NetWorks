@@ -9,6 +9,7 @@
 		"mainContactNumber",
 		"contacts",
 		"contracts",
+		"invoices",
 		"xeroAccountNumber",
 		"xeroNextInvoiceNumber" ],
 	"name" : "NWClient",

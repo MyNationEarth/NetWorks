@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"contents" ],
+		 ],
 	"name" : "NWProjectDesignExportTool",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "NWCSVExportTool",
 	"type" : "normal" }

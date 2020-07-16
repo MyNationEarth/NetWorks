@@ -1,3 +1,0 @@
-export file
-contents
-  ^ contents

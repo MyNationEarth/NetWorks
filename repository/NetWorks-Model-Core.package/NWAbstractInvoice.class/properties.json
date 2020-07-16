@@ -11,7 +11,8 @@
 		"paymentMadeDate",
 		"amountPayable",
 		"isTaxExempt",
-		"amountPaid" ],
+		"amountPaid",
+		"lineItems" ],
 	"name" : "NWAbstractInvoice",
 	"pools" : [
 		 ],

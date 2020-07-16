@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Clients",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 07/15/2020 11:27",
+	"instvars" : [
+		 ],
+	"name" : "NWXeroClientInvoicesExportTool",
+	"pools" : [
+		 ],
+	"super" : "NWCSVExportTool",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "NetWorks-Model-Clients",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"client",
+		"project" ],
+	"name" : "NWClientInvoice",
+	"pools" : [
+		 ],
+	"super" : "NWAbstractInvoice",
+	"type" : "normal" }

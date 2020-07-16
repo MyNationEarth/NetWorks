@@ -1,5 +1,5 @@
 export file
-projects
+rows
   ^ (self organisationModel projects select: [ :p | p designTimeLogs notEmpty ])
     inject: OrderedCollection new
     into: [ :logs :project | 

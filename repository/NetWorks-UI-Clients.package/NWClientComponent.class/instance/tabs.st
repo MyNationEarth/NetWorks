@@ -20,6 +20,15 @@ tabs
             yourself);
     add:
         (Dictionary new
+            at: #'id' put: #'invoices';
+            at: #'label' put: 'Invoices';
+            at: #'icon' put: #'wrench';
+            at: #'accessRoleNames' put: #('clientTabInvoices');
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'invoices') ];
+            yourself);
+    add:
+        (Dictionary new
             at: #'id' put: #'contacts';
             at: #'label' put: 'Contacts';
             at: #'icon' put: #'wrench';
