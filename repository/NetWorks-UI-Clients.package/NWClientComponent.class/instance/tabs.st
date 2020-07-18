@@ -11,15 +11,6 @@ tabs
             yourself);
     add:
         (Dictionary new
-            at: #'id' put: #'xero';
-            at: #'label' put: 'Xero';
-            at: #'icon' put: #'dollar';
-            at: #'accessRoleNames' put: #('xeroIntegration');
-            at: #'callback'
-              put: [ announcer announce: (NWTabSelected tab: #'xero') ];
-            yourself);
-    add:
-        (Dictionary new
             at: #'id' put: #'invoices';
             at: #'label' put: 'Invoices';
             at: #'icon' put: #'wrench';

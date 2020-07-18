@@ -2,4 +2,16 @@
 	"class" : {
 		 },
 	"instance" : {
-		 } }
+		"extended" : "jupiter 07/19/2020 08:30",
+		"extended:" : "jupiter 07/19/2020 08:30",
+		"extendedDescription" : "jupiter 07/19/2020 08:32",
+		"lineItemTypeTitleAndComment" : "jupiter 07/19/2020 08:22",
+		"lineItemTypeTitleAndCommentDescription" : "jupiter 07/19/2020 08:21",
+		"quantity" : "jupiter 07/19/2020 08:30",
+		"quantity:" : "jupiter 07/19/2020 08:30",
+		"quantityDescription" : "jupiter 07/19/2020 08:30",
+		"unit" : "jupiter 07/19/2020 08:30",
+		"unit:" : "jupiter 07/19/2020 08:30",
+		"unitDescription" : "jupiter 07/19/2020 08:31",
+		"workOrderLineItem" : "jupiter 07/19/2020 08:30",
+		"workOrderLineItem:" : "jupiter 07/19/2020 08:30" } }

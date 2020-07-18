@@ -8,7 +8,9 @@
 	"instvars" : [
 		"client",
 		"bpmApplication",
-		"projects" ],
+		"projects",
+		"xeroAccountNumber",
+		"xeroNextInvoiceNumber" ],
 	"name" : "NWContract",
 	"pools" : [
 		 ],
