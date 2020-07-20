@@ -22,6 +22,7 @@ renderEditorForUngroupedOn: html
             delay: 500;
             onSearch:
                 (html jQuery ajax
+                    serializeForm;
                     callback: [ :value | searchText := value ]
                       json: (JSStream on: 'this.value');
                     script: [ :script | 
