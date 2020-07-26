@@ -11,7 +11,8 @@
 		"lineItemType",
 		"quantity",
 		"note",
-		"previousLineItem" ],
+		"previousLineItem",
+		"invoiceLineItem" ],
 	"name" : "NWJobLineItem",
 	"pools" : [
 		 ],

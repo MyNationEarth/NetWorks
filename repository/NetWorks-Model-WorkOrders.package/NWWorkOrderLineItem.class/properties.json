@@ -13,7 +13,7 @@
 		"tests",
 		"fieldComplete",
 		"approvedForInvoice",
-		"invoiceNumber" ],
+		"invoiceLineItem" ],
 	"name" : "NWWorkOrderLineItem",
 	"pools" : [
 		 ],
