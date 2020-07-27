@@ -1,3 +1,3 @@
 export file
 rows
-  ^ self organisationModel projects
+  ^ self organisationModel contractorInvoicesForExport

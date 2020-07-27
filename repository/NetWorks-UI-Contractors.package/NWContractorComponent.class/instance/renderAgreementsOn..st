@@ -21,4 +21,9 @@ renderAgreementsOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 12;
-        with: [ self renderDescriptionsWithLabels: #('Agreement Notes') on: canvas ] ]
+        with: [ self renderDescriptionsWithLabels: #('Agreement Notes') on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 12;
+        with: [ self renderDescriptionsWithLabels: #('Agreements') on: canvas ] ]

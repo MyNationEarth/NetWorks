@@ -14,19 +14,38 @@ renderAdminContentOn: canvas
     level4;
     with: 'Charts'.
   canvas tbsRow with: [ self renderChartsOn: canvas ].
-  canvas heading
-    level4;
-    with: 'Exporting Data'.
-  canvas tbsRow
+  canvas div
+    class: 'dashboardActions';
     with: [ 
-      self renderExportProjectsOn: canvas.
-      self renderExportProjectsForecastOn: canvas.
-      self renderExportInsurancesOn: canvas.
-      self renderExportInvoicesOn: canvas ].
-  canvas tbsRow
-    style: 'padding-top: 24px;';
-    with: [ 
-          self renderExportDesignSummaryOn: canvas.
-          self renderExportConstructionSummaryOn: canvas.
-          self renderExportProjectDesignLogsOn: canvas.
-          self renderExportDefectsOn: canvas ]
+          canvas heading
+            level4;
+            with: 'Exporting Data'.
+          canvas tbsRow
+            with: [ 
+              self renderExportProjectsOn: canvas.
+              self renderExportProjectsForecastOn: canvas.
+              self renderExportInsurancesOn: canvas.
+              self renderExportInvoicesOn: canvas ].
+          canvas tbsRow
+            style: 'padding-top: 24px;';
+            with: [ 
+                  self renderExportDesignSummaryOn: canvas.
+                  self renderExportConstructionSummaryOn: canvas.
+                  self renderExportProjectDesignLogsOn: canvas.
+                  self renderExportDefectsOn: canvas ].
+          (self userHasRoleNamed: 'invoiceTabLineItems')
+            ifTrue: [ 
+              canvas heading
+                level4;
+                with: 'Invoicing'.
+              canvas tbsRow
+                with: [ 
+                  self renderGenerateContractorInvoicesOn: canvas.
+                  (self userHasRoleNamed: 'xeroIntegration')
+                    ifTrue: [ self renderExportXeroContractorInvoicesOn: canvas ] ].
+              canvas tbsRow
+                style: 'padding-top: 24px;';
+                with: [ 
+                      self renderGenerateClientInvoicesOn: canvas.
+                      (self userHasRoleNamed: 'xeroIntegration')
+                        ifTrue: [ self renderExportXeroClientInvoicesOn: canvas ] ] ] ]

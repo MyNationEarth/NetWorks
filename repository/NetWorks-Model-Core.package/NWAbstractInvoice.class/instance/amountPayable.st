@@ -1,3 +1,3 @@
 Accessing
 amountPayable
-	^amountPayable
+  ^ amountPayable ifNil: [ self calculateAmountPayableFromLineItems ]

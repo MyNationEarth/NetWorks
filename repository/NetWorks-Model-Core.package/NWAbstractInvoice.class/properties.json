@@ -12,6 +12,7 @@
 		"amountPayable",
 		"isTaxExempt",
 		"amountPaid",
+		"xeroExportDate",
 		"lineItems" ],
 	"name" : "NWAbstractInvoice",
 	"pools" : [

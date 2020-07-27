@@ -2,16 +2,22 @@
 	"class" : {
 		 },
 	"instance" : {
-		"extended" : "jupiter 07/19/2020 08:30",
+		"backReference:" : "jupiter 07/27/2020 16:13",
+		"cleanUpAfterDelete" : "jupiter 07/27/2020 16:24",
+		"debugString" : "jupiter 07/27/2020 07:15",
+		"extended" : "jupiter 07/27/2020 14:16",
 		"extended:" : "jupiter 07/19/2020 08:30",
 		"extendedDescription" : "jupiter 07/19/2020 08:32",
+		"invoice" : "jupiter 07/27/2020 16:12",
+		"invoice:" : "jupiter 07/27/2020 16:12",
+		"lineItemType" : "jupiter 07/27/2020 14:14",
 		"lineItemTypeTitleAndComment" : "jupiter 07/19/2020 08:22",
 		"lineItemTypeTitleAndCommentDescription" : "jupiter 07/19/2020 08:21",
 		"quantity" : "jupiter 07/19/2020 08:30",
 		"quantity:" : "jupiter 07/19/2020 08:30",
 		"quantityDescription" : "jupiter 07/19/2020 08:30",
+		"referencedLineItem" : "jupiter 07/26/2020 21:37",
+		"referencedLineItem:" : "jupiter 07/26/2020 21:37",
 		"unit" : "jupiter 07/19/2020 08:30",
 		"unit:" : "jupiter 07/19/2020 08:30",
-		"unitDescription" : "jupiter 07/19/2020 08:31",
-		"workOrderLineItem" : "jupiter 07/19/2020 08:30",
-		"workOrderLineItem:" : "jupiter 07/19/2020 08:30" } }
+		"unitDescription" : "jupiter 07/19/2020 08:31" } }

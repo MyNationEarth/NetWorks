@@ -5,4 +5,5 @@ ensureFileSystem
   super ensureFileSystem.
   self
     insurancesDirectory;
-    invoicesDirectory
+    invoicesDirectory;
+    agreementsDirectory

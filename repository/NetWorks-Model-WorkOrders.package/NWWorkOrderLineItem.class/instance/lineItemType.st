@@ -1,0 +1,3 @@
+Accessing
+lineItemType
+  ^ jobLineItem lineItemType

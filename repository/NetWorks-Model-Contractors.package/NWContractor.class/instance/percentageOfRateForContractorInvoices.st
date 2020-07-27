@@ -1,3 +1,3 @@
 Accessing
 percentageOfRateForContractorInvoices
-	^percentageOfRateForContractorInvoices
+  ^ percentageOfRateForContractorInvoices ifNil: [ 0 ]

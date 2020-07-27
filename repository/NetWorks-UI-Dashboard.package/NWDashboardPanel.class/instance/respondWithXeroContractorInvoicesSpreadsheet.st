@@ -1,12 +1,12 @@
 responders
-respondWithContractorInvoicesSpreadsheet
+respondWithXeroContractorInvoicesSpreadsheet
   | file |
   file := WAFile new
     fileName:
-        'ContractorInvoicesSpreadsheet-' , DateAndTime now asRFC1123String , '.csv';
+        'XeroContractorInvoicesSpreadsheet-' , DateAndTime now asRFC1123String , '.csv';
     contentType: (WAMimeType fromString: 'application/vnd.ms-excel');
     contents:
-        (NWContractorInvoicesExportTool new
+        (NWXeroContractorInvoicesExportTool new
             exportFile;
             contents);
     yourself.

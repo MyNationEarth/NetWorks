@@ -1,0 +1,17 @@
+{
+	"category" : "NetWorks-Model-Contractors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"contractor",
+		"agreementDate",
+		"signedDate",
+		"expiryDate" ],
+	"name" : "NWContractorAgreement",
+	"pools" : [
+		 ],
+	"super" : "NWObjectWithTitleAndComment",
+	"type" : "normal" }

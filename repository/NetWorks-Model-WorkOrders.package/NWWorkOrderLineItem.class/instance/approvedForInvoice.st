@@ -1,3 +1,3 @@
 Accessing
 approvedForInvoice
-	^approvedForInvoice
+  ^ approvedForInvoice ifNil: [ false ]

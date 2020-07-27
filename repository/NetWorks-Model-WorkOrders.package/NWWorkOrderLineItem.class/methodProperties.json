@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"approvedForInvoice" : "jupiter 07/09/2020 11:26",
+		"approvedForInvoice" : "jupiter 07/26/2020 21:20",
 		"approvedForInvoice:" : "jupiter 07/09/2020 11:26",
 		"approvedForInvoiceDescription" : "jupiter 07/09/2020 11:43",
 		"backReference:" : "jupiter 03/08/2020 18:11",
@@ -30,6 +30,7 @@
 		"jobLineItemTypeTitleWithContractorDescription" : "jupiter 03/08/2020 18:02",
 		"jobLineItemTypeTitleWithJob" : "jupiter 03/08/2020 17:52",
 		"jobLineItemTypeTitleWithJobDescription" : "jupiter 03/08/2020 18:02",
+		"lineItemType" : "jupiter 07/27/2020 14:15",
 		"projectTitleDescription" : "jupiter 03/08/2020 18:02",
 		"quantity" : "jupiter 07/02/2020 14:52",
 		"quantity:" : "jupiter 03/08/2020 17:52",
