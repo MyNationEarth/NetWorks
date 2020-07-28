@@ -7,4 +7,6 @@ xeroAccountAndNextInvoiceNumber
           str
             nextPutAll: xeroAccountNumber;
             nextPut: $- ].
-      str nextPutAll: (xeroNextInvoiceNumber printStringLength: 5 padded: true) ]
+      str
+        nextPutAll:
+          (self xeroNextInvoiceNumber printStringLength: 5 padded: true) ]
