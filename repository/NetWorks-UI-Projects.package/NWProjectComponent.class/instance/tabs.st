@@ -13,6 +13,14 @@ tabs
             yourself);
     add:
         (Dictionary new
+            at: #'id' put: #'export';
+            at: #'label' put: 'Export';
+            at: #'icon' put: #'download';
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'export') ];
+            yourself);
+    add:
+        (Dictionary new
             at: #'id' put: #'quality';
             at: #'label' put: 'Quality';
             at: #'icon' put: #'exclamationTriangle';

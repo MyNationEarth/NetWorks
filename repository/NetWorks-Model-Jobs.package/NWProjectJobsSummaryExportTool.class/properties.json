@@ -4,9 +4,9 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "jupiter 07/30/2020 13:46",
+	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"jobs" ],
 	"name" : "NWProjectJobsSummaryExportTool",
 	"pools" : [
 		 ],

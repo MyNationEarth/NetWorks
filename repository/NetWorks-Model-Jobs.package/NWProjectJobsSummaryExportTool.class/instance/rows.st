@@ -1,3 +1,5 @@
 export file
 rows
-  ^ self organisationModel contractorInvoicesForExport
+  ^ jobs
+    inject: OrderedCollection new
+    into: [ :rows :job | rows addAll: job lineItems ]
