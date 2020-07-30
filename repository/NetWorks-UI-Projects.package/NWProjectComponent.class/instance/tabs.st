@@ -16,6 +16,7 @@ tabs
             at: #'id' put: #'export';
             at: #'label' put: 'Export';
             at: #'icon' put: #'download';
+            at: #'accessRoleNames' put: #('projectTabJobs');
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'export') ];
             yourself);

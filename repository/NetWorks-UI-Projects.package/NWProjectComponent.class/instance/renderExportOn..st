@@ -7,7 +7,7 @@ renderExportOn: canvas
         smallSize: 6;
         extraSmallSize: 12;
         with: [ 
-              (self userHasRoleNamed: 'exportProjects')
+              (self userHasRoleNamed: 'projectTabJobs')
                 ifTrue: [ 
                   canvas tbsButton
                     beLabeled;
