@@ -13,6 +13,7 @@
 		"canBeDeleted" : "jupiter 02/28/2020 16:17",
 		"canNotBeDeletedErrorMessage" : "jupiter 02/28/2020 16:18",
 		"descriptionContainer" : "jupiter 02/26/2020 14:31",
+		"hasLineItemsReadyToInvoice" : "jupiter 07/29/2020 12:07",
 		"initialize" : "jupiter 02/28/2020 14:22",
 		"isAssigned" : "jupiter 06/24/2020 10:26",
 		"isComplete" : "jupiter 02/28/2020 16:19",
@@ -38,7 +39,7 @@
 		"unscheduledWorkOrders" : "jupiter 02/28/2020 16:19",
 		"workOrders" : "jupiter 02/26/2020 14:30",
 		"workOrders:" : "jupiter 02/26/2020 14:30",
-		"workOrdersDescription" : "jupiter 03/01/2020 17:18",
+		"workOrdersDescription" : "jupiter 07/30/2020 12:48",
 		"workOrdersDirectory" : "jupiter 06/15/2020 22:20",
 		"workflow" : "jupiter 02/26/2020 14:30",
 		"workflow:" : "jupiter 02/26/2020 14:30" } }

@@ -8,7 +8,8 @@ workOrdersDescription
     classes: {NWWorkOrder};
     reference:
         template titleDescription , template contractorNameOrUnassignedDescription
-            , template percentageCompleteDescription;
+            , template percentageCompleteDescription
+            , template totalNumberOfFilesAndDirectoriesDescription;
     label: 'Work Orders';
     priority: 800;
     beSorted;
