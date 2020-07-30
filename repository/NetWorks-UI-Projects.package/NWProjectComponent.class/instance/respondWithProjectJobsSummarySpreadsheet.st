@@ -1,5 +1,5 @@
 exports
-respondWithProjectJobSummarySpreadsheet
+respondWithProjectJobsSummarySpreadsheet
   | file |
   file := WAFile new
     fileName:

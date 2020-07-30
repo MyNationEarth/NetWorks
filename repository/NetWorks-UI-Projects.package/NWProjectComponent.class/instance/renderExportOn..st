@@ -13,7 +13,7 @@ renderExportOn: canvas
                     beLabeled;
                     beSubmit;
                     bePrimary;
-                    callback: [ self respondWithProjectJobSummarySpreadsheet ];
+                    callback: [ self respondWithProjectJobsSummarySpreadsheet ];
                     with: [ 
                           canvas
                             tbsButtonLabel: [ 
