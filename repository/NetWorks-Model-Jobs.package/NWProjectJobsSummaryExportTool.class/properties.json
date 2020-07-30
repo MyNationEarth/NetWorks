@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Jobs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 07/30/2020 13:46",
+	"instvars" : [
+		 ],
+	"name" : "NWProjectJobsSummaryExportTool",
+	"pools" : [
+		 ],
+	"super" : "NWCSVExportTool",
+	"type" : "normal" }
