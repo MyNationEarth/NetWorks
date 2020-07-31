@@ -2,10 +2,10 @@ utilities
 xeroAccountAndNextInvoiceNumber
   ^ String
     streamContents: [ :str | 
-      (xeroAccountNumber notNil and: [ xeroAccountNumber notEmpty ])
+      (xeroAccountNumber notNil and: [ xeroAccountNumber asString notEmpty ])
         ifTrue: [ 
           str
-            nextPutAll: xeroAccountNumber;
+            nextPutAll: xeroAccountNumber asString;
             nextPut: $- ].
       str
         nextPutAll:
