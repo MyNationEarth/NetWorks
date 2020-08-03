@@ -19,6 +19,12 @@ div.alert {
   color: black !important;
   text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.9);
 }
+.dashbaordActions > > .btn {
+  width: 100%;
+  text-align: left !important;
+  padding-right: 24px;
+}
+
 /* NetWorks report */
 .magritte .buttons {
   text-align: right;
@@ -196,7 +202,6 @@ table.report tbody tr:hover td:last-child, .reportComponent table tbody tr:hover
   padding-left: 16px;
   padding-bottom: 24px;
   background-color: rgba(255, 255, 255, 0.85);
-  z-index: 9999;
 }
 
 .box-footer .buttons {
