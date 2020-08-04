@@ -1,7 +1,7 @@
 export file
-reportDescriptionContainer
+reportDescriptionContainerInvoice
   | template |
-  template := self rows first.
+  template := NWContractorInvoice new.
   ^ (template contractorTitleDescription
     label: '*ContractName';
     yourself) , template contractorEmailAddressDescription
@@ -25,20 +25,17 @@ reportDescriptionContainer
       (template paymentDueDateDescription
         label: '*DueDate';
         yourself)
+    , (template emptyDescriptionWithLabel: 'InventoryItemCode')
     ,
-      (template lineItemTypeTitleDescription
-        label: 'InventoryItemCode';
-        yourself)
-    ,
-      (template lineItemTypeCommentDescription
+      (template titleDescription
         label: 'Description';
         yourself)
     ,
-      (template quantityDescription
+      (template singleQuantityDescription
         label: '*Quantity';
         yourself)
     ,
-      (template unitDescription
+      (template amountPayableDescription
         label: '*UnitAmount)';
         yourself)
     ,

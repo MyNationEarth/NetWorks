@@ -46,9 +46,10 @@ generateNewContractorInvoices
                         referencedLineItem: workOrderLineItem;
                         quantity: workOrderLineItem quantityComplete;
                         unit:
-                            workOrderLineItem jobLineItem lineItemType valuePerUnit
+                            (workOrderLineItem jobLineItem lineItemType valuePerUnit
                                 *
-                                  workOrder contractor percentageOfRateForContractorInvoices;
+                                  workOrder contractor percentageOfRateForContractorInvoices
+                                roundTo: 0.01);
                         yourself) ] ] ] ].
   invoicesToCreate
     do: [ :invoice | 
