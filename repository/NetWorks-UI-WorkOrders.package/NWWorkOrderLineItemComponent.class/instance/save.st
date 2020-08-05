@@ -3,7 +3,7 @@ save
   | template qtyComplete qty |
   self validate
     ifFalse: [ ^ self ].
-  self memento hasChanged
+  super save	"self memento hasChanged
     ifFalse: [ super save ]
     ifTrue: [ 
       template := NWWorkOrderLineItem new.
@@ -21,4 +21,4 @@ save
                 yourself)
             onAnswer: [ :answer | 
               answer
-                ifTrue: [ super save ] ] ] ]
+                ifTrue: [ super save ] ] ] ]"

@@ -12,4 +12,6 @@ renderBasicsOn: canvas
         with: [ self renderDescriptionsWithLabels: #('Asset') on: canvas ].
       canvas tbsColumn
         smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('Rate Card') on: canvas ] ]
+        with: [ self renderDescriptionsWithLabels: #('Rate Card') on: canvas ] ].
+  self renderLineItemsOn: canvas.
+  self renderWorkOrdersOn: canvas
