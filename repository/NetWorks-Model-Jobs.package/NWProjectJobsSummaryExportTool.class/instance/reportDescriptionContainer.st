@@ -6,3 +6,4 @@ reportDescriptionContainer
     , template lineItemTypeTitleAndCommentDescription
     , template quantityDescription
     , template workOrderLineItemsCompleteQuantityDescription
+    , template workOrderLineItemsCompleteByContractorSummaryDescription

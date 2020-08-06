@@ -7,6 +7,7 @@ initialize5SmithsLists
       {'New Project'.
       'Ready for Construction'.
       'Delayed'.
+      'In Progress'.
       'Field Complete'.
       'Complete'.
       'Claimed'.

@@ -2,9 +2,9 @@ export file
 reportDescriptionContainer
   | template |
   template := NWProject new.
-  ^ template contractTitleDescription , template areaDescription
-    , template projectEngineerDescription , template invoiceNumberDescription
-    , template invoiceCreatedDateDescription
+  ^ template contractTitleDescription , template buildCategoryDescription
+    , template areaDescription , template projectEngineerDescription
+    , template invoiceNumberDescription , template invoiceCreatedDateDescription
     , template pcHandedOverDateDescription
     , template pcRequestSubmittedDateDescription , template pcDueDateDescription
     , template variationRequestSubmittedDateDescription

@@ -37,6 +37,11 @@ generateNewContractorInvoices
                 yourself).
           workOrdersOnInvoice
             do: [ :workOrder | 
+              | percentageMultiplier |
+              percentageMultiplier := workOrder contractor
+                percentageOfRateForContractorInvoices ifNil: [ 0 ].
+              percentageMultiplier > 1
+                ifTrue: [ percentageMultiplier := percentageMultiplier / 100 ].
               workOrder lineItemsReadyToInvoice
                 do: [ :workOrderLineItem | 
                   newInvoice lineItems
@@ -46,9 +51,7 @@ generateNewContractorInvoices
                         referencedLineItem: workOrderLineItem;
                         quantity: workOrderLineItem quantityComplete;
                         unit:
-                            (workOrderLineItem jobLineItem lineItemType valuePerUnit
-                                *
-                                  workOrder contractor percentageOfRateForContractorInvoices
+                            (workOrderLineItem jobLineItem lineItemType valuePerUnit * percentageMultiplier
                                 roundTo: 0.01);
                         yourself) ] ] ] ].
   invoicesToCreate

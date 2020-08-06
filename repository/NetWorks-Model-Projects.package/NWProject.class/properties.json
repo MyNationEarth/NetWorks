@@ -8,6 +8,7 @@
 	"instvars" : [
 		"deletedByUser",
 		"projectType",
+		"buildCategory",
 		"jobs",
 		"contract",
 		"efscdDate",

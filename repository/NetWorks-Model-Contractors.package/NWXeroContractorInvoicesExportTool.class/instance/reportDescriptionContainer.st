@@ -3,7 +3,7 @@ reportDescriptionContainer
   | template |
   template := self rows first.
   ^ (template contractorTitleDescription
-    label: '*ContractName';
+    label: '*ContactName';
     yourself) , template contractorEmailAddressDescription
     , (template emptyDescriptionWithLabel: 'POAddressLine1')
     , (template emptyDescriptionWithLabel: 'POAddressLine2')
@@ -30,7 +30,7 @@ reportDescriptionContainer
         label: 'InventoryItemCode';
         yourself)
     ,
-      (template lineItemTypeCommentDescription
+      (template jobTitleAndLineItemTypeCommentDescription
         label: 'Description';
         yourself)
     ,
@@ -39,7 +39,7 @@ reportDescriptionContainer
         yourself)
     ,
       (template unitDescription
-        label: '*UnitAmount)';
+        label: '*UnitAmount';
         yourself)
     ,
       (template xeroAccountNumberDescription
