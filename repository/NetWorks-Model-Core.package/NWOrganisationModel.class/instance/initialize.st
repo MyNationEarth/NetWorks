@@ -10,4 +10,5 @@ initialize
   projects := OrderedCollection new.
   materials := OrderedCollection new.
   materialStores := OrderedCollection new.
-  defects := OrderedCollection new
+  defects := OrderedCollection new.
+  incidentReports := OrderedCollection new

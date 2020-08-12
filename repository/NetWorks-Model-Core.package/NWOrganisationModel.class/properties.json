@@ -20,7 +20,8 @@
 		"deletedProjects",
 		"materials",
 		"materialStores",
-		"defects" ],
+		"defects",
+		"incidentReports" ],
 	"name" : "NWOrganisationModel",
 	"pools" : [
 		 ],

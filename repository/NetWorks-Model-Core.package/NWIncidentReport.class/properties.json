@@ -1,0 +1,32 @@
+{
+	"category" : "NetWorks-Model-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dateAndTime",
+		"location",
+		"project",
+		"peopleInvolvedComment",
+		"causeComment",
+		"damageComment",
+		"actionsTakenComment",
+		"dateReported",
+		"reportedBy",
+		"investigationPriority",
+		"investigationIssuedTo",
+		"eventCategory",
+		"incidentLogNumber",
+		"workersCompensation",
+		"isCritical",
+		"reportedToRegulator",
+		"reportedToRegulatorDate",
+		"reportedToRegulatorBy",
+		"reportedToRegulatorComment" ],
+	"name" : "NWIncidentReport",
+	"pools" : [
+		 ],
+	"super" : "NWObjectWithTitleAndComment",
+	"type" : "normal" }
