@@ -6,4 +6,5 @@ locationDescription
     label: 'Location';
     priority: 100;
     componentClass: TBSMagritteTextInputComponent;
+    beRequired;
     yourself

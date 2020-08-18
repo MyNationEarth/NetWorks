@@ -1,4 +1,3 @@
 datateks
 historicalDataImportBasePath
-  ^ self projectBaseDirectory pathName
-    , '/documents/Datateks/historicalDataJune/'
+  ^ self projectBaseDirectory pathName , '/documents/Datateks/'

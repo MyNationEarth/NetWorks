@@ -18,7 +18,8 @@ pullIdentifiersFromTitle: aTitleString
     regex: '([0-9][A-Z]+-[0-9][0-9])'
     subexpression: 2.
   temp := temp copyReplaceAll: fsam with: ''.
-  address := self cleanString: temp.
+  (address isNil or: [ address isEmpty ])
+    ifTrue: [ self address: self cleanString: temp ].
   self
     minorWorksNumber: mw;
     aycaNumber: ayca;

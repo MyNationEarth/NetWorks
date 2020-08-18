@@ -7,8 +7,8 @@ incidentReportsDescription
     accessor: #'incidentReports';
     classes: {NWIncidentReport};
     reference:
-        template titleDescription , template commentDescription
-            , template isCriticalDescription , template dateAndTimeDescription;
+        template titleDescription , template locationDescription
+            , template dateAndTimeDescription;
     label: 'Incident Reports';
     priority: 100;
     beSorted;
