@@ -2,9 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
+		"addButtonsToForm:" : "jupiter 08/19/2020 15:08",
+		"exportPdf" : "jupiter 08/19/2020 15:14",
 		"icon" : "jupiter 08/12/2020 07:53",
 		"initialize" : "jupiter 08/12/2020 07:53",
 		"newObjectLabel" : "jupiter 08/12/2020 07:53",
+		"pdfComponent" : "jupiter 08/19/2020 15:11",
 		"renderBasicsOn:" : "jupiter 08/18/2020 16:20",
 		"renderOfficeOn:" : "jupiter 08/18/2020 16:16",
 		"tabs" : "jupiter 08/18/2020 15:25" } }

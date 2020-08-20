@@ -3,7 +3,7 @@ contractFromString: contractString
   "Answer the contract relating to this string"
 
   | contracts |
-  contracts := (NetWorks instance organisationModels at: #'datateks.com.au')
+  contracts := (NetWorks instance organisationModels at: #'5smiths.com.au')
     contracts.
   ^ contracts
     detect: [ :contract | contract title = contractString ]
