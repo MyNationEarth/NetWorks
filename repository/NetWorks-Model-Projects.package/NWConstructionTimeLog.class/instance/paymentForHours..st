@@ -6,7 +6,7 @@ paymentForHours: numberOfHours
 	- Next X hours is 2.0x rate"
 
   | hoursAndRates hoursToPay hoursPaid |
-  hoursAndRates := #(#(7.6 1) #(2 1.5) #(14.4 2)).
+  hoursAndRates := self paymentRate.
   hoursToPay := numberOfHours.
   hoursPaid := 0.
   ^ (hoursAndRates
