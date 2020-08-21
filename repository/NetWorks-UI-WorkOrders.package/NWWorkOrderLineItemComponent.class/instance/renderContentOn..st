@@ -14,11 +14,7 @@ renderContentOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 6;
-        with: [ 
-              self
-                renderDescriptionsWithLabels:
-                  #('Design Quantity' 'Completed Quantity')
-                on: canvas ].
+        with: [ self renderDescriptionsWithLabels: #('Completed Quantity') on: canvas	"'Design Quantity'" ].
       canvas tbsColumn
         smallSize: 6;
         with: [ 
