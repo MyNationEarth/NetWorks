@@ -17,6 +17,7 @@
 		"agreements",
 		"xeroAccountNumber",
 		"xeroNextInvoiceNumber",
+		"xeroDoNotExport",
 		"percentageOfRateForContractorInvoices" ],
 	"name" : "NWContractor",
 	"pools" : [

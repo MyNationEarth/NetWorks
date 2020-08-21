@@ -4,7 +4,9 @@ contractorInvoicesForExport
   contractorInvoices := OrderedCollection new.
   self contractors
     do: [ :contractor | 
-      contractorInvoices
-        addAll:
-          (contractor invoices select: [ :invoice | invoice xeroExportDate isNil ]) ].
+      contractor xeroDoNotExport
+        ifFalse: [ 
+          contractorInvoices
+            addAll:
+              (contractor invoices select: [ :invoice | invoice xeroExportDate isNil ]) ] ].
   ^ contractorInvoices

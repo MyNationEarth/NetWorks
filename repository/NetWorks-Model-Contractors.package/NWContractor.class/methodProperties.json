@@ -16,7 +16,7 @@
 		"ensureFileSystem" : "jupiter 07/27/2020 17:01",
 		"hasContactForUser:" : "jupiter 04/19/2020 19:56",
 		"incrementXeroNextInvoiceNumber" : "jupiter 07/27/2020 09:49",
-		"initialize" : "jupiter 07/27/2020 16:42",
+		"initialize" : "jupiter 08/21/2020 11:37",
 		"insurances" : "jupiter 06/18/2019 07:38",
 		"insurances:" : "jupiter 06/18/2019 07:37",
 		"insurancesDescription" : "jupiter 06/18/2019 08:40",
@@ -51,6 +51,9 @@
 		"xeroAccountNumber" : "jupiter 07/09/2020 11:10",
 		"xeroAccountNumber:" : "jupiter 07/09/2020 11:10",
 		"xeroAccountNumberDescription" : "jupiter 07/27/2020 08:29",
+		"xeroDoNotExport" : "jupiter 08/21/2020 11:37",
+		"xeroDoNotExport:" : "jupiter 08/21/2020 11:30",
+		"xeroDoNotExportDescription" : "jupiter 08/21/2020 11:35",
 		"xeroNextInvoiceNumber" : "jupiter 07/09/2020 11:11",
 		"xeroNextInvoiceNumber:" : "jupiter 07/09/2020 11:10",
 		"xeroNextInvoiceNumberDescription" : "jupiter 07/09/2020 11:13" } }

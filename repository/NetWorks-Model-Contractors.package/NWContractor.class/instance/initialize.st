@@ -7,4 +7,5 @@ initialize
   agreements := OrderedCollection new.
   subContractors := OrderedCollection new.
   xeroNextInvoiceNumber := 1.
-  percentageOfRateForContractorInvoices := 0
+  percentageOfRateForContractorInvoices := 0.
+  xeroDoNotExport := false

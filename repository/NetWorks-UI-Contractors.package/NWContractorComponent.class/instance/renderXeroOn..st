@@ -4,6 +4,11 @@ renderXeroOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 6;
+        with: [ self renderDescriptionsWithLabels: #('Do not export') on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 6;
         with: [ self renderDescriptionsWithLabels: #('Xero Account Number') on: canvas ].
       canvas tbsColumn
         smallSize: 6;
