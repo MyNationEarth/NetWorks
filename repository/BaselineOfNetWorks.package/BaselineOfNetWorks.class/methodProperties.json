@@ -5,4 +5,6 @@
 		"setupOrbeon" : "jupiter 10/08/2018 23:36",
 		"setupProductionEnvironment" : "jupiter 10/08/2018 23:29" },
 	"instance" : {
-		"baseline:" : "jupiter 03/29/2020 00:16" } }
+		"baseline:" : "jupiter 08/27/2020 14:16",
+		"baselineFull:" : "jupiter 08/27/2020 14:15",
+		"baselineQuickLoad:" : "jupiter 08/27/2020 14:17" } }
