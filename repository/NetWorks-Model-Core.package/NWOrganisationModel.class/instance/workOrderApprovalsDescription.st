@@ -1,9 +1,9 @@
 descriptions
-myWorkOrdersDescription
+workOrderApprovalsDescription
   | template |
   template := NWWorkOrder new.
   ^ NWToManyRelationDescription new
-    accessor: #'myWorkOrders';
+    accessor: #'workOrderApprovals';
     classes: {NWWorkOrder};
     reference:
         template titleDescription , template contractorNameOrUnassignedDescription

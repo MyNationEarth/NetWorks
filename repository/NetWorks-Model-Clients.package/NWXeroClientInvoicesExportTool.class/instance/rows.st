@@ -1,3 +1,8 @@
 export file
 rows
-  ^ self organisationModel projects
+  ^ self organisationModel clientInvoicesForExport
+    inject: OrderedCollection new
+    into: [ :rows :invoice | 
+      rows
+        addAll: invoice lineItems;
+        yourself ]

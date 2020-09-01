@@ -9,7 +9,8 @@ generateNewClientInvoices
     do: [ :project | 
       project jobs
         do: [ :job | 
-          (job workOrders select: [ :workOrder | workOrder hasLineItemsReadyToInvoice ])
+          (job workOrders
+            select: [ :workOrder | workOrder hasLineItemsReadyToInvoiceForClient ])
             ifNotEmpty: [ :workOrders | invoiceReadyWorkOrders addAll: workOrders ] ] ].
   invoiceReadyProjects := (invoiceReadyWorkOrders
     collect: [ :workOrder | workOrder project ]) asSet.	"Generate a new ContractorInvoice for each project that contains all WorkOrderLineItems that are ready to invoice"
@@ -30,21 +31,20 @@ generateNewClientInvoices
             yourself).
       projectWorkOrders
         do: [ :workOrder | 
-          workOrder lineItemsReadyToInvoice
+          workOrder lineItemsReadyToInvoiceForClient
             do: [ :workOrderLineItem | 
               newInvoice lineItems
                 add:
                   (NWInvoiceLineItem new
                     invoice: newInvoice;
-                    referencedLineItem: workOrderLineItem;
+                    referencedLineItem: workOrderLineItem jobLineItem;
                     quantity: workOrderLineItem quantityComplete;
                     unit:
-                        workOrderLineItem jobLineItem lineItemType valuePerUnit
-                            *
-                              workOrder contractor percentageOfRateForContractorInvoices;
-                    yourself) ] ] ].	"invoicesToCreate
+                        workOrderLineItem jobLineItem lineItemType valuePerUnit;
+                    yourself) ] ] ].
+  invoicesToCreate
     do: [ :invoice | 
       invoice client invoices add: invoice.
       invoice lineItems
-        do: [ :lineItem | lineItem referencedLineItem invoiceLineItem: lineItem ] ]."
+        do: [ :lineItem | lineItem referencedLineItem invoiceLineItem: lineItem ] ].
   ^ invoicesToCreate

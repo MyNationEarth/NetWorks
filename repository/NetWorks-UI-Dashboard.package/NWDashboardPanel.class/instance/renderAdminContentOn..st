@@ -9,7 +9,11 @@ renderAdminContentOn: canvas
       self renderProjectsCompletedThisMonthBoxOn: canvas.
       self renderProjectsAwardedThisMonthBoxOn: canvas.
       self renderProjectsDesignApprovedThisMonthBoxOn: canvas.
-      self renderOpenDefectsBoxOn: canvas ].
+      self renderOpenDefectsBoxOn: canvas.
+      (self userHasRoleNamed: 'projectTabFinancials')
+        ifTrue: [ 
+          self renderProjectsCompletedValueThisMonthBoxOn: canvas.
+          self renderProjectsCompletedValueUnpaidUnpaidThisMonthBoxOn: canvas ] ].
   canvas heading
     level4;
     with: 'Charts'.

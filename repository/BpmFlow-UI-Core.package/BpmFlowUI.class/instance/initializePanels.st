@@ -13,4 +13,5 @@ initializePanels
     addPanel: (NWMaterialsPanel parent: self);
     addPanel: (NWMaterialStorePanel parent: self);
     addPanel: (NWPayrollPanel parent: self);
-    addPanel: (NWWorkOrdersPanel parent: self)
+    addPanel: (NWWorkOrdersPanel parent: self);
+    addPanel: (NWWorkOrdersApprovalPanel parent: self)
