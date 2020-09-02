@@ -17,7 +17,7 @@ renderProjectsCompletedValueUnpaidUnpaidThisMonthBoxOn: canvas
     number:
         (completedThisMonth
             inject: 0
-            into: [ :value :project | value + (project cspoValue ifNil: [ 0 ]) ]);
+            into: [ :value :project | value + (project finalPayment ifNil: [ 0 ]) ]);
     widgetColor: 'aqua';
     yourself.
   canvas tbsColumn
