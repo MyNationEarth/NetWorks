@@ -5,4 +5,5 @@ ensureFileSystem
   super ensureFileSystem.
   self
     defectsDirectory;
-    constructionDirectory
+    constructionDirectory;
+    constructionQualityDirectory
