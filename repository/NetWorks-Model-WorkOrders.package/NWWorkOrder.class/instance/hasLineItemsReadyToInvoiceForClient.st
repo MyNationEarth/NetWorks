@@ -4,6 +4,6 @@ hasLineItemsReadyToInvoiceForClient
 
   self lineItems
     do: [ :lineItem | 
-      (lineItem approvedForInvoice and: [ lineItem jobLineItem invoiceLineItem isNil ])
+      (lineItem approvedForInvoice and: [ lineItem clientInvoiceLineItem isNil ])
         ifTrue: [ ^ true ] ].
   ^ false

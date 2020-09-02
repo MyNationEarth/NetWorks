@@ -49,7 +49,7 @@ renderFinancialsOn: canvas
         with: [ self renderDescriptionsWithLabels: #('CSPO Value') on: canvas ] ].
   canvas heading
     level3;
-    with: 'Datateks Invoices'.
+    with: self organisationModel ecmName , ' Invoices'.
   self renderInvoiceOn: canvas.
   canvas
     tbsRow: [ 

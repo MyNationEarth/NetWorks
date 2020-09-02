@@ -46,5 +46,5 @@ generateNewClientInvoices
     do: [ :invoice | 
       invoice client invoices add: invoice.
       invoice lineItems
-        do: [ :lineItem | lineItem referencedLineItem invoiceLineItem: lineItem ] ].
+        do: [ :lineItem | lineItem referencedLineItem invoiceLineItemAt: lineItem workOrder put: lineItem ] ].
   ^ invoicesToCreate
