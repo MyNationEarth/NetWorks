@@ -11,7 +11,7 @@ renderProjectsCompletedValueThisMonthBoxOn: canvas
             and: [ project pcHandedOverDate monthIndex = month ] ] ].
   projectBox := AdminLTEInfoBoxWidget new
     icon: #'dollar';
-    label: 'Completed Value This Month';
+    label: 'Completed Value (' , (Date nameOfMonth: month) , ')';
     number:
         (completedThisMonth
             inject: 0

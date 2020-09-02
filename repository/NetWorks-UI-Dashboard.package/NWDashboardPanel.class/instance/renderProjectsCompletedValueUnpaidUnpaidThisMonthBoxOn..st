@@ -13,7 +13,7 @@ renderProjectsCompletedValueUnpaidUnpaidThisMonthBoxOn: canvas
                 and: [ project paymentDate isNil or: [ project invoiveNumber isNil ] ] ] ] ].
   projectBox := AdminLTEInfoBoxWidget new
     icon: #'dollar';
-    label: 'Unpaid Value This Month';
+    label: 'Unpaid Value (' , (Date nameOfMonth: month) , ')';
     number:
         (completedThisMonth
             inject: 0
