@@ -3,6 +3,6 @@ designDDDResubmissionDateDescription
   <magritteDescription>
   ^ NWDateDescription new
     accessor: #'designDDDResubmissionDate';
-    label: 'DDD Resubmission Date';
+    label: 'External DDD Resubmission Date';
     priority: 650;
     yourself

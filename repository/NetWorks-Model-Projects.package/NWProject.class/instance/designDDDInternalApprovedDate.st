@@ -1,0 +1,3 @@
+Accessing
+designDDDInternalApprovedDate
+	^designDDDInternalApprovedDate

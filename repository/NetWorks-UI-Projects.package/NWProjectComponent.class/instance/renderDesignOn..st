@@ -53,16 +53,54 @@ renderDesignOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('DDD Submission Forecast Date') on: canvas ].
+        with: [ 
+              self
+                renderDescriptionsWithLabels:
+                  #('External DDD Submission Forecast Date')
+                on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('DDD Actual Submission Date') on: canvas ].
+        with: [ 
+              self
+                renderDescriptionsWithLabels:
+                  #('External DDD Actual Submission Date')
+                on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('DDD Resubmission Date') on: canvas ].
+        with: [ 
+              self
+                renderDescriptionsWithLabels:
+                  #('External DDD Resubmission Date')
+                on: canvas ].
       canvas tbsColumn
         smallSize: 3;
-        with: [ self renderDescriptionsWithLabels: #('DDD Approved Date') on: canvas ] ].
+        with: [ self renderDescriptionsWithLabels: #('External DDD Approved Date') on: canvas ] ].
+  canvas
+    tbsRow: [ 
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ 
+              self
+                renderDescriptionsWithLabels:
+                  #('Internal DDD Submission Forecast Date')
+                on: canvas ].
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ 
+              self
+                renderDescriptionsWithLabels:
+                  #('Internal DDD Actual Submission Date')
+                on: canvas ].
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ 
+              self
+                renderDescriptionsWithLabels:
+                  #('Internal DDD Resubmission Date')
+                on: canvas ].
+      canvas tbsColumn
+        smallSize: 3;
+        with: [ self renderDescriptionsWithLabels: #('Internal DDD Approved Date') on: canvas ] ].
   canvas
     tbsRow: [ 
       canvas tbsColumn
