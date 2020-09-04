@@ -6,18 +6,15 @@ renderProjectsCompletedValueUnpaidUnpaidThisMonthBoxOn: canvas
   completedThisMonth := self organisationModel projects
     select: [ :project | 
       project pcHandedOverDate notNil
-        and: [ 
-          project pcHandedOverDate year = year
-            and: [ 
-              project pcHandedOverDate monthIndex = month
-                and: [ project paymentDate isNil or: [ project invoiveNumber isNil ] ] ] ] ].
+        and: [ project paymentDate isNil or: [ project invoiceNumber isNil ] ] ].
   projectBox := AdminLTEInfoBoxWidget new
     icon: #'dollar';
-    label: 'Unpaid Value (' , (Date nameOfMonth: month) , ')';
+    label: 'Unpaid Value';
     number:
-        (completedThisMonth
+        ((completedThisMonth
             inject: 0
-            into: [ :value :project | value + (project finalPayment ifNil: [ 0 ]) ]);
+            into: [ :value :project | value + (project finalPayment ifNil: [ 0 ]) ])
+            printShowingDecimalPlaces: 0);
     widgetColor: 'aqua';
     yourself.
   canvas tbsColumn
