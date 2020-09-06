@@ -33,18 +33,18 @@ generateNewClientInvoices
         do: [ :workOrder | 
           workOrder lineItemsReadyToInvoiceForClient
             do: [ :workOrderLineItem | 
+              | invoiceLineItem |
               newInvoice lineItems
                 add:
-                  (NWInvoiceLineItem new
+                  (invoiceLineItem := NWInvoiceLineItem new
                     invoice: newInvoice;
                     referencedLineItem: workOrderLineItem jobLineItem;
                     quantity: workOrderLineItem quantityComplete;
                     unit:
                         workOrderLineItem jobLineItem lineItemType valuePerUnit;
-                    yourself) ] ] ].
-  invoicesToCreate
-    do: [ :invoice | 
-      invoice client invoices add: invoice.
-      invoice lineItems
-        do: [ :lineItem | lineItem referencedLineItem invoiceLineItemAt: lineItem workOrder put: lineItem ] ].
+                    yourself).
+              workOrderLineItem jobLineItem
+                invoiceLineItemAt: workOrder
+                put: invoiceLineItem ] ] ].
+  invoicesToCreate do: [ :invoice | invoice client invoices add: invoice ].
   ^ invoicesToCreate

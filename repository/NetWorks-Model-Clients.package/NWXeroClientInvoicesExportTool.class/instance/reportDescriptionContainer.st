@@ -4,7 +4,7 @@ reportDescriptionContainer
   template := self rows first.
   ^ (template clientTitleDescription
     label: '*ContactName';
-    yourself) , template clientEmailAddressDescription
+    yourself) , (template emptyDescriptionWithLabel: 'EmailAddress')
     , (template emptyDescriptionWithLabel: 'POAddressLine1')
     , (template emptyDescriptionWithLabel: 'POAddressLine2')
     , (template emptyDescriptionWithLabel: 'POAddressLine3')
