@@ -4,11 +4,7 @@ renderProjectsDesignApprovedThisMonthBoxOn: canvas
   year := Date today year.
   month := Date today monthIndex.
   projectsThisMonth := self organisationModel projects
-    select: [ :project | 
-      project designDDDApprovedDate notNil
-        and: [ 
-          project designDDDApprovedDate year = year
-            and: [ project designDDDApprovedDate monthIndex = month ] ] ].
+    select: [ :project | project designApprovedMonth: month year: year ].
   projectBox := AdminLTEInfoBoxWidget new
     icon: #'briefcase';
     label: 'Design Approved This Month';
