@@ -1,6 +1,6 @@
 rendering
 renderAdminContentOn: canvas
-  self workOrdersComponent reset.
+  self workOrdersComponent memento reset.
   canvas tbsRow
     with: [ 
       canvas tbsColumn

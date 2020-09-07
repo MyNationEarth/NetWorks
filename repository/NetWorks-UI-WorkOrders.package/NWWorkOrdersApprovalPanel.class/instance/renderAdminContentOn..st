@@ -1,5 +1,6 @@
 rendering
 renderAdminContentOn: canvas
+  self workOrderApprovalComponent memento reset.
   self workOrderApprovalComponent reset.
   canvas tbsRow
     with: [ 
