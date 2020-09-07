@@ -1,3 +1,3 @@
 defaults
 defaultLabel
-  ^ 'Work Order Approvals'
+  ^ 'Work Order Line Item Approvals'

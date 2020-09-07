@@ -9,6 +9,7 @@ buildCategoryOptions
   'HFC DFN'.
   'Internal Design'.
   'MDU Internal Build'.
+  'Network Shortfall'.
   'Non Standard'.
   'Non-Compliant'.
   'Other DP'.

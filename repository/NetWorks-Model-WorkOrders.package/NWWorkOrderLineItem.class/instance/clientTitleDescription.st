@@ -4,8 +4,11 @@ clientTitleDescription
 
   ^ MAStringDescription new
     accessor:
-        (MAChainAccessor accessors: #(#'workOrder' #'job' #'project' #'client' #'title'));
+        (MAChainAccessor
+            accessors:
+              #(#'workOrder' #'job' #'project' #'contract' #'client' #'title'));
     label: 'Client';
+    reportColumnClass: NWDescribedColumn;
     priority: 300;
     beRequired;
     beReadonly;

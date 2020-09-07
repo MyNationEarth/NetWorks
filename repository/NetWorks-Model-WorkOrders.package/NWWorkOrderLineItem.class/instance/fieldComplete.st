@@ -1,3 +1,3 @@
 Accessing
 fieldComplete
-	^fieldComplete
+  ^ fieldComplete ifNil: [ false ]

@@ -1,11 +1,10 @@
 descriptions
-projectTitleDescription
+jobTitleDescription
   "<magritteDescription>"
 
   ^ MAStringDescription new
-    accessor:
-        (MAChainAccessor accessors: #(#'workOrder' #'job' #'project' #'title'));
-    label: 'Project';
+    accessor: (MAChainAccessor accessors: #(#'workOrder' #'job' #'title'));
+    label: 'Job';
     priority: 300;
     reportColumnClass: NWDescribedColumn;
     beRequired;

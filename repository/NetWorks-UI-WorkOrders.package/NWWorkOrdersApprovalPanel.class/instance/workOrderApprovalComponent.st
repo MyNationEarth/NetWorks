@@ -9,7 +9,7 @@ workOrderApprovalComponent
         addForm: #();
         addDecoration:
             (AdminLTEBoxDecoration new
-                label: 'Work Orders';
+                label: 'Work Order Line Items';
                 icon: self defaultIcon;
                 yourself);
         yourself ]
