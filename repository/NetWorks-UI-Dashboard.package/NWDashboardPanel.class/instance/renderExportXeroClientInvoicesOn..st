@@ -18,4 +18,7 @@ renderExportXeroClientInvoicesOn: canvas
                           (canvas tag: 'i')
                             fontAwesome;
                             fontAwesomeFileIcon ].
-                      canvas text: 'Export Xero Client Invoices Spreadsheet' ] ] ]
+                      canvas
+                        text:
+                          'Export ' , self organisationModel clientInvoicesForExport size asString
+                            , ' Xero Client Invoices' ] ] ]
