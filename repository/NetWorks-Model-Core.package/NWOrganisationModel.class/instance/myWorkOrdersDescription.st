@@ -9,6 +9,7 @@ myWorkOrdersDescription
         template titleDescription , template contractorNameOrUnassignedDescription
             , template projectTitleDescription , template samDescription
             , template clientTitleDescription
+            , template isFieldCompleteDescription
             , template percentageCompleteDescription;
     label: 'Work Orders';
     priority: 100;
