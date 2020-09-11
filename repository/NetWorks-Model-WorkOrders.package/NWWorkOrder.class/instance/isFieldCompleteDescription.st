@@ -1,6 +1,5 @@
 descriptions
 isFieldCompleteDescription
-  <magritteDescription>
   ^ MABooleanDescription new
     accessor: #'isFieldComplete';
     label: 'Field Complete';
