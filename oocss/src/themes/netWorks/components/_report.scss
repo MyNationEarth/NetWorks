@@ -95,8 +95,13 @@ table.report, .reportComponent table {
         }
         
         &.text-left {
-        	text-align: left;
+        	text-align: left !Important;
         }
+        
+    	&.text-right {
+        	text-align: right !Important;
+        }
+
     }
     
     // selection

@@ -103,7 +103,10 @@ table.report th:last-child a, table.report tbody td:last-child a, .reportCompone
   padding-left: 8px;
 }
 table.report th.text-left, table.report tbody td.text-left, .reportComponent table th.text-left, .reportComponent table tbody td.text-left {
-  text-align: left;
+  text-align: left !important;
+}
+table.report th.text-right, table.report tbody td.text-right, .reportComponent table th.text-right, .reportComponent table tbody td.text-right {
+  text-align: right !important;
 }
 table.report tbody tr td:last-child, .reportComponent table tbody tr td:last-child {
   opacity: 0.5;
