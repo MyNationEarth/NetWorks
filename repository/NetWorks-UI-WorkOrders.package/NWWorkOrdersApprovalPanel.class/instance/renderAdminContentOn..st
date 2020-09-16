@@ -2,6 +2,8 @@ rendering
 renderAdminContentOn: canvas
   self workOrderApprovalComponent memento reset.
   self workOrderApprovalComponent reset.
+  self workOrderApprovalComponent children
+    do: [ :childComponent | childComponent refresh ].
   canvas tbsRow
     with: [ 
       canvas tbsColumn
