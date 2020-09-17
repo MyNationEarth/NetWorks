@@ -1,9 +1,9 @@
 rendering
 renderProjectsCompletedValueUnpaidUnpaidThisMonthBoxOn: canvas
-  | year month completedThisMonth projectBox |
+  | year month unpaidProjects projectBox |
   year := Date today year.
   month := Date today monthIndex.
-  completedThisMonth := self organisationModel projects
+  unpaidProjects := self organisationModel projects
     select: [ :project | 
       project pcHandedOverDate notNil
         and: [ project paymentDate isNil or: [ project invoiceNumber isNil ] ] ].
@@ -11,7 +11,7 @@ renderProjectsCompletedValueUnpaidUnpaidThisMonthBoxOn: canvas
     icon: #'dollar';
     label: 'Unpaid Value';
     number:
-        ((completedThisMonth
+        ((unpaidProjects
             inject: 0
             into: [ :value :project | value + (project finalPayment ifNil: [ 0 ]) ])
             printShowingDecimalPlaces: 0);
@@ -32,9 +32,8 @@ renderProjectsCompletedValueUnpaidUnpaidThisMonthBoxOn: canvas
                             panel:
                               (NWSelectedProjectsPanel new
                                 parent: self;
-                                criteriaLabel:
-                                    'Completed in ' , (Date nameOfMonth: month);
-                                searchResult: completedThisMonth;
+                                criteriaLabel: 'Unpaid Projects';
+                                searchResult: unpaidProjects;
                                 yourself)) ];
                 with: [ canvas render: projectBox ] ]
             ifFalse: [ canvas render: projectBox ] ]
