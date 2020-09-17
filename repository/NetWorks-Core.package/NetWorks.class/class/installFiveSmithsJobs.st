@@ -1,7 +1,7 @@
 5smiths
 installFiveSmithsJobs
   | importFile |
-  importFile := 'L0401 Validations 6.csv'.
+  importFile := '2RIV03L0109Construction Import.csv'.
   NWJobImportTool
     importFile:
       '/opt/git/MyNationEarth/NetWorks/documents/FiveSmiths/jobImport/' , importFile

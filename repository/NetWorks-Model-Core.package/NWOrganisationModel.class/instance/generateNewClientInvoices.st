@@ -22,8 +22,7 @@ generateNewClientInvoices
       newInvoice := invoicesToCreate
         add:
           (NWClientInvoice new
-            title:
-                project contract client xeroAccountAndNextInvoiceNumberIncrementing;
+            title: project contract xeroAccountAndNextInvoiceNumberIncrementing;
             client: project contract client;
             project: project;
             issueDate: (invoiceDate := Date today);

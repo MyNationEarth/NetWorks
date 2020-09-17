@@ -18,6 +18,10 @@ reportDescriptionContainer
         label: '*InvoiceNumber';
         yourself)
     ,
+      (template projectTitleDescription
+        label: 'Refernce';
+        yourself)
+    ,
       (template issueDateDescription
         label: '*InvoiceDate';
         yourself)
