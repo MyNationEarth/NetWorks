@@ -1,3 +1,3 @@
 Accessing
 clientInvoiceLineItem
-  ^ self jobLineItem invoiceLineItemAt: self
+  ^ self jobLineItem invoiceLineItemAt: workOrder
