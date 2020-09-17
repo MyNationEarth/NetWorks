@@ -10,4 +10,4 @@ cleanUpAfterDelete
   self lineItems
     do: [ :lineItem | 
       lineItem referencedLineItem
-        ifNotNil: [ :referencedLineItem | referencedLineItem invoiceLineItem: nil ] ]
+        ifNotNil: [ :referencedLineItem | referencedLineItem removeInvoiceLineItem: lineItem ] ]
