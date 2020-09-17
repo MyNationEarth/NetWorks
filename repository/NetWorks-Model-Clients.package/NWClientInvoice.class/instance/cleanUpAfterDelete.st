@@ -6,4 +6,8 @@ cleanUpAfterDelete
     ifTrue: [ self project contractorInvoices remove: self ]."
 
   (self client notNil and: [ self client invoices includes: self ])
-    ifTrue: [ self client invoices remove: self ]
+    ifTrue: [ self client invoices remove: self ].	"De-reference all the line items so they no longer appear as invoiced. NOTE: This may not be the right way to handle this in the long term"
+  self lineItems
+    do: [ :lineItem | 
+      lineItem referencedLineItem
+        ifNotNil: [ :referencedLineItem | referencedLineItem invoiceLineItem: nil ] ]

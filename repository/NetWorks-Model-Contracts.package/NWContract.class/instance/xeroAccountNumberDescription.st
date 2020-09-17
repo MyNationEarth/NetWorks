@@ -1,7 +1,7 @@
 descriptions
 xeroAccountNumberDescription
   <magritteDescription>
-  ^ MANumberDescription new
+  ^ MAStringDescription new
     accessor: #'xeroAccountNumber';
     label: 'Xero Account Number';
     priority: 100;
