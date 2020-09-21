@@ -19,7 +19,7 @@ reportDescriptionContainer
         yourself)
     ,
       (template projectTitleDescription
-        label: 'Refernce';
+        label: 'Reference';
         yourself)
     ,
       (template issueDateDescription
