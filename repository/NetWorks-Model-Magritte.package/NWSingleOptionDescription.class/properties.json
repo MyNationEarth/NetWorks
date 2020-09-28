@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Magritte",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NWSingleOptionDescription",
+	"pools" : [
+		 ],
+	"super" : "MASingleOptionDescription",
+	"type" : "normal" }

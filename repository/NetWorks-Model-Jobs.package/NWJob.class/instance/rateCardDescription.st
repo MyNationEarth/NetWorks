@@ -2,7 +2,7 @@ descriptions
 rateCardDescription
   <magritteDescription>
   | description |
-  description := MASingleOptionDescription new
+  description := NWSingleOptionDescription new
     accessor: #'rateCard';
     options: self organisationModel rateCardsCurrent;
     reference: NWRateCard new titleDescription asContainer;
@@ -13,5 +13,6 @@ rateCardDescription
     label: 'Rate Card';
     priority: 300;
     beRequired;
+    beForceSelectionFromNil;
     yourself.
   ^ description

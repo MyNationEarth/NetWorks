@@ -1,0 +1,3 @@
+testing
+isForceSelectionFromNil
+  ^ self forceSelectionFromNil
