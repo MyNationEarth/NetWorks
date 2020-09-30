@@ -20,7 +20,6 @@ pullIdentifiersFromTitle: aTitleString
   temp := temp copyReplaceAll: fsam with: ''.
   (address isNil or: [ address isEmpty ])
     ifTrue: [ self address: (self cleanString: temp) ].
-  self
-    minorWorksNumber: mw;
-    aycaNumber: ayca;
-    sam: fsam
+  mw ifNotEmpty: [ self minorWorksNumber: mw ].
+  ayca ifNotNil: [ self aycaNumber: ayca ].
+  fsam ifNotEmpty: [ self sam: fsam ]
