@@ -16,6 +16,10 @@ reportDescriptionContainer
     , template designDDDResubmissionDateDescription
     , template designDDDStatusDescription
     , template designDDDApprovedDateDescription
+    , template designDDDInternalSubmissionForecastDateDescription
+    , template designDDDInternalActualSubmissionDateDescription
+    , template designDDDInternalResubmissionDateDescription
+    , template designDDDInternalApprovedDateDescription
     , template designLAANSubmissionDateDescription
     , template designHECSubmissionDateDescription
     , template designHECApprovalDateDescription
