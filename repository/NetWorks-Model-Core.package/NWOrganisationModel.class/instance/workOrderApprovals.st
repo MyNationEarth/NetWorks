@@ -8,6 +8,7 @@ workOrderApprovals
     do: [ :project | 
       project jobs
         do: [ :job | 
-          (job workOrders select: [ :workOrder | workOrder hasLineItemsAwaitingApproval ])
-            do: [ :workOrder | workOrderApprovals addAll: workOrder lineItemsAwaitingApproval ] ] ].
+          workOrderApprovals
+            addAll:
+              (job workOrders select: [ :workOrder | workOrder hasLineItemsAwaitingApproval ]) ] ].
   ^ workOrderApprovals

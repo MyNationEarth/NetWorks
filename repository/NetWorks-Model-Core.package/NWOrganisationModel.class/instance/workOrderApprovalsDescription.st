@@ -1,15 +1,15 @@
 descriptions
 workOrderApprovalsDescription
   | template |
-  template := NWWorkOrderLineItem new.
+  template := NWWorkOrder new.
   ^ NWToManyRelationDescription new
     accessor: #'workOrderApprovals';
-    classes: {NWWorkOrderLineItem};
+    classes: {NWWorkOrder};
     reference:
-        template titleDescription , template contractorTitleDescription
-            , template projectTitleDescription , template jobTitleDescription
-            , template clientTitleDescription;
-    label: 'Work Order Line Items';
+        template titleDescription , template contractorNameOrUnassignedDescription
+            , template percentageCompleteDescription
+            , template totalNumberOfFilesAndDirectoriesDescription;
+    label: 'Work Orders Awaiting Approval';
     priority: 100;
     beSorted;
     beDefinitive;
