@@ -45,7 +45,10 @@ reportDescriptionContainer
       (template xeroAccountNumberDescription
         label: '*AccountCode';
         yourself)
-    , (template emptyDescriptionWithLabel: '*TaxType')
+    ,
+      (template taxTypeDescription
+        label: '*TaxType';
+        yourself)
     , (template emptyDescriptionWithLabel: 'TrackingName1')
     , (template emptyDescriptionWithLabel: 'TrackingOption1')
     , (template emptyDescriptionWithLabel: 'TrackingName2')
