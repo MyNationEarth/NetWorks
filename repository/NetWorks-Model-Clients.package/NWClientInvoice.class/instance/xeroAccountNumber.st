@@ -1,3 +1,3 @@
 Accessing
 xeroAccountNumber
-  ^ self client xeroAccountNumber
+  ^ self project contract xeroAccountNumber
