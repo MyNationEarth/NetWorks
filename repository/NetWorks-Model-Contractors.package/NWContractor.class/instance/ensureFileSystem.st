@@ -6,4 +6,5 @@ ensureFileSystem
   self
     insurancesDirectory;
     invoicesDirectory;
-    agreementsDirectory
+    agreementsDirectory;
+    contactsDirectory

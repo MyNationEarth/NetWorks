@@ -13,10 +13,20 @@ renderProjectsCompletedValueThisMonthBoxOn: canvas
     icon: #'dollar';
     label: 'Completed Value (' , (Date nameOfMonth: month) , ')';
     number:
-        (completedThisMonth
+        ((completedThisMonth
             inject: 0
-            into: [ :value :project | value + (project finalPayment ifNil: [ 0 ]) ]);
+            into: [ :value :project | value + (project finalPayment ifNil: [ 0 ]) ])
+            asFloat printShowingDecimalPlaces: 0);
     widgetColor: 'aqua';
+    actionsRenderingBlock: [ :canvas | 
+          (self userHasRoleNamed: 'exportProjects')
+            ifTrue: [ 
+              canvas anchor
+                callback: [ self respondWithProjectsSpreadsheetForProjects: completedThisMonth ];
+                with: [ 
+                      (canvas tag: 'i')
+                        fontAwesome;
+                        fontAwesomeDownloadIcon ] ] ];
     yourself.
   canvas tbsColumn
     mediumSize: 3;

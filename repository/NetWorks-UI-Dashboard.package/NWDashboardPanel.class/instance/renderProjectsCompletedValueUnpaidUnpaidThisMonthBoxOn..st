@@ -14,7 +14,16 @@ renderProjectsCompletedValueUnpaidUnpaidThisMonthBoxOn: canvas
         ((unpaidProjects
             inject: 0
             into: [ :value :project | value + (project finalPayment ifNil: [ 0 ]) ])
-            printShowingDecimalPlaces: 0);
+            asFloat printShowingDecimalPlaces: 0);
+    actionsRenderingBlock: [ :canvas | 
+          (self userHasRoleNamed: 'exportProjects')
+            ifTrue: [ 
+              canvas anchor
+                callback: [ self respondWithProjectsSpreadsheetForProjects: unpaidProjects ];
+                with: [ 
+                      (canvas tag: 'i')
+                        fontAwesome;
+                        fontAwesomeDownloadIcon ] ] ];
     widgetColor: 'aqua';
     yourself.
   canvas tbsColumn
