@@ -1,0 +1,3 @@
+Accessing
+rateCardTitle
+  ^ job rateCardTitle

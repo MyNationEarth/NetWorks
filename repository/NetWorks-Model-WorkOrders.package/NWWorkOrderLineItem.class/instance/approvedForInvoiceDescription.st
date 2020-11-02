@@ -1,9 +1,13 @@
 descriptions
 approvedForInvoiceDescription
   <magritteDescription>
-  ^ MABooleanDescription new
+  | desc |
+  desc := MABooleanDescription new
     accessor: #'approvedForInvoice';
     label: 'Approved For Invoice';
     default: false;
     priority: 200;
-    yourself
+    yourself.
+  self invoiceLineItem notNil
+    ifTrue: [ desc beReadonly ].
+  ^ desc

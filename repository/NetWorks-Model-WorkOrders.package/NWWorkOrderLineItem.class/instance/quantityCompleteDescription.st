@@ -1,10 +1,14 @@
 descriptions
 quantityCompleteDescription
   <magritteDescription>
-  ^ MANumberDescription new
+  | desc |
+  desc := MANumberDescription new
     accessor: #'quantityComplete';
     label: 'Completed Quantity';
     priority: 250;
     default: 0;
     propertyAt: #'icon' put: #'check';
-    yourself
+    yourself.
+  (self invoiceLineItem notNil or: [ self fieldComplete ])
+    ifTrue: [ desc beReadonly ].
+  ^ desc

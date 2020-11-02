@@ -1,9 +1,13 @@
 descriptions
 fieldCompleteDescription
   <magritteDescription>
-  ^ MABooleanDescription new
+  | desc |
+  desc := MABooleanDescription new
     accessor: #'fieldComplete';
     label: 'Field Complete';
     default: false;
     priority: 100;
-    yourself
+    yourself.
+  self invoiceLineItem notNil
+    ifTrue: [ desc beReadonly ].
+  ^ desc
