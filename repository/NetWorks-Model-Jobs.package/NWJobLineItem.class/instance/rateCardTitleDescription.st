@@ -1,6 +1,7 @@
 descriptions
 rateCardTitleDescription
-  <magritteDescription>
+  "<magritteDescription>"
+
   ^ MAStringDescription new
     accessor: #'rateCardTitle';
     label: 'Rate Card';
