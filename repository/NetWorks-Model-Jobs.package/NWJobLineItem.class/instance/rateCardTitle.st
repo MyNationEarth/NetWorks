@@ -1,3 +1,3 @@
 Accessing
 rateCardTitle
-  ^ job rateCardTitle
+  ^ lineItemType rateCard title
