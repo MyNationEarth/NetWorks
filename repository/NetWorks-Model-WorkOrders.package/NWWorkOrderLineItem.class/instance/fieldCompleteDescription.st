@@ -8,6 +8,6 @@ fieldCompleteDescription
     default: false;
     priority: 100;
     yourself.
-  self invoiceLineItem notNil
+  (self approvedForInvoice or: [ self invoiceLineItem notNil ])
     ifTrue: [ desc beReadonly ].
   ^ desc
