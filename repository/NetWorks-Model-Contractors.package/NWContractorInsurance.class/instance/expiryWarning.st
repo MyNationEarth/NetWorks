@@ -1,5 +1,8 @@
 Accessing
 expiryWarning
-  ^ expiryDate < Date today
-    ifTrue: [ 'EXPIRED' ]
-    ifFalse: [ 'Current' ]
+  ^ expiryDate
+    ifNil: [ 'NO EXPIRY DATE' ]
+    ifNotNil: [ 
+      expiryDate < Date today
+        ifTrue: [ 'EXPIRED' ]
+        ifFalse: [ 'Current' ] ]
