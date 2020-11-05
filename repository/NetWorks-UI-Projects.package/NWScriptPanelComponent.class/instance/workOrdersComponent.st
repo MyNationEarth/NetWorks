@@ -10,6 +10,8 @@ workOrdersComponent
         title: 'WorkOrders';
         wrapperClass: 'workOrderList';
         dropScope: 'workOrder';
+        enableSearch;
+        selectAllNoneToggle: true;
         items:
             (self project jobs
                 ifEmpty: [ #() ]
