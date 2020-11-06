@@ -4,5 +4,4 @@ renderJobsOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 12;
-        with: [ self renderDescriptionsWithLabels: #('Jobs') on: canvas ] ].
-  self renderExportOn: canvas
+        with: [ self renderDescriptionsWithLabels: #('Jobs') on: canvas ] ]

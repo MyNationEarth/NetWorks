@@ -7,3 +7,5 @@ reportDescriptionContainer
     , template quantityDescription
     , template workOrderLineItemsCompleteQuantityDescription
     , template workOrderLineItemsCompleteByContractorSummaryDescription
+    , template rateValuePerUnitDescription
+    , template rateExtendedValueDescription

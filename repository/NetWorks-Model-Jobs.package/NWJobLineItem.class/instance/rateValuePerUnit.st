@@ -1,0 +1,3 @@
+Accessing
+rateValuePerUnit
+  ^ lineItemType valuePerUnit
