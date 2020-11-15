@@ -1,3 +1,3 @@
 magritte-hooks
-backReferemce: aRateCategory
+backReference: aRateCategory
   rateCategory := aRateCategory
