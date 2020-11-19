@@ -1,10 +1,8 @@
 descriptions
 workOrdersAreFieldCompleteDescription
-  ^ MABooleanDescription new
+  ^ MAStringDescription new
     accessor: #'workOrdersAreFieldComplete';
     label: 'Field Complete';
-    trueString: 'Yes';
-    falseString: '';
     isReadonly;
     priority: 100;
     yourself
