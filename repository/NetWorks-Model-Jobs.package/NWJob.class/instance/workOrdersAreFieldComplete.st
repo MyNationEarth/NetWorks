@@ -5,12 +5,13 @@ workOrdersAreFieldComplete
     streamContents: [ :stream | 
       workOrders size == 0
         ifFalse: [ 
-          fieldCompletedWorkOrders := workOrders
-            select: [ :workOrder | workOrder isFieldComplete ].
-          fieldCompletedWorkOrders size == workOrders size
-            ifTrue: [ stream nextPutAll: 'Yes' ]
+          (fieldCompletedWorkOrders := workOrders
+            select: [ :workOrder | workOrder isFieldComplete ]) size == 0
             ifFalse: [ 
-              stream
-                nextPutAll: fieldCompletedWorkOrders size asString;
-                nextPut: Character space;
-                nextPutAll: 'Complete' ] ] ]
+              fieldCompletedWorkOrders size == workOrders size
+                ifTrue: [ stream nextPutAll: 'Yes' ]
+                ifFalse: [ 
+                  stream
+                    nextPutAll: fieldCompletedWorkOrders size asString;
+                    nextPut: Character space;
+                    nextPutAll: 'Complete' ] ] ] ]
