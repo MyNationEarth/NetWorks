@@ -8,7 +8,8 @@ jobsDescription
     classes: {NWJob};
     reference:
         template titleDescription , template commentDescription
-            , template assignmentInformationDescription;
+            , template assignmentInformationDescription
+            , template workOrdersAreFieldCompleteDescription;
     label: 'Jobs';
     priority: 400;
     yourself
