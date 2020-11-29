@@ -1,8 +1,8 @@
 descriptions
-userNameDescription
+referencedObjectTitleDescription
   ^ MAStringDescription new
-    accessor: #'userName';
-    label: 'User';
+    accessor: #'referencedObjectTitle';
+    label: 'Reference';
     priority: 650;
     reportColumnClass: NWDescribedColumn;
     yourself

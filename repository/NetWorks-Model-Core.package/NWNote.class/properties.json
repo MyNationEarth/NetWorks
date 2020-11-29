@@ -7,7 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"dateAndTime",
-		"user" ],
+		"user",
+		"referencedObject" ],
 	"name" : "NWNote",
 	"pools" : [
 		 ],
