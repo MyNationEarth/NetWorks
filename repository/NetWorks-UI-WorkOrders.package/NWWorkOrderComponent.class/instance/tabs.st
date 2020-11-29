@@ -13,6 +13,15 @@ tabs
             yourself);
     add:
         (Dictionary new
+            at: #'id' put: #'notes';
+            at: #'label' put: 'Notes';
+            at: #'icon' put: #'list';
+            at: #'accessRoleNames' put: #('projectTabNotes');
+            at: #'callback'
+              put: [ announcer announce: (NWTabSelected tab: #'notes') ];
+            yourself);
+    add:
+        (Dictionary new
             at: #'id' put: #'lineItems';
             at: #'label' put: 'Work Order Line Items';
             at: #'icon' put: #'user';

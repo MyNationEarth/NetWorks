@@ -12,7 +12,8 @@
 		"scheduleDate",
 		"scheduleDuration",
 		"completionDate",
-		"lineItems" ],
+		"lineItems",
+		"notes" ],
 	"name" : "NWWorkOrder",
 	"pools" : [
 		 ],

@@ -12,7 +12,8 @@
 		"location",
 		"workOrders",
 		"lineItems",
-		"workflow" ],
+		"workflow",
+		"notes" ],
 	"name" : "NWJob",
 	"pools" : [
 		 ],
