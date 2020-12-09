@@ -10,5 +10,5 @@
 	"name" : "NWIncidentReportPDF",
 	"pools" : [
 		 ],
-	"super" : "NWAbstractComponent",
+	"super" : "NWAbstractContainerComponent",
 	"type" : "normal" }

@@ -1,3 +1,3 @@
 magritte hooks
 addButtonsToForm: formDecoration
-  formDecoration addButton: #'exportPdf' label: 'Export PDF'
+  formDecoration addButton: #'showPdfVersion' label: 'Printable Page|_blank'
