@@ -12,6 +12,6 @@ notesFromJobsDescription
             , template userNameDescription , template dateAndTimeDescription;
     label: 'Job Notes';
     priority: 400;
-    beReadonly;
+    beDefinitive;
     beSorted;
     yourself

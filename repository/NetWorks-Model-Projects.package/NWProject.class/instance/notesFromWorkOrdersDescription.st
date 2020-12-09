@@ -12,6 +12,6 @@ notesFromWorkOrdersDescription
             , template userNameDescription , template dateAndTimeDescription;
     label: 'Work Order Notes';
     priority: 400;
-    beReadonly;
+    beDefinitive;
     beSorted;
     yourself
