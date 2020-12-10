@@ -7,8 +7,11 @@ renderProjectsDesignApprovedThisMonthBoxOn: canvas
     select: [ :project | project designApprovedMonth: month year: year ].
   projectBox := AdminLTEInfoBoxWidget new
     icon: #'briefcase';
-    label: 'Design Approved This Month';
-    number: projectsThisMonth size;
+    label: 'Designs Approved This Month';
+    number:
+        (projectsThisMonth
+            inject: 0
+            into: [ :tally :project | tally + (project designsApprovedMonth: month year: year) ]);
     widgetColor: 'aqua';
     yourself.
   canvas tbsColumn
