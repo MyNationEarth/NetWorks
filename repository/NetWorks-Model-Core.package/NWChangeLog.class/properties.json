@@ -1,0 +1,17 @@
+{
+	"category" : "NetWorks-Model-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dateAndTime",
+		"user",
+		"model",
+		"changes" ],
+	"name" : "NWChangeLog",
+	"pools" : [
+		 ],
+	"super" : "NWAbstractModelObject",
+	"type" : "normal" }

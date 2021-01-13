@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"handleAuthorisation:" : "jupiter 12/17/2020 08:20",
+		"handleFiltered:" : "jupiter 12/17/2020 09:51",
+		"validateUserName:password:" : "jupiter 12/17/2020 09:17",
+		"verifyApiKey:requestContext:" : "jupiter 12/15/2020 11:21",
+		"verifyRequest:" : "jupiter 12/17/2020 08:17" } }

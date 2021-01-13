@@ -21,4 +21,8 @@ install
     addLibrary: BpmFlowUIFileLibrary;
     addLibrary: NWTBSDevelopmentLibrary;
     addLibrary: ElFinderFileLibrary;
-    addLibrary: JQFullCalendarFileLibrary
+    addLibrary: JQFullCalendarFileLibrary.
+  WAAdmin
+    register: NWNginxAuthRequestHandler
+    at: 'nginxAuth'
+    in: WAAdmin defaultDispatcher

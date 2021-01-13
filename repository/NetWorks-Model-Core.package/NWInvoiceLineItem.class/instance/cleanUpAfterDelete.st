@@ -1,5 +1,5 @@
 magritte hooks
 cleanUpAfterDelete
   super cleanUpAfterDelete.
-  referencedLineItem invoiceLineItem: nil.
+  referencedLineItem removeInvoiceLineItem: self.
   invoice calculateAmountPayableFromLineItems
