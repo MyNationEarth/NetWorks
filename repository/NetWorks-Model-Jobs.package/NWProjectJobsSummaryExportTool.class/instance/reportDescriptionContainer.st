@@ -7,6 +7,6 @@ reportDescriptionContainer
     , template quantityDescription
     , template workOrderLineItemsCompleteQuantityDescription
     , template workOrderLineItemsCompleteByContractorSummaryDescription
-    , template workOrdersAreFieldCompleteDescription
+    , template workOrderLineItemsAreFieldCompleteDescription
     , template rateValuePerUnitDescription
     , template rateExtendedValueDescription
