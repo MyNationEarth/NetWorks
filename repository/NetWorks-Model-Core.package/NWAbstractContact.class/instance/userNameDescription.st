@@ -1,9 +1,11 @@
 descriptions
 userNameDescription
   <magritteDescription>
-  ^ MAStringDescription new
+  | desc |
+  desc := MAStringDescription new
     accessor: #'userName';
     label: 'User Name';
     priority: 10;
     componentClass: TBSMagritteTextInputComponent;
-    yourself
+    yourself.
+  ^ desc
