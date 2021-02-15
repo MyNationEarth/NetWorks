@@ -1,0 +1,3 @@
+Accessing
+parent
+  ^ self project
