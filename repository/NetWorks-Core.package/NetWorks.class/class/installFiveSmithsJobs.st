@@ -1,7 +1,7 @@
 5smiths
 installFiveSmithsJobs
   | importFile |
-  importFile := '2CAS-04 Import.csv'.
+  importFile := '2URR-22 Import 2.csv'.
   NWJobImportTool
     importFile:
       '/opt/git/MyNationEarth/NetWorks/documents/FiveSmiths/jobImport/' , importFile
