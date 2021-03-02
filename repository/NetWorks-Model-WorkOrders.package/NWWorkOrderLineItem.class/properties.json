@@ -12,7 +12,9 @@
 		"quantityComplete",
 		"tests",
 		"fieldComplete",
+		"fieldCompleteBy",
 		"approvedForInvoice",
+		"approvedBy",
 		"invoiceLineItem" ],
 	"name" : "NWWorkOrderLineItem",
 	"pools" : [
