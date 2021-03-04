@@ -8,6 +8,7 @@ lineItemsDescription
     classes: {NWWorkOrderLineItem};
     reference:
         template jobLineItemTypeCommentDescription
+            , template fieldCompleteByDisplayNameDescription
             , template quantityCompleteDescription;
     propertyAt: #'objectDecorationClasses' put: {AdminLTEBoxDecoration};
     label: 'Line Items';
