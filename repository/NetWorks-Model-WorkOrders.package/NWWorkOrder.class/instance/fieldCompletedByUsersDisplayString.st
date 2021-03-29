@@ -2,6 +2,6 @@ Accessing
 fieldCompletedByUsersDisplayString
   ^ String
     streamContents: [ :str | 
-      self fieldCompleteByUsers
+      self fieldCompletedByUsers
         do: [ :user | str nextPutAll: user displayName ]
         separatedBy: [ str nextPutAll: ', ' ] ]

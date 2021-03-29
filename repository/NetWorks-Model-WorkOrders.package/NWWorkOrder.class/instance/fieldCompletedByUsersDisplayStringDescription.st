@@ -1,7 +1,7 @@
 descriptions
 fieldCompletedByUsersDisplayStringDescription
   ^ MAStringDescription new
-    accessor: #'fieldCompleteByUsersDisplayString';
+    accessor: #'fieldCompletedByUsersDisplayString';
     label: 'Completed By';
     beReadonly;
     yourself
