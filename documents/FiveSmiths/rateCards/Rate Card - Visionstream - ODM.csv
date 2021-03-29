@@ -1,0 +1,577 @@
+Customer,Contract ,Item Code,Item Name,Unit of Measure (UoM),Rate
+Visionstream,Visionstream - ODM,CW-01-01-01a,Supply and install 1 x P50 PVC pipe in open trench in OTR (Other Than Rock),Per linear metre, $	40.00 
+Visionstream,Visionstream - ODM,CW-01-01-01b,Supply and install 1 x P50 (63 OD) pipe using boring techniques in OTR (Other Than Rock) less than 250m,Per linear metre, $	50.00 
+Visionstream,Visionstream - ODM,CW-01-01-01c,Supply and install 1 x P50 (63 OD) pipe using grundomat in OTR (Other Than Rock),Per linear metre, $	43.00 
+Visionstream,Visionstream - ODM,CW-01-01-01d,Supply and install  P50 Conduit Entr(ies) to ACM Pit,Each ACM Pit, $	150.00 
+Visionstream,Visionstream - ODM,CW-01-01-01e,"Hydrovac excavation for P50 &
+reinstate",Hour, $	160.00 
+Visionstream,Visionstream - ODM,CW-01-01-01f,"Extra Over rate for 1X P50 (63 OD) Pipe using Boring techniques in OTR (Other than Rock) for Short Bore (Less than  or Equal to 20
+Mtrs)",Per Setup*, $	180.00 
+Visionstream,Visionstream - ODM,CW-01-01-02a,"Supply and install 1 x P100 PVC pipe in open trench in OTR (Other
+Than Rock)",Per linear metre, $	49.00 
+Visionstream,Visionstream - ODM,CW-01-01-02b,"Supply and install 1 x P100 (110 OD) pipe using boring techniques in
+OTR (Other Than Rock)",Per linear metre, $	70.00 
+Visionstream,Visionstream - ODM,CW-01-01-02c,Supply and install 1 x P100 (110 OD) pipe using grundomat in OTR (Other Than Rock),Per linear metre, $	62.00 
+Visionstream,Visionstream - ODM,CW-01-01-02d,Supply and install  P100 Conduit Entr(ies) to ACM Pit,Each ACM Pit, $	150.00 
+Visionstream,Visionstream - ODM,CW-01-01-02e,Hydrovac excavation for P100 & reinstate,Hour, $	160.00 
+Visionstream,Visionstream - ODM,CW-01-01-02f,"Extra Over rate for 1X P100 (110 OD) Pipe using Boring techniques in OTR (Other than Rock) for Short Bore (Less than  or Equal to 20
+Mtrs)",Per Setup*, $	180.00 
+Visionstream,Visionstream - ODM,CW-01-01-03a,Extra over for supply and install an additional underground pipe in an existing trench with an internal diameter of greater than 25mm in open trench provided by other including reinstatement,Per linear metre, $	10.00 
+Visionstream,Visionstream - ODM,CW-01-01-04a,"Extra over for supply and install an additional underground pipe by boring technique with an internal
+diameter of 50mm",Per linear metre, $	38.00 
+Visionstream,Visionstream - ODM,CW-01-01-04b,Extra over for supply and install an additional underground pipe by boring technique with an internal diameter of 100mm,Per linear metre, $	58.00 
+Visionstream,Visionstream - ODM,CW-01-01-05a,Supply and install riser on pole or building,Per riser, $	180.00 
+Visionstream,Visionstream - ODM,CW-01-02-01a,Extra over rate for 1 x P50 PVC pipe in open trench in Rock,Per linear metre, $	60.00 
+Visionstream,Visionstream - ODM,CW-01-02-01b,Extra over rate for 1 x P100 PVC pipe in open trench in Rock,Per linear metre, $	80.00 
+Visionstream,Visionstream - ODM,CW-01-02-01c,Extra over rate for 1 x P50 (63 OD) pipe using boring techniques in Rock,Per linear metre, $	165.00 
+Visionstream,Visionstream - ODM,CW-01-02-01d,Extra over rate for 1 x P100 (110 OD) pipe using boring techniques in Rock,Per linear metre, $	180.00 
+Visionstream,Visionstream - ODM,CW-02-01-01a,"Supply only of complete small pit
+(P2)","Per Complete
+Pit",Excluded
+Visionstream,Visionstream - ODM,CW-02-01-01b,"Installation of small pit (P2) at New
+location in other than Rock",Per Pit, $	175.00 
+Visionstream,Visionstream - ODM,CW-02-01-01c,Installation of small pit (P2) over existing infrastructure in other than Rock,Per Pit, $	200.00 
+Visionstream,Visionstream - ODM,CW-02-01-02a,Supply of complete medium pit (P5),Per Complete Pit,Excluded
+Visionstream,Visionstream - ODM,CW-02-01-02b,"Installation of medium pit (P5) at
+New location in other than Rock",Per Pit, $	360.00 
+Visionstream,Visionstream - ODM,CW-02-01-02c,"Installation of medium pit (P5) over existing infrastructure in other than
+Rock",Per Pit, $	480.00 
+Visionstream,Visionstream - ODM,CW-02-01-03a,Supply only of complete P6 Plastic Pit (1370x550x680),Per Complete Pit,Excluded
+Visionstream,Visionstream - ODM,CW-02-01-03b,"Supply only of complete P8 Plastic
+Pit (1380x565x890)","Per Complete
+Pit",Excluded
+Visionstream,Visionstream - ODM,CW-02-01-03c,Installation of large pits (P6 and P8) at New location in other than Rock,Per Pit, $	550.00 
+Visionstream,Visionstream - ODM,CW-02-01-03d,Installation of large pits (P6 and P8) over existing infrastructure in other than Rock,Per Pit, $	750.00 
+Visionstream,Visionstream - ODM,,,,
+Visionstream,Visionstream - ODM,,,,
+Visionstream,Visionstream - ODM,CW-02-01-04a,"Supply only of complete P9 Plastic
+Pit (2040x 550x900)","Per Complete
+Pit",Excluded
+Visionstream,Visionstream - ODM,CW-02-01-04b,Installation of extra-large (P9) pit at New location in other than Rock,Per Pit, $	670.00 
+Visionstream,Visionstream - ODM,,,,
+Visionstream,Visionstream - ODM,CW-02-01-04c,Installation of extra-large (P9) over existing infrastructure in other than Rock,Per Pit," $	1,100.00 "
+Visionstream,Visionstream - ODM,,,,
+Visionstream,Visionstream - ODM,,,,
+Visionstream,Visionstream - ODM,CW-02-01-05a,Supply riser to P5 pit,Each pit riser,Excluded
+Visionstream,Visionstream - ODM,CW-02-01-05b,Supply riser to P6 pit,Each pit riser,Excluded
+Visionstream,Visionstream - ODM,CW-02-01-05c,Supply riser to P8 pit,Each pit riser,Excluded
+Visionstream,Visionstream - ODM,CW-02-01-05d,Supply riser to P9 pit,Each pit riser,Excluded
+Visionstream,Visionstream - ODM,CW-02-01-05e,Install pit riser,Each pit riser, $	150.00 
+Visionstream,Visionstream - ODM,CW-02-01-06a,Supply pit lids,Each pit lids,Excluded
+Visionstream,Visionstream - ODM,CW-02-01-06b,Install pit lids,Each pit lids, $	25.00 
+Visionstream,Visionstream - ODM,CW-02-01-08a,Supply composite pit lids,Each pit lids,Excluded
+Visionstream,Visionstream - ODM,CW-02-01-08b,Install composite pit lids,Each pit lids, $	25.00 
+Visionstream,Visionstream - ODM,CW-02-02-01a,Extra over rate for the installation of a pit in Rock,Per cubic metre, $	150.00 
+Visionstream,Visionstream - ODM,CW-02-03-01a,Removal and disposal of small and medium (P2) ACM Pit,Each ACM Pit, $	500.00 
+Visionstream,Visionstream - ODM,CW-02-03-01b,"Extra over rate to remove and dispose of asbestos conduit(s) for new small pit at new location is being installed over existing ACM
+pipe(s)",Each Pit,Excluded
+Visionstream,Visionstream - ODM,CW-02-03-02a,"Removal and disposal of small and
+medium (P5) ACM Pit",Each ACM Pit, $	500.00 
+Visionstream,Visionstream - ODM,CW-02-03-02b,"Extra over rate to remove and dispose of asbestos conduit(s) for new Medium pit at new location is being installed over existing ACM
+pipe(s)",Each Pit,Excluded
+Visionstream,Visionstream - ODM,CW-02-03-03a,Removal and disposal of large (P6 or P8) ACM Pit,Each ACM Pit, $	700.00 
+Visionstream,Visionstream - ODM,CW-02-03-03b,"Extra over rate to remove and
+dispose of asbestos conduit(s) for new Large pit at new location is being installed over existing ACM
+pipe(s)",Each Pit,Excluded
+Visionstream,Visionstream - ODM,CW-02-03-04a,"Removal and disposal of extra-large
+(P9) ACM Pit",Each ACM Pit, $	850.00 
+Visionstream,Visionstream - ODM,CW-02-03-04b,"Extra over rate to remove and dispose of asbestos conduit(s) for new Xlarge pit at new location is being installed over existing ACM
+pipe(s)",Each Pit,Excluded
+Visionstream,Visionstream - ODM,CW-02-04-01a,Remove and dispose of a single lid plastic pit,Each Pit,Excluded
+Visionstream,Visionstream - ODM,CW-02-04-02a,Remove and dispose of a double lid plastic pit,Each Pit,Excluded
+Visionstream,Visionstream - ODM,CW-03-01-01a,Core bore,Each core bore, $	200.00 
+Visionstream,Visionstream - ODM,CW-04-01-01a,Installation only of single cable by direct buried techniques by any means,Per linear metre, $	6.00 
+Visionstream,Visionstream - ODM,CW-04-02-01a,Extra over for the installation of a single cable by direct buried techniques in Rock,Per linear metre, $	70.00 
+Visionstream,Visionstream - ODM,CW-04-03-01a,Supply marker post,Per marker post,Excluded
+Visionstream,Visionstream - ODM,CW-04-03-01b,install marker post,Per marker post, $	27.00 
+Visionstream,Visionstream - ODM,CW-05-01-01a,Identify and repair blockage(s) at a single location less than 1200mm deep and up to 2.1m in length,Per blockage location repaired, $	380.00 
+Visionstream,Visionstream - ODM,CW-05-01-01b,Extra over rate to remove and dispose of asbestos conduit while repairing a ACM pipe blockage,Per Location,Excluded
+Visionstream,Visionstream - ODM,CW-05-01-02a,Clear pipe blockage using high pressure water,Per blockage cleared, $	180.00 
+Visionstream,Visionstream - ODM,CW-05-01-03a,Extra over for the repair of a secondary damaged or blocked duct in any surface,Per blockage location repaired, $	330.00 
+Visionstream,Visionstream - ODM,CW-06-01-01a,Breakout concrete surface material,Per linear metre, $	45.00 
+Visionstream,Visionstream - ODM,CW-06-01-02a,Breakout asphalt or bitumen,Per linear metre, $	40.00 
+Visionstream,Visionstream - ODM,CW-06-01-03a,Breakout paving material in CBD areas,Per linear metre, $	100.00 
+Visionstream,Visionstream - ODM,CW-06-01-04a,Breakout paving material in all areas other than CBD,Per linear metre, $	55.00 
+Visionstream,Visionstream - ODM,CW-06-02-01a,Reinstate concrete surface material,Per linear metre, $	145.00 
+Visionstream,Visionstream - ODM,CW-06-02-02a,Reinstate asphalt or bitumen,Per linear metre, $	98.00 
+Visionstream,Visionstream - ODM,CW-06-02-03a,Reinstate paving material in CBD areas,Per linear metre, $	300.00 
+Visionstream,Visionstream - ODM,CW-06-02-04a,Reinstate paving material in all areas other than CBD,Per linear metre, $	90.00 
+Visionstream,Visionstream - ODM,CI-01-01-01a,Pipe Proving in existing duct,Per linear metre, $	2.00 
+Visionstream,Visionstream - ODM,CI-01-02-01a,Pipe Proving in existing riser on a pole or in existing riser on the external face of a building,Per existing riser on a pole or existing riser on the external face of a building, $	45.00 
+Visionstream,Visionstream - ODM,CI-02-01-01a,"Installation of a cable sheath greater than 144 fibre in
+underground duct by any means",Per linear metre, $	3.10 
+Visionstream,Visionstream - ODM,CI-02-01-01b,"Installation of a cable sheath greater than 144 fibre in underground duct by any means
+(Outside Working Hours)",Per linear metre, $	3.50 
+Visionstream,Visionstream - ODM,CI-02-01-01c,"Supply and Installation of pipe seal
+TDux Product",Each Pit, $	20.00 
+Visionstream,Visionstream - ODM,CI-02-01-02a,"Installation of a cable sheath greater than 12 fibre and up to and including 144 fibre in underground
+duct by any means",Per linear metre, $	2.70 
+Visionstream,Visionstream - ODM,CI-02-01-02b,"Installation of a cable sheath greater than 12 fibre and up to and including 144 fibre in underground duct by any means (Outside
+Working Hours)",Per linear metre, $	3.10 
+Visionstream,Visionstream - ODM,CI-02-01-03a,Installation of 12 fibre cable sheath in underground duct by any means,Per linear metre, $	2.20 
+Visionstream,Visionstream - ODM,CI-02-01-03b,"Installation of 12 fibre cable sheath in underground duct by any means
+(Outside Working Hours)",Per linear metre, $	2.60 
+Visionstream,Visionstream - ODM,CI-02-01-04a,Installation of single fibre cable sheath in underground duct by any means,Per linear metre, $	1.80 
+Visionstream,Visionstream - ODM,CI-02-01-04b,Installation of single fibre cable sheath in underground duct by any means (Outside Working Hours),Per linear metre, $	2.20 
+Visionstream,Visionstream - ODM,CI-02-01-05a,"Installation of a cable sheath in
+existing riser on a pole or in existing riser on the external face of a
+building",Per cable sheath, $	45.00 
+Visionstream,Visionstream - ODM,CI-02-02-01a,"Installation of copper cable greater than 2 pair and up to and including
+10 pair in underground duct",Per linear metre, $	1.80 
+Visionstream,Visionstream - ODM,CI-02-02-01b,"Installation of copper cable greater than 10 pair and up to and including 100 pair in underground
+duct",Per linear metre, $	2.75 
+Visionstream,Visionstream - ODM,CI-02-02-02a,Installation of copper cable of greater than 100 pair in underground duct,Per linear metre, $	4.75 
+Visionstream,Visionstream - ODM,CI-02-03-01b,Installation of CX50/CX75 hardline in underground duct by any means by any means,Per linear metre, $	5.50 
+Visionstream,Visionstream - ODM,CI-02-03-02a,"Installation of hardline in an
+existing riser on a pole or in an existing riser on the external face of
+a building",Per Riser, $	45.00 
+Visionstream,Visionstream - ODM,CI-03-01-01a,Installation of cable sheath and all NBN Co infrastructure on timber poles in the communications corridor,Per Span, $	371.20 
+Visionstream,Visionstream - ODM,CI-03-01-02a,Installation of cable sheath and all NBN Co infrastructure on stobie poles in the communications corridor,Per Span, $	416.09 
+Visionstream,Visionstream - ODM,CI-03-01-03a,Installation of cable sheath and all NBN Co infrastructure on concrete or steel poles in the communications corridor,Per Span, $	411.29 
+Visionstream,Visionstream - ODM,CI-03-01-04a,Installation of cable sheath and all NBN Co infrastructure on timber poles in the power corridor,Per Span, $	270.00 
+Visionstream,Visionstream - ODM,CI-03-01-05a,Installation of cable sheath and all NBN Co infrastructure on stobie poles in the power corridor,Per Span, $	355.00 
+Visionstream,Visionstream - ODM,CI-03-01-06a,Installation of cable sheath and all NBN Co infrastructure on concrete or steel poles in the power corridor,Per Span, $	355.00 
+Visionstream,Visionstream - ODM,CI-03-02-01a,Installation of copper cable sheath and all NBN Co infrastructure on timber poles in the communications corridor up to 100 pair,Per Span, $	371.20 
+Visionstream,Visionstream - ODM,CI-03-02-02a,Installation of copper cable sheath and all NBN Co infrastructure on stobie poles in the communications corridor up to 100 pair,Per Span, $	416.09 
+Visionstream,Visionstream - ODM,CI-03-02-03a,Installation of copper cable sheath and all NBN Co infrastructure on concrete or steel poles in the communications corridor up to 100 pair,Per Span, $	411.29 
+Visionstream,Visionstream - ODM,CI-03-02-04a,Installation of copper cable sheath and all NBN Co infrastructure on timber poles in the power corridor up to 100 pair,Per Span, $	371.20 
+Visionstream,Visionstream - ODM,CI-03-02-05a,Installation of copper cable sheath and all NBN Co infrastructure on stobie poles in the power corridor up to 100 pair,Per Span, $	416.09 
+Visionstream,Visionstream - ODM,CI-03-03-01a,Installation of hardline on all pole types,Per Coaxial Cable Span, $	350.00 
+Visionstream,Visionstream - ODM,CI-03-03-03a,Installation of a catenary wire only on stobie poles,Per Coaxial Cable Span, $	295.33 
+Visionstream,Visionstream - ODM,CI-03-03-04a,Installation of a catenary wire only on concrete or steel poles,Per Coaxial Cable Span, $	295.33 
+Visionstream,Visionstream - ODM,CI-03-03-05a,Re-lashing of existing hardline to existing catenary wire,Per Coaxial Cable Span, $	218.40 
+Visionstream,Visionstream - ODM,CI-04-01-01a,Installation of cable sheath within a cable chamber or tunnel networks,Per linear metre, $	7.00 
+Visionstream,Visionstream - ODM,CI-04-01-01b,Installation of cable sheath within a cable chamber or tunnel networks (outside working hours),Per linear metre, $	10.00 
+Visionstream,Visionstream - ODM,CI-04-01-02a,"Installation of cable sheath via riser
+shaft/cable tray",Per linear metre, $	10.00 
+Visionstream,Visionstream - ODM,CI-04-01-02b,Installation of cable sheath via riser shaft/cable tray (outside working hours),Per linear metre, $	14.00 
+Visionstream,Visionstream - ODM,CI-04-01-03a,"Installation of cable sheath via ceiling space/floor cavity or crawl
+space",Per linear metre, $	12.20 
+Visionstream,Visionstream - ODM,CI-04-01-03b,Installation of cable sheath via ceiling space/floor cavity or crawl space (outside working hours),Per linear metre, $	17.20 
+Visionstream,Visionstream - ODM,CI-04-01-04a,"Installation of cable sheath via
+existing or new conduit",Per linear metre, $	7.30 
+Visionstream,Visionstream - ODM,CI-04-01-04b,Installation of cable sheath via existing or new conduit (outside working hours),Per linear metre, $	10.25 
+Visionstream,Visionstream - ODM,CI-04-02-02a,Extra over rate for supply and install earth cable for FTTB Cabinet,Per linear metre, $	12.00 
+Visionstream,Visionstream - ODM,CI-04-02-03a,"Extra over rate for the installation of a copper cable sheaths from main distribution frame to FTTB Cabinet, via riser, shaft or cable tray",Per linear metre, $	9.20 
+Visionstream,Visionstream - ODM,CI-04-02-04a,"Extra over rate for the installation of copper cable sheaths via ceiling space, floor cavity or crawl space",Per linear metre, $	10.50 
+Visionstream,Visionstream - ODM,CI-04-03-01a,Installation of backbone cable in buildings,Per linear metre, $	4.00 
+Visionstream,Visionstream - ODM,CI-04-03-02a,Installation of coaxial service drop cable (lateral) from isolator to the ICD in existing or new duct and the installation of the ICD,Per drop, $	82.00 
+Visionstream,Visionstream - ODM,CI-04-03-03a,Installation of coaxial service drop cable (lateral) from isolator to ICD on existing or new cable tray and the installation of the ICD,Per drop, $	121.00 
+Visionstream,Visionstream - ODM,CI-04-03-04a,Installation of coaxial service drop cable (lateral) from isolator to ICD in cavity or communications riser and the installation of the ICD,Per drop, $	95.00 
+Visionstream,Visionstream - ODM,CI-04-03-05a,Installation of coaxial customer premises tie-cabling from ICD to wall plate,Per wall plate, $	85.00 
+Visionstream,Visionstream - ODM,CI-04-03-06a,Installation of coaxial customer premises tie-cabling from isolator to unterminated location within ceiling void,Per Tie cable, $	100.00 
+Visionstream,Visionstream - ODM,CI-04-03-07a,Installation of coaxial customer premises drop cable from isolator to wall plate in existing or new ducting,Per drop, $	145.00 
+Visionstream,Visionstream - ODM,CI-04-03-08a,Installation of coaxial customer premises drop cable from isolator to wall plate on existing or new cable tray,Per drop, $	145.00 
+Visionstream,Visionstream - ODM,CI-04-03-09a,Installation of coaxial customer premises drop cable from isolator to wall plate in cavity or communications riser,Per drop, $	145.00 
+Visionstream,Visionstream - ODM,CI-05-01-01a,Removal and disposal of cable in distribution aerial Network,Per Span, $	190.00 
+Visionstream,Visionstream - ODM,CI-05-01-02a,Removal and disposal of cable in local aerial Network,Per Span, $	190.00 
+Visionstream,Visionstream - ODM,CI-05-01-03a,Removal and disposal of catenary wire in aerial Network,Per Span, $	180.00 
+Visionstream,Visionstream - ODM,CI-05-01-04a,Removal and disposal of cable in distribution underground Network,Per metre, $	1.40 
+Visionstream,Visionstream - ODM,CI-05-01-05a,Removal and disposal of cable in local underground Network,Per metre, $	1.30 
+Visionstream,Visionstream - ODM,CI-05-01-06a,Removal and disposal of cable in buildings,Per metre, $	3.30 
+Visionstream,Visionstream - ODM,CI-05-01-10a,Removal and disposal of aerial lead in cables,Per lead in, $	100.00 
+Visionstream,Visionstream - ODM,CI-05-01-11a,Relocation of aerial lead in cables,Per lead in, $	210.00 
+Visionstream,Visionstream - ODM,CI-05-01-12a,Disconnect and re-connect of aerial lead in cables,Per lead in, $	150.00 
+Visionstream,Visionstream - ODM,CI-05-01-15a,Removal and disposal of underground lead in cables,Per lead in, $	70.00 
+Visionstream,Visionstream - ODM,CB-01-01-01a,Installation of an external FDH Cabinet,Per FDH Cabinet," $	1,500.00 "
+Visionstream,Visionstream - ODM,CB-02-01-01a,Installation only of an external small port Node Cabinet,Per external Node Cabinet," $	4,800.00 "
+Visionstream,Visionstream - ODM,CB-02-01-02a,Installation only of an external medium port Node Cabinet,Per external Node Cabinet," $	6,500.00 "
+Visionstream,Visionstream - ODM,CB-02-01-03a,Installation only of an external large port Node cabinet,Per external Node Cabinet," $	6,500.00 "
+Visionstream,Visionstream - ODM,CB-02-02-01a,Installation of service jumpering in a FTTN/FTTB Node Cabinet,Per 48 Port Line Card, $	175.00 
+Visionstream,Visionstream - ODM,CB-02-02-02a,Cable layup within CJL for external small port CSD node,Per CJL, $	100.00 
+Visionstream,Visionstream - ODM,CB-03-01-01a,Installation of an internal small FTTB Cabinet,"Per FTTB
+Cabinet"," $	4,500.00 "
+Visionstream,Visionstream - ODM,CB-03-01-02a,Installation of an internal medium FTTB Cabinet,"Per FTTB
+Cabinet"," $	5,750.00 "
+Visionstream,Visionstream - ODM,CB-03-01-03a,Installation of an internal large FTTB Cabinet (greater than 192 up to 384 port),"Per FTTB
+Cabinet"," $	5,750.00 "
+Visionstream,Visionstream - ODM,CB-03-02-01a,Supply and install new service earth bar,Per service earth bar, $	70.00 
+Visionstream,Visionstream - ODM,CB-03-02-02a,Supply and install new service earth stake,Per service earth stake, $	60.00 
+Visionstream,Visionstream - ODM,CB-03-02-03a,Install a 10 pair MDF terminal block,Per 10 pair MDF terminal block, $	25.00 
+Visionstream,Visionstream - ODM,CB-03-02-04a,Install a 100 pair MDF terminal frame,"Per 100 pair MDF terminal
+frame", $	40.00 
+Visionstream,Visionstream - ODM,CB-04-01-01a,Removal and disposal of a cabinet,Per Cabinet,Excluded
+Visionstream,Visionstream - ODM,CB-04-01-02a,Repair of a cabinet panel,Per Cabinet,Excluded
+Visionstream,Visionstream - ODM,CB-04-01-03a,Removal of graffiti from a cabinet,Per Cabinet,Excluded
+Visionstream,Visionstream - ODM,CB-04-01-04a,Replacement of a cabinet lock,Per Cabinet,Excluded
+Visionstream,Visionstream - ODM,FB-01-01-01a,Installation and preparation of a new fibre joint enclosure greater than 144 fibres,Per fibre joint enclosure, $	460.00 
+Visionstream,Visionstream - ODM,FB-01-01-02a,Installation and preparation of a new fibre joint enclosure greater than 12 fibres and up to and including 144 fibres,Per fibre joint enclosure, $	305.00 
+Visionstream,Visionstream - ODM,FB-01-01-03a,Installation and preparation of a fibre joint enclosure up to and including 12 fibres,Per fibre joint enclosure, $	230.00 
+Visionstream,Visionstream - ODM,FB-01-01-04a,Installation and preparation of Gator fibre joint enclosure,Per Gator fibre joint enclosure, $	150.00 
+Visionstream,Visionstream - ODM,FB-01-02-01a,"Prepare a fibre cable sheath greater than 144 fibres  to be
+connected to fibre joint enclosures",Per cable sheath, $	210.00 
+Visionstream,Visionstream - ODM,FB-01-02-02a,"Prepare a fibre cable sheath greater 12 fibres and up to and including 144 fibres to be
+connected to fibre joint enclosures",Per cable sheath, $	110.00 
+Visionstream,Visionstream - ODM,FB-01-02-03a,"Prepare a 12 fibre cable to be
+connected to fibre joint enclosures","Per cable
+sheath", $	50.00 
+Visionstream,Visionstream - ODM,FB-01-02-04a,Prepare Single fibre cable sheath to be connected to fibre joint enclosures,Per cable sheath, $	35.00 
+Visionstream,Visionstream - ODM,FB-01-02-05a,Lay up of cable sheaths,Per cable sheath,Excluded
+Visionstream,Visionstream - ODM,FB-01-02-06a,"Prepare a loose tube fibre cable sheath greater than 144 fibres to be connected to fibre joint
+enclosures",Per cable sheath, $	335.00 
+Visionstream,Visionstream - ODM,FB-01-02-07a,"Prepare a loose tube fibre cable sheath greater 12 fibres and up to and including 144 fibres to be
+connected to fibre joint enclosures",Per cable sheath, $	110.00 
+Visionstream,Visionstream - ODM,FB-01-02-08a,"Prepare a loose tube 12 fibre cable to be connected to fibre joint
+enclosures",Per cable sheath, $	60.00 
+Visionstream,Visionstream - ODM,FB-01-02-09a,Prepare a loose tube Single fibre cable sheath to be connected to fibre joint enclosures,Per cable sheath, $	40.00 
+Visionstream,Visionstream - ODM,FB-01-03-01a,Re-entry into a fibre joint enclosure,Per fibre joint enclosure, $	90.00 
+Visionstream,Visionstream - ODM,FB-01-04-01a,Installation of splitter within existing FDH / PDH cabinet,Per splitter, $	30.00 
+Visionstream,Visionstream - ODM,FB-01-04-02a,Installation of splitter within an existing BJL enclosure,Per splitter, $	50.00 
+Visionstream,Visionstream - ODM,FB-01-04-03a,Installation of splitter within an existing FJL enclosure,Per splitter, $	69.00 
+Visionstream,Visionstream - ODM,FB-01-04-04a,Installation of a splitter card output fibres to LFN ports within and existing FDH cabinet,Per Fibre, $	10.00 
+Visionstream,Visionstream - ODM,FB-01-04-05a,Installation of a Fibre TV Splitter (TVS) within an FDH Cabinet,Per device, $	30.00 
+Visionstream,Visionstream - ODM,FB-01-04-06a,"Installation of a Fibre TV Splitter
+within a PDH enclosure",Per device, $	30.00 
+Visionstream,Visionstream - ODM,FB-02-01-01a,"Installation of multiport or splitter multiport in underground pit or
+manhole",Per multiport, $	25.00 
+Visionstream,Visionstream - ODM,FB-02-01-02a,Installation of multiport or splitter multiport on any pole,Per multiport, $	118.00 
+Visionstream,Visionstream - ODM,FB-02-01-03a,Replacement or Upgrade of existing splitter multiport in underground pit or manhole,Per multiport, $	100.00 
+Visionstream,Visionstream - ODM,FB-02-01-04a,Replacement or Upgrade of existing splitter multiport on any pole,Per multiport, $	160.00 
+Visionstream,Visionstream - ODM,FB-03-01-01a,Splicing of optic fibre ribbons,Per Ribbon Splice, $	16.00 
+Visionstream,Visionstream - ODM,FB-03-01-02a,Splicing of single fibre,Per Fibre Splice, $	14.50 
+Visionstream,Visionstream - ODM,FB-03-01-03a,Splicing of loose tube fibre,Per Fibre Splice, $	14.50 
+Visionstream,Visionstream - ODM,FB-03-01-04a,De ribbonise 12 fibre ribbon,Per ribbon, $	25.00 
+Visionstream,Visionstream - ODM,FB-04-02-01a,Uni-directional OTDR Testing to the first fibre tested,Per fibre, $	45.00 
+Visionstream,Visionstream - ODM,FB-04-02-02a,Extra over for additional Uni- directional OTDR Testing,Per fibre, $	16.00 
+Visionstream,Visionstream - ODM,FB-04-02-03a,Point to point DFL OTDR test to the first fibre tested,Per fibre, $	80.00 
+Visionstream,Visionstream - ODM,FB-04-02-04a,Extra over for additional Point to point DFL OTDR test,Per fibre, $	20.00 
+Visionstream,Visionstream - ODM,FB-04-02-05a,Insertion loss testing to the first fibre tested,Per fibre, $	45.00 
+Visionstream,Visionstream - ODM,FB-04-02-06a,Extra over for additional Insertion loss testing,Per fibre, $	16.00 
+Visionstream,Visionstream - ODM,FB-04-02-07a,Extra over rate for LFN / MTLFN insertion loss testing to the PCD,Per fibre, $	15.00 
+Visionstream,Visionstream - ODM,FB-04-02-08a,PON Power Meter Test,Per fibre, $	16.00 
+Visionstream,Visionstream - ODM,FB-04-02-09a,End to end connectivity testing to the GPON NTD at customer premises,Per fibre, $	35.00 
+Visionstream,Visionstream - ODM,FB-04-02-10a,End to end connectivity testing to SASK NTD at customer premises,Per fibre, $	35.00 
+Visionstream,Visionstream - ODM,FB-05-02-01a,Installation of a 12/24 way fibre patch panel within a customer premise environment,Per patch panel, $	110.00 
+Visionstream,Visionstream - ODM,FB-05-02-04a,Installation of a 24 way HDODF patch panel within a HDODF or equivalent environment,Per patch panel, $	85.00 
+Visionstream,Visionstream - ODM,FB-05-02-05a,Installation of a 72 way HDODF patch panel within a HDODF or equivalent environment,Per patch panel, $	120.00 
+Visionstream,Visionstream - ODM,FB-05-02-06a,Installation of a 144 way HDODF patch panel within a HDODF or equivalent environment,Per patch panel, $	150.00 
+Visionstream,Visionstream - ODM,FB-05-03-01a,"Prepare and splice of a 12 fibre
+sheath within a customer premises
+environment",Per cable sheath, $	110.00 
+Visionstream,Visionstream - ODM,FB-05-03-02a,Prepare and splice of a single fibre in a PIC cable,Per Fibre, $	45.00 
+Visionstream,Visionstream - ODM,FB-05-03-03a,Install patching cable within a HDODF or equivalent environment,Per patching cable, $	25.00 
+Visionstream,Visionstream - ODM,FB-05-03-06a,Prepare and splice a fibre cable sheath greater than 144 fibres to be connected within a HDODF environment,Per cable sheath, $	755.00 
+Visionstream,Visionstream - ODM,FB-05-03-07a,"Prepare and splice a fibre cable sheath greater 12 fibres and up to and including 144 fibres to be connected within a HDODF
+environment",Per cable sheath, $	565.00 
+Visionstream,Visionstream - ODM,FB-05-03-08a,"Installation of an inline optical attenuator in conjunction with
+HDODF patching works",Per optical attenuator, $	35.00 
+Visionstream,Visionstream - ODM,FB-05-03-09a,"Installation of an inline optical attenuator within the HDODF cabinet or equivalent rack environments as part of line
+balancing works for an FTTC DPU",Per optical attenuator, $	65.00 
+Visionstream,Visionstream - ODM,FB-06-01-01a,Removal of existing fibre joint enclosure,Per fibre joint enclosure, $	82.00 
+Visionstream,Visionstream - ODM,CP-01-01-01a,Installation of a new 900 type CCU,Per new 900 type CCU, $	741.00 
+Visionstream,Visionstream - ODM,CP-01-01-02a,Installation of a new 1800 type CCU,Per new 1800 type CCU, $	773.00 
+Visionstream,Visionstream - ODM,CP-01-01-03a,"Installation of 10 cable pair bundles between two copper cable insulation displacement modules (Connection Modules), including the termination of the bundle on each Connection Module",Per 10 cable pair bundle, $	38.00 
+Visionstream,Visionstream - ODM,CP-01-01-04a,Cutting over existing services from an existing Connection Module to a new Connection Module,Per 10 cable pairs, $	78.00 
+Visionstream,Visionstream - ODM,CP-01-02-01a,Upgrading of an existing CCU from 900 type to 1800 type,"Per CCU required to be upgraded from 900 type to
+1800 type", $	200.00 
+Visionstream,Visionstream - ODM,CP-01-02-02a,Augmentation of an existing 900 type CCU (Pillar Expansion Option 1),Per Expansion CCU, $	510.00 
+Visionstream,Visionstream - ODM,CP-01-02-03a,Augmentation of an existing 900 type CCU (Pillar Expansion Option 2),Per Expansion CCU, $	700.00 
+Visionstream,Visionstream - ODM,CP-01-03-01a,"Removal and disposal of an existing
+CCU","Per existing
+CCU", $	150.00 
+Visionstream,Visionstream - ODM,CP-01-04-01a,"Replacement of Pillar Lid Lock or
+Pillar Cap","Per existing
+CCU", $	21.00 
+Visionstream,Visionstream - ODM,CP-01-04-02a,"Installation of 2-piece Pillar Base
+Repair Kit","Per existing
+CCU", $	95.00 
+Visionstream,Visionstream - ODM,CP-01-04-03a,"Replace Cover Lightweight (1800
+Type)","Per existing
+CCU", $	30.00 
+Visionstream,Visionstream - ODM,CP-01-04-04a,"Replacement of copper cable insulation displacement connection module (Connection Module) and
+termination of cable",Per existing module, $	34.00 
+Visionstream,Visionstream - ODM,CP-02-01-01a,Installation of a new Distribution extra large copper joint,Per new Distribution extra large copper joint, $	700.00 
+Visionstream,Visionstream - ODM,CP-02-01-02a,Installation of a new Distribution large copper joint,Per new Distribution large copper joint, $	500.00 
+Visionstream,Visionstream - ODM,CP-02-01-03a,Installation of a new Distribution small copper joint,Per new Distribution small copper joint, $	220.00 
+Visionstream,Visionstream - ODM,CP-02-01-04a,Installation of a new Main Cable small copper joint,Per new Main Cable small copper joint, $	500.00 
+Visionstream,Visionstream - ODM,CP-02-01-05a,Installation of a new Main Cable medium copper joint,Per new Main Cable medium Copper joint," $	1,000.00 "
+Visionstream,Visionstream - ODM,CP-02-01-06a,Installation of a new Main Cable large copper joint enclosure,Per new Main Cable large Copper joint enclosure," $	2,500.00 "
+Visionstream,Visionstream - ODM,CP-02-01-07a,Installation of a new Main Cable extra large copper joint enclosure,Per new Main Cable extra large Copper joint enclosure," $	5,000.00 "
+Visionstream,Visionstream - ODM,CP-02-01-08a,Installation of a new aerial large copper joint,Per new Distribution large copper joint, $	250.00 
+Visionstream,Visionstream - ODM,CP-02-01-09a,Installation of a new aerial small copper joint,Per new Distribution small copper joint, $	200.00 
+Visionstream,Visionstream - ODM,CP-02-02-01a,Rehabilitate existing Distribution extra large or large openable copper joint,Per large openable copper joint, $	107.00 
+Visionstream,Visionstream - ODM,CP-02-02-02a,Rehabilitate existing Distribution medium or small openable copper joint,Per small openable copper joint, $	80.00 
+Visionstream,Visionstream - ODM,CP-02-02-03a,"Replacement of existing Distribution in-line copper joint with a new in-line large copper
+joint",Per existing copper joint replaced, $	302.40 
+Visionstream,Visionstream - ODM,CP-02-02-04a,"Replacement of existing Distribution in-line copper joint with a new in-line small copper
+joint",Per existing copper joint replaced, $	165.00 
+Visionstream,Visionstream - ODM,CP-02-02-05a,Cutting over existing services from an existing copper joint to a new large copper joint,Per existing copper joint replaced, $	210.00 
+Visionstream,Visionstream - ODM,CP-02-02-06a,Cutting over existing services from an existing copper joint to a new small copper joint,Per existing copper joint replaced, $	180.00 
+Visionstream,Visionstream - ODM,CP-02-02-07a,Rehabilitate existing aerial extra large or large copper joint,Per existing copper joint replaced, $	280.00 
+Visionstream,Visionstream - ODM,CP-02-02-08a,Rehabilitate existing aerial medium or small copper joint,Per existing copper joint replaced, $	195.00 
+Visionstream,Visionstream - ODM,CP-02-02-09a,Rehabilitate existing elevated copper joint,Per existing copper joint replaced, $	95.00 
+Visionstream,Visionstream - ODM,CP-02-02-10a,Rehabilitate existing small Distribution in-line copper joint,Per small in-line copper joint, $	150.00 
+Visionstream,Visionstream - ODM,CP-02-02-15a,"Rehabilitate existing extra large or large Distribution in-line copper
+joint",Per existing copper joint, $	310.00 
+Visionstream,Visionstream - ODM,CP-02-02-16a,Rehabilitate existing medium Distribution in-line copper joint,Per existing copper joint, $	200.00 
+Visionstream,Visionstream - ODM,CP-02-02-20a,Joint a working cable pair into an existing joint up to and including a 10 pair cable,Per existing copper joint, $	70.00 
+Visionstream,Visionstream - ODM,CP-02-02-21a,"Joint a working cable pair into an existing joint above a 10 pair cable and up to and including a 50 pair
+cable",Per existing copper joint, $	95.00 
+Visionstream,Visionstream - ODM,CP-02-02-22a,Joint a working cable pair into an existing joint above a 50 pair cable and up to and including a 100 pair cable,Per existing copper joint, $	160.00 
+Visionstream,Visionstream - ODM,CP-02-02-23a,Joint a working cable pair into an existing joint above 100 pair cable,Per existing copper joint, $	190.00 
+Visionstream,Visionstream - ODM,CP-02-02-24a,"Insert a 2 pair cable into an existing
+joint and joint to existing cable",Per 2 pair cable, $	70.00 
+Visionstream,Visionstream - ODM,CP-02-02-25a,"Insert a cable including a 10 pair and up to an including a 100 pair into an existing joint and joint to
+existing cable",Per Cable inserted, $	80.90 
+Visionstream,Visionstream - ODM,CP-02-02-26a,Locate and rectify a fault in a copper pair,Per Copper Cable, $	150.00 
+Visionstream,Visionstream - ODM,CP-02-03-01a,Removal of existing copper joint,Per existing copper joint, $	55.00 
+Visionstream,Visionstream - ODM,CP-02-03-02a,Removal of existing aerial copper joint,Per existing copper joint, $	70.00 
+Visionstream,Visionstream - ODM,CP-02-03-03a,Remove a existing elevated joint,Per existing copper joint, $	110.00 
+Visionstream,Visionstream - ODM,CP-02-04-01a,Joint sealing maintenance task (add Dexbond 10B Sealant),Per existing copper joint, $	55.00 
+Visionstream,Visionstream - ODM,CP-02-04-02a,"Replace joint lid, clamp, or Support Bar   (HSOJ or Dexgreen Joint)",Per existing copper joint, $	14.00 
+Visionstream,Visionstream - ODM,CP-02-04-03a,Replace or install 2-5pr Snap Enclosure,Per existing copper joint, $	25.00 
+Visionstream,Visionstream - ODM,CP-02-04-04a,Replace or install 10pr Snap Enclosure,Per existing copper joint, $	70.00 
+Visionstream,Visionstream - ODM,CP-02-04-05a,Replace connectors in an openable joint,Per existing copper joint, $	90.00 
+Visionstream,Visionstream - ODM,CP-02-04-06a,Replace Bandit Strap,Per existing copper joint, $	22.00 
+Visionstream,Visionstream - ODM,CP-03-01-01a,Removal of a pair gain system,Per pair gain system, $	395.00 
+Visionstream,Visionstream - ODM,CP-03-01-02a,"Migration of an existing service from a pair gain system to a
+dedicated copper circuit",Per existing service, $	150.00 
+Visionstream,Visionstream - ODM,CP-03-01-03a,Single service active migration in a CSD including service jumpering in the pillar,Per service, $	95.00 
+Visionstream,Visionstream - ODM,CP-03-01-04a,Removal of existing line conditioning equipment,Per existing line conditioning equipment, $	102.00 
+Visionstream,Visionstream - ODM,CP-03-01-05a,Removal of an existing bridge tap,Per existing bridge tap, $	52.00 
+Visionstream,Visionstream - ODM,CP-03-01-06a,"Install earth bonding cable
+between cable sections",Per linear metre, $	12.00 
+Visionstream,Visionstream - ODM,CP-03-01-10a,Multiple services pre-validation for migration at any location,Per existing service, $	100.00 
+Visionstream,Visionstream - ODM,CP-05-01-01a,Installation of service jumpering in an Exchange,Per Service, $	30.00 
+Visionstream,Visionstream - ODM,CP-05-01-02a,Existing service transfer jumpering in an MDF and termination end point,Per existing service, $	40.00 
+Visionstream,Visionstream - ODM,CP-05-02-01a,Installation of service jumpering in a cross connect unit for the first service jumpered,Per Service, $	40.00 
+Visionstream,Visionstream - ODM,CP-05-02-02a,Extra over service Jumpering in a cross connect unit,Per Service, $	8.50 
+Visionstream,Visionstream - ODM,EA-01-01-01a,Copper performance line testing,Per cable pair, $	65.00 
+Visionstream,Visionstream - ODM,EA-01-01-02a,Line Testing Vacant Pairs,Per cable pair, $	12.00 
+Visionstream,Visionstream - ODM,HF-01-01-01a,Installation of aerial bridger amplifier in new network,Per bridger amplifier, $	265.00 
+Visionstream,Visionstream - ODM,HF-01-01-02a,Installation of aerial bridger amplifier in existing network,Per bridger amplifier, $	290.00 
+Visionstream,Visionstream - ODM,HF-01-01-03a,Installation of aerial line-extender amplifier in new network,Per line- extender amplifier, $	230.00 
+Visionstream,Visionstream - ODM,HF-01-01-04a,Installation of aerial line-extender amplifier to existing network,Per line- extender amplifier, $	265.00 
+Visionstream,Visionstream - ODM,HF-01-01-05a,"Installation of aerial directional coupler, network splitter, line equaliser or line power inserter in new network",Per coupler or network splitter or line power inserter, $	140.00 
+Visionstream,Visionstream - ODM,HF-01-01-06a,"Installation of aerial mounted directional coupler, network splitter, line equaliser or line power inserter in existing network",Per coupler or network splitter or line power inserter, $	155.00 
+Visionstream,Visionstream - ODM,HF-01-01-07a,Installation of aerial line power supply in new network,Per line power supply, $	980.00 
+Visionstream,Visionstream - ODM,HF-01-01-08a,Installation of aerial line power supply in existing network,Per line power supply, $	990.00 
+Visionstream,Visionstream - ODM,HF-01-01-09a,Installation of pedestal mounted line power supply in new network,Per line power supply, $	690.00 
+Visionstream,Visionstream - ODM,HF-01-01-10a,Installation of pedestal mounted line power supply in existing network,Per line power supply, $	690.00 
+Visionstream,Visionstream - ODM,HF-01-01-11a,Installation of aerial tap in new network,Per tap, $	108.00 
+Visionstream,Visionstream - ODM,HF-01-01-12a,Installation of aerial tap in existing network,Per tap, $	115.00 
+Visionstream,Visionstream - ODM,HF-01-01-13a,Installation of aerial mounted power blocker in existing network,per device, $	140.00 
+Visionstream,Visionstream - ODM,HF-01-01-14a,Installation of aerial RF splice in existing network,Per Splice, $	135.00 
+Visionstream,Visionstream - ODM,HF-01-01-15a,"Installation of an earth to an existing aerial active device where no earth has been provided or is
+unserviceable",Per device, $	60.00 
+Visionstream,Visionstream - ODM,HF-01-01-16a,Installation of tie-cabling from PCD to wall plate,Per wall plate, $	99.00 
+Visionstream,Visionstream - ODM,HF-01-02-04a,Replacement of aerial tap face plate in the existing network,Per face plate, $	76.62 
+Visionstream,Visionstream - ODM,HF-01-02-05a,Replacement of existing PCD with a lock box,Per PCD, $	45.00 
+Visionstream,Visionstream - ODM,HF-01-03-01a,Removal of aerial bridger amplifier or aerial line extender amplifier in existing network,Per device, $	160.00 
+Visionstream,Visionstream - ODM,HF-01-03-02a,Removal of aerial coupler or aerial network splitter in existing network,Per device, $	138.00 
+Visionstream,Visionstream - ODM,HF-01-03-03a,Removal of aerial tap in existing network,Per tap, $	76.00 
+Visionstream,Visionstream - ODM,HF-01-03-04a,Removal of aerial terminator in existing network,Per terminator, $	63.00 
+Visionstream,Visionstream - ODM,HF-01-03-05a,Removal of aerial power blocker in existing network,per device, $	125.00 
+Visionstream,Visionstream - ODM,HF-01-03-06a,"Removal of existing aerial line power supply, line power inserter and pedestal housing in existing network",Per pedestal housing, $	485.00 
+Visionstream,Visionstream - ODM,HF-02-01-01a,Installation of non-aerial bridger amplifier in new network,Per bridge amplifier, $	153.00 
+Visionstream,Visionstream - ODM,HF-02-01-02a,Installation of non-aerial bridger amplifier in existing network,Per bridge amplifier, $	173.00 
+Visionstream,Visionstream - ODM,HF-02-01-03a,Installation of non-aerial line- extender amplifier in new network,"Per line- extender
+amplifier", $	145.00 
+Visionstream,Visionstream - ODM,HF-02-01-04a,"Installation of non-aerial line- extender amplifier to existing
+network","Per line- extender
+amplifier", $	177.00 
+Visionstream,Visionstream - ODM,HF-02-01-05a,"Installation of non-aerial directional coupler, network splitter, line equaliser or line power inserter in new network",Per coupler or network splitter or line power inserter, $	88.00 
+Visionstream,Visionstream - ODM,HF-02-01-06a,"Installation of non-aerial directional coupler, network splitter, line equaliser or line power inserter in existing network",Per coupler or network splitter or line power inserter, $	98.00 
+Visionstream,Visionstream - ODM,HF-02-01-07a,Installation of non-aerial mounted tap in new network,Per tap, $	70.00 
+Visionstream,Visionstream - ODM,HF-02-01-08a,"Installation of non-aerial tap in
+existing network",Per tap, $	90.00 
+Visionstream,Visionstream - ODM,HF-02-01-09a,Supply and install optical patch cable within HDODF,Per patch cable, $	38.00 
+Visionstream,Visionstream - ODM,HF-02-01-10a,Supply and Installation of pedestal,Per pedestal, $	770.00 
+Visionstream,Visionstream - ODM,HF-02-01-11a,Installation of non-aerial power blocker in existing network,per device, $	75.00 
+Visionstream,Visionstream - ODM,HF-02-01-12a,"Installation of non-aerial RF splice
+in existing network",Per Splice, $	50.00 
+Visionstream,Visionstream - ODM,HF-02-01-13a,Installation of power blocker in conjunction with the installation of a new device in either aerial or non-aerial environment in new network,per device, $	35.00 
+Visionstream,Visionstream - ODM,HF-02-01-14a,"Installation of an earth to an existing non aerial active device
+where no earth has been provided",Per device, $	58.00 
+Visionstream,Visionstream - ODM,HF-02-02-03a,"Replacement of non-aerial tap face
+plate in the existing network",Per face plate, $	55.00 
+Visionstream,Visionstream - ODM,HF-02-02-04a,"Installation of an earth to an existing non aerial active device where the existing earth is
+unserviceable",Per earth, $	60.00 
+Visionstream,Visionstream - ODM,HF-02-03-01a,Removal of non-aerial bridger amplifier or non-aerial line extender amplifier in existing network,Per non-aerial bridger amplifier or non-aerial line extender amplifier device, $	78.00 
+Visionstream,Visionstream - ODM,HF-02-03-02a,Removal of non-aerial coupler or non-aerial network splitter in existing network,Per device, $	71.00 
+Visionstream,Visionstream - ODM,HF-02-03-03a,Removal of non-aerial tap in existing network,Per tap, $	30.00 
+Visionstream,Visionstream - ODM,HF-02-03-04a,Removal of non-aerial terminator in existing network,Per terminator, $	28.00 
+Visionstream,Visionstream - ODM,HF-02-03-05a,Removal of non aerial power blocker in existing network,per device, $	55.00 
+Visionstream,Visionstream - ODM,HF-02-03-06a,"Removal of existing  line power supply, line power inserter and pedestal housing in existing network",Per pedestal housing, $	485.00 
+Visionstream,Visionstream - ODM,HF-03-01-01a,Proof of performance testing,per device, $	40.00 
+Visionstream,Visionstream - ODM,HF-03-01-02a,Return path noise testing of an optical node in the existing network,Per optical node, $	125.00 
+Visionstream,Visionstream - ODM,HF-03-02-01a,Alignment of aerial HFC active equipment,Per HFC active equipment, $	165.00 
+Visionstream,Visionstream - ODM,HF-03-02-02a,Alignment of non-aerial HFC active equipment,Per HFC active equipment, $	85.00 
+Visionstream,Visionstream - ODM,HF-03-02-04a,Reconfigure output of aerial directional coupler or aerial network splitter in an existing network,per device, $	155.00 
+Visionstream,Visionstream - ODM,HF-03-02-05a,"Reconfigure output non-aerial directional coupler or network
+splitter in existing network",per device, $	85.00 
+Visionstream,Visionstream - ODM,HF-04-01-01a,Earthing of catenary wire,Per earth, $	225.00 
+Visionstream,Visionstream - ODM,FC-01-01-03a,Installation and commissioning of a wall mounted DPU terminal device,Per DPU, $	88.00 
+Visionstream,Visionstream - ODM,FC-01-01-10a,Installation and commissioning of an aerial DPU terminal device,Per DPU, $	145.00 
+Visionstream,Visionstream - ODM,FC-01-01-11a,Installation and commissioning of a non-aerial DPU terminal device,Per DPU, $	85.00 
+Visionstream,Visionstream - ODM,FC-01-01-12a,Removal of existing DPU,Per DPU, $	25.00 
+Visionstream,Visionstream - ODM,FC-02-01-05a,Supply and installation of a DPU copper lead extension from DPU copper lead to a new or existing aerial mounted openable joint enclosure or to an existing aerial mounted terminal box joint enclosure,Per DPU copper lead extension, $	76.00 
+Visionstream,Visionstream - ODM,FC-02-01-06a,Supply and installation of DPU copper lead extension from DPU copper lead to a new or existing non-aerial mounted openable joint enclosure,Per DPU copper lead extension, $	55.00 
+Visionstream,Visionstream - ODM,FC-02-01-07a,Supply and installation of a DPU copper lead extension from DPU copper lead to a non-aerial copper interconnect unit,Per DPU copper lead extension, $	60.00 
+Visionstream,Visionstream - ODM,FC-02-01-12a,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing aerial mounted openable joint enclosure or to an existing aerial mounted terminal box joint enclosure,Per DPU copper lead high twist extension, $	76.00 
+Visionstream,Visionstream - ODM,FC-02-01-13a,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing non-aerial mounted openable joint enclosure,Per DPU copper lead high twist extension, $	68.00 
+Visionstream,Visionstream - ODM,FC-02-02-01a,Jointing of an aerial copper drop sheath to aerial DPU copper lead in a new or existing openable joint enclosure,Per aerial DPU copper lead jointed, $	70.00 
+Visionstream,Visionstream - ODM,FC-02-02-02a,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing aerial mounted openable joint enclosure,Per DPU copper lead high twist extension, $	80.00 
+Visionstream,Visionstream - ODM,FC-02-02-03a,Removal of an existing terminal box joint enclosure or existing openable joint and installation of a new replacement openable joint enclosure,Per replaced enclosure, $	225.00 
+Visionstream,Visionstream - ODM,FC-02-02-04a,Installation of a copper tie cable for interconnection between two new or existing openable joint enclosures or terminal box joint enclosures,Per copper tie cable, $	350.00 
+Visionstream,Visionstream - ODM,FC-02-03-01a,Installation of a new non-aerial openable joint enclosure,Per new non- aerial openable joint enclosure, $	210.00 
+Visionstream,Visionstream - ODM,FC-02-03-02a,Jointing of copper drop sheath to DPU copper lead using a copper interconnect unit,Per DPU copper lead jointed, $	24.00 
+Visionstream,Visionstream - ODM,FC-02-03-03a,Jointing of copper drop sheath to DPU copper lead in a new or existing openable joint enclosure,Per DPU copper lead jointed, $	34.00 
+Visionstream,Visionstream - ODM,FC-02-03-04a,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a non-aerial copper interconnect unit,Per DPU copper lead high twist extension, $	80.00 
+Visionstream,Visionstream - ODM,FC-02-03-05a,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing non-aerial openable joint enclosure,Per DPU copper lead high twist extension, $	80.00 
+Visionstream,Visionstream - ODM,FC-02-03-06a,Extra over for the Installation of a 2 pair copper cut-in loop to existing lead sheath copper lead-in,Per 2pair loop, $	30.00 
+Visionstream,Visionstream - ODM,FC-03-01-01a,Existing copper drop sheath validation,Per existing copper drop sheath validated, $	25.00 
+Visionstream,Visionstream - ODM,FC-03-01-02a,Existing Copper drop sheath validation for Serviceability for Missed Lead-ins,Per existing copper drop sheath validated, $	40.00 
+Visionstream,Visionstream - ODM,MD-01-01-01a,Supply & Installation of catenary wire system in buildings,Per linear metre, $	13.00 
+Visionstream,Visionstream - ODM,MD-01-01-01b,Supply & Installation of catenary wire system in buildings (outside working hours),Per linear metre, $	19.00 
+Visionstream,Visionstream - ODM,MD-01-01-02a,"Supply & Installation of cable tray
+in buildings",Per linear metre, $	75.00 
+Visionstream,Visionstream - ODM,MD-01-01-02b,Supply & Installation of cable tray in buildings (outside working hours),Per linear metre, $	105.00 
+Visionstream,Visionstream - ODM,MD-01-01-03a,"Supply and installation of ducting
+<30mm width",Per linear metre, $	22.00 
+Visionstream,Visionstream - ODM,MD-01-01-03b,"Supply and installation of ducting
+<30mm width (outside working hours)",Per linear metre, $	30.00 
+Visionstream,Visionstream - ODM,MD-01-01-04a,"Supply and installation of ducting
+>30mm width",Per linear metre, $	35.00 
+Visionstream,Visionstream - ODM,MD-01-01-04b,"Supply and installation of ducting
+>30mm width (outside working hours)",Per linear metre, $	47.00 
+Visionstream,Visionstream - ODM,MD-01-01-05a,Supply and installation of conduit,Per linear metre, $	22.00 
+Visionstream,Visionstream - ODM,MD-01-01-05b,"Supply and installation of conduit
+(outside working hours)",Per linear metre, $	30.00 
+Visionstream,Visionstream - ODM,MD-01-01-06a,Installation of One Pass Fibre Pathway in buildings,Per linear metre, $	21.00 
+Visionstream,Visionstream - ODM,MD-01-01-06b,Installation of One Pass Fibre Pathway in buildings (outside working hours),Per linear metre, $	30.00 
+Visionstream,Visionstream - ODM,MD-01-01-07a,"Connecting One Pass Fibre Pathway
+to ICD or PCD",Each ICD or PCD, $	43.00 
+Visionstream,Visionstream - ODM,MD-01-01-07b,Connecting One Pass Fibre Pathway to ICD or PCD (outside working hours),Each ICD or PCD, $	60.00 
+Visionstream,Visionstream - ODM,MD-01-07-01a,"Installation of Fibre Collector Distributor (FCD) or Fibre Distribution Terminal (FDT) or Cable Transition Location (CTL)
+within buildings","Each FCD, FDT
+or CTL", $	160.00 
+Visionstream,Visionstream - ODM,MD-01-07-01b,Installation of Fibre Collector Distributor (FCD) or Fibre Distribution Terminal (FDT) or Cable Transition Location (CTL) within buildings (outside working hours),"Each FCD, FDT
+or CTL", $	200.00 
+Visionstream,Visionstream - ODM,MD-01-07-02a,"Installation of Premises Distribution
+Hub (PDH)",Each PDH, $	195.00 
+Visionstream,Visionstream - ODM,MD-01-07-02b,Installation of Premises Distribution Hub (PDH) (outside working hours),Each PDH, $	260.00 
+Visionstream,Visionstream - ODM,MD-01-07-03a,"Installation of Internal Connection Device (ICD) or Premises
+Connection Device (PCD)",Each ICD or PCD, $	30.00 
+Visionstream,Visionstream - ODM,MD-01-07-03b,Installation of Internal Connection Device (ICD) or Premises Connection Device (PCD) (outside working hours),Each ICD or PCD, $	40.00 
+Visionstream,Visionstream - ODM,MD-01-07-04a,Installation of a fibre wall outlet,Per outlet, $	18.00 
+Visionstream,Visionstream - ODM,MD-01-07-04b,"Installation of a fibre wall outlet
+(outside working hours)",Per outlet, $	27.00 
+Visionstream,Visionstream - ODM,MD-01-07-06a,Installation of apartment amplifier in buildings,Per amplifier, $	79.00 
+Visionstream,Visionstream - ODM,MD-01-07-07a,Installation of MDU security enclosure,"Per MDU security
+enclosure", $	46.00 
+Visionstream,Visionstream - ODM,MD-01-07-08a,Installation of tap in buildings,Per tap, $	65.00 
+Visionstream,Visionstream - ODM,MD-01-07-09a,Installation of directional coupler or splitter in buildings,Per directional coupler or splitter, $	70.00 
+Visionstream,Visionstream - ODM,MD-01-07-10a,Extra over rate for the Installation of an isolator in buildings,Per Isolator, $	38.00 
+Visionstream,Visionstream - ODM,MD-01-07-11a,Replacement of tap in buildings,Per Tap, $	67.00 
+Visionstream,Visionstream - ODM,MD-01-07-12a,Replacement of tap faceplate in buildings,Per face plate, $	55.00 
+Visionstream,Visionstream - ODM,MD-01-07-13a,"Removal of tap, isolator, directional coupler or splitter in buildings only",Per device, $	60.00 
+Visionstream,Visionstream - ODM,MD-01-07-14a,Removal of an apartment amplifier in buildings,per device, $	66.00 
+Visionstream,Visionstream - ODM,MD-01-07-15a,Installation of Building Fibre Distributor (BUDI),Each BFD, $	165.00 
+Visionstream,Visionstream - ODM,MD-01-07-15b,Installation of Building Fibre Distributor (BUDI) (outside working hours),Each BFD, $	214.50 
+Visionstream,Visionstream - ODM,MD-01-07-16a,"Installation of Splitter Distribution
+Terminal (SDT)",Each SDT, $	150.00 
+Visionstream,Visionstream - ODM,MD-01-07-16b,Installation of Splitter Distribution Terminal (SDT) outside working hours,Each SDT, $	195.00 
+Visionstream,Visionstream - ODM,MD-01-07-17a,Installation of additional NG4 tray,per device, $	45.00 
+Visionstream,Visionstream - ODM,MD-01-07-18a,Installation of additional OCM-6 module,per device, $	45.00 
+Visionstream,Visionstream - ODM,MD-01-07-19a,Installation of additional PCD splice tray,per device, $	45.00 
+Visionstream,Visionstream - ODM,MD-01-08-01a,Provide a wall penetration in brick or concrete wall only,Each wall penetration, $	130.00 
+Visionstream,Visionstream - ODM,MD-01-08-01b,Provide a wall penetration in brick or concrete wall only (outside working hours),Each wall penetration, $	170.00 
+Visionstream,Visionstream - ODM,MD-01-08-02a,Provide a wall penetration in a plasterboard wall only,Each wall penetration, $	12.00 
+Visionstream,Visionstream - ODM,MD-01-08-02b,Provide a wall penetration in a plasterboard wall only (outside working hours),Each wall penetration, $	16.00 
+Visionstream,Visionstream - ODM,MD-01-08-03a,Provide a floor penetration above 50mm diameter,Each floor penetration, $	250.00 
+Visionstream,Visionstream - ODM,MD-01-08-03b,Provide a floor penetration above 50mm diameter (outside working hours),Each floor penetration, $	325.00 
+Visionstream,Visionstream - ODM,MD-01-08-04a,Provide a floor penetration up to and including 50mm diameter,Each floor penetration, $	200.00 
+Visionstream,Visionstream - ODM,MD-01-08-04b,Provide a floor penetration up to and including 50mm diameter (outside working hours),Each floor penetration, $	260.00 
+Visionstream,Visionstream - ODM,MD-01-08-05a,Supply and installation of appropriate fire stopping method as required,Per Penetration, $	82.00 
+Visionstream,Visionstream - ODM,MD-01-08-05b,Supply and installation of appropriate fire stopping method as required (outside working hours),Per Penetration, $	106.60 
+Visionstream,Visionstream - ODM,MD-02-01-01a,Installation of a single service drop sheath (SDS) on a single span to a multi dwelling unit,Per aerial service drop, $	290.00 
+Visionstream,Visionstream - ODM,MD-02-01-02a,Extra over rate for additional spans for an aerial service drop to a multi dwelling unit,Each additional Span, $	95.00 
+Visionstream,Visionstream - ODM,MD-02-01-03a,Extra over rate for supply and installation of an raiser pole on a building.,Each raiser pole installed, $	50.00 
+Visionstream,Visionstream - ODM,MD-02-01-04a,Installation of service drop sheath underground to a multi dwelling unit,Per service drop, $	280.00 
+Visionstream,Visionstream - ODM,MD-02-01-05a,Installation of direct service drop sheath underground to a multi dwelling unit,Per direct service drop, $	280.00 
+Visionstream,Visionstream - ODM,MD-02-01-10a,Extend a developer supplied MDU lead-in starter pipe to the nominated network pit,Per Starter Pipe, $	450.00 
+Visionstream,Visionstream - ODM,SD-01-01-01a,Supply and install of new lead-in pipe within property boundary by any means,Per linear metre, $	40.00 
+Visionstream,Visionstream - ODM,SD-01-01-02a,Extra over rate for supply and installation of an raiser pole on a building.,Per raiser pole, $	45.00 
+Visionstream,Visionstream - ODM,SD-01-01-03a,Supply and install of Y connectors,Per Y connector, $	125.00 
+Visionstream,Visionstream - ODM,SD-01-01-04a,Supply and install new lead-in starter pipe,Per Starter Pipe, $	200.00 
+Visionstream,Visionstream - ODM,SD-01-01-05a,Extra over rate for the supply and install of new lead-in starter pipe greater than 2 meters in length,Per linear metre, $	40.00 
+Visionstream,Visionstream - ODM,SD-01-02-01a,Extra over rate to repair lead-in conduit,Per repaired lead-in conduit, $	60.00 
+Visionstream,Visionstream - ODM,SD-02-01-01a,Installation of a single service drop sheath on a single span to a single dwelling unit,Per aerial service drop, $	290.00 
+Visionstream,Visionstream - ODM,SD-02-01-02a,Extra over rate for additional spans for an aerial service drop to a single dwelling unit,Each additional Span, $	95.00 
+Visionstream,Visionstream - ODM,SD-02-01-03a,Installation of service drop sheath underground to a single dwelling unit,Per service drop, $	280.00 
+Visionstream,Visionstream - ODM,SD-02-01-04a,Installation of direct service drop sheath underground to a single dwelling unit,Per direct service drop, $	280.00 
+Visionstream,Visionstream - ODM,SD-02-02-01a,Replace existing copper aerial lead- in with new copper aerial lead-in to a single dwelling unit,Per existing copper aerial lead-in replaced. Per Span, $	290.00 
+Visionstream,Visionstream - ODM,SD-02-02-02a,Installation of aerial copper service drop to a single dwelling unit,Per aerial copper service drop, $	290.00 
+Visionstream,Visionstream - ODM,SD-02-02-03a,Installation of non-aerial copper service drop to a single dwelling unit,Per non-aerial copper service drop, $	280.00 
+Visionstream,Visionstream - ODM,SD-02-02-04a,Extra over rate for installation of a new copper drop cable in-span to a single dwelling unit,Per in-span Drop, $	95.00 
+Visionstream,Visionstream - ODM,SD-02-03-01a,Installation of a coaxial drop cable on a single span to a single dwelling unit,Per aerial service drop, $	290.00 
+Visionstream,Visionstream - ODM,SD-02-03-02a,Extra over rate for installation of a new coaxial drop cable in-span to a single dwelling unit,Per in-span Drop, $	100.00 
+Visionstream,Visionstream - ODM,SD-02-03-03a,Extra over rate for additional spans for a aerial coaxial service drop to a single dwelling unit,Each additional Span, $	110.00 
+Visionstream,Visionstream - ODM,SD-02-03-04a,Installation of non-aerial coaxial service drop to a single dwelling unit,Per coaxial service drop, $	280.00 
+Visionstream,Visionstream - ODM,CC-01-01-01a,"Installation, commissioning and integration of a Enterprise Ethernet B-NTD in a wall mounted environment",Per device, $	450.00 
+Visionstream,Visionstream - ODM,CC-01-01-02a,"Installation, commissioning and integration of a Enterprise Ethernet B-NTD in a rack mounted environment",Per device, $	450.00 
+Visionstream,Visionstream - ODM,CC-01-01-03a,"Installation, commissioning and activation of a GPON B-NTD in a wall mounted environment",Per device, $	130.00 
+Visionstream,Visionstream - ODM,CC-01-01-04a,"Installation, commissioning and activation of a GPON B-NTD in a rack mounted environment",Per device, $	130.00 
+Visionstream,Visionstream - ODM,CC-01-01-05a,Installation of battery back-up unit in conjunction with NTD installation,Per Battery Backup Device, $	25.00 
+Visionstream,Visionstream - ODM,CC-01-01-06a,Installation of a Fibre TV Receiver (TVR) co-located with an NTD,Per device, $	40.00 
+Visionstream,Visionstream - ODM,CC-01-02-01a,"Installation, commissioning and integration of a R-NTD in a wall mounted environment",Per device, $	130.00 
+Visionstream,Visionstream - ODM,CC-01-02-02a,"Installation, commissioning and integration of a R-NTD in a rack mounted environment",Per device, $	130.00 
+Visionstream,Visionstream - ODM,CC-01-02-03a,Internal wiring from exterior termination outlet enclosure to internal wall plate/TO,Per wall plate, $	95.00 
+Visionstream,Visionstream - ODM,CC-02-01-01a,Replace existing lead in termination enclosure,Per enclosure, $	90.00 
+Visionstream,Visionstream - ODM,CC-03-01-01a,Remove existing aerial lead in equipment from lead-in termination enclosure to NTD,Per NTD, $	95.00 
+Visionstream,Visionstream - ODM,CC-03-01-02a,Remove existing non-aerial lead in equipment from lead-in termination enclosure to NTD,Per NTD, $	70.00 
+Visionstream,Visionstream - ODM,CF-02-02-00a,"Planning and Design - Pipe Proving
+– Travel greater than 100km from the Point of Presence (Business Address)",Per Kilometre, $	1.15 
+Visionstream,Visionstream - ODM,CF-02-02-00b,Construction Works - Splice & Test - Travel greater than 100km from the Point of Presence (Business Address),Per Kilometre, $	1.15 
+Visionstream,Visionstream - ODM,CF-02-02-00c,Construction Works - Haul (Light) - Travel greater than 100km from the Point of Presence (Business Address),Per Kilometre, $	1.65 
+Visionstream,Visionstream - ODM,CF-02-02-00d,Construction Works - Haul (Heavy) - Travel greater than 100km from the Point of Presence (Business Address),Per Kilometre, $	2.80 
+Visionstream,Visionstream - ODM,CF-02-02-00e,Construction Works - Civil (Single) - Travel greater than 100km from the Point of Presence (Business Address),Per Kilometre, $	2.80 
+Visionstream,Visionstream - ODM,CF-02-02-00f,Construction Works - Civil (Combined) - Travel greater than 100km from the Point of Presence (Business Address),Per Kilometre, $	4.40 
+Visionstream,Visionstream - ODM,CF-03-02-00a,LAFHA for Planning and Design Works for a Work Order,Per Person Per Night, $	173.00 
+Visionstream,Visionstream - ODM,CF-03-02-00b,LAFHA for Construction Works for a Work Order,Per Person Per Night, $	173.00 
+Visionstream,Visionstream - ODM,PS-01-01-01a,Telecommunications service provider fees,Amount of the fee,Quote
+Visionstream,Visionstream - ODM,PS-01-01-02a,Pole make ready works,Cost of pole make ready works,Quote
+Visionstream,Visionstream - ODM,PS-01-01-03a,Supply and install standard GPO as per design,Cost of GPO installation,Quote
+Visionstream,Visionstream - ODM,PS-01-01-04a,Certification and professional services fees associated with activities not otherwise specified in Activity Scope,Amount of the fee,Quote
+Visionstream,Visionstream - ODM,PS-01-01-05a,Registered Surveyor Works,Amount of the fee,Quote
+Visionstream,Visionstream - ODM,PS-01-01-06a,Contaminated Waste Material Removal,Amount of the fee,Quote
+Visionstream,Visionstream - ODM,PS-01-01-07a,Traffic Control - All costs associated with the hire of professional traffic control units,Amount of the fee,Quote
+Visionstream,Visionstream - ODM,PS-01-01-08a,Local Authority Charges,Amount of the fee,Quote
+Visionstream,Visionstream - ODM,PS-01-01-09a,Council breakout and reinstatement,Amount of the fee,Quote
+Visionstream,Visionstream - ODM,PS-01-01-10a,Construction works in building not contained within the Activity Scope,Cost of the works and fees,Quote
+Visionstream,Visionstream - ODM,PS-01-01-11a,Aerial pole replacement,Amount of the fee,Quote
+Visionstream,Visionstream - ODM,PS-01-01-12a,Third party aerial design management fees,Amount of the fee,Quote
+Visionstream,Visionstream - ODM,PS-01-01-13a,Supply and install electricity connection as per design,Amount of the fee,Quote
+Visionstream,Visionstream - ODM,TB-01-03-01a,Electrician (inclusive equipment),Per hour, $	65.31 
+Visionstream,Visionstream - ODM,TB-01-03-01b,"Electrician (inclusive equipment)  –
+Extra Over",Per hour, $	32.66 
+Visionstream,Visionstream - ODM,TB-01-03-01c,"Electrician (inclusive equipment) –
+Outside Working Hours",Per hour, $	97.97 
+Visionstream,Visionstream - ODM,TB-01-03-02a,Fibre Technician (inclusive equipment),Per hour, $	62.81 
+Visionstream,Visionstream - ODM,TB-01-03-02b,Fibre Technician (inclusive equipment)  –  Extra Over,Per hour, $	31.41 
+Visionstream,Visionstream - ODM,TB-01-03-02c,"Fibre Technician (inclusive equipment) – Outside Working
+Hours",Per hour, $	94.22 
+Visionstream,Visionstream - ODM,TB-01-03-03a,Labourer,Per hour, $	40.45 
+Visionstream,Visionstream - ODM,TB-01-03-03b,Labourer  –  Extra Over,Per hour, $	20.23 
+Visionstream,Visionstream - ODM,TB-01-03-03c,Labourer – Outside Working Hours,Per hour, $	60.68 
+Visionstream,Visionstream - ODM,TB-01-03-04a,Plant Operator,Per hour, $	45.00 
+Visionstream,Visionstream - ODM,TB-01-03-04b,Plant Operator  –  Extra Over,Per hour, $	22.50 
+Visionstream,Visionstream - ODM,TB-01-03-04c,Plant Operator  – Outside Working Hours,Per hour, $	67.50 
+Visionstream,Visionstream - ODM,TB-01-03-05a,Advanced pole inspector (inclusive plant and equipment),Per hour, $	65.00 
+Visionstream,Visionstream - ODM,TB-01-03-05b,Advanced pole inspector (inclusive plant and equipment)    –  Extra Over,Per hour, $	31.00 
+Visionstream,Visionstream - ODM,TB-01-03-05c,"Advanced pole inspector (inclusive plant and equipment)  – Outside
+Working Hours",Per hour, $	96.00 
+Visionstream,Visionstream - ODM,TB-01-03-06a,"Telecommunication Technician
+(inclusive plant and equipment)",Per hour, $	62.81 
+Visionstream,Visionstream - ODM,TB-01-03-06b,"Telecommunication Technician (inclusive plant and equipment)   –
+Extra Over",Per hour, $	31.41 
+Visionstream,Visionstream - ODM,TB-01-03-06c,"Telecommunication Technician (inclusive plant and equipment)  –
+Outside Working Hours",Per hour, $	94.22 
+Visionstream,Visionstream - ODM,TB-01-03-07a,Designer,Per hour, $	60.00 
+Visionstream,Visionstream - ODM,TB-01-03-07b,Designer  –  Extra Over,Per hour, $	30.00 
+Visionstream,Visionstream - ODM,TB-01-03-07c,Designer – Outside Working Hours,Per hour, $	90.00 
+Visionstream,Visionstream - ODM,TB-01-03-08a,Copper Technician (inclusive plant and equipment),Per hour, $	60.00 
+Visionstream,Visionstream - ODM,TB-01-03-08b,Copper Technician (inclusive plant and equipment) –  Extra Over,Per hour, $	30.00 
+Visionstream,Visionstream - ODM,TB-01-03-08c,"Copper Technician (inclusive plant and equipment) – Outside Working
+Hours",Per hour, $	90.00 
