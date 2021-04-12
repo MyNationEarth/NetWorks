@@ -4,7 +4,7 @@ projectsComponent
     componentAt: #'projects'
     ifAbsentPut: [ 
       ((self organisationModel projectsDescription
-        accessor: #'projects';
+        accessor: #'openProjects';
         beDefinitive;
         yourself) asContainer
         componentRenderer: MACssRenderer;
