@@ -107,7 +107,8 @@
 		"constructionComments",
 		"constructionNbnComments",
 		"constructionTimeLogs",
-		"defects" ],
+		"defects",
+		"materialStore" ],
 	"name" : "NWProject",
 	"pools" : [
 		 ],

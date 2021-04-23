@@ -6,10 +6,13 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
+		"project",
 		"materialStore",
 		"material",
 		"quantity",
-		"faultyQuantity" ],
+		"faultyQuantity",
+		"transactions",
+		"serialNumber" ],
 	"name" : "NWMaterialOnHand",
 	"pools" : [
 		 ],

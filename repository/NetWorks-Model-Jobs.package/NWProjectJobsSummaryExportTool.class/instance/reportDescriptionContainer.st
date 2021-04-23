@@ -3,6 +3,7 @@ reportDescriptionContainer
   | template |
   template := NWJobLineItem new.
   ^ template projectTitleDescription , template jobTitleDescription
+    , template jobCommentDescription
     , template lineItemTypeTitleAndCommentDescription
     , template quantityDescription
     , template workOrderLineItemsCompleteQuantityDescription

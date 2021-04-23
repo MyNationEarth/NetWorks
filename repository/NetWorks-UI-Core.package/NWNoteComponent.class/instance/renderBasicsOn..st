@@ -4,4 +4,8 @@ renderBasicsOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 12;
-        with: [ self renderDescriptionsWithLabels: #('Title' 'Comment' 'Date') on: canvas ] ]
+        with: [ 
+              self
+                renderDescriptionsWithLabels:
+                  #('Title' 'Comment' 'Date' 'Complete')
+                on: canvas ] ]

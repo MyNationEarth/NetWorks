@@ -9,7 +9,7 @@
 		"locationSuburb",
 		"locationState",
 		"materialsOnHand",
-		"stockMovements" ],
+		"transactions" ],
 	"name" : "NWMaterialStore",
 	"pools" : [
 		 ],

@@ -1,3 +1,0 @@
-Accessing
-stockMovements
-	^stockMovements

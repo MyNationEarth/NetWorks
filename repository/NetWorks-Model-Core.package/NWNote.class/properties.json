@@ -8,7 +8,8 @@
 	"instvars" : [
 		"dateAndTime",
 		"user",
-		"referencedObject" ],
+		"referencedObject",
+		"check" ],
 	"name" : "NWNote",
 	"pools" : [
 		 ],

@@ -11,7 +11,8 @@
 		"contracts",
 		"invoices",
 		"xeroAccountNumber",
-		"xeroNextInvoiceNumber" ],
+		"xeroNextInvoiceNumber",
+		"materialStore" ],
 	"name" : "NWClient",
 	"pools" : [
 		 ],
