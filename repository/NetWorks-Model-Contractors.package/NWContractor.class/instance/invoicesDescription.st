@@ -11,7 +11,9 @@ invoicesDescription
             , template issueDateDescription
             , template expectedPaymentDateDescription
             , template contractTitleDescription
-            , template amountPayableDescription;
+            , template amountPayableGstInclusiveDescription
+            , template paymentMadeDateDescription
+            , template amountOutstandingDescription;
     label: 'Invoices';
     priority: 400;
     beSorted;
