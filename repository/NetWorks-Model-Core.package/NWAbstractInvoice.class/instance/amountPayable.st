@@ -1,3 +1,4 @@
 Accessing
 amountPayable
-  ^ amountPayable ifNil: [ self calculateAmountPayableFromLineItems ]
+  ^ (amountPayable ifNil: [ self calculateAmountPayableFromLineItems ])
+    roundTo: 0.01

@@ -9,3 +9,4 @@ amountPayableGstInclusive
       (self isTaxExempt
         ifTrue: [ 1 ]
         ifFalse: [ 1.1 ])
+    roundTo: 0.01
