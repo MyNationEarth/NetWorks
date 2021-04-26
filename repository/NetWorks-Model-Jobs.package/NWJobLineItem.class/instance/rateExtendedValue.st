@@ -1,3 +1,4 @@
 Accessing
 rateExtendedValue
-  ^ (lineItemType valuePerUnit ifNil: [ 0 ]) * (quantity ifNil: [ 0 ])
+  ^ (lineItemType valuePerUnit ifNil: [ 0 ])
+    * (self workOrderLineItemsCompleteQuantity ifNil: [ 0 ])
