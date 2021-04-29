@@ -12,7 +12,7 @@ renderErrorInformationOn: html
   self session user
     ifNotNil: [ html text: 'By User: ' , self session user displayName ].
   html break.
-  html text: 'Site url: ' , NWCurrentOrganisationModel value dnsName.
+  html text: 'Site url: ' , WACurrentRequestContext value request uri asString.
   html break.
   html
     text:
