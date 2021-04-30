@@ -10,4 +10,4 @@ reportDescriptionContainer
     , template workOrderLineItemsCompleteByContractorSummaryDescription
     , template workOrderLineItemsAreFieldCompleteDescription
     , template rateValuePerUnitDescription
-    , template rateExtendedValueDescription
+    , template rateExtendedValueDescription , template clientInvoicesDescription

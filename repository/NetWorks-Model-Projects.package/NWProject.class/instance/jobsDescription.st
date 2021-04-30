@@ -9,7 +9,8 @@ jobsDescription
     reference:
         template titleDescription , template commentDescription
             , template assignmentInformationDescription
-            , template workOrdersAreFieldCompleteDescription;
+            , template workOrdersAreFieldCompleteDescription
+            , template clientInvoicesDescription;
     label: 'Jobs';
     priority: 400;
     yourself
