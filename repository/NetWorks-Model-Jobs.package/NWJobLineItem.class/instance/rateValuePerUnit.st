@@ -1,3 +1,3 @@
 Accessing
 rateValuePerUnit
-  ^ lineItemType valuePerUnit
+  ^ lineItemType valuePerUnit roundTo: 0.01
