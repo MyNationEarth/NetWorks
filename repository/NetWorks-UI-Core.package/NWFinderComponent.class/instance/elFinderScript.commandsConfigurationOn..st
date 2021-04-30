@@ -15,10 +15,9 @@ elFinderScript: elFinderScript commandsConfigurationOn: canvas
     openDirectory;
     quickLook;
     reload;
-    rename;
     remove;
     search;
     sort;
     up;
     upload;
-    view
+    view	"rename;"
