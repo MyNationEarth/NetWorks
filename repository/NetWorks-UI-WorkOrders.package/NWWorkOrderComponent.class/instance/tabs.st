@@ -16,7 +16,7 @@ tabs
             at: #'id' put: #'notes';
             at: #'label' put: 'Notes';
             at: #'icon' put: #'list';
-            at: #'accessRoleNames' put: #('projectTabNotes');
+            at: #'accessRoleNames' put: #('projectTabNotes' 'Contractor');
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'notes') ];
             yourself);
