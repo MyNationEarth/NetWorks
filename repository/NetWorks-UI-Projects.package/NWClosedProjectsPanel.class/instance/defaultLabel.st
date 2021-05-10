@@ -1,0 +1,3 @@
+defaults
+defaultLabel
+  ^ 'Closed Projects'

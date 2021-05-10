@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-UI-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 05/10/2021 15:46",
+	"instvars" : [
+		 ],
+	"name" : "NWClosedProjectsPanel",
+	"pools" : [
+		 ],
+	"super" : "NWProjectsPanel",
+	"type" : "normal" }

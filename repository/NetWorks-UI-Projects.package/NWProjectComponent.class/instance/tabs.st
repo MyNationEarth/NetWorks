@@ -16,7 +16,7 @@ tabs
             at: #'id' put: #'export';
             at: #'label' put: 'Export';
             at: #'icon' put: #'download';
-            at: #'accessRoleNames' put: #('projectTabJobs');
+            at: #'accessRoleNames' put: #('projectTabJobs' 'Accountant');
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'export') ];
             yourself);
@@ -34,7 +34,8 @@ tabs
             at: #'id' put: #'contractorInvoices';
             at: #'label' put: 'Contractor Invoices';
             at: #'icon' put: #'list';
-            at: #'accessRoleNames' put: #('projectTabContractorInvoices');
+            at: #'accessRoleNames'
+              put: #('projectTabContractorInvoices' 'Accountant');
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'contractorInvoices') ];
             yourself);
@@ -43,7 +44,7 @@ tabs
             at: #'id' put: #'financials';
             at: #'label' put: 'Financials';
             at: #'icon' put: #'list';
-            at: #'accessRoleNames' put: #('projectTabFinancials');
+            at: #'accessRoleNames' put: #('projectTabFinancials' 'Accountant');
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'financials') ];
             yourself);
@@ -52,7 +53,7 @@ tabs
             at: #'id' put: #'notes';
             at: #'label' put: 'Notes';
             at: #'icon' put: #'list';
-            at: #'accessRoleNames' put: #('projectTabNotes');
+            at: #'accessRoleNames' put: #('projectTabNotes' 'Accountant');
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'notes') ];
             yourself);
@@ -106,7 +107,7 @@ tabs
             at: #'id' put: #'basics';
             at: #'label' put: 'Project Info';
             at: #'icon' put: #'list';
-            at: #'accessRoleNames' put: #('projectTabProjectInfo');
+            at: #'accessRoleNames' put: #('projectTabProjectInfo' 'Accountant');
             at: #'callback'
               put: [ announcer announce: (NWTabSelected tab: #'basics') ];
             yourself);

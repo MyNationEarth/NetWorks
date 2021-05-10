@@ -3,6 +3,17 @@ tabs
   ^ OrderedCollection new
     add:
         (Dictionary new
+            at: #'id' put: #'files';
+            at: #'label' put: 'Files';
+            at: #'icon' put: #'filesOutlined';
+            at: #'accessRoleNames' put: #('contractorContactTabFiles');
+            at: #'callback'
+              put: [ 
+                  announcer announce: (NWTabSelected tab: #'files').
+                  components removeKey: #'finder' ifAbsent: [  ] ];
+            yourself);
+    add:
+        (Dictionary new
             at: #'id' put: #'access';
             at: #'label' put: 'Access';
             at: #'icon' put: #'user';
