@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"finderComponent" : "jupiter 05/10/2021 15:34",
 		"icon" : "jupiter 02/09/2019 17:10",
 		"initialize" : "jupiter 02/09/2019 17:10",
 		"newObjectLabel" : "jupiter 02/09/2019 17:10",
@@ -9,4 +10,4 @@
 		"renderContactsOn:" : "jupiter 02/09/2019 17:11",
 		"renderContractsOn:" : "jupiter 02/10/2019 14:06",
 		"renderInvoicesOn:" : "jupiter 07/16/2020 12:49",
-		"tabs" : "jupiter 07/19/2020 09:04" } }
+		"tabs" : "jupiter 05/10/2021 15:26" } }
