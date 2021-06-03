@@ -53,6 +53,21 @@ buildJobs
                         rateCard: rateCard;
                         yourself) ] ].
           row
+            at: #'comment'
+            ifPresent: [ :value | 
+              (job comment isNil or: [ (job comment findPattern: {value} startingAt: 1) == 0 ])
+                ifTrue: [ 
+                  job
+                    comment:
+                      (String
+                        streamContents: [ :str | 
+                          (job comment notNil and: [ job comment notEmpty ])
+                            ifTrue: [ 
+                              str
+                                nextPutAll: job comment;
+                                cr ].
+                          str nextPutAll: value ]) ] ].
+          row
             at: #'lineItemType'
             ifPresent: [ :value | 
               (lineItemType := rateCard findRateWithTitleAndComment: value)

@@ -7,4 +7,5 @@ addFields
     addFieldAt: #'project';
     addFieldAt: #'job';
     addFieldAt: #'lineItemType';
-    addFieldAt: #'designQuantity'	"addFieldAt: #'contractors'"
+    addFieldAt: #'designQuantity';
+    addFieldAt: #'comment'	"addFieldAt: #'contractors'"
