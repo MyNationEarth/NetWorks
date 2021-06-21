@@ -2,6 +2,7 @@ Importing
 newRateCardWithDefaultCategory
   | rateCard |
   rateCard := NWRateCard new.
+  rateCard rateCardType: #'Client'.
   rateCard rateCategories
     add:
       (NWRateCategory new
