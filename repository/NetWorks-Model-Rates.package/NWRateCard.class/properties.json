@@ -10,7 +10,8 @@
 		"endDate",
 		"rateCardType",
 		"filePath",
-		"rateCategories" ],
+		"rateCategories",
+		"contractorRateCard" ],
 	"name" : "NWRateCard",
 	"pools" : [
 		 ],

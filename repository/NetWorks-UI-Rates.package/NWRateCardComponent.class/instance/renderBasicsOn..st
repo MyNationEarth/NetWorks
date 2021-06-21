@@ -17,6 +17,12 @@ renderBasicsOn: canvas
         smallSize: 6;
         with: [ self renderDescriptionsWithLabels: #('End Date') on: canvas ] ].
   canvas
+    tbsRow:
+      [ 
+      canvas tbsColumn
+        smallSize: 6;
+        with: [ self renderDescriptionsWithLabels: #('Subcontractor Rate Card') on: canvas ] ]
+        canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 12;
