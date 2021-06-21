@@ -44,15 +44,22 @@ generateNewContractorInvoices
                 ifTrue: [ percentageMultiplier := percentageMultiplier / 100 ].
               workOrder lineItemsReadyToInvoice
                 do: [ :workOrderLineItem | 
+                  | rate unitCost |
+                  unitCost := workOrderLineItem jobLineItem lineItemType
+                    valuePerUnit * percentageMultiplier roundTo: 0.01.	"TODO: lookup the contractor rate"
+                  project rateCard contractorRateCard
+                    ifNotNil: [ :contractorRateCard | 
+                      (contractorRateCard
+                        findRateWithTitle:
+                          workOrderLineItem jobLineItem lineItemType title)
+                        ifNotNil: [ :contractorRate | unitCost := contractorRate valuePerUnit ] ].
                   newInvoice lineItems
                     add:
                       (NWInvoiceLineItem new
                         invoice: newInvoice;
                         referencedLineItem: workOrderLineItem;
                         quantity: workOrderLineItem quantityComplete;
-                        unit:
-                            (workOrderLineItem jobLineItem lineItemType valuePerUnit * percentageMultiplier
-                                roundTo: 0.01);
+                        unit: unitCost;
                         yourself) ] ] ] ].
   invoicesToCreate
     do: [ :invoice | 
