@@ -46,7 +46,7 @@ generateNewContractorInvoices
                 do: [ :workOrderLineItem | 
                   | rate unitCost |
                   unitCost := workOrderLineItem jobLineItem lineItemType
-                    valuePerUnit * percentageMultiplier roundTo: 0.01.	"TODO: lookup the contractor rate"
+                    valuePerUnit * percentageMultiplier roundTo: 0.01.	"lookup the contractor rate"
                   workOrderLineItem jobLineItem lineItemType rateCard
                     contractorRateCard
                     ifNotNil: [ :contractorRateCard | 
