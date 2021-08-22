@@ -1,0 +1,923 @@
+Customer,Contract ,Item Code,Item Name,Unit of Measure (UoM),Rate,Item Description,Xero Account
+
+Lend Lease,Lend Lease - ODM,CB-01-01-01/01-01,Installation of an external FDH Cabinet,Per FDH Cabinet," $	1629.94 ",Installation of an external FDH Cabinet,45403
+
+Lend Lease,Lend Lease - ODM,CB-02-01-01/01-01,Installation only of an external small port Node Cabinet,Per external Node Cabinet," $	4073.90 ",Installation only of an external small port Node Cabinet,45403
+
+Lend Lease,Lend Lease - ODM,CB-02-01-02/01-01,Installation only of an external medium port Node Cabinet,Per external Node Cabinet," $	5443.75 ",Installation only of an external medium port Node Cabinet,45403
+
+Lend Lease,Lend Lease - ODM,CB-02-01-03/01-01,Installation only of an external large port Node cabinet,Per external Node Cabinet," $	5528.98 ",Installation only of an external large port Node cabinet,45403
+
+Lend Lease,Lend Lease - ODM,CB-02-02-01/01-01,Installation of service jumpering in a FTTN/FTTB Node Cabinet,Per 48 Port Line Card," $	216.92 ",Installation of service jumpering in a FTTN/FTTB Node Cabinet,45403
+
+Lend Lease,Lend Lease - ODM,CB-02-02-02/01-01,Cable layup within CJL for external small port CSD node,Per CJL," $	103.30 ",Cable layup within CJL for external small port CSD node,45403
+
+Lend Lease,Lend Lease - ODM,CB-03-01-01/01-01,Installation of an internal small FTTB Cabinet,Per FTTB Cabinet," $	2380.03 ",Installation of an internal small FTTB Cabinet,45403
+
+Lend Lease,Lend Lease - ODM,CB-03-01-02/01-01,Installation of an internal medium FTTB Cabinet,Per FTTB Cabinet," $	2845.55 ",Installation of an internal medium FTTB Cabinet,45403
+
+Lend Lease,Lend Lease - ODM,CB-03-01-03/01-01,Installation of an internal large FTTB Cabinet (greater than 192 up to 384 port),Per FTTB Cabinet," $	3240.48 ",Installation of an internal large FTTB Cabinet (greater than 192 up to 384 port),45403
+
+Lend Lease,Lend Lease - ODM,CB-03-02-01/01-01,Supply and install new service earth bar,Per service earth bar," $	101.73 ",Supply and install new service earth bar,45403
+
+Lend Lease,Lend Lease - ODM,CB-03-02-02/01-01,Supply and install new service earth stake,Per service earth stake," $	118.74 ",Supply and install new service earth stake,45403
+
+Lend Lease,Lend Lease - ODM,CB-03-02-03/01-01,Install a 10 pair MDF terminal block,Per 10 pair MDF terminal block," $	33.81 ",Install a 10 pair MDF terminal block,45403
+
+Lend Lease,Lend Lease - ODM,CB-03-02-04/01-01,Install a 100 pair MDF terminal frame,Per 100 pair MDF terminal frame," $	76.48 ",Install a 100 pair MDF terminal frame,45403
+
+Lend Lease,Lend Lease - ODM,CB-04-01-01/01-01,Removal and disposal of a cabinet,Per Cabinet," $	361.52 ",Removal and disposal of a cabinet,45403
+
+Lend Lease,Lend Lease - ODM,CB-04-01-02/01-01,Repair of a cabinet panel,Per Cabinet," $	94.82 ",Repair of a cabinet panel,45403
+
+Lend Lease,Lend Lease - ODM,CB-04-01-03/01-01,Removal of graffiti from a cabinet,Per Cabinet," $	128.75 ",Removal of graffiti from a cabinet,45403
+
+Lend Lease,Lend Lease - ODM,CB-04-01-04/01-01,Replacement of a cabinet lock,Per Cabinet," $	46.66 ",Replacement of a cabinet lock,45403
+
+Lend Lease,Lend Lease - ODM,CC-01-01-01/01-01,"Installation, commissioning and integration of a Enterprise Ethernet B-NTD in a wall mounted environment",Per device," $	77.61 ","Installation, commissioning and integration of a Enterprise Ethernet B-NTD in a wall mounted environment",45403
+
+Lend Lease,Lend Lease - ODM,CC-01-01-02/01-01,"Installation, commissioning and integration of a Enterprise Ethernet B-NTD in a rack mounted environment",Per device," $	95.28 ","Installation, commissioning and integration of a Enterprise Ethernet B-NTD in a rack mounted environment",45403
+
+Lend Lease,Lend Lease - ODM,CC-01-01-03/01-01,"Installation, commissioning and activation of a GPON B-NTD in a wall mounted environment",Per device," $	95.28 ","Installation, commissioning and activation of a GPON B-NTD in a wall mounted environment",45403
+
+Lend Lease,Lend Lease - ODM,CC-01-01-04/01-01,"Installation, commissioning and activation of a GPON B-NTD in a rack mounted environment",Per device," $	70.96 ","Installation, commissioning and activation of a GPON B-NTD in a rack mounted environment",45403
+
+Lend Lease,Lend Lease - ODM,CC-01-01-05/01-01,Installation of battery back-up unit in conjunction with NTD installation,Per Battery Backup Device," $	14.45 ",Installation of battery back-up unit in conjunction with NTD installation,45403
+
+Lend Lease,Lend Lease - ODM,CC-01-01-06/01-01,Installation of a Fibre TV Receiver (TVR) co-located with an NTD,Per device," $	49.54 ",Installation of a Fibre TV Receiver (TVR) co-located with an NTD,45403
+
+Lend Lease,Lend Lease - ODM,CC-01-02-01/01-01,"Installation, commissioning and integration of a R- NTD in a wall mounted environment",Per device," $	238.53 ","Installation, commissioning and integration of a R- NTD in a wall mounted environment",45403
+
+Lend Lease,Lend Lease - ODM,CC-01-02-02/01-01,"Installation, commissioning and integration of a R- NTD in a rack mounted environment",Per device," $	238.53 ","Installation, commissioning and integration of a R- NTD in a rack mounted environment",45403
+
+Lend Lease,Lend Lease - ODM,CC-01-02-03/01-01,Internal wiring from exterior termination outlet enclosure to internal wall plate/TO,Per wall plate," $	180.24 ",Internal wiring from exterior termination outlet enclosure to internal wall plate/TO,45403
+
+Lend Lease,Lend Lease - ODM,CC-02-01-01/01-01,Replace existing lead in termination enclosure,Per enclosure," $	65.01 ",Replace existing lead in termination enclosure,45403
+
+Lend Lease,Lend Lease - ODM,CC-03-01-01/01-01,Remove existing aerial lead in equipment from lead-in termination enclosure to NTD,Per NTD," $	81.23 ",Remove existing aerial lead in equipment from lead-in termination enclosure to NTD,45403
+
+Lend Lease,Lend Lease - ODM,CC-03-01-02/01-01,Remove existing non-aerial lead in equipment from lead-in termination enclosure to NTD,Per NTD," $	66.72 ",Remove existing non-aerial lead in equipment from lead-in termination enclosure to NTD,45403
+
+Lend Lease,Lend Lease - ODM,CF-02-02-06/01-02,Travel Allowance For Zone 1,Per Km," $	0.92 ",Travel Allowance For Zone 1,45403
+
+Lend Lease,Lend Lease - ODM,CF-03-02-01/01-01,LAFHA for Planning and Design or Construction Works for a Work Order located in Zone 1 & 2,per day / per person," $	120.00 ",LAFHA for Planning and Design or Construction Works for a Work Order located in Zone 1 & 2,45403
+
+Lend Lease,Lend Lease - ODM,CF-03-02-02/01-01,LAFHA for Planning and Design or Construction Works for a Work Order located in Zone 3,per day / per person," $	120.00 ",LAFHA for Planning and Design or Construction Works for a Work Order located in Zone 3,45403
+
+Lend Lease,Lend Lease - ODM,CF-03-02-03/01-01,LAFHA for Planning and Design or Construction Works for a Work Order located in Zone 4,per day / per person," $	120.00 ",LAFHA for Planning and Design or Construction Works for a Work Order located in Zone 4,45403
+
+Lend Lease,Lend Lease - ODM,CI-01-01-01/01-01,Pipe Proving in existing duct,Per linear metre," $	1.83 ",Pipe Proving in existing duct,45403
+
+Lend Lease,Lend Lease - ODM,CI-01-02-01/01-01,Pipe Proving in existing riser on a pole or in existing riser on the external face of a building,Per existing riser on a pole or existing riser on the external face of a building," $	30.85 ",Pipe Proving in existing riser on a pole or in existing riser on the external face of a building,45403
+
+Lend Lease,Lend Lease - ODM,CI-02-01-01/01-01,Installation of a cable sheath greater than 144 fibre in underground duct by any means,Per linear metre," $	2.75 ",Installation of a cable sheath greater than 144 fibre in underground duct by any means,45403
+
+Lend Lease,Lend Lease - ODM,CI-02-01-02/01-01,Installation of a cable sheath greater than 12 fibre and up to and including 144 fibre in underground duct by any means,Per linear metre," $	2.39 ",Installation of a cable sheath greater than 12 fibre and up to and including 144 fibre in underground duct by any means,45403
+
+Lend Lease,Lend Lease - ODM,CI-02-01-03/01-01,Installation of 12 fibre  cable sheath in underground duct by any means,Per linear metre," $	2.02 ",Installation of 12 fibre  cable sheath in underground duct by any means,45403
+
+Lend Lease,Lend Lease - ODM,CI-02-01-04/01-01,Installation of single fibre cable sheath in underground duct by any means,Per linear metre," $	1.98 ",Installation of single fibre cable sheath in underground duct by any means,45403
+
+Lend Lease,Lend Lease - ODM,CI-02-01-05/01-01,"Installation of a cable sheath in existing riser on a pole or in existing riser on the external face of a building",Per cable sheath," $	64.23 ","Installation of a cable sheath in existing riser on a pole or in existing riser on the external face of a building",45403
+
+Lend Lease,Lend Lease - ODM,CI-02-02-01/01-01,Installation of copper cable of up to including 100 pair in underground duct,Per linear metre," $	2.62 ",Installation of copper cable of up to including 100 pair in underground duct,45403
+
+Lend Lease,Lend Lease - ODM,CI-02-02-02/01-01,Installation of copper cable of greater than 100 pair in underground duct,Per linear metre," $	4.51 ",Installation of copper cable of greater than 100 pair in underground duct,45403
+
+Lend Lease,Lend Lease - ODM,CI-02-03-01/01-01,Installation of hardline in underground duct by any means,Per linear metre," $	3.75 ",Installation of hardline in underground duct by any means,45403
+
+Lend Lease,Lend Lease - ODM,CI-02-03-02/01-01,"Installation of hardline in an existing riser on a pole or in an existing riser on the external face of a building",Per Cable," $	87.71 ","Installation of hardline in an existing riser on a pole or in an existing riser on the external face of a building",45403
+
+Lend Lease,Lend Lease - ODM,CI-03-01-01/01-01,"Installation of cable sheath and all NBN Co infrastructure on timber poles in the communications corridor",Per Span," $	424.02 ","Installation of cable sheath and all NBN Co infrastructure on timber poles in the communications corridor",45403
+
+Lend Lease,Lend Lease - ODM,CI-03-01-02/01-01,"Installation of cable sheath and all NBN Co infrastructure on stobie poles in the communications corridor",Per Span," $	424.02 ","Installation of cable sheath and all NBN Co infrastructure on stobie poles in the communications corridor",45403
+
+Lend Lease,Lend Lease - ODM,CI-03-01-03/01-01,"Installation of cable sheath and all NBN Co infrastructure on concrete or steel poles in the communications corridor",Per Span," $	397.67 ","Installation of cable sheath and all NBN Co infrastructure on concrete or steel poles in the communications corridor",45403
+
+Lend Lease,Lend Lease - ODM,CI-03-01-04/01-01,"Installation of cable sheath and all NBN Co infrastructure on timber poles in the power corridor",Per Span," $	505.82 ","Installation of cable sheath and all NBN Co infrastructure on timber poles in the power corridor",45403
+
+Lend Lease,Lend Lease - ODM,CI-03-01-05/01-01,"Installation of cable sheath and all NBN Co infrastructure on stobie poles in the power corridor",Per Span," $	505.82 ","Installation of cable sheath and all NBN Co infrastructure on stobie poles in the power corridor",45403
+
+Lend Lease,Lend Lease - ODM,CI-03-01-06/01-01,"Installation of cable sheath and all NBN Co infrastructure on concrete or steel poles in the power corridor",Per Span," $	505.82 ","Installation of cable sheath and all NBN Co infrastructure on concrete or steel poles in the power corridor",45403
+
+Lend Lease,Lend Lease - ODM,CI-03-02-01/01-01,"Installation of copper cable sheath and all NBN Co infrastructure on timber poles in the communications corridor up to 100 pair",Per Span," $	162.94 ","Installation of copper cable sheath and all NBN Co infrastructure on timber poles in the communications corridor up to 100 pair",45403
+
+Lend Lease,Lend Lease - ODM,CI-03-02-02/01-01,"Installation of copper cable sheath and all NBN Co infrastructure on stobie poles in the communications corridor up to 100 pair",Per Span," $	162.94 ","Installation of copper cable sheath and all NBN Co infrastructure on stobie poles in the communications corridor up to 100 pair",45403
+
+Lend Lease,Lend Lease - ODM,CI-03-02-03/01-01,Installation of copper cable sheath and all NBN Co infrastructure on concrete or steel poles in the communications corridor up to 100 pair,Per Span," $	183.31 ",Installation of copper cable sheath and all NBN Co infrastructure on concrete or steel poles in the communications corridor up to 100 pair,45403
+
+Lend Lease,Lend Lease - ODM,CI-03-02-04/01-01,"Installation of copper cable sheath and all NBN Co infrastructure on timber poles in the power corridor up to 100 pair",Per Span," $	189.48 ","Installation of copper cable sheath and all NBN Co infrastructure on timber poles in the power corridor up to 100 pair",45403
+
+Lend Lease,Lend Lease - ODM,CI-03-02-05/01-01,"Installation of copper cable sheath and all NBN Co infrastructure on stobie poles in the power corridor up to 100 pair",Per Span," $	189.48 ","Installation of copper cable sheath and all NBN Co infrastructure on stobie poles in the power corridor up to 100 pair",45403
+
+Lend Lease,Lend Lease - ODM,CI-03-02-06/01-01,"Installation of copper cable sheath and all NBN Co infrastructure on concrete or steel poles in the power corridor up to 100 pair",Per Span," $	187.08 ","Installation of copper cable sheath and all NBN Co infrastructure on concrete or steel poles in the power corridor up to 100 pair",45403
+
+Lend Lease,Lend Lease - ODM,CI-03-03-01/01-01,Installation of hardline on all pole types,Per Coaxial Cable Span," $	421.40 ",Installation of hardline on all pole types,45403
+
+Lend Lease,Lend Lease - ODM,CI-03-03-02/01-01,Installation of a catenary wire only on timber poles,Per Coaxial Cable Span," $	221.45 ",Installation of a catenary wire only on timber poles,45403
+
+Lend Lease,Lend Lease - ODM,CI-03-03-03/01-01,Installation of a catenary wire only on stobie poles,Per Coaxial Cable Span," $	221.45 ",Installation of a catenary wire only on stobie poles,45403
+
+Lend Lease,Lend Lease - ODM,CI-03-03-04/01-01,Installation of a catenary wire only on concrete or steel poles,Per Coaxial Cable Span," $	221.45 ",Installation of a catenary wire only on concrete or steel poles,45403
+
+Lend Lease,Lend Lease - ODM,CI-03-03-05/01-01,Re-lashing of existing hardline to existing catenary wire,Per Coaxial Cable Span," $	221.45 ",Re-lashing of existing hardline to existing catenary wire,45403
+
+Lend Lease,Lend Lease - ODM,CI-04-01-01/01-01,Installation of cable sheath within a cable chamber or tunnel networks,Per linear metre," $	5.74 ",Installation of cable sheath within a cable chamber or tunnel networks,45403
+
+Lend Lease,Lend Lease - ODM,CI-04-01-01-AH/01-01,Installation of cable sheath within a cable chamber or tunnel networks outside working hours,Per linear metre," $	9.42 ",Installation of cable sheath within a cable chamber or tunnel networks outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,CI-04-01-02/01-01,Installation of cable sheath via riser shaft/cable tray,Per linear metre," $	5.92 ",Installation of cable sheath via riser shaft/cable tray,45403
+
+Lend Lease,Lend Lease - ODM,CI-04-01-02-AH/01-01,Installation of cable sheath via riser shaft/cable tray outside working hours,Per linear metre," $	8.89 ",Installation of cable sheath via riser shaft/cable tray outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,CI-04-01-03/01-01,Installation of cable sheath via ceiling space/floor cavity or crawl space,Per linear metre," $	5.72 ",Installation of cable sheath via ceiling space/floor cavity or crawl space,45403
+
+Lend Lease,Lend Lease - ODM,CI-04-01-03-AH/01-01,Installation of cable sheath via ceiling space/floor cavity or crawl space outside working hours,Per linear metre," $	10.47 ",Installation of cable sheath via ceiling space/floor cavity or crawl space outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,CI-04-01-04/01-01,Installation of cable sheath via existing or new conduit,Per linear metre," $	4.51 ",Installation of cable sheath via existing or new conduit,45403
+
+Lend Lease,Lend Lease - ODM,CI-04-01-04-AH/01-01,Installation of cable sheath via existing or new conduit outside working hours,Per linear metre," $	9.21 ",Installation of cable sheath via existing or new conduit outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,CI-04-02-01/01-01,Extra over rate for supply and install AC power cable for FTTB Cabinet,Per linear metre," $	11.14 ",Extra over rate for supply and install AC power cable for FTTB Cabinet,45403
+
+Lend Lease,Lend Lease - ODM,CI-04-02-02/01-01,Extra over rate for supply and install earth cable for FTTB Cabinet,Per linear metre," $	13.08 ",Extra over rate for supply and install earth cable for FTTB Cabinet,45403
+
+Lend Lease,Lend Lease - ODM,CI-04-02-03/01-01,"Extra over rate for the installation of a copper cable sheaths from main distribution frame to FTTB Cabinet, via riser, shaft or cable tray",Per linear metre," $	6.02 ","Extra over rate for the installation of a copper cable sheaths from main distribution frame to FTTB Cabinet, via riser, shaft or cable tray",45403
+
+Lend Lease,Lend Lease - ODM,CI-04-02-04/01-01,"Extra over rate for the installation of copper cable sheaths via ceiling space, floor cavity or crawl space",Per linear metre," $	7.14 ","Extra over rate for the installation of copper cable sheaths via ceiling space, floor cavity or crawl space",45403
+
+Lend Lease,Lend Lease - ODM,CI-04-03-01/01-01,Installation of backbone cable in buildings,Per linear metre," $	4.43 ",Installation of backbone cable in buildings,45403
+
+Lend Lease,Lend Lease - ODM,CI-04-03-02/01-01,Installation of coaxial service drop cable (lateral) from isolator to the ICD in existing or new duct and the installation of the ICD,Per drop," $	89.27 ",Installation of coaxial service drop cable (lateral) from isolator to the ICD in existing or new duct and the installation of the ICD,45403
+
+Lend Lease,Lend Lease - ODM,CI-04-03-03/01-01,Installation of coaxial service drop cable (lateral) from isolator to ICD on existing or new cable tray and the installation of the ICD,Per drop," $	117.99 ",Installation of coaxial service drop cable (lateral) from isolator to ICD on existing or new cable tray and the installation of the ICD,45403
+
+Lend Lease,Lend Lease - ODM,CI-04-03-04/01-01,Installation of coaxial service drop cable (lateral) from isolator to ICD in cavity or communications riser and the installation of the ICD,Per drop," $	87.91 ",Installation of coaxial service drop cable (lateral) from isolator to ICD in cavity or communications riser and the installation of the ICD,45403
+
+Lend Lease,Lend Lease - ODM,CI-04-03-05/01-01,Installation of coaxial customer premises tie- cabling from ICD to wall plate,Per wall plate," $	110.46 ",Installation of coaxial customer premises tie- cabling from ICD to wall plate,45403
+
+Lend Lease,Lend Lease - ODM,CI-04-03-06/01-01,Installation of coaxial customer premises tie- cabling from isolator to unterminated location within ceiling void,Per Tie cable," $	120.80 ",Installation of coaxial customer premises tie- cabling from isolator to unterminated location within ceiling void,45403
+
+Lend Lease,Lend Lease - ODM,CI-04-03-07/01-01,Installation of coaxial customer premises drop cable from isolator to wall plate in existing or new ducting,Per drop," $	127.62 ",Installation of coaxial customer premises drop cable from isolator to wall plate in existing or new ducting,45403
+
+Lend Lease,Lend Lease - ODM,CI-04-03-08/01-01,Installation of coaxial customer premises drop cable from isolator to wall plate on existing or new cable tray,Per drop," $	133.44 ",Installation of coaxial customer premises drop cable from isolator to wall plate on existing or new cable tray,45403
+
+Lend Lease,Lend Lease - ODM,CI-04-03-09/01-01,Installation of coaxial customer premises drop cable from isolator to wall plate in cavity or communications riser,Per drop," $	129.14 ",Installation of coaxial customer premises drop cable from isolator to wall plate in cavity or communications riser,45403
+
+Lend Lease,Lend Lease - ODM,CI-05-01-01/01-01,Removal and disposal of cable in distribution aerial Network,Per Span," $	173.02 ",Removal and disposal of cable in distribution aerial Network,45403
+
+Lend Lease,Lend Lease - ODM,CI-05-01-02/01-01,Removal and disposal of cable in local aerial Network,Per Span," $	170.29 ",Removal and disposal of cable in local aerial Network,45403
+
+Lend Lease,Lend Lease - ODM,CI-05-01-03/01-01,Removal and disposal of catenary wire in aerial Network,Per Span," $	152.12 ",Removal and disposal of catenary wire in aerial Network,45403
+
+Lend Lease,Lend Lease - ODM,CI-05-01-04/01-01,Removal and disposal of cable in distribution underground Network,Per metre," $	1.06 ",Removal and disposal of cable in distribution underground Network,45403
+
+Lend Lease,Lend Lease - ODM,CI-05-01-05/01-01,Removal and disposal of cable in local underground Network,Per metre," $	0.88 ",Removal and disposal of cable in local underground Network,45403
+
+Lend Lease,Lend Lease - ODM,CI-05-01-06/01-01,Removal and disposal of cable in buildings,Per metre," $	1.48 ",Removal and disposal of cable in buildings,45403
+
+Lend Lease,Lend Lease - ODM,CI-05-01-10/01-01,Removal and disposal of aerial lead in cables,Per lead in," $	51.68 ",Removal and disposal of aerial lead in cables,45403
+
+Lend Lease,Lend Lease - ODM,CI-05-01-11/01-01,Relocation of aerial lead in cables,Per lead in," $	209.28 ",Relocation of aerial lead in cables,45403
+
+Lend Lease,Lend Lease - ODM,CI-05-01-12/01-01,Disconnect and re-connect of aerial lead in cables,Per lead in," $	188.35 ",Disconnect and re-connect of aerial lead in cables,45403
+
+Lend Lease,Lend Lease - ODM,CI-05-01-15/01-01,Removal and disposal of underground lead in cables,Per lead in," $	12.92 ",Removal and disposal of underground lead in cables,45403
+
+Lend Lease,Lend Lease - ODM,CP-01-01-01/01-01,Installation of a new 900 type CCU,Per new 900 type CCU," $	658.45 ",Installation of a new 900 type CCU,45403
+
+Lend Lease,Lend Lease - ODM,CP-01-01-02/01-01,Installation of a new 1800 type CCU,Per new 1800 type CCU," $	658.45 ",Installation of a new 1800 type CCU,45403
+
+Lend Lease,Lend Lease - ODM,CP-01-01-03/01-01,"Installation of 10 cable pair bundles between two copper cable insulation displacement modules (Connection Modules), including the termination of the bundle on each Connection Module",Per 10 cable pair bundle," $	35.94 ","Installation of 10 cable pair bundles between two copper cable insulation displacement modules (Connection Modules), including the termination of the bundle on each Connection Module",45403
+
+Lend Lease,Lend Lease - ODM,CP-01-01-04/01-01,Cutting over existing services from an existing Connection Module to a new Connection Module,Per 10 cable pairs," $	100.91 ",Cutting over existing services from an existing Connection Module to a new Connection Module,45403
+
+Lend Lease,Lend Lease - ODM,CP-01-02-01/01-01,Upgrading of an existing CCU from 900 type to 1800 type,Per CCU required to be upgraded from 900 type to 1800 type," $	167.94 ",Upgrading of an existing CCU from 900 type to 1800 type,45403
+
+Lend Lease,Lend Lease - ODM,CP-01-02-02/01-01,Augmentation of an existing 900 type CCU (Pillar Expansion Option 1),Per Expansion CCU," $	599.19 ",Augmentation of an existing 900 type CCU (Pillar Expansion Option 1),45403
+
+Lend Lease,Lend Lease - ODM,CP-01-02-03/01-01,Augmentation of an existing 900 type CCU (Pillar Expansion Option 2),Per Expansion CCU," $	1449.82 ",Augmentation of an existing 900 type CCU (Pillar Expansion Option 2),45403
+
+Lend Lease,Lend Lease - ODM,CP-01-03-01/01-01,Removal and disposal of an existing CCU,Per existing CCU," $	203.68 ",Removal and disposal of an existing CCU,45403
+
+Lend Lease,Lend Lease - ODM,CP-01-04-01/01-01,Replacement of Pillar Lid Lock or Pillar Cap,Per existing CCU," $	45.06 ",Replacement of Pillar Lid Lock or Pillar Cap,45403
+
+Lend Lease,Lend Lease - ODM,CP-01-04-02/01-01,Installation of 2-piece Pillar Base Repair Kit,Per existing CCU," $	77.67 ",Installation of 2-piece Pillar Base Repair Kit,45403
+
+Lend Lease,Lend Lease - ODM,CP-01-04-03/01-01,Replace Cover Lightweight (1800 Type),Per existing CCU," $	42.60 ",Replace Cover Lightweight (1800 Type),45403
+
+Lend Lease,Lend Lease - ODM,CP-01-04-04/01-01,"Replacement of copper cable insulation displacement connection module (Connection Module) and termination of cable",Per existing module," $	58.31 ","Replacement of copper cable insulation displacement connection module (Connection Module) and termination of cable",45403
+
+Lend Lease,Lend Lease - ODM,CP-02-01-01/01-01,Installation of a new Distribution extra large copper joint,Per new Distribution extra large copper joint," $	1065.05 ",Installation of a new Distribution extra large copper joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-01-02/01-01,Installation of a new Distribution large copper joint,Per new Distribution large copper joint," $	401.44 ",Installation of a new Distribution large copper joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-01-03/01-01,Installation of a new Distribution small copper joint,Per new Distribution small copper joint," $	292.37 ",Installation of a new Distribution small copper joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-01-04/01-01,Installation of a new Main Cable small copper joint,Per new Main Cable small copper joint," $	751.75 ",Installation of a new Main Cable small copper joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-01-05/01-01,Installation of a new Main Cable medium copper joint,Per new Main Cable medium Copper joint," $	1207.12 ",Installation of a new Main Cable medium copper joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-01-06/01-01,Installation of a new Main Cable large copper joint enclosure,Per new Main Cable large Copper joint enclosure," $	2210.72 ",Installation of a new Main Cable large copper joint enclosure,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-01-07/01-01,Installation of a new Main Cable extra large copper joint enclosure,Per new Main Cable extra large Copper joint enclosure," $	4051.12 ",Installation of a new Main Cable extra large copper joint enclosure,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-01-08/01-01,Installation of a new aerial large copper joint,Per new Distribution large copper joint," $	692.75 ",Installation of a new aerial large copper joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-01-09/01-01,Installation of a new aerial small copper joint,Per new Distribution small copper joint," $	470.35 ",Installation of a new aerial small copper joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-02-01/01-01,Rehabilitate existing Distribution extra large or large openable copper joint,Per large openable copper joint," $	270.59 ",Rehabilitate existing Distribution extra large or large openable copper joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-02-02/01-01,Rehabilitate existing Distribution medium or small openable copper joint,Per small openable copper joint," $	169.08 ",Rehabilitate existing Distribution medium or small openable copper joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-02-03/01-01,Replacement of existing Distribution in-line copper joint with a new in-line large copper joint,Per existing copper joint replaced," $	665.66 ",Replacement of existing Distribution in-line copper joint with a new in-line large copper joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-02-04/01-01,Replacement of existing Distribution in-line copper joint with a new in-line small copper joint,Per existing copper joint replaced," $	412.10 ",Replacement of existing Distribution in-line copper joint with a new in-line small copper joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-02-05/01-01,Cutting over existing services from an existing copper joint to a new large copper joint,Per existing copper joint replaced," $	564.64 ",Cutting over existing services from an existing copper joint to a new large copper joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-02-06/01-01,Cutting over existing services from an existing copper joint to a new small copper joint,Per existing copper joint replaced," $	316.31 ",Cutting over existing services from an existing copper joint to a new small copper joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-02-07/01-01,Rehabilitate existing aerial extra large or large copper joint,Per existing copper joint replaced," $	465.93 ",Rehabilitate existing aerial extra large or large copper joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-02-08/01-01,Rehabilitate existing aerial medium or small copper joint,Per existing copper joint replaced," $	385.00 ",Rehabilitate existing aerial medium or small copper joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-02-09/01-01,Rehabilitate existing elevated copper joint,Per existing copper joint replaced," $	241.42 ",Rehabilitate existing elevated copper joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-02-10/01-01,Rehabilitate existing small Distribution in-line copper joint,Per small in-line copper joint," $	388.74 ",Rehabilitate existing small Distribution in-line copper joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-02-15/01-01,Rehabilitate existing extra large or large Distribution in-line copper joint,Per existing copper joint," $	431.93 ",Rehabilitate existing extra large or large Distribution in-line copper joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-02-16/01-01,Rehabilitate existing medium Distribution in-line copper joint,Per existing copper joint," $	431.93 ",Rehabilitate existing medium Distribution in-line copper joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-02-20/01-01,Joint a working cable pair into an existing joint up to and including a 10 pair cable,Per existing copper joint," $	191.49 ",Joint a working cable pair into an existing joint up to and including a 10 pair cable,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-02-21/01-01,Joint a working cable pair into an existing joint above a 10 pair cable and up to and including a 50 pair cable,Per existing copper joint," $	294.94 ",Joint a working cable pair into an existing joint above a 10 pair cable and up to and including a 50 pair cable,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-02-22/01-01,Joint a working cable pair into an existing joint above a 50 pair cable and up to and including a 100 pair cable,Per existing copper joint," $	335.69 ",Joint a working cable pair into an existing joint above a 50 pair cable and up to and including a 100 pair cable,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-02-23/01-01,Joint a working cable pair into an existing joint above 100 pair cable,Per existing copper joint," $	1855.84 ",Joint a working cable pair into an existing joint above 100 pair cable,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-02-24/01-01,Insert a 2 pair cable into an existing joint and joint to existing cable,Per 2 pair cable," $	40.96 ",Insert a 2 pair cable into an existing joint and joint to existing cable,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-02-25/01-01,"Insert a cable including a 10 pair and up to an including a 100 pair into an existing joint and joint to existing cable",Per Cable inserted," $	437.56 ","Insert a cable including a 10 pair and up to an including a 100 pair into an existing joint and joint to existing cable",45403
+
+Lend Lease,Lend Lease - ODM,CP-02-02-26/01-01,Locate and rectify a fault in a copper pair,Per Copper Cable," $	170.31 ",Locate and rectify a fault in a copper pair,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-03-01/01-01,Removal of existing copper joint,Per existing copper joint," $	43.12 ",Removal of existing copper joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-03-02/01-01,Removal of existing aerial copper joint,Per existing copper joint," $	96.55 ",Removal of existing aerial copper joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-03-03/01-01,Remove a existing elevated joint,Per existing copper joint," $	84.65 ",Remove a existing elevated joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-04-01/01-01,Joint sealing maintenance task (add Dexbond 10B Sealant),Per existing copper joint," $	37.72 ",Joint sealing maintenance task (add Dexbond 10B Sealant),45403
+
+Lend Lease,Lend Lease - ODM,CP-02-04-02/01-01,"Replace joint lid, clamp, or Support Bar   (HSOJ or Dexgreen Joint)",Per existing copper joint," $	18.86 ","Replace joint lid, clamp, or Support Bar   (HSOJ or Dexgreen Joint)",45403
+
+Lend Lease,Lend Lease - ODM,CP-02-04-03/01-01,Replace or install 2-5pr Snap Enclosure,Per existing copper joint," $	25.87 ",Replace or install 2-5pr Snap Enclosure,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-04-04/01-01,Replace or install 10pr Snap Enclosure,Per existing copper joint," $	42.43 ",Replace or install 10pr Snap Enclosure,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-04-05/01-01,Replace connectors in an openable joint,Per existing copper joint," $	28.29 ",Replace connectors in an openable joint,45403
+
+Lend Lease,Lend Lease - ODM,CP-02-04-06/01-01,Replace Bandit Strap,Per existing copper joint," $	30.24 ",Replace Bandit Strap,45403
+
+Lend Lease,Lend Lease - ODM,CP-03-01-01/01-01,Removal of a pair gain system,Per pair gain system," $	252.27 ",Removal of a pair gain system,45403
+
+Lend Lease,Lend Lease - ODM,CP-03-01-02/01-01,Migration of an existing service from a pair gain system to a dedicated copper circuit,Per existing service," $	130.37 ",Migration of an existing service from a pair gain system to a dedicated copper circuit,45403
+
+Lend Lease,Lend Lease - ODM,CP-03-01-03/01-01,Single service active migration in a CSD including service jumpering in the pillar,Per service," $	77.48 ",Single service active migration in a CSD including service jumpering in the pillar,45403
+
+Lend Lease,Lend Lease - ODM,CP-03-01-04/01-01,Removal of existing line conditioning equipment,Per existing line conditioning equipment," $	150.52 ",Removal of existing line conditioning equipment,45403
+
+Lend Lease,Lend Lease - ODM,CP-03-01-05/01-01,Removal of an existing bridge tap,Per existing bridge tap," $	141.19 ",Removal of an existing bridge tap,45403
+
+Lend Lease,Lend Lease - ODM,CP-03-01-06/01-01,Install earth bonding cable between cable sections,Per linear metre," $	7.27 ",Install earth bonding cable between cable sections,45403
+
+Lend Lease,Lend Lease - ODM,CP-03-01-10/01-01,Multiple services pre-validation for migration at any location,Per existing service," $	42.84 ",Multiple services pre-validation for migration at any location,45403
+
+Lend Lease,Lend Lease - ODM,CP-05-01-01/01-01,Installation of service jumpering in an Exchange,Per Service," $	67.78 ",Installation of service jumpering in an Exchange,45403
+
+Lend Lease,Lend Lease - ODM,CP-05-01-02/01-01,Existing service transfer jumpering in an MDF and termination end point,Per existing service," $	73.55 ",Existing service transfer jumpering in an MDF and termination end point,45403
+
+Lend Lease,Lend Lease - ODM,CP-05-02-01/01-01,Installation of service jumpering in a cross connect unit for the first service jumpered,Per Service," $	8.69 ",Installation of service jumpering in a cross connect unit for the first service jumpered,45403
+
+Lend Lease,Lend Lease - ODM,CP-05-02-02/01-01,Extra over service Jumpering in a cross connect unit,Per Service," $	8.69 ",Extra over service Jumpering in a cross connect unit,45403
+
+Lend Lease,Lend Lease - ODM,CW-01-01-01/01-01,Supply and install underground pipe with an internal diameter of more than 25mm and equal to or less than 50mm by any means in other than Rock,Per linear metre," $	40.76 ",Supply and install underground pipe with an internal diameter of more than 25mm and equal to or less than 50mm by any means in other than Rock,45403
+
+Lend Lease,Lend Lease - ODM,CW-01-01-02/01-01,Supply and install underground pipe with an internal diameter of greater than 50mm by any means in other than Rock,Per linear metre," $	47.06 ",Supply and install underground pipe with an internal diameter of greater than 50mm by any means in other than Rock,45403
+
+Lend Lease,Lend Lease - ODM,CW-01-01-03/01-01,Extra over for supply and install an additional underground pipe in an existing trench with an internal diameter of greater than 25mm,Per linear metre," $	11.01 ",Extra over for supply and install an additional underground pipe in an existing trench with an internal diameter of greater than 25mm,45403
+
+Lend Lease,Lend Lease - ODM,CW-01-01-04/01-01,Extra over for supply and install an additional underground pipe by boring technique with an internal diameter of greater than 25mm,Per linear metre," $	47.24 ",Extra over for supply and install an additional underground pipe by boring technique with an internal diameter of greater than 25mm,45403
+
+Lend Lease,Lend Lease - ODM,CW-01-01-05/01-01,Supply and install riser on pole or building,Per riser," $	129.23 ",Supply and install riser on pole or building,45403
+
+Lend Lease,Lend Lease - ODM,CW-01-02-01/01-01,Extra over rate for the supply and install of pipe in Rock by any means,Per linear metre," $	159.02 ",Extra over rate for the supply and install of pipe in Rock by any means,45403
+
+Lend Lease,Lend Lease - ODM,CW-02-01-01/01-01,Supply and installation of small pits (P2) at any locations in other than Rock,Per pit," $	192.11 ",Supply and installation of small pits (P2) at any locations in other than Rock,45403
+
+Lend Lease,Lend Lease - ODM,CW-02-01-02/01-01,Supply and installation of medium pits (P4 and P5) at any locations in other than Rock,Per pit," $	393.29 ",Supply and installation of medium pits (P4 and P5) at any locations in other than Rock,45403
+
+Lend Lease,Lend Lease - ODM,CW-02-01-03/01-01,Supply and installation of large pits (P6 and P8) at any locations in other than Rock,Per pit," $	835.70 ",Supply and installation of large pits (P6 and P8) at any locations in other than Rock,45403
+
+Lend Lease,Lend Lease - ODM,CW-02-01-04/01-01,Supply and installation of extra-large (P9) pits at any locations in other than Rock,Per pit," $	1451.08 ",Supply and installation of extra-large (P9) pits at any locations in other than Rock,45403
+
+Lend Lease,Lend Lease - ODM,CW-02-01-05/01-01,Supply and install pit riser,Each pit riser," $	163.43 ",Supply and install pit riser,45403
+
+Lend Lease,Lend Lease - ODM,CW-02-01-06/01-01,Supply and install pit lids,Each pit lids," $	58.17 ",Supply and install pit lids,45403
+
+Lend Lease,Lend Lease - ODM,CW-02-01-08/01-01,Supply and install composite pit lids,Each pit lids," $	37.81 ",Supply and install composite pit lids,45403
+
+Lend Lease,Lend Lease - ODM,CW-02-02-01/01-01,Extra over rate for the supply and installation of a pit in Rock,Per cubic metre," $	196.07 ",Extra over rate for the supply and installation of a pit in Rock,45403
+
+Lend Lease,Lend Lease - ODM,CW-02-03-01/01-01,Removal and disposal of small (2 or 3) ACM Pit,Each ACM Pit," $	345.70 ",Removal and disposal of small (2 or 3) ACM Pit,45403
+
+Lend Lease,Lend Lease - ODM,CW-02-03-02/01-01,Removal and disposal of medium (4) ACM Pit,Each ACM Pit," $	510.50 ",Removal and disposal of medium (4) ACM Pit,45403
+
+Lend Lease,Lend Lease - ODM,CW-02-03-03/01-01,Removal and disposal of large (6 or 8) ACM Pit,Each ACM Pit," $	677.40 ",Removal and disposal of large (6 or 8) ACM Pit,45403
+
+Lend Lease,Lend Lease - ODM,CW-02-03-04/01-01,Removal and disposal of extra large (9) ACM Pit,Each ACM Pit," $	934.77 ",Removal and disposal of extra large (9) ACM Pit,45403
+
+Lend Lease,Lend Lease - ODM,CW-02-04-01/01-01,Remove and dispose of a single lid plastic pit,Each Pit," $	318.85 ",Remove and dispose of a single lid plastic pit,45403
+
+Lend Lease,Lend Lease - ODM,CW-02-04-02/01-01,Remove and dispose of a double lid plastic pit,Each Pit," $	619.99 ",Remove and dispose of a double lid plastic pit,45403
+
+Lend Lease,Lend Lease - ODM,CW-03-01-01/01-01,Core bore,Each core bore," $	114.77 ",Core bore,45403
+
+Lend Lease,Lend Lease - ODM,CW-04-01-01/01-01,Installation only of single cable by direct buried techniques by any means,Per linear metre," $	15.01 ",Installation only of single cable by direct buried techniques by any means,45403
+
+Lend Lease,Lend Lease - ODM,CW-04-02-01/01-01,Extra over for the installation of a single cable by direct buried techniques in Rock,Per linear metre," $	36.25 ",Extra over for the installation of a single cable by direct buried techniques in Rock,45403
+
+Lend Lease,Lend Lease - ODM,CW-04-03-01/01-01,Supply and install marker posts for buried underground cable,Per marker post," $	65.44 ",Supply and install marker posts for buried underground cable,45403
+
+Lend Lease,Lend Lease - ODM,CW-05-01-01/01-01,Identify and repair a damaged and blocked duct in any surface,Per blockage repaired," $	297.90 ",Identify and repair a damaged and blocked duct in any surface,45403
+
+Lend Lease,Lend Lease - ODM,CW-05-01-02/01-01,Clear pipe blockage using high pressure water,Per blockage cleared," $	144.86 ",Clear pipe blockage using high pressure water,45403
+
+Lend Lease,Lend Lease - ODM,CW-05-01-03/01-01,Extra over for the repair of a secondary damaged or blocked duct in any surface,Per blockage repaired," $	278.46 ",Extra over for the repair of a secondary damaged or blocked duct in any surface,45403
+
+Lend Lease,Lend Lease - ODM,CW-06-01-01/01-01,Breakout concrete surface material,Per linear metre," $	65.48 ",Breakout concrete surface material,45403
+
+Lend Lease,Lend Lease - ODM,CW-06-01-02/01-01,Breakout asphalt or bitumen,Per linear metre," $	59.63 ",Breakout asphalt or bitumen,45403
+
+Lend Lease,Lend Lease - ODM,CW-06-01-03/01-01,Breakout paving material in CBD areas,Per linear metre," $	86.63 ",Breakout paving material in CBD areas,45403
+
+Lend Lease,Lend Lease - ODM,CW-06-01-04/01-01,Breakout paving material in all areas other than CBD,Per linear metre," $	53.18 ",Breakout paving material in all areas other than CBD,45403
+
+Lend Lease,Lend Lease - ODM,CW-06-02-01/01-01,Reinstate concrete surface material,Per linear metre," $	116.82 ",Reinstate concrete surface material,45403
+
+Lend Lease,Lend Lease - ODM,CW-06-02-02/01-01,Reinstate asphalt or bitumen,Per linear metre," $	76.54 ",Reinstate asphalt or bitumen,45403
+
+Lend Lease,Lend Lease - ODM,CW-06-02-03/01-01,Reinstate paving material in CBD areas,Per linear metre," $	97.77 ",Reinstate paving material in CBD areas,45403
+
+Lend Lease,Lend Lease - ODM,CW-06-02-04/01-01,Reinstate paving material in all areas other than CBD,Per linear metre," $	87.69 ",Reinstate paving material in all areas other than CBD,45403
+
+Lend Lease,Lend Lease - ODM,EA-01-01-01/01-01,Copper performance line testing,Per cable pair," $	74.92 ",Copper performance line testing,45403
+
+Lend Lease,Lend Lease - ODM,EA-01-01-02/01-01,Line Testing Vacant Pairs,Per cable pair," $	9.54 ",Line Testing Vacant Pairs,45403
+
+Lend Lease,Lend Lease - ODM,FB-01-01-01/01-01,Installation and preparation of a new fibre joint enclosure greater than 144 fibres,Per fibre joint enclosure," $	272.06 ",Installation and preparation of a new fibre joint enclosure greater than 144 fibres,45403
+
+Lend Lease,Lend Lease - ODM,FB-01-01-02/01-01,Installation and preparation of a new fibre joint enclosure greater than 12 fibres and up to and including 144 fibres,Per fibre joint enclosure," $	185.74 ",Installation and preparation of a new fibre joint enclosure greater than 12 fibres and up to and including 144 fibres,45403
+
+Lend Lease,Lend Lease - ODM,FB-01-01-03/01-01,Installation and preparation of a fibre joint enclosure up to and including 12 fibres,Per fibre joint enclosure," $	134.07 ",Installation and preparation of a fibre joint enclosure up to and including 12 fibres,45403
+
+Lend Lease,Lend Lease - ODM,FB-01-01-04/01-01,Installation and preparation of Gator fibre joint enclosure,Per Gator fibre joint enclosure," $	140.26 ",Installation and preparation of Gator fibre joint enclosure,45403
+
+Lend Lease,Lend Lease - ODM,FB-01-02-01/01-01,Prepare a fibre cable sheath greater than 144 fibres  to be connected to fibre joint enclosures,Per cable sheath," $	219.54 ",Prepare a fibre cable sheath greater than 144 fibres  to be connected to fibre joint enclosures,45403
+
+Lend Lease,Lend Lease - ODM,FB-01-02-02/01-01,Prepare a fibre cable sheath greater 12 fibres and up to and including 144 fibres to be connected to fibre joint enclosures,Per cable sheath," $	122.78 ",Prepare a fibre cable sheath greater 12 fibres and up to and including 144 fibres to be connected to fibre joint enclosures,45403
+
+Lend Lease,Lend Lease - ODM,FB-01-02-03/01-01,Prepare a 12 fibre cable to be connected to fibre joint enclosures,Per cable sheath," $	59.01 ",Prepare a 12 fibre cable to be connected to fibre joint enclosures,45403
+
+Lend Lease,Lend Lease - ODM,FB-01-02-04/01-01,Prepare Single fibre cable sheath to be connected to fibre joint enclosures,Per cable sheath," $	45.63 ",Prepare Single fibre cable sheath to be connected to fibre joint enclosures,45403
+
+Lend Lease,Lend Lease - ODM,FB-01-02-05/01-01,Lay up of cable sheaths,Per cable sheath," $	83.48 ",Lay up of cable sheaths,45403
+
+Lend Lease,Lend Lease - ODM,FB-01-02-06/01-01,Prepare a loose tube fibre cable sheath greater than 144 fibres to be connected to fibre joint enclosures,Per cable sheath," $	299.54 ",Prepare a loose tube fibre cable sheath greater than 144 fibres to be connected to fibre joint enclosures,45403
+
+Lend Lease,Lend Lease - ODM,FB-01-02-07/01-01,Prepare a loose tube fibre cable sheath greater 12 fibres and up to and including 144 fibres to be connected to fibre joint enclosures,Per cable sheath," $	205.71 ",Prepare a loose tube fibre cable sheath greater 12 fibres and up to and including 144 fibres to be connected to fibre joint enclosures,45403
+
+Lend Lease,Lend Lease - ODM,FB-01-02-08/01-01,Prepare a loose tube 12 fibre cable to be connected to fibre joint enclosures,Per cable sheath," $	93.96 ",Prepare a loose tube 12 fibre cable to be connected to fibre joint enclosures,45403
+
+Lend Lease,Lend Lease - ODM,FB-01-02-09/01-01,Prepare a loose tube Single fibre cable sheath to be connected to fibre joint enclosures,Per cable sheath," $	47.62 ",Prepare a loose tube Single fibre cable sheath to be connected to fibre joint enclosures,45403
+
+Lend Lease,Lend Lease - ODM,FB-01-03-01/01-01,Re-entry into a fibre joint enclosure,Per fibre joint enclosure," $	82.37 ",Re-entry into a fibre joint enclosure,45403
+
+Lend Lease,Lend Lease - ODM,FB-01-04-01/01-01,Installation of splitter within existing FDH / PDH cabinet,Per splitter," $	38.40 ",Installation of splitter within existing FDH / PDH cabinet,45403
+
+Lend Lease,Lend Lease - ODM,FB-01-04-02/01-01,Installation of splitter within an existing BJL enclosure,Per splitter," $	73.15 ",Installation of splitter within an existing BJL enclosure,45403
+
+Lend Lease,Lend Lease - ODM,FB-01-04-03/01-01,Installation of splitter within an existing FJL enclosure,Per splitter," $	85.24 ",Installation of splitter within an existing FJL enclosure,45403
+
+Lend Lease,Lend Lease - ODM,FB-01-04-04/01-01,Installation of a splitter card output fibres to LFN ports within and existing FDH cabinet,Per Fibre," $	38.91 ",Installation of a splitter card output fibres to LFN ports within and existing FDH cabinet,45403
+
+Lend Lease,Lend Lease - ODM,FB-01-04-05/01-01,Installation of a Fibre TV Splitter (TVS) within an FDH Cabinet,Per device," $	35.75 ",Installation of a Fibre TV Splitter (TVS) within an FDH Cabinet,45403
+
+Lend Lease,Lend Lease - ODM,FB-01-04-06/01-01,Installation of a Fibre TV Splitter within a PDH enclosure,Per device," $	38.63 ",Installation of a Fibre TV Splitter within a PDH enclosure,45403
+
+Lend Lease,Lend Lease - ODM,FB-02-01-01/01-01,Installation of multiport or splitter multiport in underground pit or manhole,Per multiport," $	29.83 ",Installation of multiport or splitter multiport in underground pit or manhole,45403
+
+Lend Lease,Lend Lease - ODM,FB-02-01-02/01-01,Installation of multiport or splitter multiport on any pole,Per multiport," $	114.69 ",Installation of multiport or splitter multiport on any pole,45403
+
+Lend Lease,Lend Lease - ODM,FB-02-01-03/01-01,Replacement or Upgrade of existing splitter multiport in underground pit or manhole,Per multiport," $	60.49 ",Replacement or Upgrade of existing splitter multiport in underground pit or manhole,45403
+
+Lend Lease,Lend Lease - ODM,FB-02-01-04/01-01,Replacement or Upgrade of existing splitter multiport on any pole,Per multiport," $	173.28 ",Replacement or Upgrade of existing splitter multiport on any pole,45403
+
+Lend Lease,Lend Lease - ODM,FB-03-01-01/01-01,Splicing of optic fibre ribbons,Per Ribbon Splice," $	19.24 ",Splicing of optic fibre ribbons,45403
+
+Lend Lease,Lend Lease - ODM,FB-03-01-02/01-01,Splicing of single fibre,Per Fibre Splice," $	13.11 ",Splicing of single fibre,45403
+
+Lend Lease,Lend Lease - ODM,FB-03-01-03/01-01,Splicing of loose tube fibre,Per Fibre Splice," $	12.29 ",Splicing of loose tube fibre,45403
+
+Lend Lease,Lend Lease - ODM,FB-03-01-04/01-01,De ribbonise 12 fibre ribbon,Per ribbon," $	4.72 ",De ribbonise 12 fibre ribbon,45403
+
+Lend Lease,Lend Lease - ODM,FB-04-02-01/01-01,Uni-directional OTDR Testing to the first fibre tested,Per fibre," $	18.56 ",Uni-directional OTDR Testing to the first fibre tested,45403
+
+Lend Lease,Lend Lease - ODM,FB-04-02-02/01-01,Extra over for additional Uni-directional OTDR Testing,Per fibre," $	18.03 ",Extra over for additional Uni-directional OTDR Testing,45403
+
+Lend Lease,Lend Lease - ODM,FB-04-02-03/01-01,Point to point DFL OTDR test to the first fibre tested,Per fibre," $	28.07 ",Point to point DFL OTDR test to the first fibre tested,45403
+
+Lend Lease,Lend Lease - ODM,FB-04-02-04/01-01,Extra over for additional Point to point DFL OTDR test,Per fibre," $	13.65 ",Extra over for additional Point to point DFL OTDR test,45403
+
+Lend Lease,Lend Lease - ODM,FB-04-02-05/01-01,Insertion loss testing to the first fibre tested,Per fibre," $	17.72 ",Insertion loss testing to the first fibre tested,45403
+
+Lend Lease,Lend Lease - ODM,FB-04-02-06/01-01,Extra over for additional Insertion loss testing,Per fibre," $	16.76 ",Extra over for additional Insertion loss testing,45403
+
+Lend Lease,Lend Lease - ODM,FB-04-02-07/01-01,Extra over rate for LFN / MTLFN insertion loss testing to the PCD,Per fibre," $	13.65 ",Extra over rate for LFN / MTLFN insertion loss testing to the PCD,45403
+
+Lend Lease,Lend Lease - ODM,FB-04-02-08/01-01,PON Power Meter Test,Per fibre," $	15.70 ",PON Power Meter Test,45403
+
+Lend Lease,Lend Lease - ODM,FB-04-02-09/01-01,End to end connectivity testing to the GPON NTD at customer premises,Per fibre," $	29.29 ",End to end connectivity testing to the GPON NTD at customer premises,45403
+
+Lend Lease,Lend Lease - ODM,FB-04-02-10/01-01,End to end connectivity testing to SASK NTD at customer premises,Per fibre," $	29.29 ",End to end connectivity testing to SASK NTD at customer premises,45403
+
+Lend Lease,Lend Lease - ODM,FB-05-02-01/01-01,Installation of a 12/24 way fibre patch panel within a customer premise environment,Per patch panel," $	57.79 ",Installation of a 12/24 way fibre patch panel within a customer premise environment,45403
+
+Lend Lease,Lend Lease - ODM,FB-05-02-04/01-01,Installation of a 24 way HDODF patch panel within a HDODF or equivalent environment,Per patch panel," $	116.40 ",Installation of a 24 way HDODF patch panel within a HDODF or equivalent environment,45403
+
+Lend Lease,Lend Lease - ODM,FB-05-02-05/01-01,Installation of a 72 way HDODF patch panel within a HDODF or equivalent environment,Per patch panel," $	155.21 ",Installation of a 72 way HDODF patch panel within a HDODF or equivalent environment,45403
+
+Lend Lease,Lend Lease - ODM,FB-05-02-06/01-01,Installation of a 144 way HDODF patch panel within a HDODF or equivalent environment,Per patch panel," $	191.01 ",Installation of a 144 way HDODF patch panel within a HDODF or equivalent environment,45403
+
+Lend Lease,Lend Lease - ODM,FB-05-03-01/01-01,Prepare and splice of a 12 fibre sheath within a customer premises environment,Per cable sheath," $	87.85 ",Prepare and splice of a 12 fibre sheath within a customer premises environment,45403
+
+Lend Lease,Lend Lease - ODM,FB-05-03-02/01-01,Prepare and splice of a single fibre in a PIC cable,Per Fibre," $	32.57 ",Prepare and splice of a single fibre in a PIC cable,45403
+
+Lend Lease,Lend Lease - ODM,FB-05-03-03/01-01,Supply and install patching cable within a HDODF or equivalent environment,Per patching cable," $	38.34 ",Supply and install patching cable within a HDODF or equivalent environment,45403
+
+Lend Lease,Lend Lease - ODM,FB-05-03-06/01-01,Prepare and splice a fibre cable sheath greater than 144 fibres to be connected within a HDODF environment,Per cable sheath," $	262.25 ",Prepare and splice a fibre cable sheath greater than 144 fibres to be connected within a HDODF environment,45403
+
+Lend Lease,Lend Lease - ODM,FB-05-03-07/01-01,Prepare and splice a fibre cable sheath greater 12 fibres and up to and including 144 fibres to be connected within a HDODF environment,Per cable sheath," $	134.24 ",Prepare and splice a fibre cable sheath greater 12 fibres and up to and including 144 fibres to be connected within a HDODF environment,45403
+
+Lend Lease,Lend Lease - ODM,FB-05-03-08/01-01,Installation of an inline optical attenuator in conjunction with HDODF patching works,Per optical attenuator," $	48.87 ",Installation of an inline optical attenuator in conjunction with HDODF patching works,45403
+
+Lend Lease,Lend Lease - ODM,FB-05-03-09/01-01,"Installation of an inline optical attenuator within the HDODF cabinet or equivalent rack environments as part of line balancing works for an FTTC DPU",Per optical attenuator," $	100.70 ","Installation of an inline optical attenuator within the HDODF cabinet or equivalent rack environments as part of line balancing works for an FTTC DPU",45403
+
+Lend Lease,Lend Lease - ODM,FB-06-01-01/01-01,Removal of existing fibre joint enclosure,Per fibre joint enclosure," $	67.13 ",Removal of existing fibre joint enclosure,45403
+
+Lend Lease,Lend Lease - ODM,FC-01-01-03/01-01,Installation and commissioning of a wall mounted DPU terminal device,Per DPU," $	59.94 ",Installation and commissioning of a wall mounted DPU terminal device,45403
+
+Lend Lease,Lend Lease - ODM,FC-01-01-10/01-01,Installation and commissioning of an aerial DPU terminal device,Per DPU," $	101.67 ",Installation and commissioning of an aerial DPU terminal device,45403
+
+Lend Lease,Lend Lease - ODM,FC-01-01-11/01-01,Installation and commissioning of a non-aerial DPU terminal device,Per DPU," $	43.83 ",Installation and commissioning of a non-aerial DPU terminal device,45403
+
+Lend Lease,Lend Lease - ODM,FC-01-01-12/01-01,Removal of existing DPU,Per DPU," $	92.18 ",Removal of existing DPU,45403
+
+Lend Lease,Lend Lease - ODM,FC-02-01-05/01-01,Supply and installation of a DPU copper lead extension from DPU copper lead to a new or existing aerial mounted openable joint enclosure or to an existing aerial mounted terminal box joint enclosure,Per DPU copper lead extension," $	124.56 ",Supply and installation of a DPU copper lead extension from DPU copper lead to a new or existing aerial mounted openable joint enclosure or to an existing aerial mounted terminal box joint enclosure,45403
+
+Lend Lease,Lend Lease - ODM,FC-02-01-06/01-01,Supply and installation of DPU copper lead extension from DPU copper lead to a new or existing non-aerial mounted openable joint enclosure,Per DPU copper lead extension," $	98.39 ",Supply and installation of DPU copper lead extension from DPU copper lead to a new or existing non-aerial mounted openable joint enclosure,45403
+
+Lend Lease,Lend Lease - ODM,FC-02-01-07/01-01,Supply and installation of a DPU copper lead extension from DPU copper lead to a non-aerial copper interconnect unit,Per DPU copper lead extension," $	93.10 ",Supply and installation of a DPU copper lead extension from DPU copper lead to a non-aerial copper interconnect unit,45403
+
+Lend Lease,Lend Lease - ODM,FC-02-01-12/01-01,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing aerial mounted openable joint enclosure or to an existing aerial mounted terminal box joint enclosure,Per DPU copper lead high twist extension," $	122.18 ",Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing aerial mounted openable joint enclosure or to an existing aerial mounted terminal box joint enclosure,45403
+
+Lend Lease,Lend Lease - ODM,FC-02-01-13/01-01,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing non-aerial mounted openable joint enclosure,Per DPU copper lead high twist extension," $	17.56 ",Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing non-aerial mounted openable joint enclosure,45403
+
+Lend Lease,Lend Lease - ODM,FC-02-02-01/01-01,Jointing of an aerial copper drop sheath to aerial DPU copper lead in a new or existing openable joint enclosure,Per aerial DPU copper lead jointed," $	98.00 ",Jointing of an aerial copper drop sheath to aerial DPU copper lead in a new or existing openable joint enclosure,45403
+
+Lend Lease,Lend Lease - ODM,FC-02-02-02/01-01,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing aerial mounted openable joint enclosure,Per DPU copper lead high twist extension," $	121.21 ",Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing aerial mounted openable joint enclosure,45403
+
+Lend Lease,Lend Lease - ODM,FC-02-02-03/01-01,Removal of an existing terminal box joint enclosure or existing openable joint and installation of a new replacement openable joint enclosure,Per replaced enclosure," $	29.81 ",Removal of an existing terminal box joint enclosure or existing openable joint and installation of a new replacement openable joint enclosure,45403
+
+Lend Lease,Lend Lease - ODM,FC-02-02-04/01-01,Installation of a copper tie cable for interconnection between two new or existing openable joint enclosures or terminal box joint enclosures,Per copper tie cable," $	42.76 ",Installation of a copper tie cable for interconnection between two new or existing openable joint enclosures or terminal box joint enclosures,45403
+
+Lend Lease,Lend Lease - ODM,FC-02-03-01/01-01,Installation of a new non-aerial openable joint enclosure,"Per new non-aerial openable joint enclosure"," $	98.00 ",Installation of a new non-aerial openable joint enclosure,45403
+
+Lend Lease,Lend Lease - ODM,FC-02-03-02/01-01,Jointing of copper drop sheath to DPU copper lead using a copper interconnect unit,Per DPU copper lead jointed," $	29.81 ",Jointing of copper drop sheath to DPU copper lead using a copper interconnect unit,45403
+
+Lend Lease,Lend Lease - ODM,FC-02-03-03/01-01,Jointing of copper drop sheath to DPU copper lead in a new or existing openable joint enclosure,Per DPU copper lead jointed," $	42.76 ",Jointing of copper drop sheath to DPU copper lead in a new or existing openable joint enclosure,45403
+
+Lend Lease,Lend Lease - ODM,FC-02-03-04/01-01,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a non-aerial copper interconnect unit,Per DPU copper lead high twist extension," $	93.10 ",Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a non-aerial copper interconnect unit,45403
+
+Lend Lease,Lend Lease - ODM,FC-02-03-05/01-01,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing non-aerial openable joint enclosure,Per DPU copper lead high twist extension," $	129.11 ",Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing non-aerial openable joint enclosure,45403
+
+Lend Lease,Lend Lease - ODM,FC-02-03-06/01-01,Extra over for the Installation of a 2 pair copper cut-in loop to existing lead sheath copper lead-in,Per 2pair loop," $	93.21 ",Extra over for the Installation of a 2 pair copper cut-in loop to existing lead sheath copper lead-in,45403
+
+Lend Lease,Lend Lease - ODM,FC-03-01-01/01-01,Existing copper drop sheath validation,Per existing copper drop sheath validated," $	31.90 ",Existing copper drop sheath validation,45403
+
+Lend Lease,Lend Lease - ODM,FC-03-01-02/01-01,Existing Copper drop sheath validation for Serviceability for Missed Lead-ins,Per existing copper drop sheath validated," $	28.96 ",Existing Copper drop sheath validation for Serviceability for Missed Lead-ins,45403
+
+Lend Lease,Lend Lease - ODM,HF-01-01-01/01-01,Installation of aerial bridger amplifier in new network,Per bridger amplifier," $	225.65 ",Installation of aerial bridger amplifier in new network,45403
+
+Lend Lease,Lend Lease - ODM,HF-01-01-02/01-01,Installation of aerial bridger amplifier in existing network,Per bridger amplifier," $	225.65 ",Installation of aerial bridger amplifier in existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-01-01-03/01-01,Installation of aerial line-extender amplifier in new network,Per line-extender amplifier," $	166.44 ",Installation of aerial line-extender amplifier in new network,45403
+
+Lend Lease,Lend Lease - ODM,HF-01-01-04/01-01,Installation of aerial line-extender amplifier to existing network,Per line-extender amplifier," $	170.29 ",Installation of aerial line-extender amplifier to existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-01-01-05/01-01,"Installation of aerial directional coupler, network splitter, line equaliser or line power inserter in new network",Per coupler or network splitter or line power inserter," $	124.89 ","Installation of aerial directional coupler, network splitter, line equaliser or line power inserter in new network",45403
+
+Lend Lease,Lend Lease - ODM,HF-01-01-06/01-01,"Installation of aerial mounted directional coupler, network splitter, line equaliser or line power inserter in existing network",Per coupler or network splitter or line power inserter," $	145.58 ","Installation of aerial mounted directional coupler, network splitter, line equaliser or line power inserter in existing network",45403
+
+Lend Lease,Lend Lease - ODM,HF-01-01-07/01-01,Installation of aerial line power supply in new network,Per line power supply," $	1882.36 ",Installation of aerial line power supply in new network,45403
+
+Lend Lease,Lend Lease - ODM,HF-01-01-08/01-01,Installation of aerial line power supply in existing network,Per line power supply," $	1882.36 ",Installation of aerial line power supply in existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-01-01-09/01-01,Installation of pedestal mounted line power supply in new network,Per line power supply," $	3340.96 ",Installation of pedestal mounted line power supply in new network,45403
+
+Lend Lease,Lend Lease - ODM,HF-01-01-10/01-01,Installation of pedestal mounted line power supply in existing network,Per line power supply," $	3340.96 ",Installation of pedestal mounted line power supply in existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-01-01-11/01-01,Installation of aerial tap in new network,Per tap," $	110.47 ",Installation of aerial tap in new network,45403
+
+Lend Lease,Lend Lease - ODM,HF-01-01-12/01-01,Installation of aerial tap in existing network,Per tap," $	143.89 ",Installation of aerial tap in existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-01-01-13/01-01,Installation of aerial mounted power blocker in existing network,per device," $	105.33 ",Installation of aerial mounted power blocker in existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-01-01-14/01-01,Installation of aerial RF splice in existing network,Per Splice," $	95.44 ",Installation of aerial RF splice in existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-01-01-15/01-01,"Installation of an earth to an existing aerial active device where no earth has been provided or is unserviceable",Per device," $	118.70 ","Installation of an earth to an existing aerial active device where no earth has been provided or is unserviceable",45403
+
+Lend Lease,Lend Lease - ODM,HF-01-01-16/01-01,Installation of tie-cabling from PCD to wall plate,Per wall plate," $	141.69 ",Installation of tie-cabling from PCD to wall plate,45403
+
+Lend Lease,Lend Lease - ODM,HF-01-02-04/01-01,Replacement of aerial tap face plate in the existing network,Per face plate," $	96.52 ",Replacement of aerial tap face plate in the existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-01-02-05/01-01,Replacement of existing PCD with a lock box,Per PCD," $	51.05 ",Replacement of existing PCD with a lock box,45403
+
+Lend Lease,Lend Lease - ODM,HF-01-03-01/01-01,Removal of aerial bridger amplifier or aerial line extender amplifier in existing network,Per device," $	161.90 ",Removal of aerial bridger amplifier or aerial line extender amplifier in existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-01-03-02/01-01,Removal of aerial coupler or aerial network splitter in existing network,Per device," $	107.19 ",Removal of aerial coupler or aerial network splitter in existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-01-03-03/01-01,Removal of aerial tap in existing network,Per tap," $	51.83 ",Removal of aerial tap in existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-01-03-04/01-01,Removal of aerial terminator in existing network,Per terminator," $	35.08 ",Removal of aerial terminator in existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-01-03-05/01-01,Removal of aerial power blocker in existing network,per device," $	116.81 ",Removal of aerial power blocker in existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-01-03-06/01-01,"Removal of existing aerial line power supply, line power inserter and pedestal housing in existing network",Per pedestal housing," $	311.53 ","Removal of existing aerial line power supply, line power inserter and pedestal housing in existing network",45403
+
+Lend Lease,Lend Lease - ODM,HF-02-01-01/01-01,Installation of non-aerial bridger amplifier in new network,Per bridge amplifier," $	108.29 ",Installation of non-aerial bridger amplifier in new network,45403
+
+Lend Lease,Lend Lease - ODM,HF-02-01-02/01-01,Installation of non-aerial bridger amplifier in existing network,Per bridge amplifier," $	118.43 ",Installation of non-aerial bridger amplifier in existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-02-01-03/01-01,Installation of non-aerial line-extender amplifier in new network,Per line-extender amplifier," $	95.57 ",Installation of non-aerial line-extender amplifier in new network,45403
+
+Lend Lease,Lend Lease - ODM,HF-02-01-04/01-01,Installation of non-aerial line-extender amplifier to existing network,Per line-extender amplifier," $	103.93 ",Installation of non-aerial line-extender amplifier to existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-02-01-05/01-01,"Installation of non-aerial directional coupler, network splitter, line equaliser or line power inserter in new network",Per coupler or network splitter or line power inserter," $	73.75 ","Installation of non-aerial directional coupler, network splitter, line equaliser or line power inserter in new network",45403
+
+Lend Lease,Lend Lease - ODM,HF-02-01-06/01-01,"Installation of non-aerial directional coupler, network splitter, line equaliser or line power inserter in existing network",Per coupler or network splitter or line power inserter," $	89.10 ","Installation of non-aerial directional coupler, network splitter, line equaliser or line power inserter in existing network",45403
+
+Lend Lease,Lend Lease - ODM,HF-02-01-07/01-01,Installation of non-aerial mounted tap in new network,Per tap," $	45.95 ",Installation of non-aerial mounted tap in new network,45403
+
+Lend Lease,Lend Lease - ODM,HF-02-01-08/01-01,Installation of non-aerial tap in existing network,Per tap," $	79.44 ",Installation of non-aerial tap in existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-02-01-09/01-01,Supply and install optical patch cable within HDODF,Per patch cable," $	34.89 ",Supply and install optical patch cable within HDODF,45403
+
+Lend Lease,Lend Lease - ODM,HF-02-01-10/01-01,Supply and Installation of pedestal,Per pedestal," $	1154.68 ",Supply and Installation of pedestal,45403
+
+Lend Lease,Lend Lease - ODM,HF-02-01-11/01-01,Installation of non-aerial power blocker in existing network,per device," $	50.35 ",Installation of non-aerial power blocker in existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-02-01-12/01-01,Installation of non-aerial RF splice in existing network,Per Splice," $	44.33 ",Installation of non-aerial RF splice in existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-02-01-13/01-01,Installation of power blocker in conjunction with the installation of a new device in either aerial or non-aerial environment in new network,per device," $	34.17 ",Installation of power blocker in conjunction with the installation of a new device in either aerial or non-aerial environment in new network,45403
+
+Lend Lease,Lend Lease - ODM,HF-02-01-14/01-01,Installation of an earth to an existing non aerial active device where no earth has been provided,Per device," $	108.69 ",Installation of an earth to an existing non aerial active device where no earth has been provided,45403
+
+Lend Lease,Lend Lease - ODM,HF-02-02-03/01-01,Replacement of non-aerial tap face plate in the existing network,Per face plate," $	42.14 ",Replacement of non-aerial tap face plate in the existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-02-02-04/01-01,"Installation of an earth to an existing non aerial active device where the existing earth is unserviceable",Per earth," $	79.45 ","Installation of an earth to an existing non aerial active device where the existing earth is unserviceable",45403
+
+Lend Lease,Lend Lease - ODM,HF-02-03-01/01-01,Removal of non-aerial bridger amplifier or non- aerial line extender amplifier in existing network,Per non-aerial bridger amplifier or non-aerial line extender amplifier device," $	68.81 ",Removal of non-aerial bridger amplifier or non- aerial line extender amplifier in existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-02-03-02/01-01,Removal of non-aerial coupler or non-aerial network splitter in existing network,Per device," $	83.44 ",Removal of non-aerial coupler or non-aerial network splitter in existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-02-03-03/01-01,Removal of non-aerial tap in existing network,Per tap," $	44.52 ",Removal of non-aerial tap in existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-02-03-04/01-01,Removal of non-aerial terminator in existing network,Per terminator," $	26.05 ",Removal of non-aerial terminator in existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-02-03-05/01-01,Removal of non aerial power blocker in existing network,per device," $	55.99 ",Removal of non aerial power blocker in existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-02-03-06/01-01,"Removal of existing  line power supply, line power inserter and pedestal housing in existing network",Per pedestal housing," $	243.54 ","Removal of existing  line power supply, line power inserter and pedestal housing in existing network",45403
+
+Lend Lease,Lend Lease - ODM,HF-03-01-01/01-01,Proof of performance testing,per device," $	86.60 ",Proof of performance testing,45403
+
+Lend Lease,Lend Lease - ODM,HF-03-01-02/01-01,Return path noise testing of an optical node in the existing network,Per optical node," $	113.98 ",Return path noise testing of an optical node in the existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-03-02-01/01-01,Alignment of aerial HFC active equipment,Per HFC active equipment," $	281.26 ",Alignment of aerial HFC active equipment,45403
+
+Lend Lease,Lend Lease - ODM,HF-03-02-02/01-01,Alignment of non-aerial HFC active equipment,Per HFC active equipment," $	74.21 ",Alignment of non-aerial HFC active equipment,45403
+
+Lend Lease,Lend Lease - ODM,HF-03-02-04/01-01,Reconfigure output of aerial directional coupler or aerial network splitter in an existing network,per device," $	122.38 ",Reconfigure output of aerial directional coupler or aerial network splitter in an existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-03-02-05/01-01,Reconfigure output non-aerial directional coupler or network splitter in existing network,per device," $	77.74 ",Reconfigure output non-aerial directional coupler or network splitter in existing network,45403
+
+Lend Lease,Lend Lease - ODM,HF-04-01-01/01-01,Earthing of catenary wire,Per earth," $	119.39 ",Earthing of catenary wire,45403
+
+Lend Lease,Lend Lease - ODM,LL-01-01-01/01-04,Supply and Install TDUX,Per TDUX," $	80.00 ",Supply and Install TDUX,45403
+
+Lend Lease,Lend Lease - ODM,LL-01-01-01/01-05,Supply and Install Cable Bearer,Per cable bearer," $	50.00 ",Supply and Install Cable Bearer,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-01-01/01-01,Supply & Installation of catenary wire system in buildings,Per linear metre," $	10.65 ",Supply & Installation of catenary wire system in buildings,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-01-01-AH/01-01,Supply & Installation of catenary wire system in buildings outside working hours,Per linear metre," $	23.89 ",Supply & Installation of catenary wire system in buildings outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-01-02/01-01,Supply & Installation of cable tray in buildings,Per linear metre," $	36.79 ",Supply & Installation of cable tray in buildings,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-01-02-AH/01-01,Supply & Installation of cable tray in buildings outside working hours,Per linear metre," $	54.17 ",Supply & Installation of cable tray in buildings outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-01-03/01-01,Supply and installation of ducting <30mm width,Per linear metre," $	18.21 ",Supply and installation of ducting <30mm width,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-01-03-AH/01-01,Supply and installation of ducting <30mm width outside working hours,Per linear metre," $	26.94 ",Supply and installation of ducting <30mm width outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-01-04/01-01,Supply and installation of ducting >30mm width,Per linear metre," $	29.02 ",Supply and installation of ducting >30mm width,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-01-04-AH/01-01,Supply and installation of ducting >30mm width outside working hours,Per linear metre," $	49.33 ",Supply and installation of ducting >30mm width outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-01-05/01-01,Supply and installation of conduit,Per linear metre," $	9.32 ",Supply and installation of conduit,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-01-05-AH/01-01,Supply and installation of conduit outside working hours,Per linear metre," $	14.08 ",Supply and installation of conduit outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-01-06/01-01,Installation of One Pass Fibre Pathway in buildings,Per linear metre," $	10.90 ",Installation of One Pass Fibre Pathway in buildings,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-01-06-AH/01-01,Installation of One Pass Fibre Pathway in buildings outside working hours,Per linear metre," $	15.58 ",Installation of One Pass Fibre Pathway in buildings outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-01-07/01-01,Connecting One Pass Fibre Pathway to ICD or PCD,Each ICD or PCD," $	40.55 ",Connecting One Pass Fibre Pathway to ICD or PCD,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-01-07-AH/01-01,Connecting One Pass Fibre Pathway to ICD or PCD outside working hours,Each ICD or PCD," $	56.77 ",Connecting One Pass Fibre Pathway to ICD or PCD outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-01/01-01,"Installation of Fibre Collector Distributor (FCD) or Fibre Distribution Terminal (FDT) or Cable Transition Location (CTL) within buildings","Each FCD, FDT or CTL"," $	95.13 ","Installation of Fibre Collector Distributor (FCD) or Fibre Distribution Terminal (FDT) or Cable Transition Location (CTL) within buildings",45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-01-AH/01-01,Installation of Fibre Collector Distributor (FCD) or Fibre Distribution Terminal (FDT) or Cable Transition Location (CTL) within buildings outside working hours,"Each FCD, FDT or CTL"," $	146.06 ",Installation of Fibre Collector Distributor (FCD) or Fibre Distribution Terminal (FDT) or Cable Transition Location (CTL) within buildings outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-02/01-01,Installation of Premises Distribution Hub (PDH),Each PDH," $	198.21 ",Installation of Premises Distribution Hub (PDH),45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-02-AH/01-01,Installation of Premises Distribution Hub (PDH) outside working hours,Each PDH," $	231.91 ",Installation of Premises Distribution Hub (PDH) outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-03/01-01,Installation of Internal Connection Device (ICD) or Premises Connection Device (PCD),Each ICD or PCD," $	33.12 ",Installation of Internal Connection Device (ICD) or Premises Connection Device (PCD),45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-03-AH/01-01,Installation of Internal Connection Device (ICD) or Premises Connection Device (PCD) outside working hours,Each ICD or PCD," $	46.73 ",Installation of Internal Connection Device (ICD) or Premises Connection Device (PCD) outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-04/01-01,Installation of a fibre wall outlet,Per outlet," $	19.96 ",Installation of a fibre wall outlet,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-04-AH/01-01,Installation of a fibre wall outlet outside working hours,Per outlet," $	23.34 ",Installation of a fibre wall outlet outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-06/01-01,Installation of apartment amplifier in buildings,Per amplifier," $	88.61 ",Installation of apartment amplifier in buildings,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-07/01-01,Installation of MDU security enclosure,Per MDU security enclosure," $	68.30 ",Installation of MDU security enclosure,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-08/01-01,Installation of tap in buildings,Per tap," $	71.56 ",Installation of tap in buildings,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-09/01-01,Installation of directional coupler or splitter in buildings,Per directional coupler or splitter," $	71.56 ",Installation of directional coupler or splitter in buildings,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-10/01-01,Extra over rate for the Installation of an isolator in buildings,Per Isolator," $	14.21 ",Extra over rate for the Installation of an isolator in buildings,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-11/01-01,Replacement of tap in buildings,Per Tap," $	54.69 ",Replacement of tap in buildings,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-12/01-01,Replacement of tap faceplate in buildings,Per face plate," $	36.98 ",Replacement of tap faceplate in buildings,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-13/01-01,"Removal of tap, isolator, directional coupler or splitter in buildings only",Per device," $	47.81 ","Removal of tap, isolator, directional coupler or splitter in buildings only",45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-14/01-01,Removal of an apartment amplifier in buildings,per device," $	57.37 ",Removal of an apartment amplifier in buildings,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-15/01-01,Installation of Building Fibre Distributor (BUDI),Each BFD," $	346.65 ",Installation of Building Fibre Distributor (BUDI),45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-15-AH/01-01,Installation of Building Fibre Distributor (BUDI) outside working hours,Each BFD," $	450.64 ",Installation of Building Fibre Distributor (BUDI) outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-16/01-01,Installation of Splitter Distribution Terminal (SDT),Each SDT," $	189.79 ",Installation of Splitter Distribution Terminal (SDT),45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-16-AH/01-01,Installation of Splitter Distribution Terminal (SDT) outside working hours,Each SDT," $	246.73 ",Installation of Splitter Distribution Terminal (SDT) outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-17/01-01,Installation of additional NG4 tray,per device," $	26.14 ",Installation of additional NG4 tray,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-18/01-01,Installation of additional OCM-6 module,per device," $	36.59 ",Installation of additional OCM-6 module,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-07-19/01-01,Installation of additional PCD splice tray,per device," $	31.38 ",Installation of additional PCD splice tray,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-08-01/01-01,Provide a wall penetration in brick or concrete wall only,Each wall penetration," $	103.36 ",Provide a wall penetration in brick or concrete wall only,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-08-01-AH/01-01,Provide a wall penetration in brick or concrete wall only outside working hours,Each wall penetration," $	183.44 ",Provide a wall penetration in brick or concrete wall only outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-08-02/01-01,Provide a wall penetration in a plasterboard wall only,Each wall penetration," $	4.58 ",Provide a wall penetration in a plasterboard wall only,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-08-02-AH/01-01,Provide a wall penetration in a plasterboard wall only outside working hours,Each wall penetration," $	6.56 ",Provide a wall penetration in a plasterboard wall only outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-08-03/01-01,Provide a floor penetration above 50mm diameter,Each floor penetration," $	297.39 ",Provide a floor penetration above 50mm diameter,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-08-03-AH/01-01,Provide a floor penetration above 50mm diameter outside working hours,Each floor penetration," $	321.26 ",Provide a floor penetration above 50mm diameter outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-08-04/01-01,Provide a floor penetration up to and including 50mm diameter,Each floor penetration," $	172.88 ",Provide a floor penetration up to and including 50mm diameter,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-08-04-AH/01-01,Provide a floor penetration up to and including 50mm diameter outside working hours,Each floor penetration," $	260.06 ",Provide a floor penetration up to and including 50mm diameter outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-08-05/01-01,Supply and installation of appropriate fire stopping method as required,Per Penetration," $	52.78 ",Supply and installation of appropriate fire stopping method as required,45403
+
+Lend Lease,Lend Lease - ODM,MD-01-08-05-AH/01-01,Supply and installation of appropriate fire stopping method as required outside working hours,Per Penetration," $	68.61 ",Supply and installation of appropriate fire stopping method as required outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,MD-02-01-01/01-01,Installation of a single service drop sheath (SDS) on a single span to a multi dwelling unit,Per aerial service drop," $	165.66 ",Installation of a single service drop sheath (SDS) on a single span to a multi dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,MD-02-01-02/01-01,Extra over rate for additional spans for an aerial service drop to a multi dwelling unit,Each additional Span," $	99.14 ",Extra over rate for additional spans for an aerial service drop to a multi dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,MD-02-01-03/01-01,Extra over rate for supply and installation of an raiser pole on a building.,Each raiser pole installed," $	65.42 ",Extra over rate for supply and installation of an raiser pole on a building.,45403
+
+Lend Lease,Lend Lease - ODM,MD-02-01-04/01-01,Installation of service drop sheath underground to a multi dwelling unit,Per service drop," $	206.45 ",Installation of service drop sheath underground to a multi dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,MD-02-01-05/01-01,Installation of direct service drop sheath underground to a multi dwelling unit,Per direct service drop," $	214.68 ",Installation of direct service drop sheath underground to a multi dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,MD-02-01-10/01-01,Extend a developer supplied MDU lead-in starter pipe to the nominated network pit,Per Starter Pipe," $	262.38 ",Extend a developer supplied MDU lead-in starter pipe to the nominated network pit,45403
+
+Lend Lease,Lend Lease - ODM,MD-02-02-01/01-01,Replace existing copper aerial lead-in with new copper aerial lead-in to a multi dwelling unit,Per existing copper aerial lead-in replaced. Per Span," $	209.28 ",Replace existing copper aerial lead-in with new copper aerial lead-in to a multi dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,MD-02-02-02/01-01,Installation of aerial copper service drop to a multi dwelling unit,Per aerial copper service drop," $	209.28 ",Installation of aerial copper service drop to a multi dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,MD-02-02-03/01-01,Installation of non-aerial copper service drop to a multi dwelling unit,Per non-aerial copper service drop," $	112.02 ",Installation of non-aerial copper service drop to a multi dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,MD-02-03-01/01-01,Installation of a coaxial drop cable on a single span to a multi dwelling unit,Per aerial service drop," $	129.09 ",Installation of a coaxial drop cable on a single span to a multi dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,MD-02-03-02/01-01,Extra over rate for installation of a new coaxial drop cable in-span to a multi dwelling unit,Per in-span Drop," $	51.97 ",Extra over rate for installation of a new coaxial drop cable in-span to a multi dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,MD-02-03-03/01-01,Extra over rate for additional spans for a aerial coaxial service drop to a multi dwelling unit,Each additional Span," $	76.29 ",Extra over rate for additional spans for a aerial coaxial service drop to a multi dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,MD-02-03-04/01-01,Installation of non-aerial coaxial service drop to a multi dwelling unit,Per coaxial service drop," $	122.45 ",Installation of non-aerial coaxial service drop to a multi dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,MD-02-03-05/01-01,Extra over for supply and Installation of rooftop raiser on a building,Per raiser pole installed," $	74.72 ",Extra over for supply and Installation of rooftop raiser on a building,45403
+
+Lend Lease,Lend Lease - ODM,MD-03-02-01/01-01,Separable Portion Documentation Fee,Per Workorder," $	193.84 ",Separable Portion Documentation Fee,45403
+
+Lend Lease,Lend Lease - ODM,MD-03-02-02/01-01,Installation of Splitter for RF / Wired TV,Per Device," $	19.96 ",Installation of Splitter for RF / Wired TV,45403
+
+Lend Lease,Lend Lease - ODM,MD-03-02-03/01-01,Extra-over for Installation of Fibre TV receiver co- located with an NTD,Per Device," $	19.21 ",Extra-over for Installation of Fibre TV receiver co- located with an NTD,45403
+
+Lend Lease,Lend Lease - ODM,PD-05-01-01/01-01,Pit and Pipe inspection for certification of Third Party Works,Per Pit," $	32.16 ",Pit and Pipe inspection for certification of Third Party Works,45403
+
+Lend Lease,Lend Lease - ODM,PS-01-01-01/01-01,Telecommunications service provider fees,Amount of the fee," $	1.00 ",Telecommunications service provider fees,45403
+
+Lend Lease,Lend Lease - ODM,PS-01-01-02/01-01,Pole make ready works,Cost of pole make ready works," $	1.00 ",Pole make ready works,45403
+
+Lend Lease,Lend Lease - ODM,PS-01-01-03/01-01,Supply and install standard GPO as per design,Cost of GPO installation," $	1.00 ",Supply and install standard GPO as per design,45403
+
+Lend Lease,Lend Lease - ODM,PS-01-01-04/01-01,Certification and professional services fees associated with activities not otherwise specified in Activity Scope,Amount of the fee," $	1.00 ",Certification and professional services fees associated with activities not otherwise specified in Activity Scope,45403
+
+Lend Lease,Lend Lease - ODM,PS-01-01-05/01-01,Registered Surveyor Works,Amount of the fee," $	1.00 ",Registered Surveyor Works,45403
+
+Lend Lease,Lend Lease - ODM,PS-01-01-06/01-01,Contaminated Waste Material Removal,Amount of the fee," $	1.00 ",Contaminated Waste Material Removal,45403
+
+Lend Lease,Lend Lease - ODM,PS-01-01-07/01-01,Traffic Control - All costs associated with the hire of professional traffic control units,Amount of the fee," $	1.00 ",Traffic Control - All costs associated with the hire of professional traffic control units,45403
+
+Lend Lease,Lend Lease - ODM,PS-01-01-08/01-01,Local Authority Charges,Amount of the fee," $	1.00 ",Local Authority Charges,45403
+
+Lend Lease,Lend Lease - ODM,PS-01-01-09/01-01,Council breakout and reinstatement,Amount of the fee," $	1.00 ",Council breakout and reinstatement,45403
+
+Lend Lease,Lend Lease - ODM,PS-01-01-10/01-01,Construction works in building not contained within the Activity Scope,Cost of the works and fees," $	1.00 ",Construction works in building not contained within the Activity Scope,45403
+
+Lend Lease,Lend Lease - ODM,PS-01-01-11/01-01,Aerial pole replacement,Amount of the fee," $	1.00 ",Aerial pole replacement,45403
+
+Lend Lease,Lend Lease - ODM,PS-01-01-12/01-01,Third party aerial design management fees,Amount of the fee," $	1.00 ",Third party aerial design management fees,45403
+
+Lend Lease,Lend Lease - ODM,PS-01-01-13/01-01,Supply and install electricity connection as per design,Amount of the fee," $	1.00 ",Supply and install electricity connection as per design,45403
+
+Lend Lease,Lend Lease - ODM,SA-01-01-01/01-01,Service activation Pre-Scope,Per Workorder," $	52.37 ",Service activation Pre-Scope,45403
+
+Lend Lease,Lend Lease - ODM,SD-01-01-01/01-01,"Extra over rate for the supply and install of new lead-in pipe, minimum charge 6 metres route length, by any means",Per linear metre," $	36.35 ","Extra over rate for the supply and install of new lead-in pipe, minimum charge 6 metres route length, by any means",45403
+
+Lend Lease,Lend Lease - ODM,SD-01-01-02/01-01,Extra over rate for supply and installation of an raiser pole on a building.,Per raiser pole," $	74.72 ",Extra over rate for supply and installation of an raiser pole on a building.,45403
+
+Lend Lease,Lend Lease - ODM,SD-01-01-03/01-01,Supply and install of Y connectors,Per Y connector," $	114.37 ",Supply and install of Y connectors,45403
+
+Lend Lease,Lend Lease - ODM,SD-01-01-04/01-01,Supply and install new lead-in starter pipe,Per Starter Pipe," $	82.31 ",Supply and install new lead-in starter pipe,45403
+
+Lend Lease,Lend Lease - ODM,SD-01-01-05/01-01,Extra over rate for the supply and install of new lead-in starter pipe greater than 2 meters in length,Per linear metre," $	40.28 ",Extra over rate for the supply and install of new lead-in starter pipe greater than 2 meters in length,45403
+
+Lend Lease,Lend Lease - ODM,SD-01-02-01/01-01,Extra over rate to repair lead-in conduit,Per repaired lead-in conduit," $	41.32 ",Extra over rate to repair lead-in conduit,45403
+
+Lend Lease,Lend Lease - ODM,SD-02-01-01/01-01,Installation of a single service drop sheath on a single span to a single dwelling unit,Per aerial service drop," $	165.66 ",Installation of a single service drop sheath on a single span to a single dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,SD-02-01-02/01-01,Extra over rate for additional spans for an aerial service drop to a single dwelling unit,Each additional Span," $	99.14 ",Extra over rate for additional spans for an aerial service drop to a single dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,SD-02-01-03/01-01,Installation of service drop sheath underground to a single dwelling unit,Per service drop," $	143.40 ",Installation of service drop sheath underground to a single dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,SD-02-01-04/01-01,Installation of direct service drop sheath underground to a single dwelling unit,Per direct service drop," $	258.84 ",Installation of direct service drop sheath underground to a single dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,SD-02-02-01/01-01,Replace existing copper aerial lead-in with new copper aerial lead-in to a single dwelling unit,Per existing copper aerial lead-in replaced. Per Span," $	147.33 ",Replace existing copper aerial lead-in with new copper aerial lead-in to a single dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,SD-02-02-02/01-01,Installation of aerial copper service drop to a single dwelling unit,Per aerial copper service drop," $	172.10 ",Installation of aerial copper service drop to a single dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,SD-02-02-03/01-01,Installation of non-aerial copper service drop to a single dwelling unit,Per non-aerial copper service drop," $	131.09 ",Installation of non-aerial copper service drop to a single dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,SD-02-02-04/01-01,Extra over rate for installation of a new copper drop cable in-span to a single dwelling unit,Per in-span Drop," $	125.06 ",Extra over rate for installation of a new copper drop cable in-span to a single dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,SD-02-03-01/01-01,Installation of a coaxial drop cable on a single span to a single dwelling unit,Per aerial service drop," $	129.09 ",Installation of a coaxial drop cable on a single span to a single dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,SD-02-03-02/01-01,Extra over rate for installation of a new coaxial drop cable in-span to a single dwelling unit,Per in-span Drop," $	59.81 ",Extra over rate for installation of a new coaxial drop cable in-span to a single dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,SD-02-03-03/01-01,Extra over rate for additional spans for a aerial coaxial service drop to a single dwelling unit,Each additional Span," $	78.56 ",Extra over rate for additional spans for a aerial coaxial service drop to a single dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,SD-02-03-04/01-01,Installation of non-aerial coaxial service drop to a single dwelling unit,Per coaxial service drop," $	84.26 ",Installation of non-aerial coaxial service drop to a single dwelling unit,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-01-01/01-01,Electrician (inclusive plant and equipment),Per hour," $	67.61 ",Electrician (inclusive plant and equipment),45403
+
+Lend Lease,Lend Lease - ODM,TB-01-01-01-AH/01-01,Electrician (inclusive plant and equipment) – outside working hours,Per Hour," $	91.93 ",Electrician (inclusive plant and equipment) – outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-01-02/01-01,Fibre Technician (inclusive plant and equipment),Per hour," $	58.10 ",Fibre Technician (inclusive plant and equipment),45403
+
+Lend Lease,Lend Lease - ODM,TB-01-01-02-AH/01-01,Fibre Technician (inclusive plant and equipment) – outside working hours,Per Hour," $	83.48 ",Fibre Technician (inclusive plant and equipment) – outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-01-03/01-01,Labourer,Per hour," $	58.09 ",Labourer,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-01-03-AH/01-01,Labourer - outside working hours,Per Hour," $	75.53 ",Labourer - outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-01-04/01-01,Plant Operator,Per hour," $	83.48 ",Plant Operator,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-01-04-AH/01-01,Plant Operator – outside working hours,Per Hour," $	108.52 ",Plant Operator – outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-01-05/01-01,Advanced pole inspector (inclusive plant and equipment),Per hour," $	32.65 ",Advanced pole inspector (inclusive plant and equipment),45403
+
+Lend Lease,Lend Lease - ODM,TB-01-01-05-AH/01-01,Advanced pole inspector (inclusive plant and equipment)  - outside working hours,Per Hour," $	100.03 ",Advanced pole inspector (inclusive plant and equipment)  - outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-01-06/01-01,Telecommunication Technician (inclusive plant and equipment),Per hour," $	50.74 ",Telecommunication Technician (inclusive plant and equipment),45403
+
+Lend Lease,Lend Lease - ODM,TB-01-01-06-AH/01-01,Telecommunication Technician  (inclusive plant and equipment) - outside working hours,Per Hour," $	112.70 ",Telecommunication Technician  (inclusive plant and equipment) - outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-01-07/01-01,Designer,Per hour," $	34.57 ",Designer,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-01-07-AH/01-01,Designer - outside working hours,Per Hour," $	121.91 ",Designer - outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-01-08/01-01,Copper Technician (inclusive plant and equipment),Per hour," $	53.72 ",Copper Technician (inclusive plant and equipment),45403
+
+Lend Lease,Lend Lease - ODM,TB-01-01-08-AH/01-01,"Copper Technician (inclusive plant and equipment)
+– outside working hours",Per Hour," $	105.19 ","Copper Technician (inclusive plant and equipment)
+– outside working hours",45403
+
+Lend Lease,Lend Lease - ODM,TB-01-02-01/01-01,Third party damage report,Per hour," $	69.62 ",Third party damage report,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-03-01/01-01,Electrician (inclusive plant and equipment),Per hour," $	67.61 ",Electrician (inclusive plant and equipment),45403
+
+Lend Lease,Lend Lease - ODM,TB-01-03-01-AH/01-01,Electrician (inclusive plant and equipment) – outside working hours,Per hour," $	91.93 ",Electrician (inclusive plant and equipment) – outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-03-02/01-01,Fibre Technician (inclusive plant and equipment),Per hour," $	58.10 ",Fibre Technician (inclusive plant and equipment),45403
+
+Lend Lease,Lend Lease - ODM,TB-01-03-02-AH/01-01,Fibre Technician (inclusive plant and equipment) – outside working hours,Per hour," $	83.48 ",Fibre Technician (inclusive plant and equipment) – outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-03-03/01-01,Labourer,Per hour," $	58.09 ",Labourer,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-03-03-AH/01-01,Labourer - outside working hours,Per hour," $	75.53 ",Labourer - outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-03-04/01-01,Plant Operator,Per hour," $	83.48 ",Plant Operator,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-03-04-AH/01-01,Plant Operator – outside working hours,Per hour," $	108.52 ",Plant Operator – outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-03-05/01-01,Advanced pole inspector (inclusive plant and equipment),Per hour," $	32.65 ",Advanced pole inspector (inclusive plant and equipment),45403
+
+Lend Lease,Lend Lease - ODM,TB-01-03-05-AH/01-01,Advanced pole inspector (inclusive plant and equipment)  - outside working hours,Per hour," $	100.03 ",Advanced pole inspector (inclusive plant and equipment)  - outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-03-06/01-01,Telecommunication Technician (inclusive plant and equipment),Per hour," $	50.74 ",Telecommunication Technician (inclusive plant and equipment),45403
+
+Lend Lease,Lend Lease - ODM,TB-01-03-06-AH/01-01,Telecommunication Technician (inclusive plant and equipment) - outside working hours,Per hour," $	112.70 ",Telecommunication Technician (inclusive plant and equipment) - outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-03-07/01-01,Designer,Per hour," $	34.57 ",Designer,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-03-07-AH/01-01,Designer - outside working hours,Per hour," $	121.91 ",Designer - outside working hours,45403
+
+Lend Lease,Lend Lease - ODM,TB-01-03-08/01-01,Copper Technician (inclusive plant and equipment),Per hour," $	53.72 ",Copper Technician (inclusive plant and equipment),45403
+
+Lend Lease,Lend Lease - ODM,TB-01-03-08-AH/01-01,"Copper Technician (inclusive plant and equipment) – outside working hours",Per hour," $	105.19 ","Copper Technician (inclusive plant and equipment) – outside working hours",45403
+
+Lend Lease,Lend Lease - ODM,TB-02-02-01/01-01,Provision of float charges for the movement of large plant and equipment between work sites,Per km," $	4.16 ",Provision of float charges for the movement of large plant and equipment between work sites,45403
+
+Lend Lease,Lend Lease - ODM,TB-02-02-02/01-01,Single-axle tipper truck 5 tonne load,Per Day," $	196.46 ",Single-axle tipper truck 5 tonne load,45403
+
+Lend Lease,Lend Lease - ODM,TB-02-02-03/01-01,EWP truck mounted up to 12m,Per Day," $	578.98 ",EWP truck mounted up to 12m,45403
+
+Lend Lease,Lend Lease - ODM,TB-02-02-04/01-01,Fully equipped vehicle for electrical technician,Per Day," $	99.36 ",Fully equipped vehicle for electrical technician,45403
+
+Lend Lease,Lend Lease - ODM,TB-02-02-05/01-01,Fully equipped vehicle for fibre technician,Per Day," $	99.36 ",Fully equipped vehicle for fibre technician,45403
+
+Lend Lease,Lend Lease - ODM,TB-02-02-06/01-01,Bobcat with 4-in-1 bucket,Per Day," $	353.64 ",Bobcat with 4-in-1 bucket,45403
+
+Lend Lease,Lend Lease - ODM,TB-02-02-07/01-01,"Backhoe, JCB3CX or equivalent",Per Day," $	510.82 ","Backhoe, JCB3CX or equivalent",45403
+
+Lend Lease,Lend Lease - ODM,TB-02-02-08/01-01,Excavators up to 10 tonnes,Per Day," $	510.82 ",Excavators up to 10 tonnes,45403
+
+Lend Lease,Lend Lease - ODM,TB-02-02-09/01-01,Excavators 10 to 15 tonnes,Per Day," $	615.86 ",Excavators 10 to 15 tonnes,45403
+
+Lend Lease,Lend Lease - ODM,TB-02-02-10/01-01,Excavators up to 10 tonnes fitted with rock breaker,Per Day," $	776.32 ",Excavators up to 10 tonnes fitted with rock breaker,45403
+
+Lend Lease,Lend Lease - ODM,TB-02-02-11/01-01,Double-axle tipper truck 9 tonne load,Per Day," $	286.06 ",Double-axle tipper truck 9 tonne load,45403
+
+Lend Lease,Lend Lease - ODM,TB-02-02-12/01-01,Dozer (306 - 400 kw),Per Day," $	1436.72 ",Dozer (306 - 400 kw),45403
+
+Lend Lease,Lend Lease - ODM,TB-02-02-13/01-01,Scissor Lift,Per Day," $	244.38 ",Scissor Lift,45403
+
+Lend Lease,Lend Lease - ODM,TB-02-02-14/01-01,Vac Truck,Per Day," $	1400.28 ",Vac Truck,45403
