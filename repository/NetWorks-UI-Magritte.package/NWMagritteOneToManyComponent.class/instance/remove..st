@@ -13,4 +13,4 @@ remove: anObject
           self value: (self value copyWithout: anObject).
           self refresh.
           self memento commit.
-          anObject cleanUpAfterDelete ] ]
+          anObject cleanUpAfterDelete ]	"and: [ anObject canBeDeleted ]" ]

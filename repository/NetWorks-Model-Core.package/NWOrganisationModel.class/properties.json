@@ -25,5 +25,5 @@
 	"name" : "NWOrganisationModel",
 	"pools" : [
 		 ],
-	"super" : "NWModel",
+	"super" : "NWIdentifiableObject",
 	"type" : "normal" }
