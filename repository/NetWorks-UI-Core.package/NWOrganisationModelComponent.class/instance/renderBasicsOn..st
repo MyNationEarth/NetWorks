@@ -4,7 +4,7 @@ renderBasicsOn: canvas
     tbsRow: [ 
       canvas tbsColumn
         smallSize: 6;
-        with: [ self renderDescriptionsWithLabels: #('DNS Name') on: canvas ].
+        with: [ self renderDescriptionsWithLabels: #('Host Name') on: canvas ].
       canvas tbsColumn
         smallSize: 6;
         with: [ self renderDescriptionsWithLabels: #('ECM Name') on: canvas ] ]
