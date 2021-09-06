@@ -1,5 +1,6 @@
-descriptions
-dnsNameDescription
+as yet unclassified
+titleDescription
+  <magritteDescription>
   ^ MAStringDescription new
     accessor: #'dnsName';
     label: 'Host Name';

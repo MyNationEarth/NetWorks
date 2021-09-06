@@ -1,6 +1,6 @@
 actions
 remove: anObject
-  "Remove objects that #canBeDeleted"
+  "Remove objects that #canBeDeleted."
 
   | errorMessage |
   errorMessage := 'Are you sure you want to remove '
