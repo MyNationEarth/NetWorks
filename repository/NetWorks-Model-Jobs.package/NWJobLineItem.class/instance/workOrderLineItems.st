@@ -7,7 +7,6 @@ workOrderLineItems
   self job workOrders
     do: [ :workOrder | 
       (workOrder lineItems
-        detect: [ :workOrderLineItem | workOrderLineItem jobLineItem == self ]
-        ifNone: [ nil ])
-        ifNotNil: [ :lineItems | workOrderLineItems add: lineItems ] ].
+        select: [ :workOrderLineItem | workOrderLineItem jobLineItem == self ])
+        ifNotEmpty: [ :lineItems | workOrderLineItems addAll: lineItems ] ].
   ^ workOrderLineItems

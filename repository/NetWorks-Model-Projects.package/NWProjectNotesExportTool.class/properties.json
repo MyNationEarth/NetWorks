@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 09/08/2021 16:41",
+	"instvars" : [
+		 ],
+	"name" : "NWProjectNotesExportTool",
+	"pools" : [
+		 ],
+	"super" : "NWCSVExportTool",
+	"type" : "normal" }
