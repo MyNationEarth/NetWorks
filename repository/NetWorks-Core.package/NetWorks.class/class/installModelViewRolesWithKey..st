@@ -1,4 +1,4 @@
-setup
+setupNewEnvironment
 installModelViewRolesWithKey: modelKey
   | application env |
   "Create Roles in each application and add all roles to all users"
@@ -6,47 +6,9 @@ installModelViewRolesWithKey: modelKey
     getEnvironmentNamed: modelKey asString
     ifNone: [  ].
   application := BpmApplication
-    applicationNamed: 'modelViewApplication'
+    applicationNamed: modelKey , '-modelViewApplication'
     ifNone: [  ].
-  {'menuDashboard'.
-  'menuProjects'.
-  'menuOpenProjects'.
-  'menuClients'.
-  'menuContractors'.
-  'menuContracts'.
-  'menuRateCards'.
-  'menuMaterials'.
-  'menuWarehouse'.
-  'menuPayroll'.
-  'menuWorkOrders'.
-  'menuQuality'.
-  'projectTabProjectInfo'.
-  'projectTabDesign'.
-  'projectTabConstruction'.
-  'projectTabJobs'.
-  'projectTabAssignment'.
-  'projectTabScheduling'.
-  'projectTabNotes'.
-  'projectTabFinancials'.
-  'projectTabContractorInvoices'.
-  'projectTabQuality'.
-  'contractorContactTabAccess'.
-  'featureAddProjects'.
-  'featureDeleteProjects'.
-  'exportProjects'.
-  'exportForecast'.
-  'exportDesign'.
-  'exportConstruction'.
-  'exportDesignLogs'.
-  'exportInsurances'.
-  'exportContractorInvoices'.
-  'exportDefects'.
-  'Project Manager'.
-  'Project Designer'.
-  'Project Construction'.
-  'Quality Manager'.
-  'Contractor'.
-  'Field Supervisor'}
+  self modelViewApplicationRoles
     do: [ :rolePrefix | 
       | role |
       role := self defaultFrontOfficeRoleClass

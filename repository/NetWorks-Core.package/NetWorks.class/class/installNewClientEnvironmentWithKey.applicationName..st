@@ -22,7 +22,7 @@ installNewClientEnvironmentWithKey: modelKey applicationName: clientName
   application := (BpmApplication newNamed: clientName , '-admin') addToCache.
   adminUser := self defaultBpmUserClass
     getExistingOrNewUserNamed: clientName , '-admin'
-    password: 'admin'.
+    password: clientName , 'admin'.
   newEnvironment
     registerApplication: application;
     registerUser: adminUser.
