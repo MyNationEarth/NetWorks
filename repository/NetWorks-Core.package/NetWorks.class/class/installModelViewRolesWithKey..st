@@ -9,8 +9,8 @@ installModelViewRolesWithKey: modelKey
     applicationNamed: modelKey , '-modelViewApplication'
     ifNone: [  ].
   self modelViewApplicationRoles
-    do: [ :rolePrefix | 
+    do: [ :roleTemplate | 
       | role |
-      role := self defaultFrontOfficeRoleClass
-        createNewOrGetExisting: rolePrefix
+      role := roleTemplate class
+        createNewOrGetExisting: roleTemplate
         in: application applicationName ]
