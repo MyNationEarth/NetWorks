@@ -7,7 +7,7 @@
       "uuidString" : "AC165B89-7740-47E2-B496-DF0DA0A47AC0"
     }
   ],
-  "creatorBuild" : "34214",
+  "creatorBuild" : "34264",
   "files" : {
     "\/.gitignore" : {
       "cB" : 0,
@@ -1476,6 +1476,9 @@
       },
       "no-unused-labels" : {
         "active" : 1
+      },
+      "no-unused-private-class-members" : {
+        "active" : 0
       },
       "no-unused-vars" : {
         "active" : 1,
