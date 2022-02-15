@@ -9,6 +9,7 @@ jobLineItemsComponent
         icon: #'fontAwesomeBriefcaseIcon';
         title: 'Job Line Items';
         wrapperClass: 'jobLineItems';
+        enableSearch;
         items:
             (self project jobs
                 ifEmpty: [ #() ]
