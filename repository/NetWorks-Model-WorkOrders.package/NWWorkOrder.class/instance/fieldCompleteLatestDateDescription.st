@@ -3,7 +3,7 @@ fieldCompleteLatestDateDescription
   <magritteDescription>
   ^ MADateAndTimeDescription new
     accessor: #'fieldCompleteLatestDate';
-    label: 'Latest Field Complete Date';
+    label: 'Field Complete';
     beReadonly;
     priority: 600;
     reportColumnClass: NWDescribedColumn;
