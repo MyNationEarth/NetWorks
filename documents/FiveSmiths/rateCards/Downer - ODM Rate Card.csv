@@ -1,0 +1,486 @@
+Customer,Contract ,Item Code,Item Name,Unit of Measure (UoM),Rate,Item Description,Xero Account
+Downer,Downer - ODM,CW-01-01-01B,Supply and install underground pipe with an internal diameter of more than 25mm and equal to or less than 50mm by Boring / Drilling in other than Rock,Per linear metre," $	55.81",,45214
+Downer,Downer - ODM,CW-01-01-01P,Supply and install underground pipe with an internal diameter of more than 25mm and equal to or less than 50mm by use of Grundomat (or similar) in other than Rock,Per linear metre," $	55.81",,45214
+Downer,Downer - ODM,CW-01-01-01T,Supply and install underground pipe with an internal diameter of more than 25mm and equal to or less than 50mm by Trenching in other than Rock,Per linear metre," $	31.83",,45214
+Downer,Downer - ODM,CW-01-01-K2K,Kerb to Kerb Extra Over Rate,Per linear metre," $	105",,45214
+Downer,Downer - ODM,CW-01-01-02B,Supply and install underground pipe with an internal diameter of greater than 50mm by Boring / Drilling in other than Rock,Per linear metre," $	69.5",,45214
+Downer,Downer - ODM,CW-01-01-02P,Supply and install underground pipe with an internal diameter of greater than 50mm by any means in other than Rock by use of Grundomat (or similar) in other than Rock,Per linear metre," $	69.5",,45214
+Downer,Downer - ODM,CW-01-01-02T,Supply and install underground pipe with an internal diameter of greater than 50mm by Trenching in other than Rock,Per linear metre," $	36.78",,45214
+Downer,Downer - ODM,CW-01-01-03T01,Extra over for supply and install an additional underground pipe in an existing trench with an with an internal diameter of more than 25mm and equal to or less than 50mm,Per linear metre," $	10",,45214
+Downer,Downer - ODM,CW-01-01-03T02,Extra over for supply and install an additional underground pipe in an existing trench with an internal diameter of greater than 50mm,Per linear metre," $	12",,45214
+Downer,Downer - ODM,CW-01-01-04B01,Extra over for supply and install an additional underground pipe by boring technique with an with an internal diameter of more than 25mm and equal to or less than 50mm,Per linear metre," $	18",,45214
+Downer,Downer - ODM,CW-01-01-04B02,Extra over for supply and install an additional underground pipe by boring technique with an internal diameter of greater than 50mm,Per linear metre," $	22",,45214
+Downer,Downer - ODM,CW-01-01-05,Supply and install riser on pole or building,Per riser," $	167",,45214
+Downer,Downer - ODM,CW-01-02-01T01,Extra Over Rate for the supply and install of upto and including 50mm pipe in Rock using Trenching methods,Per linear metre," $	105",,45214
+Downer,Downer - ODM,CW-01-02-01T02,Extra Over Rate for the supply and install of upto and including 100mm pipe in Rock using Trenching methods,Per linear metre," $	110",,45214
+Downer,Downer - ODM,CW-01-02-01B01,Extra Over Rate for the supply and install of upto and including 50mm pipe in Rock using Boring methods,Per linear metre," $	210",,45214
+Downer,Downer - ODM,CW-01-02-01B02,Extra Over Rate for the supply and install of upto and including 100mm pipe in Rock using Boring methods,Per linear metre," $	225",,45214
+Downer,Downer - ODM,CW-02-01-01N,Supply and installation of small pits (P2) at a New location in other than Rock,P2 New," $	189.05",,45214
+Downer,Downer - ODM,CW-02-01-01E,Supply and installation of small pits (P2) at an Existing location in other than Rock,P2 Existing," $	235",,45214
+Downer,Downer - ODM,CW-02-01-02N,Supply and installation of medium pits (P4 or P5) at a New location in other than Rock,P5 New," $	363",,45214
+Downer,Downer - ODM,CW-02-01-02E,Supply and installation of medium pits (P4 or P5) at an Existing location in other than Rock,P5 Existing," $	500",,45214
+Downer,Downer - ODM,CW-02-01-03N- P6,Supply and installation of large pits (P6) at a New location in other than Rock,P6 New," $	800",,45214
+Downer,Downer - ODM,CW-02-01-03E-P6,Supply and installation of large pits (P6) at an Existing location in other than Rock,P6 Existing," $	900",,45214
+Downer,Downer - ODM,CW-02-01-03N- P8,Supply and installation of large pits (P8) at a New location in other than Rock,P8 New," $	900",,45214
+Downer,Downer - ODM,CW-02-01-03E-P8,Supply and installation of large pits (P8) at an Existing location in other than Rock,P8 Existing," $	1050",,45214
+Downer,Downer - ODM,CW-02-01-04N- P9,Supply and installation of extra-large (P9) pits at a New location in other than Rock,P9 New," $	1600",,45214
+Downer,Downer - ODM,CW-02-01-04E-P9,Supply and installation of extra-large (P9) pits at an Existing location in other than Rock,P9 Existing," $	1900",,45214
+Downer,Downer - ODM,CW-02-01-05-P5,Supply and install pit riser (=<P5),Each Pit riser," $	241",,45214
+Downer,Downer - ODM,CW-02-01-05-P6,Supply and install pit riser (=>P6),Each Pit riser," $	241",,45214
+Downer,Downer - ODM,CW-02-01-06,Supply and install pit lids,Each Pit lid," $	48",,45214
+Downer,Downer - ODM,CW-02-01-08,Supply and install composite pit lids,Each Pit lid," $	65",,45214
+Downer,Downer - ODM,CW-02-02-01,Extra over rate for the supply and installation of a pit in Rock,Per cubic metre," $	172",,45214
+Downer,Downer - ODM,CW-02-03-01,Removal and disposal of small (P2) ACM Pit,Each ACM Pit," $	517",,45214
+Downer,Downer - ODM,CW-02-03-02,Removal and disposal of medium (P4 or P5) ACM Pit,Each ACM Pit," $	570",,45214
+Downer,Downer - ODM,CW-02-03-03,Removal and disposal of large (P6 or P8) ACM Pit,Each ACM Pit," $	700",,45214
+Downer,Downer - ODM,CW-02-03-04,Removal and disposal of extra large (P9) ACM Pit,Each ACM Pit," $	900",,45214
+Downer,Downer - ODM,CW-02-04-01,Remove and dispose of a Single lid plastic pit,Each Pit," $	34",,45214
+Downer,Downer - ODM,CW-02-04-02,Remove and dispose of a Double lid plastic pit,Each Pit," $	45",,45214
+Downer,Downer - ODM,CW-03-01-01,Core bore,Each core bore," $	180",,45214
+Downer,Downer - ODM,CW-03-01-01X,Core bore (per additional 100mm),Per additional 100mm," $	40",,45214
+Downer,Downer - ODM,CW-04-01-01,Installation only of single cable by direct buried techniques by any means,Per linear metre," $	13",,45214
+Downer,Downer - ODM,CW-04-02-01,Extra over for the installation of a single cable by direct buried techniques in Rock,Per linear metre," $	50",,45214
+Downer,Downer - ODM,CW-04-03-01,Supply and install marker posts for buried underground cable,Per marker post," $	89.33",,45214
+Downer,Downer - ODM,CW-05-01-01,Identify and repair a damaged and blocked duct in any surface,Per blockage repaired," $	300",,45214
+Downer,Downer - ODM,CW-05-01-02,Clear pipe blockage using high pressure water,Per blockage cleared," $	175",,45214
+Downer,Downer - ODM,CW-05-01-01X,Extra over for the repair of a secondary damaged or blocked duct in any surface,Per blockage repaired," $	225",,45214
+Downer,Downer - ODM,CW-06-01-01,Breakout concrete surface material,Per linear metre," $	75",,45214
+Downer,Downer - ODM,CW-06-01-02,Breakout asphalt or bitumen,Per linear metre," $	65",,45214
+Downer,Downer - ODM,CW-06-01-03,Breakout paving material in CBD areas,Per linear metre," $	110",,45214
+Downer,Downer - ODM,CW-06-01-04,Breakout paving material in all areas other than CBD,Per linear metre," $	70",,45214
+Downer,Downer - ODM,CW-06-02-01,Reinstate concrete surface material,Per linear metre," $	140",,45214
+Downer,Downer - ODM,CW-06-02-02,Reinstate asphalt or bitumen,Per linear metre," $	85",,45214
+Downer,Downer - ODM,CW-06-02-03,Reinstate paving material in CBD areas,Per linear metre," $	155",,45214
+Downer,Downer - ODM,CW-06-02-04,Reinstate paving material in all areas other than CBD,Per linear metre," $	70",,45214
+Downer,Downer - ODM,CI-01-01-01,Pipe Proving in existing duct,Per linear metre," $	1.8",,45214
+Downer,Downer - ODM,CI-01-02-01,Pipe Proving in existing riser on a pole or in existing riser on the external face of a building,"Per existing riser on a pole or existing riser on the external
+face of a building"," $	13",,45214
+Downer,Downer - ODM,CI-02-01-01,Installation of a cable sheath greater than 144 fibre in underground duct by any means,Per linear metre," $	2.99",,45214
+Downer,Downer - ODM,CI-02-01-02V144,Installation of a 144 fibre cable sheath in vacant underground duct by any means,Per linear metre," $	2",,45214
+Downer,Downer - ODM,CI-02-01-02O144,Installation of a 144 fibre cable sheath in occupied underground duct by any means,Per linear metre," $	2.5",,45214
+Downer,Downer - ODM,CI-02-01-03V,Installation of 12 fibre fibre cable sheath in a vacant underground duct by any means,Per linear metre," $	1.75",,45214
+Downer,Downer - ODM,CI-02-01-03O,Installation of 12 fibre fibre cable sheath in an occupied underground duct by any means,Per linear metre," $	2.1",,45214
+Downer,Downer - ODM,CI-02-01-04V,Installation of single fibre cable sheath in a vacant underground duct by any means,Per linear metre," $	1.6",,45214
+Downer,Downer - ODM,CI-02-01-04O,Installation of single fibre cable sheath in an occupied underground duct by any means,Per linear metre," $	2",,45214
+Downer,Downer - ODM,CI-02-01-05,Installation of a cable sheath in existing riser on a pole or in existing riser on the external face of a building,Per cable sheath," $	21.21",,45214
+Downer,Downer - ODM,CI-02-02-01,Installation of copper cable of up to including 100 pair in underground duct,Per linear metre," $	2",,45214
+Downer,Downer - ODM,CI-02-02-02,Installation of copper cable of greater than 100 pair in underground duct,Per linear metre," $	3.81",,45214
+Downer,Downer - ODM,CI-02-03-01CX,Installation of CX50 / CX75 hardline in underground duct by any means,Per linear metre," $	4",,45214
+Downer,Downer - ODM,CI-02-03-01RG,Installation of RG6 / RG11 hardline in underground duct by any means,Per linear metre," $	3",,45214
+Downer,Downer - ODM,CI-02-03-02,Installation of hardline in an existing riser on a pole or in an existing riser on the external face of a building,Per Riser," $	9",,45214
+Downer,Downer - ODM,CI-03-01-01,Installation of cable sheath and all NBN Co infrastructure on timber poles in the communications corridor,Per Span," $	440",,45214
+Downer,Downer - ODM,CI-03-01-02,Installation of cable sheath and all NBN Co infrastructure on stobie poles in the communications corridor,Per Span," $	440",,45214
+Downer,Downer - ODM,CI-03-01-03,Installation of cable sheath and all NBN Co infrastructure on concrete or steel poles in the communications corridor,Per Span," $	440",,45214
+Downer,Downer - ODM,CI-03-01-04,Installation of cable sheath and all NBN Co infrastructure on timber poles in the power corridor,Per Span," $	494.62",,45214
+Downer,Downer - ODM,CI-03-01-05,Installation of cable sheath and all NBN Co infrastructure on stobie poles in the power corridor,Per Span," $	520.65",,45214
+Downer,Downer - ODM,CI-03-01-06,Installation of cable sheath and all NBN Co infrastructure on concrete or steel poles in the power corridor,Per Span," $	520.65",,45214
+Downer,Downer - ODM,CI-03-02-01,Installation of copper cable sheath and all NBN Co infrastructure on timber poles in the communications corridor up to 100 pair,Per Span," $	388.1",,45214
+Downer,Downer - ODM,CI-03-02-02,Installation of copper cable sheath and all NBN Co infrastructure on stobie poles in the communications corridor up to 100 pair,Per Span," $	411.9",,45214
+Downer,Downer - ODM,CI-03-02-03,Installation of copper cable sheath and all NBN Co infrastructure on concrete or steel poles in the communications corridor up to 100 pair,Per Span," $	411.9",,45214
+Downer,Downer - ODM,CI-03-02-04,Installation of copper cable sheath and all NBN Co infrastructure on timber poles in the power corridor up to 100 pair,Per Span," $	485.26",,45214
+Downer,Downer - ODM,CI-03-02-05,Installation of copper cable sheath and all NBN Co infrastructure on stobie poles in the power corridor up to 100 pair,Per Span," $	505.25",,45214
+Downer,Downer - ODM,CI-03-02-06,Installation of copper cable sheath and all NBN Co infrastructure on concrete or steel poles in the power corridor up to 100 pair,Per Span," $	505.25",,45214
+Downer,Downer - ODM,CI-03-03-01,Installation of hardline on all pole types,Per Coaxial Cable Span," $	230",,45214
+Downer,Downer - ODM,CI-03-03-02,Installation of a catenary wire only on timber poles,Per Coaxial Cable Span," $	138.95",,45214
+Downer,Downer - ODM,CI-03-03-03,Installation of a catenary wire only on stobie poles,Per Coaxial Cable Span," $	158.95",,45214
+Downer,Downer - ODM,CI-03-03-04,Installation of a catenary wire only on concrete or steel poles,Per Coaxial Cable Span," $	188.95",,45214
+Downer,Downer - ODM,CI-03-03-05,Re-lashing of existing hardline to existing catenary wire,Per Coaxial Cable Span," $	155",,45214
+Downer,Downer - ODM,CI-04-01-01,Installation of cable sheath within a cable chamber,Per linear metre," $	4.35",,45214
+Downer,Downer - ODM,CI-04-01-01-AH,Installation of cable sheath within a cable chamber or tunnel networks outside working hours,Per linear metre," $	8",,45214
+Downer,Downer - ODM,CI-04-01-02,Installation of cable sheath via riser shaft/cable tray,Per linear metre," $	4.5",,45214
+Downer,Downer - ODM,CI-04-01-02-AH,Installation of cable sheath via riser shaft/cable tray outside working hours,Per linear metre," $	8.9",,45214
+Downer,Downer - ODM,CI-04-01-03,Installation of cable sheath via ceiling space/floor cavity or crawl space,Per linear metre," $	9",,45214
+Downer,Downer - ODM,CI-04-01-03-AH,Installation of cable sheath via ceiling space/floor cavity or crawl space outside working hours,Per linear metre," $	12",,45214
+Downer,Downer - ODM,CI-04-01-04,"Installation of cable sheath via existing or new
+conduit",Per linear metre," $	4.5",,45214
+Downer,Downer - ODM,CI-04-01-04-AH,Installation of cable sheath via existing or new conduit outside working hours,Per linear metre," $	12",,45214
+Downer,Downer - ODM,CI-04-02-01,Extra over rate for supply and install AC power cable for FTTB Cabinet,Per linear metre," $	13.79",,45214
+Downer,Downer - ODM,CI-04-02-02,Extra over rate for supply and install earth cable for FTTB Cabinet,Per linear metre," $	10.97",,45214
+Downer,Downer - ODM,CI-04-02-03,Extra over rate for the installation of a copper cable sheaths from main distribution frame to FTTB Cabinet  via riser  shaft or cable tray,Per linear metre," $	9.93",,45214
+Downer,Downer - ODM,CI-04-02-04,Extra over rate for the installation of copper cable sheaths via ceiling space  floor cavity or crawl space,Per linear metre," $	11.04",,45214
+Downer,Downer - ODM,CI-04-03-01,Installation of backbone cable in buildings,Per linear metre," $	3.7",,45214
+Downer,Downer - ODM,CI-04-03-02,Installation of coaxial service drop cable (lateral) from isolator to the ICD in existing or new duct and the installation of the ICD,Per drop," $	85",,45214
+Downer,Downer - ODM,CI-04-03-03,Installation of coaxial service drop cable (lateral) from isolator to ICD on existing or new cable tray and the installation of the ICD,Per drop," $	85",,45214
+Downer,Downer - ODM,CI-04-03-04,Installation of coaxial service drop cable (lateral) from isolator to ICD in cavity or communications riser and the installation of the ICD,Per drop," $	85",,45214
+Downer,Downer - ODM,CI-04-03-05,Installation of coaxial customer premises tie-cabling from ICD to wall plate,Per wall plate," $	45",,45214
+Downer,Downer - ODM,CI-04-03-06,Installation of coaxial customer premises tie-cabling from isolator to unterminated location within ceiling void,Per Tie cable," $	70",,45214
+Downer,Downer - ODM,CI-04-03-07,Installation of coaxial customer premises drop cable from isolator to wall plate in existing or new ducting,Per drop," $	65",,45214
+Downer,Downer - ODM,CI-04-03-08,Installation of coaxial customer premises drop cable from isolator to wall plate on existing or new cable tray,Per drop," $	65",,45214
+Downer,Downer - ODM,CI-04-03-09,Installation of coaxial customer premises drop cable from isolator to wall plate in cavity or communications riser,Per drop," $	72",,45214
+Downer,Downer - ODM,CI-05-01-01,Removal and disposal of cable in distribution aerial Network,Per Span," $	201.25",,45214
+Downer,Downer - ODM,CI-05-01-02,Removal and disposal of cable in local aerial Network,Per Span," $	196.08",,45214
+Downer,Downer - ODM,CI-05-01-03,Removal and disposal of catenary wire in aerial Network,Per Span," $	196.08",,45214
+Downer,Downer - ODM,CI-05-01-04,Removal and disposal of cable in distribution underground Network,Per metre," $	2.74",,45214
+Downer,Downer - ODM,CI-05-01-05,Removal and disposal of cable in local underground Network,Per metre," $	1.33",,45214
+Downer,Downer - ODM,CI-05-01-06,Removal and disposal of cable in buildings,Per metre," $	3.4",,45214
+Downer,Downer - ODM,CI-05-01-10,Removal and disposal of aerial lead in cables,Per lead in," $	55",,45214
+Downer,Downer - ODM,CI-05-01-11,Relocation of aerial lead in cables,Per lead in," $	92",,45214
+Downer,Downer - ODM,CI-05-01-12,Disconnect and re-connect of aerial lead in cables,Per lead in," $	70",,45214
+Downer,Downer - ODM,CI-05-01-15,Removal and disposal of underground lead in cables,Per lead in," $	37",,45214
+Downer,Downer - ODM,CB-01-01-01,Installation of an external FDH Cabinet,Per FDH," $	1825",,45214
+Downer,Downer - ODM,CB-02-02-01,Installation of service jumpering in a FTTN/FTTB Node Cabinet,Per 48 Port Line Card," $	178.36",,45214
+Downer,Downer - ODM,CB-02-02-02,Cable layup within CJL for external small port CSD node,Per CJL," $	120.13",,45214
+Downer,Downer - ODM,CB-03-01-01,Installation of an internal small FTTB Cabinet,"Per FTTB
+Cabinet"," $	1600",,45214
+Downer,Downer - ODM,CB-03-01-02,Installation of an internal medium FTTB Cabinet,"Per FTTB
+Cabinet"," $	3300",,45214
+Downer,Downer - ODM,CB-03-01-03,Installation of an internal large FTTB Cabinet (greater than 192 up to 384 port),"Per FTTB
+Cabinet"," $	4500",,45214
+Downer,Downer - ODM,CB-03-02-01,Supply and install new service earth bar,Per service earth bar," $	85",,45214
+Downer,Downer - ODM,CB-03-02-02,Supply and install new service earth stake,Per service earth stake," $	200",,45214
+Downer,Downer - ODM,CB-03-02-03,Install a 10 pair MDF terminal block,Per 10 pair MDF terminal block," $	25.35",,45214
+Downer,Downer - ODM,CB-03-02-04,Install a 100 pair MDF terminal frame,"Per 100 pair
+MDF terminal frame"," $	115.56",,45214
+Downer,Downer - ODM,CB-04-01-01,Removal and disposal of a cabinet,Per Cabinet," $	650",,45214
+Downer,Downer - ODM,CB-04-01-02,Repair of a cabinet panel,Per Cabinet," $	60.23",,45214
+Downer,Downer - ODM,CB-04-01-03,Removal of graffiti from a cabinet,Per Cabinet," $	69.56",,45214
+Downer,Downer - ODM,CB-04-01-04,Replacement of a cabinet lock,Per Cabinet," $	44.25",,45214
+Downer,Downer - ODM,FB-01-01-01-288F,Installation and preparation of a new fibre joint enclosure 288 fibres,Per fibre joint enclosure," $	360",,45214
+Downer,Downer - ODM,FB-01-01-01-432F,Installation and preparation of a new fibre joint enclosure 432 fibres,Per fibre joint enclosure," $	410",,45214
+Downer,Downer - ODM,FB-01-01-02-72F,Installation and preparation of a new fibre joint enclosure 72 fibres,Per fibre joint enclosure," $	225",,45214
+Downer,Downer - ODM,FB-01-01-02-144F,Installation and preparation of a new fibre joint enclosure 144 fibres,Per fibre joint enclosure," $	275",,45214
+Downer,Downer - ODM,FB-01-01-03,Installation and preparation of a fibre joint enclosure up to and including 12 fibres,Per fibre joint enclosure," $	180",,45214
+Downer,Downer - ODM,FB-01-01-04,Installation and preparation of Gator fibre joint enclosure,Per Gator fibre joint enclosure," $	110",,45214
+Downer,Downer - ODM,FB-01-02-01-288f,Prepare a 288 fibre cable sheath to be connected to fibre joint enclosures,Per cable sheath," $	189.46",,45214
+Downer,Downer - ODM,FB-01-02-01-432f,Prepare a 432 fibre cable sheath to be connected to fibre joint enclosures,Per cable sheath," $	226",,45214
+Downer,Downer - ODM,FB-01-02-01-576f,Prepare a 576 fibre cable sheath to be connected to fibre joint enclosures,Per cable sheath," $	263.77",,45214
+Downer,Downer - ODM,FB-01-02-02-144f,Prepare a 144 fibre cable sheath to be connected to fibre joint enclosures,Per cable sheath," $	125",,45214
+Downer,Downer - ODM,FB-01-02-02-72f,Prepare a 72 fibre cable sheath to be connected to fibre joint enclosures,Per cable sheath," $	108.92",,45214
+Downer,Downer - ODM,FB-01-02-03,Prepare a 12 fibre cable to be connected to fibre joint enclosures,Per cable sheath," $	55.6",,45214
+Downer,Downer - ODM,FB-01-02-04,Prepare Single fibre cable sheath to be connected to fibre joint enclosures,Per cable sheath," $	39.29",,45214
+Downer,Downer - ODM,FB-01-02-05,Lay up of cable sheaths,Per cable sheath," $	31.5",,45214
+Downer,Downer - ODM,FB-01-02-06,Prepare a loose tube fibre cable sheath greater than 144 fibres  to be connected to fibre joint enclosures,Per cable sheath," $	260.5",,45214
+Downer,Downer - ODM,FB-01-02-07,Prepare a loose tube fibre cable sheath greater 12 fibres and up to and including 144 fibres to be connected to fibre joint enclosures,Per cable sheath," $	170.5",,45214
+Downer,Downer - ODM,FB-01-02-08,Prepare a loose tube 12 fibre cable to be connected to fibre joint enclosures,Per cable sheath," $	62",,45214
+Downer,Downer - ODM,FB-01-02-09,Prepare a loose tube Single fibre cable sheath to be connected to fibre joint enclosures,Per cable sheath," $	40",,45214
+Downer,Downer - ODM,FB-01-03-01,Re-entry into a fibre joint enclosure,Per fibre joint enclosure," $	84.7",,45214
+Downer,Downer - ODM,FB-01-04-01,Installation of splitter within existing FDH / PDH cabinet,Per splitter," $	26",,45214
+Downer,Downer - ODM,FB-01-04-02,Installation of splitter within an existing BJL enclosure,Per splitter," $	40",,45214
+Downer,Downer - ODM,FB-01-04-03,Installation of splitter within an existing FJL enclosure,Per splitter," $	40",,45214
+Downer,Downer - ODM,FB-01-04-04,Installation of a splitter card output fibres to LFN ports within and existing FDH cabinet,Per Fibre," $	10",,45214
+Downer,Downer - ODM,FB-01-04-05,Installation of a Fibre TV Splitter (TVS) within an FDH Cabinet,Per device," $	46.23",,45214
+Downer,Downer - ODM,FB-01-04-06,Installation of a Fibre TV Splitter within a PDH enclosure,Per device," $	46.23",,45214
+Downer,Downer - ODM,FB-02-01-01,Installation of multiport or splitter multiport in underground pit or manhole,Per multiport," $	31.25",,45214
+Downer,Downer - ODM,FB-02-01-02,Installation of multiport or splitter multiport on any pole,Per multiport," $	107.3",,45214
+Downer,Downer - ODM,FB-02-01-03,Replacement or Upgrade of existing splitter multiport in underground pit or manhole,Per multiport," $	37.8",,45214
+Downer,Downer - ODM,FB-02-01-04,Replacement or Upgrade of existing splitter multiport on any pole,Per multiport," $	150",,45214
+Downer,Downer - ODM,FB-03-01-01,Splicing of optic fibre ribbons,Per Ribbon Splice," $	16.5",,45214
+Downer,Downer - ODM,FB-03-01-02,Splicing of single fibre,Per Fibre Splice," $	12.4",,45214
+Downer,Downer - ODM,FB-03-01-03,Splicing of loose tube fibre,Per Fibre Splice," $	15",,45214
+Downer,Downer - ODM,FB-03-01-04,De ribbonise 12 fibre ribbon,Per ribbon," $	11.5",,45214
+Downer,Downer - ODM,FB-04-02-01,Uni-directional OTDR Testing to the first fibre tested,Per fibre," $	27",,45214
+Downer,Downer - ODM,FB-04-02-01X,Extra over for additional Uni-directional OTDR Testing,Per fibre," $	13",,45214
+Downer,Downer - ODM,FB-04-02-03,Point to point DFL OTDR test to the first fibre tested,Per fibre," $	31.5",,45214
+Downer,Downer - ODM,FB-04-02-03X,Extra over for additional Point to point DFL OTDR test,Per fibre," $	8",,45214
+Downer,Downer - ODM,FB-04-02-05,Insertion loss testing to the first fibre tested,Per fibre," $	21.29",,45214
+Downer,Downer - ODM,FB-04-02-05X,Extra over for additional Insertion loss testing,Per fibre," $	14.08",,45214
+Downer,Downer - ODM,FB-04-02-05XP,Extra over rate for LFN / MTLFN insertion loss testing to the PCD,Per fibre," $	9.38",,45214
+Downer,Downer - ODM,FB-04-02-08,PON Power Meter Test,Per fibre," $	17",,45214
+Downer,Downer - ODM,FB-04-02-09,End to end connectivity testing to the GPON NTD at customer premises,Per fibre," $	35",,45214
+Downer,Downer - ODM,FB-04-02-10,End to end connectivity testing to SASK NTD at customer premises,Per fibre," $	35",,45214
+Downer,Downer - ODM,FB-05-03-01,Prepare and splice of a 12 fibre sheath within a customer premises environment,Per cable sheath," $	77.6",,45214
+Downer,Downer - ODM,FB-05-03-02,Prepare and splice of a single fibre in a PIC cable,Per Fibre," $	39",,45214
+Downer,Downer - ODM,FB-05-03-03,Supply and install patching cable within a HDODF or equivalent environment,Per patching cable," $	44.18",,45214
+Downer,Downer - ODM,FB-05-03-06,Prepare and splice a fibre cable sheath greater than 144 fibres to be connected within a HDODF environment,Per cable sheath," $	826.66",,45214
+Downer,Downer - ODM,FB-05-03-07,Prepare and splice a fibre cable sheath greater 12 fibres and up to and including 144 fibres to be connected within a HDODF environment,Per cable sheath," $	403.84",,45214
+Downer,Downer - ODM,FB-05-03-08,Installation of an inline optical attenuator in conjunction with HDODF patching works,Per optical attenuator," $	32.12",,45214
+Downer,Downer - ODM,FB-05-03-09,Installation of an inline optical attenuator within the HDODF cabinet or equivalent rack environments as part of line balancing works for an FTTC DPU,Per optical attenuator," $	90.8",,45214
+Downer,Downer - ODM,FB-06-01-01,Removal of existing fibre joint enclosure,Per fibre joint enclosure," $	40",,45214
+Downer,Downer - ODM,CP-01-01-01,Installation of a new 900 type CCU,Per new 900 type CCU," $	1100",,45214
+Downer,Downer - ODM,CP-01-01-02,Installation of a new 1800 type CCU,Per new 1800 type CCU," $	1160",,45214
+Downer,Downer - ODM,CP-01-01-03,Installation of 10 cable pair bundles between two copper cable insulation displacement modules (Connection Modules)  including the termination of the bundle on each Connection Module,Per 10 cable pair bundle," $	46.23",,45214
+Downer,Downer - ODM,CP-01-01-04,Cutting over existing services from an existing Connection Module to a new Connection Module,Per 10 cable pairs," $	50",,45214
+Downer,Downer - ODM,CP-01-02-01,Upgrading of an existing CCU from 900 type to 1800 type,"Per CCU required to be upgraded from 900 type to
+1800 type"," $	150",,45214
+Downer,Downer - ODM,CP-01-02-02,Augmentation of an existing 900 type CCU (Pillar Expansion Option 1),Per Expansion CCU," $	325.11",,45214
+Downer,Downer - ODM,CP-01-02-03,Augmentation of an existing 900 type CCU (Pillar Expansion Option 2),"Per Expansion CCU (Civil Only & for
+Completing ALL Works)"," $	845.13",,45214
+Downer,Downer - ODM,CP-01-03-01,Removal and disposal of an existing CCU,Per existing CCU," $	415.23",,45214
+Downer,Downer - ODM,CP-01-04-01,Replacement of Pillar Lid Lock or Pillar Cap,Per existing CCU," $	30.5",,45214
+Downer,Downer - ODM,CP-01-04-02,Installation of 2-piece Pillar Base Repair Kit,Per existing," $	115.65",,45214
+Downer,Downer - ODM,CP-01-04-03,Replace Cover Lightweight (1800 Type),Per existing CCU," $	25.46",,45214
+Downer,Downer - ODM,CP-01-04-04,Replacement of copper cable insulation displacement connection module (Connection Module) and termination of cable,Per existing module," $	84.36",,45214
+Downer,Downer - ODM,CP-02-01-01,Installation of a new Distribution extra large copper joint,Per new Distribution extra large copper joint," $	665",,45214
+Downer,Downer - ODM,CP-02-01-02,Installation of a new Distribution large copper joint,Per new Distribution large copper joint," $	520",,45214
+Downer,Downer - ODM,CP-02-01-03,Installation of a new Distribution small copper joint,"Per new Distribution small copper
+joint"," $	303.75",,45214
+Downer,Downer - ODM,CP-02-01-04,Installation of a new Main Cable small copper joint,Per new Main Cable small copper joint," $	700",,45214
+Downer,Downer - ODM,CP-02-01-05,Installation of a new Main Cable medium copper joint,Per new Main Cable medium Copper joint," $	1050",,45214
+Downer,Downer - ODM,CP-02-01-06,Installation of a new Main Cable large copper joint enclosure,Per new Main Cable large Copper joint enclosure," $	2280",,45214
+Downer,Downer - ODM,CP-02-01-07,Installation of a new Main Cable extra large copper joint enclosure,Per new Main Cable extra large Copper joint enclosure," $	3080",,45214
+Downer,Downer - ODM,CP-02-01-08,Installation of a new aerial large copper joint,"Per new Distribution large copper
+joint"," $	675",,45214
+Downer,Downer - ODM,CP-02-01-09,Installation of a new aerial small copper joint,Per new Distribution small copper joint," $	458.75",,45214
+Downer,Downer - ODM,CP-02-02-01,Rehabilitate existing Distribution large openable copper joint,Per large openable copper joint," $	260",,45214
+Downer,Downer - ODM,CP-02-02-02,Rehabilitate existing Distribution small openable copper joint,Per small openable copper joint," $	155",,45214
+Downer,Downer - ODM,CP-02-02-03,Replacement of existing Distribution in-line copper joint with a new in-line large copper joint,Per existing copper joint replaced," $	324.86",,45214
+Downer,Downer - ODM,CP-02-02-04,Replacement of existing Distribution in-line copper joint with a new in-line small copper joint,Per existing copper joint replaced," $	174.56",,45214
+Downer,Downer - ODM,CP-02-02-05,Cutting over existing services from an existing copper joint to a new large copper joint,Per existing copper joint replaced," $	520",,45214
+Downer,Downer - ODM,CP-02-02-06,Cutting over existing services from an existing copper joint to a new small copper joint,Per existing copper joint replaced," $	303.75",,45214
+Downer,Downer - ODM,CP-02-02-07,Rehabilitate existing aerial large copper joint,Per existing copper joint replaced," $	415",,45214
+Downer,Downer - ODM,CP-02-02-08,Rehabilitate existing aerial small copper joint,Per existing copper joint replaced," $	310",,45214
+Downer,Downer - ODM,CP-02-02-09,Rehabilitate existing elevated copper joint,Per existing copper joint replaced," $	123.37",,45214
+Downer,Downer - ODM,CP-02-02-10,Rehabilitate existing small Distribution in-line copper joint,Per small in-line copper joint," $	160.81",,45214
+Downer,Downer - ODM,CP-02-02-15,Rehabilitate existing extra large or large Distribution in-line copper joint,Per existing copper joint," $	335.29",,45214
+Downer,Downer - ODM,CP-02-02-16,Rehabilitate existing medium Distribution in-line copper joint,Per existing copper joint," $	207.42",,45214
+Downer,Downer - ODM,CP-02-02-20,Joint a working cable pair into an existing joint up to and including a 10 pair cable,Per existing copper joint," $	35.27",,45214
+Downer,Downer - ODM,CP-02-02-21,Joint a working cable pair into an existing joint above a 10 pair cable and up to and including a 50 pair cable,Per existing copper joint," $	58.58",,45214
+Downer,Downer - ODM,CP-02-02-22,Joint a working cable pair into an existing joint above a 50 pair cable and up to and including a 100 pair cable,Per existing copper joint," $	69.93",,45214
+Downer,Downer - ODM,CP-02-02-23,Joint a working cable pair into an existing joint above 100 pair cable,Per existing copper joint," $	92.62",,45214
+Downer,Downer - ODM,CP-02-02-24,Insert a 2 pair cable into an existing joint and joint to existing cable,Per 2 pair cable," $	31.49",,45214
+Downer,Downer - ODM,CP-02-02-25,Insert a cable including a 10 pair and up to an including a 100 pair into an existing joint and joint to existing cable,Per Cable inserted," $	275.44",,45214
+Downer,Downer - ODM,CP-02-02-26,Locate and rectify a fault in a copper pair,Per Copper Cable," $	61.14",,45214
+Downer,Downer - ODM,CP-02-03-01,Removal of existing copper joint,Per existing copper joint," $	22",,45214
+Downer,Downer - ODM,CP-02-03-02,Removal of existing aerial copper joint,Per existing copper joint," $	31",,45214
+Downer,Downer - ODM,CP-02-03-03,Remove a existing elevated joint,Per existing copper joint," $	41",,45214
+Downer,Downer - ODM,CP-02-04-01,Joint sealing maintenance task (add Dexbond 10B Sealant),Per existing copper joint," $	53.59",,45214
+Downer,Downer - ODM,CP-02-04-02,Replace joint lid  clamp  or Support Bar   (HSOJ or Dexgreen Joint),Per existing copper joint," $	38.8",,45214
+Downer,Downer - ODM,CP-02-04-03,Replace or install 2-5pr Snap Enclosure,Per existing copper joint," $	34.35",,45214
+Downer,Downer - ODM,CP-02-04-04,Replace or install 10pr Snap Enclosure,Per existing copper joint," $	82.16",,45214
+Downer,Downer - ODM,CP-02-04-05,Replace connectors in an openable joint,Per existing copper joint," $	53.59",,45214
+Downer,Downer - ODM,CP-02-04-06,Replace Bandit Strap,Per existing copper joint," $	33.86",,45214
+Downer,Downer - ODM,CP-03-01-01,Removal of a pair gain system,Per pair gain system," $	175.22",,45214
+Downer,Downer - ODM,CP-03-01-02,Migration of an existing service from a pair gain system to a dedicated copper circuit,Per existing service," $	75",,45214
+Downer,Downer - ODM,CP-03-01-03,Single service active migration in a CSD including service jumpering in the pillar,Per service," $	74.65",,45214
+Downer,Downer - ODM,CP-03-01-04,Removal of existing line conditioning equipment,Per existing line conditioning equipment," $	144",,45214
+Downer,Downer - ODM,CP-03-01-05,Removal of an existing bridge tap,Per existing bridge tap," $	144.48",,45214
+Downer,Downer - ODM,CP-03-01-06,Install earth bonding cable between cable sections,Per linear metre," $	50",,45214
+Downer,Downer - ODM,CP-03-01-10,Multiple services pre-validation for migration at any location,Per existing service," $	70",,45214
+Downer,Downer - ODM,CP-05-01-01,Installation of service jumpering in an Exchange,Per Service," $	40.27",,45214
+Downer,Downer - ODM,CP-05-01-02,Existing service transfer jumpering in an MDF and termination end point,Per existing service," $	54.18",,45214
+Downer,Downer - ODM,CP-05-02-01,Installation of service jumpering in a cross connect unit for the first service jumpered,Per Service," $	62.96",,45214
+Downer,Downer - ODM,CP-05-02-02,Extra over service Jumpering in a cross connect unit,Per Service," $	10.3",,45214
+Downer,Downer - ODM,EA-01-01-01,Copper performance line testing,Per cable pair," $	63.52",,45214
+Downer,Downer - ODM,EA-01-01-02,Line Testing Vacant Pairs,Per cable pair," $	18.28",,45214
+Downer,Downer - ODM,HF-01-01-01,Installation of aerial bridger amplifier in new network,Per bridger amplifier," $	220",,45214
+Downer,Downer - ODM,HF-01-01-02,Installation of aerial bridger amplifier in existing network,Per bridger amplifier," $	200",,45214
+Downer,Downer - ODM,HF-01-01-03,Installation of aerial line-extender amplifier in new network,"Per line- extender
+amplifier"," $	156.21",,45214
+Downer,Downer - ODM,HF-01-01-04,Installation of aerial line-extender amplifier to existing network,Per line- extender amplifier," $	139.09",,45214
+Downer,Downer - ODM,HF-01-01-05,Installation of aerial directional coupler  network splitter  line equaliser or line power inserter in new network,Per coupler or network splitter or line power inserter," $	70.56",,45214
+Downer,Downer - ODM,HF-01-01-06,Installation of aerial mounted directional coupler  network splitter  line equaliser or line power inserter in existing network,Per coupler or network splitter or line power inserter," $	87.69",,45214
+Downer,Downer - ODM,HF-01-01-07,Installation of aerial line power supply in new network,Per line power supply," $	538",,45214
+Downer,Downer - ODM,HF-01-01-08,Installation of aerial line power supply in existing network,Per line power supply," $	538",,45214
+Downer,Downer - ODM,HF-01-01-09,Installation of pedestal mounted line power supply in new network,Per line power supply," $	215.29",,45214
+Downer,Downer - ODM,HF-01-01-10,Installation of pedestal mounted line power supply in existing network,Per line power supply," $	367",,45214
+Downer,Downer - ODM,HF-01-01-11,Installation of aerial tap in new network,Per tap," $	59.16",,45214
+Downer,Downer - ODM,HF-01-01-12,Installation of aerial tap in existing network,Per tap," $	26.5",,45214
+Downer,Downer - ODM,HF-01-01-13,Installation of aerial mounted power blocker in existing network,per device," $	27.84",,45214
+Downer,Downer - ODM,HF-01-01-14,Installation of aerial RF splice in existing network,Per Splice," $	40.23",,45214
+Downer,Downer - ODM,HF-01-01-15,"Installation of an earth to an existing aerial active
+device where no earth has been provided or is unserviceable",Per device," $	126.32",,45214
+Downer,Downer - ODM,HF-01-01-16,Installation of tie-cabling from PCD to wall plate,Per wall plate," $	40.26",,45214
+Downer,Downer - ODM,HF-01-02-04,Replacement of aerial tap face plate in the existing network,Per face plate," $	66.68",,45214
+Downer,Downer - ODM,HF-01-02-05,Replacement of existing PCD with a lock box,Per PCD," $	35",,45214
+Downer,Downer - ODM,HF-01-03-01,Removal of aerial bridger amplifier or aerial line extender amplifier in existing network,Per device," $	117.59",,45214
+Downer,Downer - ODM,HF-01-03-02,Removal of aerial coupler or aerial network splitter in existing network,Per device," $	67.3",,45214
+Downer,Downer - ODM,HF-01-03-03,Removal of aerial tap in existing network,Per tap," $	21.75",,45214
+Downer,Downer - ODM,HF-01-03-04,Removal of aerial terminator in existing network,Per terminator," $	21.75",,45214
+Downer,Downer - ODM,HF-01-03-05,Removal of aerial power blocker in existing network,per device," $	41.65",,45214
+Downer,Downer - ODM,HF-01-03-06,"Removal of existing aerial line power supply  line power inserter and pedestal housing in existing
+network",Per pedestal housing," $	389.25",,45214
+Downer,Downer - ODM,HF-02-01-01,Installation of non-aerial bridger amplifier in new network,Per bridge amplifier," $	150",,45214
+Downer,Downer - ODM,HF-02-01-02,Installation of non-aerial bridger amplifier in existing network,Per bridge amplifier," $	200",,45214
+Downer,Downer - ODM,HF-02-01-03,Installation of non-aerial line-extender amplifier in new network,Per line- extender amplifier," $	150",,45214
+Downer,Downer - ODM,HF-02-01-04,Installation of non-aerial line-extender amplifier to existing network,Per line- extender amplifier," $	200",,45214
+Downer,Downer - ODM,HF-02-01-05,Installation of non-aerial directional coupler  network splitter  line equaliser or line power inserter in new network,Per coupler or network splitter or line power inserter," $	44.1",,45214
+Downer,Downer - ODM,HF-02-01-06,Installation of non-aerial directional coupler  network splitter  line equaliser or line power inserter in existing network,Per coupler or network splitter or line power inserter," $	32.72",,45214
+Downer,Downer - ODM,HF-02-01-07,Installation of non-aerial mounted tap in new network,Per tap," $	52.5",,45214
+Downer,Downer - ODM,HF-02-01-08,Installation of non-aerial tap in existing network,Per tap," $	94.5",,45214
+Downer,Downer - ODM,HF-02-01-09,Supply and install optical patch cable within HDODF,Per patch cable," $	33",,45214
+Downer,Downer - ODM,HF-02-01-11,Installation of non-aerial power blocker in existing network,per device," $	24.56",,45214
+Downer,Downer - ODM,HF-02-01-12,Installation of non-aerial RF splice in existing network,Per Splice," $	45",,45214
+Downer,Downer - ODM,HF-02-01-13,Installation of power blocker in conjunction with the installation of a new device in either aerial or non- aerial environment in new network,per device," $	11.45",,45214
+Downer,Downer - ODM,HF-02-01-14,Installation of an earth to an existing non aerial active device where no earth has been provided,Per device," $	129.63",,45214
+Downer,Downer - ODM,HF-02-02-03,Replacement of non-aerial tap face plate in the existing network,Per face plate," $	36.36",,45214
+Downer,Downer - ODM,HF-02-02-04,Installation of an earth to an existing non aerial active device where the existing earth is unserviceable,Per earth," $	129.63",,45214
+Downer,Downer - ODM,HF-02-03-01,Removal of non-aerial bridger amplifier or non-aerial line extender amplifier in existing network,"Per non-aerial bridger amplifier or non-aerial line extender
+amplifier device"," $	68.91",,45214
+Downer,Downer - ODM,HF-02-03-02,Removal of non-aerial coupler or non-aerial network splitter in existing network,Per device," $	42.7",,45214
+Downer,Downer - ODM,HF-02-03-03,Removal of non-aerial tap in existing network,Per tap," $	32.5",,45214
+Downer,Downer - ODM,HF-02-03-04,Removal of non-aerial terminator in existing network,Per terminator," $	17.58",,45214
+Downer,Downer - ODM,HF-02-03-05,Removal of non aerial power blocker in existing network,per device," $	27.84",,45214
+Downer,Downer - ODM,HF-02-03-06,Removal of existing  line power supply  line power inserter and pedestal housing in existing network,Per pedestal housing," $	389.25",,45214
+Downer,Downer - ODM,HF-03-01-01,Proof of performance testing,per device," $	70",,45214
+Downer,Downer - ODM,HF-03-01-02,Return path noise testing of an optical node in the existing network,Per optical node," $	123.54",,45214
+Downer,Downer - ODM,HF-03-02-01,Alignment of aerial HFC active equipment,Per HFC active equipment," $	302.5",,45214
+Downer,Downer - ODM,HF-03-02-02,Alignment of non-aerial HFC active equipment,Per HFC active equipment," $	150",,45214
+Downer,Downer - ODM,HF-03-02-04,Reconfigure output of aerial directional coupler or aerial network splitter in an existing network,per device," $	95",,45214
+Downer,Downer - ODM,HF-03-02-05,Reconfigure output non-aerial directional coupler or network splitter in existing network,per device," $	19",,45214
+Downer,Downer - ODM,HF-04-01-01,Earthing of catenary wire,Per earth," $	125",,45214
+Downer,Downer - ODM,FC-01-01-03,Installation and commissioning of a wall mounted DPU terminal device,Per DPU," $	65.5",,45214
+Downer,Downer - ODM,FC-01-01-10,Installation and commissioning of an aerial DPU terminal device,Per DPU," $	90",,45214
+Downer,Downer - ODM,FC-01-01-11,Installation and commissioning of a non-aerial DPU terminal device,Per DPU," $	50",,45214
+Downer,Downer - ODM,FC-01-01-12,Removal of existing DPU,Per DPU," $	35",,45214
+Downer,Downer - ODM,FC-02-01-05,Supply and installation of a DPU copper lead extension from DPU copper lead to a new or existing aerial mounted openable joint enclosure or to an existing aerial mounted terminal box joint enclosure,Per DPU copper lead extension," $	74.38",,45214
+Downer,Downer - ODM,FC-02-01-06,Supply and installation of DPU copper lead extension from DPU copper lead to a new or existing non-aerial mounted openable joint enclosure,Per DPU copper lead extension," $	97.46",,45214
+Downer,Downer - ODM,FC-02-01-07,Supply and installation of a DPU copper lead extension from DPU copper lead to a non-aerial copper interconnect unit,Per DPU copper lead extension," $	108.58",,45214
+Downer,Downer - ODM,FC-02-01-12,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing aerial mounted openable joint enclosure or to an existing aerial mounted terminal box joint enclosure,Per DPU copper lead high twist extension," $	65",,45214
+Downer,Downer - ODM,FC-02-01-13,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing non-aerial mounted openable joint enclosure,"Per DPU copper lead high twist
+extension"," $	149.65",,45214
+Downer,Downer - ODM,FC-02-02-01,Jointing of an aerial copper drop sheath to aerial DPU copper lead in a new or existing openable joint enclosure,Per aerial DPU copper lead jointed," $	57.09",,45214
+Downer,Downer - ODM,FC-02-02-02,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing aerial mounted openable joint enclosure,Per DPU copper lead high twist extension," $	102.49",,45214
+Downer,Downer - ODM,FC-02-02-03,Removal of an existing terminal box joint enclosure or existing openable joint and installation of a new replacement openable joint enclosure,Per replaced enclosure," $	94",,45214
+Downer,Downer - ODM,FC-02-02-04,Installation of a copper tie cable for interconnection between two new or existing openable joint enclosures or terminal box joint enclosures,Per copper tie cable," $	134.57",,45214
+Downer,Downer - ODM,FC-02-03-01,Installation of a new non-aerial openable joint enclosure,Per new non- aerial openable joint enclosure," $	55",,45214
+Downer,Downer - ODM,FC-02-03-02,Jointing of copper drop sheath to DPU copper lead using a copper interconnect unit,Per DPU copper lead jointed," $	19",,45214
+Downer,Downer - ODM,FC-02-03-03,Jointing of copper drop sheath to DPU copper lead in a new or existing openable joint enclosure,Per DPU copper lead jointed," $	24",,45214
+Downer,Downer - ODM,FC-02-03-04,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a non-aerial copper interconnect unit,Per DPU copper lead high twist extension," $	125.9",,45214
+Downer,Downer - ODM,FC-02-03-05,Installation of a DPU 2 pair high twist copper lead extension from DPU copper lead to a new or existing non-aerial openable joint enclosure,Per DPU copper lead high twist extension," $	135.92",,45214
+Downer,Downer - ODM,FC-02-03-06,Extra over for the Installation of a 2 pair copper cut-in loop to existing lead sheath copper lead-in,Per 2pair loop," $	63.31",,45214
+Downer,Downer - ODM,FC-03-01-01,Existing copper drop sheath validation,"Per existing copper drop
+sheath validated"," $	20",,45214
+Downer,Downer - ODM,FC-03-01-02,Existing Copper drop sheath validation for Serviceability for Missed Lead-ins,Per existing copper drop sheath validated," $	75.13",,45214
+Downer,Downer - ODM,MD-01-01-01,Supply & Installation of catenary wire system in buildings,Per linear metre," $	11.7",,45214
+Downer,Downer - ODM,MD-01-01-01-AH,Supply & Installation of catenary wire system in buildings outside working hours,Per linear metre," $	15",,45214
+Downer,Downer - ODM,MD-01-01-02,Supply & Installation of cable tray in buildings,Per linear metre," $	54.42",,45214
+Downer,Downer - ODM,MD-01-01-02-AH,Supply & Installation of cable tray in buildings outside working hours,Per linear metre," $	70",,45214
+Downer,Downer - ODM,MD-01-01-03,Supply and installation of ducting <30mm width,Per linear metre," $	17",,45214
+Downer,Downer - ODM,MD-01-01-03-AH,Supply and installation of ducting <30mm width outside working hours,Per linear metre," $	22.1",,45214
+Downer,Downer - ODM,MD-01-01-04,Supply and installation of ducting >30mm width,Per linear metre," $	31.5",,45214
+Downer,Downer - ODM,MD-01-01-04-AH,Supply and installation of ducting >30mm width outside working hours,Per linear metre," $	40.95",,45214
+Downer,Downer - ODM,MD-01-01-05,Supply and installation of conduit,Per linear metre," $	16",,45214
+Downer,Downer - ODM,MD-01-01-05-AH,Supply and installation of conduit outside working hours,Per linear metre," $	22.02",,45214
+Downer,Downer - ODM,MD-01-01-06,Installation of One Pass Fibre Pathway in buildings,Per linear metre," $	14.52",,45214
+Downer,Downer - ODM,MD-01-01-06-AH,Installation of One Pass Fibre Pathway in buildings outside working hours,Per linear metre," $	18.88",,45214
+Downer,Downer - ODM,MD-01-01-07,Connecting One Pass Fibre Pathway to ICD or PCD,Each ICD or PCD," $	20.94",,45214
+Downer,Downer - ODM,MD-01-01-07-AH,Connecting One Pass Fibre Pathway to ICD or PCD outside working hours,Each ICD or PCD," $	27.22",,45214
+Downer,Downer - ODM,MD-01-07-01,Installation of Fibre Collector Distributor (FCD) or Fibre Distribution Terminal (FDT) or Cable Transition Location (CTL) within buildings,"Each FCD FDT
+or CTL"," $	97.08",,45214
+Downer,Downer - ODM,MD-01-07-01-AH,Installation of Fibre Collector Distributor (FCD) or Fibre Distribution Terminal (FDT) or Cable Transition Location (CTL) within buildings outside working hours,"Each FCD FDT
+or CTL"," $	126.2",,45214
+Downer,Downer - ODM,MD-01-07-02,Installation of Premises Distribution Hub (PDH),Each PDH," $	86.09",,45214
+Downer,Downer - ODM,MD-01-07-02-AH,Installation of Premises Distribution Hub (PDH) outside working hours,Each PDH," $	111.92",,45214
+Downer,Downer - ODM,MD-01-07-03,Installation of Internal Connection Device (ICD) or Premises Connection Device (PCD),Each ICD or PCD," $	37",,45214
+Downer,Downer - ODM,MD-01-07-03-AH,Installation of Internal Connection Device (ICD) or Premises Connection Device (PCD) outside working hours,Each ICD or PCD," $	48.1",,45214
+Downer,Downer - ODM,MD-01-07-04,Installation of a fibre wall outlet,Per outlet," $	32.25",,45214
+Downer,Downer - ODM,MD-01-07-04-AH,Installation of a fibre wall outlet outside working hours,Per outlet," $	41.93",,45214
+Downer,Downer - ODM,MD-01-07-06,Installation of apartment amplifier in buildings,Per amplifier," $	36.82",,45214
+Downer,Downer - ODM,MD-01-07-07,Installation of MDU security enclosure,"Per MDU
+security enclosure"," $	50",,45214
+Downer,Downer - ODM,MD-01-07-08,Installation of tap in buildings,Per tap," $	45",,45214
+Downer,Downer - ODM,MD-01-07-09,Installation of directional coupler or splitter in buildings,Per directional coupler or splitter," $	23.82",,45214
+Downer,Downer - ODM,MD-01-07-10,Extra over rate for the Installation of an isolator in buildings,Per Isolator," $	30.56",,45214
+Downer,Downer - ODM,MD-01-07-11,Replacement of tap in buildings,Per Tap," $	45",,45214
+Downer,Downer - ODM,MD-01-07-12,Replacement of tap faceplate in buildings,Per face plate," $	40",,45214
+Downer,Downer - ODM,MD-01-07-13,Removal of tap  isolator  directional coupler or splitter in buildings only,Per device," $	55",,45214
+Downer,Downer - ODM,MD-01-07-14,Removal of an apartment amplifier in buildings,per device," $	79",,45214
+Downer,Downer - ODM,MD-01-07-15,Installation of Building Fibre Distributor (BUDI),Each BFD," $	104.75",,45214
+Downer,Downer - ODM,MD-01-07-15-AH,Installation of Building Fibre Distributor (BUDI) outside working hours,Each BFD," $	156.59",,45214
+Downer,Downer - ODM,MD-01-07-16,Installation of Splitter Distribution Terminal (SDT),Each SDT," $	37.71",,45214
+Downer,Downer - ODM,MD-01-07-16-AH,Installation of Splitter Distribution Terminal (SDT) outside working hours,Each SDT," $	56.15",,45214
+Downer,Downer - ODM,MD-01-07-17,Installation of additional NG4 tray,per device," $	21.65",,45214
+Downer,Downer - ODM,MD-01-07-18,Installation of additional OCM-6 module,per device," $	42.59",,45214
+Downer,Downer - ODM,MD-01-07-19,Installation of additional PCD splice tray,per device," $	32.82",,45214
+Downer,Downer - ODM,MD-01-08-01,Provide a wall penetration in brick or concrete wall only,Each wall penetration," $	67.67",,45214
+Downer,Downer - ODM,MD-01-08-01-AH,Provide a wall penetration in brick or concrete wall only outside working hours,Each wall penetration," $	87.97",,45214
+Downer,Downer - ODM,MD-01-08-02,Provide a wall penetration in a plasterboard wall only,Each wall penetration," $	8.25",,45214
+Downer,Downer - ODM,MD-01-08-02-AH,Provide a wall penetration in a plasterboard wall only outside working hours,Each wall penetration," $	10.73",,45214
+Downer,Downer - ODM,MD-01-08-03,Provide a floor penetration above 50mm diameter,Each floor penetration," $	362",,45214
+Downer,Downer - ODM,MD-01-08-03-AH,Provide a floor penetration above 50mm diameter outside working hours,Each floor penetration," $	470.6",,45214
+Downer,Downer - ODM,MD-01-08-04,Provide a floor penetration up to and including 50mm diameter,Each floor penetration," $	71.28",,45214
+Downer,Downer - ODM,MD-01-08-04-AH,Provide a floor penetration up to and including 50mm diameter outside working hours,Each floor penetration," $	92.66",,45214
+Downer,Downer - ODM,MD-01-08-05,Supply and installation of appropriate fire stopping method as required,Per Penetration," $	42",,45214
+Downer,Downer - ODM,MD-01-08-05-AH,Supply and installation of appropriate fire stopping method as required outside working hours,Per Penetration," $	54.6",,45214
+Downer,Downer - ODM,MD-02-01-01,Installation of a single service drop sheath (SDS) on a single span to a multi dwelling unit,Per aerial service drop," $	213.05",,45214
+Downer,Downer - ODM,MD-02-01-02,Extra over rate for additional spans for an aerial service drop to a multi dwelling unit,Each additional Span," $	45.63",,45214
+Downer,Downer - ODM,MD-02-01-03,Extra over rate for supply and installation of an raiser pole on a building.,Each raiser pole installed," $	96.03",,45214
+Downer,Downer - ODM,MD-02-01-04,Installation of service drop sheath underground to a multi dwelling unit,Per service drop," $	165.25",,45214
+Downer,Downer - ODM,MD-02-01-05,Installation of direct service drop sheath underground to a multi dwelling unit,Per direct service drop," $	287.95",,45214
+Downer,Downer - ODM,MD-02-01-10,Extend a developer supplied MDU lead-in starter pipe to the nominated network pit,Per Starter Pipe," $	168.7",,45214
+Downer,Downer - ODM,MD-02-02-01,Replace existing copper aerial lead-in with new copper aerial lead-in to a multi dwelling unit,"Per existing copper aerial lead-in replaced. Per
+Span"," $	165.26",,45214
+Downer,Downer - ODM,MD-02-02-02,Installation of aerial copper service drop to a multi dwelling unit,Per aerial copper service drop," $	161.46",,45214
+Downer,Downer - ODM,MD-02-02-03,Installation of non-aerial copper service drop to a multi dwelling unit,Per non-aerial copper service drop," $	112.44",,45214
+Downer,Downer - ODM,MD-02-03-01,Installation of a coaxial drop cable on a single span to a multi dwelling unit,Per aerial service drop," $	140",,45214
+Downer,Downer - ODM,MD-02-03-02,Extra over rate for installation of a new coaxial drop cable in-span to a multi dwelling unit,Per in-span Drop," $	70",,45214
+Downer,Downer - ODM,MD-02-03-03,Extra over rate for additional spans for a aerial coaxial service drop to a multi dwelling unit,Each additional Span," $	121.44",,45214
+Downer,Downer - ODM,MD-02-03-04,Installation of non-aerial coaxial service drop to a multi dwelling unit,Per coaxial service drop," $	131.68",,45214
+Downer,Downer - ODM,MD-02-03-05,Extra over for supply and Installation of rooftop raiser on a building,Per raiser pole installed," $	90",,45214
+Downer,Downer - ODM,SD-01-01-01,Extra over rate for the supply and install of new lead- in pipe  minimum charge 6 metres route length  by any means,Per linear metre," $	32.86",,45214
+Downer,Downer - ODM,SD-01-01-02,Extra over rate for supply and installation of an raiser pole on a building.,Per raiser pole," $	125",,45214
+Downer,Downer - ODM,SD-01-01-03,Supply and install of Y connectors,Per Y connector," $	75.29",,45214
+Downer,Downer - ODM,SD-01-01-04,Supply and install new lead-in starter pipe,Per Starter Pipe," $	150",,45214
+Downer,Downer - ODM,SD-01-01-05,Extra over rate for the supply and install of new lead- in starter pipe greater than 2 meters in length,Per linear metre," $	37.09",,45214
+Downer,Downer - ODM,SD-01-02-01,Extra over rate to repair lead-in conduit,Per repaired lead-in conduit," $	71.21",,45214
+Downer,Downer - ODM,SD-02-01-01,Installation of a single service drop sheath on a single span to a single dwelling unit,Per aerial service drop," $	213.05",,45214
+Downer,Downer - ODM,SD-02-01-02,Extra over rate for additional spans for an aerial service drop to a single dwelling unit,Each additional Span," $	45.63",,45214
+Downer,Downer - ODM,SD-02-01-03,Installation of service drop sheath underground to a single dwelling unit,Per service drop," $	165.25",,45214
+Downer,Downer - ODM,SD-02-01-04,Installation of direct service drop sheath underground to a single dwelling unit,Per direct service drop," $	287.95",,45214
+Downer,Downer - ODM,SD-02-02-01,Replace existing copper aerial lead-in with new copper aerial lead-in to a single dwelling unit,"Per existing copper aerial lead-in
+replaced. Per Span"," $	121.89",,45214
+Downer,Downer - ODM,SD-02-02-02,Installation of aerial copper service drop to a single dwelling unit,Per aerial copper service drop," $	120",,45214
+Downer,Downer - ODM,SD-02-02-03,Installation of non-aerial copper service drop to a single dwelling unit,Per non-aerial copper service drop," $	89.57",,45214
+Downer,Downer - ODM,SD-02-02-04,Extra over rate for installation of a new copper drop cable in-span to a single dwelling unit,Per in-span Drop," $	105",,45214
+Downer,Downer - ODM,SD-02-03-01,Installation of a coaxial drop cable on a single span to a single dwelling unit,Per aerial service drop," $	140",,45214
+Downer,Downer - ODM,SD-02-03-02,Extra over rate for installation of a new coaxial drop cable in-span to a single dwelling unit,Per in-span Drop," $	71.54",,45214
+Downer,Downer - ODM,SD-02-03-03,Extra over rate for additional spans for a aerial coaxial service drop to a single dwelling unit,Each additional Span," $	164.5",,45214
+Downer,Downer - ODM,SD-02-03-04,Installation of non-aerial coaxial service drop to a single dwelling unit,Per coaxial service drop," $	115",,45214
+Downer,Downer - ODM,CC-01-01-01,Installation  commissioning and integration of a Enterprise Ethernet B-NTD in a wall mounted environment,Per B-NTD," $	141.7",,45214
+Downer,Downer - ODM,CC-01-01-02,Installation  commissioning and integration of a Enterprise Ethernet B-NTD in a rack mounted environment,Per B-NTD," $	145",,45214
+Downer,Downer - ODM,CC-01-01-03,Installation  commissioning and activation of a GPON B-NTD in a wall mounted environment,Per B-NTD," $	125",,45214
+Downer,Downer - ODM,CC-01-01-04,Installation  commissioning and activation of a GPON B-NTD in a rack mounted environment,Per B-NTD," $	125",,45214
+Downer,Downer - ODM,CC-01-01-05,Installation of battery back-up unit in conjunction with BNTD installation,Per Battery Backup Device," $	25.44",,45214
+Downer,Downer - ODM,CC-01-01-06,Installation of a Fibre TV Receiver (TVR) co-located with an NTD,Per device," $	9.1",,45214
+Downer,Downer - ODM,CC-01-02-01,Installation  commissioning and integration of a R- NTD in a wall mounted environment,Per device," $	134.24",,45214
+Downer,Downer - ODM,CC-01-02-02,Installation  commissioning and integration of a R- NTD in a rack mounted environment,Per device," $	130.77",,45214
+Downer,Downer - ODM,CC-01-02-03,Internal wiring from exterior termination outlet enclosure to internal wall plate/TO,Per wall plate," $	60.49",,45214
+Downer,Downer - ODM,CC-02-01-01,Replace existing lead in termination enclosure,Per enclosure," $	43.45",,45214
+Downer,Downer - ODM,CC-03-01-01,Remove existing aerial lead in equipment from lead- in termination enclosure to NTD,Per NTD," $	61",,45214
+Downer,Downer - ODM,CC-03-01-02,Remove existing non-aerial lead in equipment from lead-in termination enclosure to NTD,Per NTD," $	50",,45214
+Downer,Downer - ODM,CF-02-02-1TT,1 x Tech in a truck,Per KM," $	0.94",,45214
+Downer,Downer - ODM,CF-02-02-1TU,1 x Tech in a van (UTE),Per KM," $	0.86",,45214
+Downer,Downer - ODM,CF-02-02-2TT,2 x Tech in a truck,Per KM," $	1.44",,45214
+Downer,Downer - ODM,CF-02-02-2TU,2 x Tech in a van (UTE),Per KM," $	1.38",,45214
+Downer,Downer - ODM,CF-03-02-01,"LAFHA for Planning and Design or Construction Works for a Work Order located in Zone 2
+(Submit Quote to Downer for Approval - No. of crew x days)",Per Night / Per Person," $	160",,45214
+Downer,Downer - ODM,CF-03-02-02,"LAFHA for Planning and Design or Construction Works for a Work Order located in Zone 3
+(Submit Quote to Downer for Approval - No. of crew x days)",Per Night / Per Person," $	160",,45214
+Downer,Downer - ODM,CF-03-02-03,"LAFHA for Planning and Design or Construction Works for a Work Order located in Zone 4
+(Submit Quote to Downer for Approval - No. of crew x days)",Per Night / Per Person," $	160",,45214
+Downer,Downer - ODM,TB-01-03-01,Electrician (inclusive plant and equipment),Per hour," $	72",,45214
+Downer,Downer - ODM,TB-01-03-01-AH,Electrician (inclusive plant and equipment) – outside working hours,Per hour," $	93.6",,45214
+Downer,Downer - ODM,TB-01-03-02,Fibre Technician (inclusive plant and equipment),Per hour," $	70",,45214
+Downer,Downer - ODM,TB-01-03-02-AH,Fibre Technician (inclusive plant and equipment) – outside working hours,Per hour," $	91",,45214
+Downer,Downer - ODM,TB-01-03-03,Labourer,Per hour," $	38.5",,45214
+Downer,Downer - ODM,TB-01-03-03-AH,Labourer - outside working hours,Per hour," $	50.7",,45214
+Downer,Downer - ODM,TB-01-03-04,Plant Operator,Per hour," $	45",,45214
+Downer,Downer - ODM,TB-01-03-04-AH,Plant Operator – outside working hours,Per hour," $	58.5",,45214
+Downer,Downer - ODM,TB-01-03-05,Advanced pole inspector (inclusive plant and equipment),Per hour," $	63",,45214
+Downer,Downer - ODM,TB-01-03-05-AH,Advanced pole inspector (inclusive plant and equipment)  - outside working hours,Per hour," $	81.9",,45214
+Downer,Downer - ODM,TB-01-03-06,Telecommunication Technician (inclusive plant and equipment),Per hour," $	70",,45214
+Downer,Downer - ODM,TB-01-03-06-AH,Telecommunication Technician (inclusive plant and equipment) - outside working hours,Per hour," $	91",,45214
+Downer,Downer - ODM,TB-01-03-07,Designer,Per hour," $	75",,45214
+Downer,Downer - ODM,TB-01-03-07-AH,Designer - outside working hours,Per hour," $	97.5",,45214
+Downer,Downer - ODM,TB-01-03-08,Copper Technician (inclusive plant and equipment),Per hour," $	88.4",,45214
+Downer,Downer - ODM,TB-01-03-08-AH,Copper Technician (inclusive plant and equipment) – outside working hours,Per hour," $	88.4",,45214
+Downer,Downer - ODM,TB-02-02-01,Provision of float charges for the movement of large plant and equipment between work sites,Per km," $	5.5",,45214
+Downer,Downer - ODM,TB-02-02-02,Single-axle tipper truck 5 tonne load,Per Day," $	313",,45214
+Downer,Downer - ODM,TB-02-02-03,EWP truck mounted up to 12m,Per Day," $	660",,45214
+Downer,Downer - ODM,TB-02-02-04,Fully equipped vehicle for electrical technician,Per Day," $	128.61",,45214
+Downer,Downer - ODM,TB-02-02-05,Fully equipped vehicle for fibre technician,Per Day," $	159.12",,45214
+Downer,Downer - ODM,TB-02-02-06,Bobcat with 4-in-1 bucket,Per Day," $	627.91",,45214
+Downer,Downer - ODM,TB-02-02-07,Backhoe  JCB3CX or equivalent,Per Day," $	667.16",,45214
+Downer,Downer - ODM,TB-02-02-08,Excavators up to 10 tonnes,Per Day," $	667.16",,45214
+Downer,Downer - ODM,TB-02-02-09,Excavators 10 to 15 tonnes,Per Day," $	902.62",,45214
+Downer,Downer - ODM,TB-02-02-10,Excavators up to 10 tonnes fitted with rock breaker,Per Day," $	1255.82",,45214
+Downer,Downer - ODM,TB-02-02-11,Double-axle tipper truck 9 tonne load,Per Day," $	706.4",,45214
+Downer,Downer - ODM,TB-02-02-12,Dozer (306 - 400 kw),Per Day," $	1098.85",,45214
+Downer,Downer - ODM,TB-02-02-13,Scissor Lift,Per Day," $	512.24",,45214
+Downer,Downer - ODM,TB-02-02-14,Vac Truck,Per Day," $	1500",,45214
+Downer,Downer - ODM,NC-01-01-01,Supply and install pipe seal 20mm  50mm or 100mm (T-DUX),Each Seal," $	50.9",,45214
+Downer,Downer - ODM,NC-01-01-02,Supply and install pipe seal 50mm (Tyco Product Jackmoon),Each Seal," $	80",,45214
+Downer,Downer - ODM,NC-01-01-03,Manhole Bearers,Per Pair," $	30",,45214
+Downer,Downer - ODM,99-00-00-04,Third Party Requirement - Quote,Quote," $	1",,45214
+Downer,Downer - ODM,99-00-00-10,Clean out of an Asbestos Single Lid Pit (includes transportation and disposal at Approved ACM Location),Per Clean Out," $	40",,45214
+Downer,Downer - ODM,99-00-00-12,"Clean out of an Asbestos Double Lid Pit (includes transportation and disposal at Approved ACM
+Location)",Per Clean Out," $	50",,45214
+Downer,Downer - ODM,99-00-00-13,Clean out of an Asbestos Triple Lid Pit (includes transportation and disposal at Approved ACM Location),Per Clean Out," $	60",,45214
+Downer,Downer - ODM,99-00-00-14,ACM - Drilling into Asbestos wall or pit (includes transportation and disposal at Approved ACM Location),Each (1x per Location)," $	126",,45214
+Downer,Downer - ODM,99-00-00-14X,Extra Over ACM - Drilling into Asbestos wall or pit (includes transportation and disposal at Approved ACM Location) at the same pit / location,Each," $	5",,45214
+Downer,Downer - ODM,99-00-00-15,ACM - Breakout existing Asbestos Pipe (includes transportation and disposal at Approved ACM Location),Per Linear Metre," $	110",,45214
+Downer,Downer - ODM,99-00-00-20,DTOW,Per Work Order," $	160",,45214
+Downer,Downer - ODM,99-00-00-21,Design Survey Activities for a Business Site,Per Work Order," $	280",,45214
+Downer,Downer - ODM,PD-02-03-09S,Provision for planning and design activities for a Distribution Fibre Link in a Work Order less than or equal to 500 meters,Per Work Order," $	300",,45214
+Downer,Downer - ODM,PD-02-03-10S,Provision for Design Survey activities for a Distribution Fibre Link in a Work Order up to and including 1km,Per Work Order," $	320",,45214
+Downer,Downer - ODM,PD-02-03-11S,Provision for Design Survey activities for a Distribution Fibre Link in a Work Order above 1km,Per Work Order," $	360",,45214
