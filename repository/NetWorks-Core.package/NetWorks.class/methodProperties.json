@@ -19,6 +19,7 @@
 		"fiveSmithsUserInfo" : "jupiter 11/24/2018 02:19",
 		"fixContactBackReferences" : "jupiter 03/12/2020 15:06",
 		"fixDefectNames" : "jupiter 05/15/2020 12:50",
+		"fixInvoiceReferencesForDeletedInvoices" : "jupiter 03/28/2022 12:03",
 		"historicalDataImportBasePath" : "jupiter 08/18/2020 13:12",
 		"importFormFromXml:" : "jupiter 01/22/2019 17:56",
 		"importForms" : "jupiter 02/09/2019 14:41",
