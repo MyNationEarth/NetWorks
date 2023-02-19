@@ -1,7 +1,7 @@
 initialization
 initialize
   super initialize.
-  lists := Dictionary new.
+  self initializeLists.
   metaModel := MAAdaptiveModel new.
   rateCards := OrderedCollection new.
   clients := OrderedCollection new.
