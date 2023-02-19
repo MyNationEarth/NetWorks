@@ -10,6 +10,6 @@ cleanUpAfterDelete
         do: [ :role | 
           (role isKindOf: BpmBackOfficeRole)
             ifTrue: [ app removeBackOfficeRole: role ifAbsent: [  ] ]
-            ifFalse: [ app removeFrontOfficeRole: role ] ].
+            ifFalse: [ app removeFrontOfficeRole: role ifAbsent: [  ] ] ].
       bpmEnvironment unregisterApplicationAndRemove: app ifNone: [  ] ].
   bpmEnvironment removeFromCache
