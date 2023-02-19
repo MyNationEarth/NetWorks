@@ -8,7 +8,7 @@ installModelViewApplicationWithKey: modelKey
   application := (BpmApplication newNamed: modelViewApplicationName) addToCache.
   adminUser := self defaultBpmUserClass addAdminUser.
   defaultEnvironment registerApplication: application.
-  (self instance organisationModels at: modelKey)
+  (self instance organisationWithDnsName: modelKey)
     bpmModelViewApplication: application.
   role := self defaultBackOfficeRoleClass
     createNewOrGetExisting: modelKey , '-Admin'

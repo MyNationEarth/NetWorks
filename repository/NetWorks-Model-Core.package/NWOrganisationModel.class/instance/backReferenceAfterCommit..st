@@ -4,4 +4,5 @@ backReferenceAfterCommit: anOrgnisationModel
 
   self bpmEnvironment notNil
     ifTrue: [ ^ self ].
-  NetWorks installBpmEnvironmentWithKey: dnsName applicationName: ecmName
+  NetWorks installBpmEnvironmentWithKey: dnsName applicationName: ecmName.
+  self installModelViewApplicationWithKey: dnsName
