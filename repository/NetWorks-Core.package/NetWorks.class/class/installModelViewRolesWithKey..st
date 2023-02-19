@@ -6,11 +6,11 @@ installModelViewRolesWithKey: modelKey
     getEnvironmentNamed: modelKey asString
     ifNone: [  ].
   application := BpmApplication
-    applicationNamed: modelKey , '-modelViewApplication'
+    applicationNamed: modelKey , '-modelView'
     ifNone: [  ].
   self modelViewApplicationRoles
     do: [ :roleTemplate | 
       | role |
       role := roleTemplate class
-        createNewOrGetExisting: roleTemplate
+        createNewOrGetExisting: roleTemplate name
         in: application applicationName ]

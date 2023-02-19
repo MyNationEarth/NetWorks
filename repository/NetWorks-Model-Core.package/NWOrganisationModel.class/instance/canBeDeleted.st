@@ -1,3 +1,3 @@
 magritte-hooks
 canBeDeleted
-  ^ false
+  ^ true

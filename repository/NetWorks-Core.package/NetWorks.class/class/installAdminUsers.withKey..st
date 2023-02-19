@@ -1,4 +1,4 @@
-5smiths
+setupNewEnvironment
 installAdminUsers: userList withKey: modelKey
   | env application initialRole |
   env := self defaultEnvironmentClass

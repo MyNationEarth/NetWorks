@@ -1,15 +1,18 @@
 setup
 installModelViewApplicationWithKey: modelKey
-  | defaultEnvironment adminUser application role |
+  | modelViewApplicationName defaultEnvironment adminUser application role |
   defaultEnvironment := self defaultEnvironmentClass
     getEnvironmentNamed: modelKey asString
     ifNone: [  ].
-  application := (BpmApplication newNamed: 'modelViewApplication') addToCache.
+  modelViewApplicationName := modelKey , '-modelView'.
+  application := (BpmApplication newNamed: modelViewApplicationName) addToCache.
   adminUser := self defaultBpmUserClass addAdminUser.
   defaultEnvironment registerApplication: application.
+  (self instance organisationModels at: modelKey)
+    bpmModelViewApplication: application.
   role := self defaultBackOfficeRoleClass
-    createNewOrGetExisting: 'modelViewAdmin'
-    in: 'modelViewApplication'.
+    createNewOrGetExisting: modelKey , '-Admin'
+    in: modelViewApplicationName.
   role isAdmin: true.
   role grantUser: adminUser.
   self installModelViewRolesWithKey: modelKey
