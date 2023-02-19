@@ -2,6 +2,7 @@ magritte-hooks
 cleanUpAfterDelete
   "Clean up the BpmEnvironment"
 
+  bpmEnvironment users do: [ :user | bpmEnvironment unregisterUser: user ].
   bpmEnvironment applications
     do: [ :app | 
       "Remove all roles from the application"
