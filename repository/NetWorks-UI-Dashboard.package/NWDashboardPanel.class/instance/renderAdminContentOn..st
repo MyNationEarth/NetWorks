@@ -55,8 +55,4 @@ renderAdminContentOn: canvas
                       (self userHasRoleNamed: 'xeroIntegration')
                         ifTrue: [ self renderExportXeroClientInvoicesOn: canvas ] ] ].
           (self userHasRoleNamed: 'exportProjects')
-            ifTrue: [ 
-              canvas heading
-                level4;
-                with: 'Import Jobs (coming soon)'.
-              canvas tbsRow with: [  ] ] ]
+            ifTrue: [ self renderImportJobsOn: canvas ] ]
