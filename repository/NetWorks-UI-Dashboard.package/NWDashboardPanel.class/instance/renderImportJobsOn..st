@@ -12,18 +12,14 @@ renderImportJobsOn: canvas
     with: [ 
           (self userHasRoleNamed: 'exportProjects')
             ifTrue: [ 
-              canvas form
-                with: [ 
-                  canvas tbsRow
-                    with: [ 
-                      canvas
-                        form: [ 
-                          canvas fileUpload
-                            callback: [ :file | 
-                              [ 
-                              importResponse := ''.
-                              self importJobsFromFile: file ]
-                                on: Error
-                                do: [ :error | importResponse := error asString ] ].
-                          canvas submitButton: 'Import' ] ] ] ].
+              canvas
+                form: [ 
+                  canvas fileUpload
+                    callback: [ :file | 
+                      [ 
+                      importResponse := ''.
+                      self importJobsFromFile: file ]
+                        on: Error
+                        do: [ :error | importResponse := error asString ] ].
+                  canvas submitButton: 'Import' ] ].
           canvas paragraph: [ canvas strong: importResponse ] ]
