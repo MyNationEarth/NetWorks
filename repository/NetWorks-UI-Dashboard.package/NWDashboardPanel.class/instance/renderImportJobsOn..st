@@ -5,6 +5,7 @@ renderImportJobsOn: canvas
   canvas heading
     level4;
     with: 'Import Jobs (experimental preview)'.
+  canvas paragraph: 'The uploaded file must be a text file in CSV format.'.
   canvas tbsColumn
     mediumSize: 3;
     smallSize: 6;
@@ -16,11 +17,14 @@ renderImportJobsOn: canvas
                 multipart;
                 with: [ 
                       canvas fileUpload
+                        accept: '.csv';
                         callback: [ :file | 
-                          [ 
-                          importResponse := ''.
-                          self importJobsFromFile: file ]
-                            on: Error
-                            do: [ :error | importResponse := error asString ] ].
+                              [ 
+                              importResponse := ''.
+                              self importJobsFromFile: file ]
+                                on: Error
+                                do: [ :error | 
+                                  self halt.
+                                  importResponse := error asString ] ].
                       canvas submitButton: 'Import' ] ].
           canvas paragraph: [ canvas strong: importResponse ] ]
