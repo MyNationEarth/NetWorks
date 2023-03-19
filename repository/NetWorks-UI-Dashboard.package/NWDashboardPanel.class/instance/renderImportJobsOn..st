@@ -22,5 +22,6 @@ renderImportJobsOn: canvas
                             callback: [ :file | 
                               [ self importJobsFromFile: file ]
                                 on: Error
-                                do: [ :error | importResponse := error asString ] ] ] ] ] ].
+                                do: [ :error | importResponse := error asString ] ].
+                          canvas submitButton: 'Import' ] ] ] ].
           canvas paragraph: importResponse ]
