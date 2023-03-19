@@ -1,7 +1,7 @@
 rendering
 renderImportJobsOn: canvas
-  | importResponse |
-  importResponse := ''.
+  "Experimental"
+
   canvas heading
     level4;
     with: 'Import Jobs (experimental preview)'.
@@ -20,8 +20,10 @@ renderImportJobsOn: canvas
                         form: [ 
                           canvas fileUpload
                             callback: [ :file | 
-                              [ self importJobsFromFile: file ]
+                              [ 
+                              importResponse := ''.
+                              self importJobsFromFile: file ]
                                 on: Error
                                 do: [ :error | importResponse := error asString ] ].
                           canvas submitButton: 'Import' ] ] ] ].
-          canvas paragraph: importResponse ]
+          canvas paragraph: [ canvas strong: importResponse ] ]
