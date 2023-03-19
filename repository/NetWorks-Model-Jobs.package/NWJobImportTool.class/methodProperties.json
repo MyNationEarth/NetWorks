@@ -1,5 +1,6 @@
 {
 	"class" : {
+		"importCSVString:organisationModel:" : "jupiter 03/19/2023 12:30",
 		"importFile:organisationModel:" : "jupiter 06/23/2020 08:56" },
 	"instance" : {
 		"addFields" : "jupiter 06/03/2021 11:07",

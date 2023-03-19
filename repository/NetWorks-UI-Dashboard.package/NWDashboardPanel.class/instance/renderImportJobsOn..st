@@ -1,8 +1,10 @@
 rendering
 renderImportJobsOn: canvas
+  | importResponse |
+  importResponse := ''.
   canvas heading
     level4;
-    with: 'Import Jobs (coming soon)'.
+    with: 'Import Jobs (experimental preview)'.
   canvas tbsColumn
     mediumSize: 3;
     smallSize: 6;
@@ -13,4 +15,12 @@ renderImportJobsOn: canvas
               canvas form
                 with: [ 
                   canvas tbsRow
-                    with: [ canvas form: [ canvas fileUpload callback: [ :file |  ] ] ] ] ] ]
+                    with: [ 
+                      canvas
+                        form: [ 
+                          canvas fileUpload
+                            callback: [ :file | 
+                              [ self importJobsFromFile: file ]
+                                on: Error
+                                do: [ :error | importResponse := error asString ] ] ] ] ] ].
+          canvas paragraph: importResponse ]
