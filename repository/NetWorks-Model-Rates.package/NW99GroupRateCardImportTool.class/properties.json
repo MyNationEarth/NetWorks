@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Rates",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 04/17/2023 12:19",
+	"instvars" : [
+		 ],
+	"name" : "NW99GroupRateCardImportTool",
+	"pools" : [
+		 ],
+	"super" : "NWRateCardImportTool",
+	"type" : "normal" }
