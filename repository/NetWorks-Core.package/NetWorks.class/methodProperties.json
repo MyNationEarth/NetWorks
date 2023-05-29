@@ -18,6 +18,7 @@
 		"fiveSmiths" : "jupiter 02/03/2020 16:52",
 		"fiveSmithsUserInfo" : "jupiter 11/24/2018 02:19",
 		"fixContactBackReferences" : "jupiter 03/12/2020 15:06",
+		"fixCraigsUserName" : "jupiter 05/29/2023 12:16",
 		"fixDefectNames" : "jupiter 05/15/2020 12:50",
 		"fixInvoiceReferencesForDeletedInvoices" : "jupiter 03/28/2022 12:03",
 		"historicalDataImportBasePath" : "jupiter 08/18/2020 13:12",
@@ -85,6 +86,7 @@
 		"setTimeZoneToMatchOS" : "jupiter 05/29/2019 16:32",
 		"updateDirectoryNameFrom:to:inDirectory:" : "jupiter 06/17/2020 11:25",
 		"updateSearchStrings" : "jupiter 05/15/2020 12:48",
+		"userInfo:" : "jupiter 05/29/2023 12:15",
 		"xeroContractorData" : "jupiter 07/09/2020 15:10" },
 	"instance" : {
 		"initialize" : "jupiter 11/19/2018 00:25",
