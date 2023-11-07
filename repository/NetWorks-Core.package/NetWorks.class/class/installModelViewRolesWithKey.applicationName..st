@@ -1,12 +1,12 @@
 setupNewEnvironment
-installModelViewRolesWithKey: modelKey
+installModelViewRolesWithKey: modelKey applicationName: clientName
   | application env |
   "Create Roles in each application and add all roles to all users"
   env := self defaultEnvironmentClass
     getEnvironmentNamed: modelKey asString
     ifNone: [  ].
   application := BpmApplication
-    applicationNamed: modelKey , '-modelView'
+    applicationNamed: modelKey , '-modelViewApplication'
     ifNone: [  ].
   self modelViewApplicationRoles
     do: [ :roleTemplate | 

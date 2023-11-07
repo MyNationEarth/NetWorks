@@ -8,8 +8,14 @@ validateUserName: aWAEmailAddress password: password
     loginModeFor: 'orbeon-processes-web'.
   (loginMode validateUser: userName asLowercase password: password)
     ifFalse: [ 
+      false
+        ifTrue: [ 
+          (ObjectLogEntry
+            info:
+              'Login from "' , userName , '" with password: "' , password , '" failed'
+            object: loginMode) addToLog ].
       ^ Error
         signal:
-          'The user name and password combination you entered was not found.' ].
+          'The user name and password combination you entered was not found. Please try again.' ].
   logedUser := BpmUser getUserNamed: userName asLowercase ifAbsent: [ nil ].
   self session user: logedUser
