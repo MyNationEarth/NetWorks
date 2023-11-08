@@ -2,8 +2,7 @@ user access
 ensureUserExists
   | env application bpmUser |
   env := self organisationModel bpmEnvironment.
-  application := BpmApplication
-    getExistingApplicationOrCreateNewNamed: 'modelViewApplicaton'.
+  application := self organisationModel bpmModelViewApplication.
   bpmUser := env users
     at: self userName
     ifAbsent: [ 
