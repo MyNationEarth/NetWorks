@@ -1,9 +1,12 @@
 5smiths
 installFiveSmithsRateCards
-  | basePath rateCards importTool |
+  | org orgModel basePath rateCards importTool |
+  " '5smiths.com.au' "
+  org := 'swish.fios.com.au'.
+  orgModel := NetWorks instance organisationWithDnsName: org.
   basePath := self rateCardImportBasePathFiveSmiths.
   importTool := NWFiveSmithsRateCardImportTool
     onFileAtPath: basePath , 'Swish - Downer TFO - Rate Card.csv'.
   importTool setDebug.
   rateCards := importTool import values.
-  NetWorks fiveSmiths rateCards addAll: rateCards copy
+  orgModel rateCards addAll: rateCards copy
