@@ -1,0 +1,14 @@
+{
+	"category" : "NetWorks-Model-Rates",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"organisationModel" ],
+	"name" : "NWMultiTennantRateCardImportTool",
+	"pools" : [
+		 ],
+	"super" : "NWRateCardImportTool",
+	"type" : "normal" }
