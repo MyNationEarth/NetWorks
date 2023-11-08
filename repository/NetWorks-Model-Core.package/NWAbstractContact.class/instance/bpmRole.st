@@ -4,4 +4,4 @@ bpmRole
 
   ^ self defaultFrontOfficeRoleClass
     getRoleNamed: self roleName
-    in: 'modelViewApplication'
+    in: self organisationModel bpmModelViewApplication applicationName
