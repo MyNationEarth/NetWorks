@@ -6,7 +6,7 @@ validateUserName: aWAEmailAddress password: password
     ifFalse: [ aWAEmailAddress ].
   loginMode := self getGemStoneServerConfiguration
     loginModeFor: 'orbeon-processes-web'.
-  (loginMode validateUser: userName asLowercase password: password)
+  (loginMode validateUser: userName password: password)
     ifFalse: [ 
       false
         ifTrue: [ 
