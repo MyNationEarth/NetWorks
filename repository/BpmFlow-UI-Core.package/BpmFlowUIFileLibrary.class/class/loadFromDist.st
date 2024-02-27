@@ -2,6 +2,8 @@ as yet unclassified
 loadFromDist
   "Load the dist directory into the BpmFlowFileLibrary"
 
+  "BpmFlowUIFileLibrary loadFromDist"
+
   (self allSelectors
     select: [ :selector | 
       #(#'uploaded' #'uploaded metadata')
