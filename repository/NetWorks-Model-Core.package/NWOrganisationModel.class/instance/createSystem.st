@@ -4,7 +4,5 @@ createSystem
 
   self hasBpmEnvironment
     ifFalse: [ 
-      NetWorks self
-        installBpmEnvironmentWithKey: dnsName asSymbol
-        applicationName: dnsName.
+      NetWorks installBpmEnvironmentWithKey: dnsName asSymbol applicationName: dnsName.
       NetWorks installModelViewApplicationWithKey: dnsName	"Setup Admin User for Craig" ]

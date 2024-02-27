@@ -21,6 +21,8 @@
 		"fixCraigsUserName" : "jupiter 05/29/2023 12:16",
 		"fixDefectNames" : "jupiter 05/15/2020 12:50",
 		"fixInvoiceReferencesForDeletedInvoices" : "jupiter 03/28/2022 12:03",
+		"fixUser:password:" : "jupiter 02/28/2024 07:48",
+		"fixUserPassword" : "jupiter 02/28/2024 07:49",
 		"historicalDataImportBasePath" : "jupiter 08/18/2020 13:12",
 		"importFormFromXml:" : "jupiter 01/22/2019 17:56",
 		"importForms" : "jupiter 02/09/2019 14:41",
