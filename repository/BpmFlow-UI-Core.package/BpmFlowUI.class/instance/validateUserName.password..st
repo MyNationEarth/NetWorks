@@ -17,5 +17,5 @@ validateUserName: aWAEmailAddress password: password
       ^ Error
         signal:
           'The user name and password combination you entered was not found. Please try again.' ].
-  logedUser := BpmUser getUserNamed: userName asLowercase ifAbsent: [ nil ].
+  logedUser := BpmUser getUserNamed: userName ifAbsent: [ nil ].
   self session user: logedUser
