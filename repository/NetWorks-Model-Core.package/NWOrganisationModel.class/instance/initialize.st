@@ -11,4 +11,5 @@ initialize
   materials := OrderedCollection new.
   materialStores := OrderedCollection new.
   defects := OrderedCollection new.
-  incidentReports := OrderedCollection new
+  incidentReports := OrderedCollection new.
+  self initializeInternalRateCard
