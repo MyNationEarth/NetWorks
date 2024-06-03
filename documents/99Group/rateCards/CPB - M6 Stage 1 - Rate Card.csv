@@ -1,0 +1,29 @@
+Customer,Contract,Item Code,Item Name,UoM,Rate,Item Description,Xero Account
+CPB,CPB - M6 Stage 1,M6-01-01-01,Prepare and Splice 12C Optical Fibre Cable ,Per Cable end, $	620.28 ,Prepare and Splice 12C Optical Fibre Cable ,45181
+CPB,CPB - M6 Stage 1,M6-01-02-01,Test 12C Optical Fibre Cable,Per Cable end, $	429.36 ,Test 12C Optical Fibre Cable,45181
+CPB,CPB - M6 Stage 1,M6-01-01-02,Prepare and Splice 24C Optical Fibre Cable ,Per Cable end," $	1,091.56 ",Prepare and Splice 24C Optical Fibre Cable ,45181
+CPB,CPB - M6 Stage 1,M6-01-02-02,Test 24C Optical Fibre Cable,Per Cable end, $	858.72 ,Test 24C Optical Fibre Cable,45181
+CPB,CPB - M6 Stage 1,M6-01-01-03,Prepare and Splice 48C Optical Fibre Cable ,Per Cable end," $	1,966.12 ",Prepare and Splice 48C Optical Fibre Cable ,45181
+CPB,CPB - M6 Stage 1,M6-01-02-03,Test 48C Optical Fibre Cable,Per Cable end," $	1,717.44 ",Test 48C Optical Fibre Cable,45181
+CPB,CPB - M6 Stage 1,M6-01-01-04,Prepare and Splice 96C Optical Fibre Cable ,Per Cable end," $	3,811.24 ",Prepare and Splice 96C Optical Fibre Cable ,45181
+CPB,CPB - M6 Stage 1,M6-01-02-04,Test 96C Optical Fibre Cable,Per Cable end," $	3,434.88 ",Test 96C Optical Fibre Cable,45181
+CPB,CPB - M6 Stage 1,M6-01-03-01,Splicing per fibre,Per Fibre, $	28.31 ,Splicing per fibre,45181
+CPB,CPB - M6 Stage 1,M6-01-03-02,Testing per fibre,Fibre Fibre, $	39.78 ,Testing per fibre,45181
+CPB,CPB - M6 Stage 1,M6-01-03-03,Pigtail/patch lead installation,Per Pigtail/patch lead, $	7.13 ,Pigtail/patch lead installation,45181
+CPB,CPB - M6 Stage 1,M6-01-03-04,Prepare >60C cable end,Per Cable end, $	313.00 ,Prepare >60C cable end,45181
+CPB,CPB - M6 Stage 1,M6-01-03-05,Prepare >24C cable end,Per Cable end, $	217.00 ,Prepare >24C cable end,45181
+CPB,CPB - M6 Stage 1,M6-01-03-06,Prepare <24F cable end,Per Cable end, $	183.00 ,Prepare <24F cable end,45181
+CPB,CPB - M6 Stage 1,M6-02-01-01,Hourly Rate (Trade Assistant),Per Hour, $	65.00 ,Hourly Rate (Trade Assistant),45181
+CPB,CPB - M6 Stage 1,M6-02-01-02,Hourly Rate (Technician),Per Hour, $	120.00 ,Hourly Rate (Technician),45181
+CPB,CPB - M6 Stage 1,M6-02-01-03,Hourly Rate (Supervisor),Per Hour, $	185.00 ,Hourly Rate (Supervisor),45181
+CPB,CPB - M6 Stage 1,M6-02-01-04,Business Hours Shift Allowance,Per Shift, $	960.00 ,Business Hours Shift Allowance,45181
+CPB,CPB - M6 Stage 1,M6-02-01-05,After Hours Shfit Allowance,Per Shift," $	1,680.00 ",After Hours Shfit Allowance,45181
+CPB,CPB - M6 Stage 1,M6-03-01-01,FuseConnect MM - supply,Per Connector, $	24.00 ,FuseConnect MM - supply,45181
+CPB,CPB - M6 Stage 1,M6-03-01-02,FuseConnect SM -  supply,Per Connector, $	27.00 ,FuseConnect SM -  supply,45181
+CPB,CPB - M6 Stage 1,M6-03-01-03,Furcation Tubing (5m) - supply,Per Length, $	10.00 ,Furcation Tubing (5m) - supply,45181
+CPB,CPB - M6 Stage 1,M6-03-01-04,Patch Lead Duplex MM - supply,Per Patch Lead, $	76.00 ,Patch Lead Duplex MM - supply,45181
+CPB,CPB - M6 Stage 1,M6-03-01-05,Patch Lead Duplex SM - supply,Per Patch Lead, $	39.00 ,Patch Lead Duplex SM - supply,45181
+CPB,CPB - M6 Stage 1,M6-03-01-06,Core Labels - supply,Per Lable, $	1.00 ,Core Labels - supply,45181
+CPB,CPB - M6 Stage 1,M6-03-01-07,Cat6A DIN mount and socket - supply,Per Outlet, $	52.34 ,Cat6A DIN mount and socket - supply,45181
+CPB,CPB - M6 Stage 1,M6-03-01-08,Ca6A DIN mount - supply,Per Outlet, $	32.95 ,Ca6A DIN mount - supply,45181
+CPB,CPB - M6 Stage 1,M6-03-01-09,Cat6A Jack - supply,Per Outlet, $	19.39 ,Cat6A Jack - supply,45181
