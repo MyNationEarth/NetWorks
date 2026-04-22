@@ -1,0 +1,6 @@
+Customer,Contract ,Item Code,Item Name,Unit of Measure (UoM),Rate,Item Description,Xero Account,
+Intravision,Intravision - Data Centre Fibre Works,IV-01-01-01,Technician - business hours,HOUR, $	120.00 ,,45781,
+Intravision,Intravision - Data Centre Fibre Works,IV-01-01-02,Technician - after hours,HOUR, $	145.00 ,,45781,
+Intravision,Intravision - Data Centre Fibre Works,IV-02-01-01,Prepare 864F SWR cable end,EACH, $	600.00 ,,45781,
+Intravision,Intravision - Data Centre Fibre Works,IV-02-01-02,Splice 864F SWR cable end,EACH," $	1,800.00 ",,45781,
+Intravision,Intravision - Data Centre Fibre Works,IV-02-01-03,Test 864F SWR cable end,EACH, $	840.00 ,,45781,
