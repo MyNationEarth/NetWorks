@@ -11,7 +11,7 @@ contractorsComponent
         wrapperClass: 'contractors';
         dropScope: 'contractor';
         selectAllNoneToggle: true;
-        items: self organisationModel contractors;
+        items: self organisationModel contractors asSortedCollection;
         reportColumns: template titleDescription , template commentDescription;
         subscribe: NWObjectsClicked
           do: [ :ann | self contractorClicked: ann ]
