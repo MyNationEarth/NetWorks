@@ -22,6 +22,7 @@
 		"materialStore",
 		"businessName",
 		"businessEmail",
+		"businessPhone",
 		"businessABN" ],
 	"name" : "NWContractor",
 	"pools" : [

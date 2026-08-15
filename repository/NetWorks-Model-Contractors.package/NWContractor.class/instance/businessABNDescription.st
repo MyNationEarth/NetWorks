@@ -3,8 +3,8 @@ businessABNDescription
   <magritteDescription>
   ^ MAStringDescription new
     accessor: #'businessABN';
-    label: 'Business ABN';
+    label: 'ABN';
     propertyAt: #'icon' put: #'building-o';
-    priority: 260;
+    priority: 270;
     componentClass: TBSMagritteTextInputComponent;
     yourself
