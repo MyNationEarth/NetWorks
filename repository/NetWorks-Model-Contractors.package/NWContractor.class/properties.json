@@ -19,7 +19,10 @@
 		"xeroNextInvoiceNumber",
 		"xeroDoNotExport",
 		"percentageOfRateForContractorInvoices",
-		"materialStore" ],
+		"materialStore",
+		"businessName",
+		"businessEmail",
+		"businessABN" ],
 	"name" : "NWContractor",
 	"pools" : [
 		 ],

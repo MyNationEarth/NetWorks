@@ -7,6 +7,7 @@ workOrderApprovalsDescription
     classes: {NWWorkOrder};
     reference:
         template titleDescription , template contractorNameOrUnassignedDescription
+            , template projectTitleDescription
             , template fieldCompleteLatestDateDescription
             , template fieldCompletedByUsersDisplayStringDescription
             , template percentageCompleteDescription
