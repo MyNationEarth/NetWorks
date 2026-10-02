@@ -1,0 +1,16 @@
+Customer,Contract ,Item Code,Item Name,Unit of Measure (UoM),Rate,Item Description,Xero Account
+RSGx,RSGx - Final Fix,RS-01-01-01,Run Cat6A cable in XP,per cable, $	116.50 ,Run Cat6A cable in XP,45135
+RSGx,RSGx - Final Fix,RS-01-01-02,Dress 24C cable in XP,per cable, $	93.20 ,Dress 24C cable in XP,45135
+RSGx,RSGx - Final Fix,RS-01-01-03,Run Cat6A cable on surface,per metre, $	7.62 ,Run Cat6A cable on surface,45135
+RSGx,RSGx - Final Fix,RS-01-01-04,Run 24C cable on surface,per metre, $	7.62 ,Run 24C cable on surface,45135
+RSGx,RSGx - Final Fix,RS-01-02-01,Terminate Cat6A cable,per cable, $	105.00 ,Terminate Cat6A cable,45135
+RSGx,RSGx - Final Fix,RS-01-02-02,Terminate 24C cable,per end," $	1,191.00 ",Terminate 24C cable,45135
+RSGx,RSGx - Final Fix,RS-01-02-03,Patching Cat6A cable,per patch, $	25.00 ,Patching Cat6A cable,45135
+RSGx,RSGx - Final Fix,RS-01-02-04,Terminate 6C cable,per end, $	620.00 ,Terminate 6C cable,45135
+RSGx,RSGx - Final Fix,RS-01-03-01,Test Cat6A cable,per cable, $	105.00 ,Test Cat6A cable,45135
+RSGx,RSGx - Final Fix,RS-01-03-02,Test 24C cable (LSPM and OTDR),per end," $	1,717.44 ",Test 24C cable (LSPM and OTDR),45135
+RSGx,RSGx - Final Fix,RS-01-03-04,Test 6C cable (LSPM and OTDR),per end, $	429.36 ,Test 6C cable (LSPM and OTDR),45135
+RSGx,RSGx - Final Fix,RS-02-01-01,Supply RJ45 connector,per connector, $	113.00 ,Supply RJ45 connector,45135
+RSGx,RSGx - Final Fix,RS-02-01-02,Supply Cat6A cable,per metre, $	6.70 ,Supply Cat6A cable,45135
+RSGx,RSGx - Final Fix,RS-02-01-03,Supply secondary containment,per metre, $	16.25 ,Supply secondary containment,45135
+RSGx,RSGx - Final Fix,RS-02-01-04,Supply cable labels,per label, $	1.50 ,Supply cable labels,45135
